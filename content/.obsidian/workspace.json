@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Welcome!.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Welcome!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Welcome!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Welcome!.md"
               }
             }
           },
@@ -179,7 +179,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "24818e39ac23a7e6",
+  "active": "40b074d4da34e7ca",
   "lastOpenFiles": [
     "Campaign/Party/Akra Jr.md",
     "Campaign/Party/Cassandra Jr.md",
@@ -206,8 +206,8 @@
     "Setting/Tulucaon Range.md",
     "Setting/Vii Vaal.md",
     "System/Choice & Chance.md",
-    "index.md",
-    "index.md",
+    "Welcome!.md",
+    "Welcome!.md",
     "TODOs.md",
     "Campaign/Session Notes",
     "Campaign/Party",
