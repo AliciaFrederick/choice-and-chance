@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome!.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome!.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome!.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome!.md"
+                "file": "index.md"
               }
             }
           },
@@ -206,8 +206,8 @@
     "Setting/Tulucaon Range.md",
     "Setting/Vii Vaal.md",
     "System/Choice & Chance.md",
-    "Welcome!.md",
-    "Welcome!.md",
+    "index.md",
+    "index.md",
     "TODOs.md",
     "Campaign/Session Notes",
     "Campaign/Party",
