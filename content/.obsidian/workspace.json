@@ -35,11 +35,14 @@
             "id": "40b074d4da34e7ca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
+                "file": "Mood Board.canvas",
+                "viewState": {
+                  "x": 762.0422151999345,
+                  "y": 661.6362945363946,
+                  "zoom": -1.5952065028878897
+                }
               }
             }
           }
@@ -110,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Mood Board.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Mood Board.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Mood Board.canvas"
               }
             }
           },
@@ -167,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,6 +185,9 @@
   },
   "active": "40b074d4da34e7ca",
   "lastOpenFiles": [
+    "index.md",
+    "Mood Board.canvas",
+    "il_fullxfull.4945931293_4und.webp",
     "Campaign/Party/Akra Jr.md",
     "Campaign/Party/Cassandra Jr.md",
     "Campaign/Party/Thorin Jr.md",
@@ -206,9 +213,6 @@
     "Setting/Tulucaon Range.md",
     "Setting/Vii Vaal.md",
     "System/Choice & Chance.md",
-    "index.md",
-    "index.md",
-    "TODOs.md",
     "Campaign/Session Notes",
     "Campaign/Party",
     "Campaign/Party",
