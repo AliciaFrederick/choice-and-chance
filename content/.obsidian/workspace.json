@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "555d5e8b7cc44697",
+    "type": "split",
+    "children": [
+      {
+        "id": "3366450dcbfd42c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6de1addbf85c2632",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setting/Oanenya.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83d5955155537cf5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Extras/Templates/Session Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "40b074d4da34e7ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d253cda6cbf36ed9",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f747332cc6d5249",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b01efd9d0313a85",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f1f3b048ddecaf6f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a5935daf51d4d41a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 246.5
+  },
+  "right": {
+    "id": "9b92aed1753f5b1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b68551e7ac3eb8fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3066bd5ef6a0b099",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eac2606d9ad4931c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "afc9a4832a34886c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cf499287cfbf3db7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md"
+              }
+            }
+          },
+          {
+            "id": "24818e39ac23a7e6",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 329.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "24818e39ac23a7e6",
+  "lastOpenFiles": [
+    "Campaign/Party/Akra Jr.md",
+    "Campaign/Party/Cassandra Jr.md",
+    "Campaign/Party/Thorin Jr.md",
+    "Campaign/Session Notes/2024-03-02.md",
+    "Campaign/Campaign Overview.md",
+    "Extras/Attachments/akra-jr.png",
+    "Extras/Attachments/map-kh'thand.png",
+    "Extras/Templates/Session Notes.md",
+    "Extras/Templates/Setting Meta.md",
+    "Setting/Dimen & Abeghin.md",
+    "Setting/Jrey'kan.md",
+    "Setting/Kan.md",
+    "Setting/Kh'thand.md",
+    "Setting/Khuan Gat Range.md",
+    "Setting/Laeot.md",
+    "Setting/Malevolent Forest.md",
+    "Setting/Oanenya.md",
+    "Setting/Ohntac.md",
+    "Setting/Ohntac'kan.md",
+    "Setting/Quajreyas.md",
+    "Setting/Ruk.md",
+    "Setting/Ruk'kan.md",
+    "Setting/Tulucaon Range.md",
+    "Setting/Vii Vaal.md",
+    "System/Choice & Chance.md",
+    "index.md",
+    "index.md",
+    "TODOs.md",
+    "Campaign/Session Notes",
+    "Campaign/Party",
+    "Campaign/Party",
+    "Extras/Templates",
+    "Extras/Attachments",
+    "Extras",
+    "Campaign",
+    "System",
+    "Setting"
+  ]
+}
