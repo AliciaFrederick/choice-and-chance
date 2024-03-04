@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "Extras/Templates/Char Sheet PDF.md",
-                "mode": "preview",
-                "source": false
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -164,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 311.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,9 +179,10 @@
   },
   "active": "a6ae9609ff383dc1",
   "lastOpenFiles": [
+    "System/Char Sheet PDF.pdf",
+    "Extras/Templates/Char Sheet PDF.md",
     "System/Vitality (HP).md",
     "System/Char Sheet PDF Generator.pdf",
-    "Extras/Templates/Char Sheet PDF.md",
     "Extras/Templates/Char Sheet Template.md",
     "System/Char Sheet.pdf",
     "Campaign Overview.md",
@@ -218,7 +220,6 @@
     "Party",
     "Extras/Templates",
     "Extras/Attachments",
-    "Extras",
-    "Campaign"
+    "Extras"
   ]
 }
