@@ -8,6 +8,8 @@ up: "[[Campaign Overview]]"
 
 ## Skills
 
-| Skill | Score | Improvements | Boon |
-| ----- | ----- | ------------ | ---- |
-|       |       |              |      |
+| Skill           | Score | Improvements | Boon |
+| --------------- | ----- | ------------ | ---- |
+| Animal Training | 8     |              |      |
+|                 |       |              |      |
+
