@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "Campaign/Party/Akra Jr.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -162,8 +162,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,11 +181,11 @@
   "active": "40b074d4da34e7ca",
   "lastOpenFiles": [
     "Campaign/Campaign Overview.md",
+    "Campaign/Party/Akra Jr.md",
     "Campaign/Session Notes/2024-03-02.md",
     "Extras/Templates/Setting Meta.md",
     "Campaign/Party/Thorin Jr.md",
     "Campaign/Party/Cassandra Jr.md",
-    "Campaign/Party/Akra Jr.md",
     "Extras/Templates/Session Notes.md",
     "Setting/Oanenya.md",
     "Mood Board.canvas",
