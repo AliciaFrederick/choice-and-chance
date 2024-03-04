@@ -66,31 +66,29 @@ Each talent costs 4 XP
 
 ## Form
 
-AoE = area of effect (3 XP once, limit range to Close)
-R = range (1 XP each)
-T = time (duration, 1 XP each)
-V = vitality (damage, 1 XP each)
-N = number of targets (1 XP each)
+Each
 
-| Forms                    | AoE | R   | T   | V   | N   | Failed | Forced |
-| ------------------------ | --- | --- | --- | --- | --- | ------ | ------ |
-| Auditory Illusion        | O   | OOO | OOO | OOO | OOO |        |        |
-| Armor                    |     |     |     |     |     |        |        |
-| Blast                    |     |     |     |     |     |        |        |
-| Blindness                |     |     |     |     |     |        |        |
-| Confusion                |     |     |     |     |     |        |        |
-| Deafness                 |     |     |     |     |     |        |        |
-| Detect Thought           |     |     |     |     |     |        |        |
-| Detect Resonance (magic) |     |     |     |     |     |        |        |
-| Dispel                   |     |     |     |     |     |        |        |
-| Fear                     |     |     |     |     |     |        |        |
-| Fog                      |     |     |     |     |     |        |        |
-| Glamour                  |     |     |     |     |     |        |        |
-| Hypnotize                |     |     |     |     |     |        |        |
-| Impersonation            |     |     |     |     |     |        |        |
-| Invisibility             |     |     |     |     |     |        |        |
-| Light                    |     |     |     |     |     |        |        |
-| Nondetection             |     |     |     |     |     |        |        |
-| Paralyze                 |     |     |     |     |     |        |        |
-| Telekinesis              |     |     |     |     |     |        |        |
-| Visual Illusion          |     |     |     |     |     |        |        |
+| Forms                    | AoE | Range | Time  | Vitality | Num   | Failed? | Forced? |
+| ------------------------ | --- | ----- | ----- | -------- | ----- | ------- | ------- |
+| Auditory Illusion        | O   | O O O | O O O | O O O    | O O O |         |         |
+| Armor                    |     |       |       |          |       |         |         |
+| Blast                    |     |       |       |          |       |         |         |
+| Blindness                |     |       |       |          |       |         |         |
+| Confusion                |     |       |       |          |       |         |         |
+| Deafness                 |     |       |       |          |       |         |         |
+| Detect Thought           |     |       |       |          |       |         |         |
+| Detect Resonance (magic) |     |       |       |          |       |         |         |
+| Dispel                   |     |       |       |          |       |         |         |
+| Fear                     |     |       |       |          |       |         |         |
+| Fog                      |     |       |       |          |       |         |         |
+| Glamour                  |     |       |       |          |       |         |         |
+| Hypnotize                |     |       |       |          |       |         |         |
+| Impersonation            |     |       |       |          |       |         |         |
+| Invisibility             |     |       |       |          |       |         |         |
+| Light                    |     |       |       |          |       |         |         |
+| Nondetection             |     |       |       |          |       |         |         |
+| Paralyze                 |     |       |       |          |       |         |         |
+| Telekinesis              |     |       |       |          |       |         |         |
+| Visual Illusion          |     |       |       |          |       |         |         |
+
+

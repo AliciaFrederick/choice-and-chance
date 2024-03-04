@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System/On Magic.md",
+                "file": "System/Armor.md",
                 "mode": "source",
                 "source": false
               }
@@ -203,11 +203,13 @@
   },
   "active": "8b0e595445ae6db6",
   "lastOpenFiles": [
-    "System/On Magic.md",
+    "System/Armor.md",
     "Choice & Chance.md",
+    "System/Combat.md",
+    "System/On Magic.md",
+    "Campaign/Party/Char Sheet.md",
     "System/Rolling the Dice.md",
     "System/Vitality (HP).md",
-    "Campaign/Party/Char Sheet.md",
     "System/XP.md",
     "System/Talents.md",
     "System/Skills.md",
@@ -219,8 +221,6 @@
     "Campaign Overview.md",
     "Kh'thand.md",
     "Setting/Oanenya.md",
-    "System/Armor.md",
-    "System/Combat.md",
     "Setting/Quajreyas.md",
     "Setting/Vii Vaal.md",
     "Setting/Tulucaon Range.md",
