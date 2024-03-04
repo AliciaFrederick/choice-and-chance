@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System/Choice & Chance.md",
+                "file": "Kh'thand.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System/Choice & Chance.md",
+                "file": "Kh'thand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System/Choice & Chance.md",
+                "file": "Kh'thand.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System/Choice & Chance.md"
+                "file": "Kh'thand.md"
               }
             }
           },
@@ -178,18 +178,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "40b074d4da34e7ca",
+  "active": "6b01efd9d0313a85",
   "lastOpenFiles": [
+    "Setting/Oanenya.md",
+    "System/Choice & Chance.md",
     "Setting/Quajreyas.md",
     "Setting/Vii Vaal.md",
     "Setting/Tulucaon Range.md",
     "Setting/Ruk.md",
     "Setting/Ohntac.md",
-    "Setting/Oanenya.md",
     "Setting/Malevolent Forest.md",
     "Setting/Laeot.md",
     "Setting/Khuan Gat Range.md",
-    "Setting/Kh'thand.md",
+    "Kh'thand.md",
     "Setting/Kan.md",
     "Setting/Jrey'kan.md",
     "Setting/Dimen & Abeghin.md",
@@ -199,7 +200,7 @@
     "Campaign/Session Notes/2024-03-02.md",
     "Extras/Templates/Session Notes.md",
     "Campaign/Party/Akra Jr.md",
-    "Campaign/Campaign Overview.md",
+    "Campaign Overview.md",
     "Campaign/Party/Thorin Jr.md",
     "Campaign/Party/Cassandra Jr.md",
     "Mood Board.canvas",
@@ -207,7 +208,6 @@
     "il_fullxfull.4945931293_4und.webp",
     "Extras/Attachments/akra-jr.png",
     "Extras/Attachments/map-kh'thand.png",
-    "System/Choice & Chance.md",
     "Campaign/Session Notes",
     "Campaign/Party",
     "Campaign/Party",
