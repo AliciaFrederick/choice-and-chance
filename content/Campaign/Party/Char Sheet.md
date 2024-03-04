@@ -66,31 +66,31 @@ Each talent costs 4 XP
 
 ## Form
 
-R = range (1 XP each)
-T = time (duration)
-V = vitality
-N = number of targets
 AoE = area of effect (3 XP once, limit range to Close)
+R = range (1 XP each)
+T = time (duration, 1 XP each)
+V = vitality (damage, 1 XP each)
+N = number of targets (1 XP each)
 
-| Forms                    | Failed | Forced | AoE | R1  | R2  | R3  | T1  | T2  | T3  | V1  | V2  | V3  | N1  | N2  | N3  |
-| ------------------------ | ------ | ------ | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Auditory Illusion        |        |        |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| Armor                    |        |        |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| Blast                    |        |        |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| Blindness                |        |        |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| Confusion                |        |        |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| Deafness                 |        |        |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| Detect Thought           |        |        |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| Detect Resonance (magic) |        |        |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| Dispel                   |        |        |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| Fear                     |        |        |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| Fog                      |        |        |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| Glamour                  |        |        |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| Hypnotize                |        |        |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| Impersonation            |        |        |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| Invisibility             |        |        |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| Light                    |        |        |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| Nondetection             |        |        |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| Paralyze                 |        |        |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| Telekinesis              |        |        |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| Visual Illusion          |        |        |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| Forms                    | AoE | R   | T   | V   | N   | Failed | Forced |
+| ------------------------ | --- | --- | --- | --- | --- | ------ | ------ |
+| Auditory Illusion        | O   | OOO | OOO | OOO | OOO |        |        |
+| Armor                    |     |     |     |     |     |        |        |
+| Blast                    |     |     |     |     |     |        |        |
+| Blindness                |     |     |     |     |     |        |        |
+| Confusion                |     |     |     |     |     |        |        |
+| Deafness                 |     |     |     |     |     |        |        |
+| Detect Thought           |     |     |     |     |     |        |        |
+| Detect Resonance (magic) |     |     |     |     |     |        |        |
+| Dispel                   |     |     |     |     |     |        |        |
+| Fear                     |     |     |     |     |     |        |        |
+| Fog                      |     |     |     |     |     |        |        |
+| Glamour                  |     |     |     |     |     |        |        |
+| Hypnotize                |     |     |     |     |     |        |        |
+| Impersonation            |     |     |     |     |     |        |        |
+| Invisibility             |     |     |     |     |     |        |        |
+| Light                    |     |     |     |     |     |        |        |
+| Nondetection             |     |     |     |     |     |        |        |
+| Paralyze                 |     |     |     |     |     |        |        |
+| Telekinesis              |     |     |     |     |     |        |        |
+| Visual Illusion          |     |     |     |     |     |        |        |
