@@ -3,8 +3,7 @@ tags:
   - pc
 up: "[[Campaign Overview]]"
 ---
-
-![[akra-jr.png]] 
+[[akra-jr.png]] 
 
 ## Skills
 

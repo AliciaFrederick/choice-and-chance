@@ -49,9 +49,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/Party/Char Sheet.md",
+                "file": "Campaign/Party/Akra Jr Jr.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign/Party/Char Sheet.md",
+                "file": "Campaign/Party/Akra Jr Jr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign/Party/Char Sheet.md",
+                "file": "Campaign/Party/Akra Jr Jr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign/Party/Char Sheet.md"
+                "file": "Campaign/Party/Akra Jr Jr.md"
               }
             }
           },
@@ -193,8 +193,12 @@
   },
   "active": "8b0e595445ae6db6",
   "lastOpenFiles": [
+    "Campaign/Party/Akra Jr.md",
+    "Campaign/Party/Akra Jr Jr.md",
     "System/Creating a Character.md",
-    "Campaign/Party/Char Sheet.md",
+    "Extras/Templates/Char Sheet.md",
+    "Extras/Templates/Session Notes.md",
+    "Extras/Templates/Lucide icon SVG.md",
     "Choice & Chance.md",
     "Untitled.md",
     "System/Talents.md",
@@ -207,8 +211,6 @@
     "System/Vitality (HP).md",
     "System/XP.md",
     "System/Skills.md",
-    "Campaign/Party/Akra Jr.md",
-    "Extras/Templates/Lucide icon SVG.md",
     "circle.svg",
     "index.md",
     "Campaign Overview.md",
@@ -220,8 +222,6 @@
     "Setting/Ruk.md",
     "Setting/Ohntac.md",
     "Setting/Malevolent Forest.md",
-    "Setting/Laeot.md",
-    "Setting/Khuan Gat Range.md",
     "Mood Board.canvas",
     "il_fullxfull.4945931293_4und.webp",
     "Extras/Attachments/akra-jr.png",
