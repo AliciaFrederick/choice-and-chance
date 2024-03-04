@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a6ae9609ff383dc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System/Vitality (HP).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -179,10 +191,11 @@
   },
   "active": "6de1addbf85c2632",
   "lastOpenFiles": [
+    "System/Vitality (HP).md",
+    "Extras/Templates/Char Sheet.md",
     "System/Char Sheet.pdf",
     "Campaign Overview.md",
     "Extras/Char Sheet.pdf",
-    "Extras/Templates/Char Sheet.md",
     "Party/Akra Jr.md",
     "Mood Board.canvas",
     "Kh'thand.md",
@@ -202,7 +215,6 @@
     "System/Armor.md",
     "System/On Magic.md",
     "System/Rolling the Dice.md",
-    "System/Vitality (HP).md",
     "System/XP.md",
     "System/Skills.md",
     "Setting/Quajreyas.md",
