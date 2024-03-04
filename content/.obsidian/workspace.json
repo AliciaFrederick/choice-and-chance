@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System/Skills.md",
+                "file": "System/Talents.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/Party/Akra Jr.md",
+                "file": "Campaign/Party/Char Sheet.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign/Party/Akra Jr.md",
+                "file": "Campaign/Party/Char Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign/Party/Akra Jr.md",
+                "file": "Campaign/Party/Char Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign/Party/Akra Jr.md"
+                "file": "Campaign/Party/Char Sheet.md"
               }
             }
           },
@@ -182,12 +182,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,19 +200,20 @@
   },
   "active": "8b0e595445ae6db6",
   "lastOpenFiles": [
+    "System/Talents.md",
+    "Campaign/Party/Char Sheet.md",
+    "Choice & Chance.md",
     "System/Skills.md",
     "Campaign/Party/Akra Jr.md",
     "Extras/Templates/Lucide icon SVG.md",
     "circle.svg",
     "System/Creating a Character.md",
-    "Choice & Chance.md",
     "index.md",
     "Campaign Overview.md",
     "Kh'thand.md",
     "Setting/Oanenya.md",
     "System/On Magic.md",
     "System/Armor.md",
-    "System/Talents.md",
     "System/Vitality (HP).md",
     "System/Combat.md",
     "System/Rolling the Dice.md",
@@ -227,7 +227,6 @@
     "Setting/Laeot.md",
     "Setting/Khuan Gat Range.md",
     "Setting/Kan.md",
-    "Setting/Jrey'kan.md",
     "Mood Board.canvas",
     "il_fullxfull.4945931293_4und.webp",
     "Extras/Attachments/akra-jr.png",
