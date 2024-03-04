@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5fb6be83c28d77eb",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "System/Char Sheet.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extras/Templates/Char Sheet.md",
+                "file": "System/Char Sheet.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extras/Templates/Char Sheet.md",
+                "file": "System/Char Sheet.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extras/Templates/Char Sheet.md"
+                "file": "System/Char Sheet.pdf"
               }
             }
           },
@@ -168,12 +178,12 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Extras/Templates/Char Sheet.md"
+                "file": "System/Char Sheet.pdf"
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -189,8 +199,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "698e97a217d57998",
+  "active": "5fb6be83c28d77eb",
   "lastOpenFiles": [
+    "Extras/Templates/Char Sheet.md",
+    "System/Char Sheet.pdf",
     "Party/Akra Jr.md",
     "Mood Board.canvas",
     "Kh'thand.md",
@@ -204,7 +216,6 @@
     "Setting/Oanenya.md",
     "Session Notes/2024-03-02.md",
     "System/Creating a Character.md",
-    "Extras/Templates/Char Sheet.md",
     "Extras/Templates/Session Notes.md",
     "Extras/Templates/Lucide icon SVG.md",
     "System/Talents.md",
