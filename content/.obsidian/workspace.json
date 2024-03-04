@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Extras/Templates/Char Sheet.md",
+                "file": "Extras/Templates/Char Sheet Template.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extras/Templates/Char Sheet.md",
+                "file": "Extras/Templates/Char Sheet Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extras/Templates/Char Sheet.md",
+                "file": "Extras/Templates/Char Sheet Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extras/Templates/Char Sheet.md"
+                "file": "Extras/Templates/Char Sheet Template.md"
               }
             }
           },
@@ -167,7 +167,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Extras/Templates/Char Sheet.md"
+                "file": "Extras/Templates/Char Sheet Template.md"
               }
             }
           }
@@ -191,8 +191,9 @@
   },
   "active": "6de1addbf85c2632",
   "lastOpenFiles": [
+    "Extras/Templates/Char Sheet PDF Generator.md",
+    "Extras/Templates/Char Sheet Template.md",
     "System/Vitality (HP).md",
-    "Extras/Templates/Char Sheet.md",
     "System/Char Sheet.pdf",
     "Campaign Overview.md",
     "Extras/Char Sheet.pdf",
