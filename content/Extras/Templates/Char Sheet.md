@@ -67,6 +67,36 @@ AoE costs 3 XP; each of the other augments costs 1 XP
 | O     | Telekinesis       | O   | O O O | O O O    | O O O  | O O O   |
 | O     | Visual Illusion   | O   | O O O | O O O    | O O O  | O O O   |
 
+
+| Lost? | Forms             | Augments                                          | 1   | 2   | 3   |
+| ----- | ----------------- | ------------------------------------------------- | --- | --- | --- |
+| O     | Auditory Illusion | AoE</br>Range</br>Duration</br>Damage</br>Targets |     |     |     |
+| O     | Auditory Illusion | AoE                                               |     |     |     |
+|       |                   | Range                                             |     |     |     |
+|       |                   | Duration                                          |     |     |     |
+|       |                   | Damage                                            |     |     |     |
+|       |                   | Targets                                           |     |     |     |
+| O     | Armor             |                                                   |     |     |     |
+| O     | Blast             |                                                   |     |     |     |
+| O     | Blindness         |                                                   |     |     |     |
+| O     | Confusion         |                                                   |     |     |     |
+| O     | Deafness          |                                                   |     |     |     |
+| O     | Detect Thought    |                                                   |     |     |     |
+| O     | Detect Resonance  |                                                   |     |     |     |
+| O     | Dispel            |                                                   |     |     |     |
+| O     | Fear              |                                                   |     |     |     |
+| O     | Fog               |                                                   |     |     |     |
+| O     | Glamour           |                                                   |     |     |     |
+| O     | Hypnotize         |                                                   |     |     |     |
+| O     | Impersonation     |                                                   |     |     |     |
+| O     | Invisibility      |                                                   |     |     |     |
+| O     | Light             |                                                   |     |     |     |
+| O     | Nondetection      |                                                   |     |     |     |
+| O     | Paralyze          |                                                   |     |     |     |
+| O     | Telekinesis       |                                                   |     |     |     |
+| O     | Visual Illusion   |                                                   |     |     |     |
+
+
 ## Skills
 
 Each skill increase costs 1 XP
