@@ -1,86 +1,10 @@
 Adapted from the [shared google doc](https://docs.google.com/document/d/1AFUSyEgLVVTTq5rTqS7DSrYVwWzT3wF4DFqBILeWqtE/edit#heading=h.4l3lvf2e4kco). 
 
-## XP
+[[XP]]
 
-Players start with 15 XP to spend during character creation. Additional XP are awarded by the GM, at their discretion. 
+[[Rolling the Dice]]
 
-## Rolling the Dice
-
-This system uses 2d10 to roll. Tellers must roll at or under a Target Number to succeed. You add your skill to the TN to succeed.
-
-| TN         | % Success | % to roll |
-| ---------- | --------- | --------- |
-| 2 (Vision) | 1         | 1         |
-| 3 (Focus)  | 3         | 2         |
-| 4          | 6         | 3         |
-| 5          | 10        | 4         |
-| 6          | 15        | 5         |
-| 7          | 21        | 6         |
-| 8          | 28        | 7         |
-| 9          | 36        | 8         |
-| 10         | 45        | 9         |
-| 11         | 55        | 10        |
-| 12         | 64        | 9         |
-| 13         | 72        | 8         |
-| 14         | 79        | 7         |
-| 15         | 85        | 6         |
-| 16         | 90        | 5         |
-| 17         | 94        | 4         |
-| 18         | 97        | 3         |
-| 19 (Cloud) | 99        | 2         |
-| 20 (Omen)  | 100       | 1         |
-
-### Critical Success and Failure
-
-If you roll…
-- 2 - Vision: You are no longer thought, just action and flow. Pure Advantage for 1 minute. 2x damage on an attack roll.
-- 3 - Focus: Immersed in your task, intuition begins to take over. Advantage on the successful check type for 10 minutes. 
-- 19 - Cloud: Immersed in your thoughts, you make a mistake. Standard critical failure, mete punishment as needed. 
-	- Insult someone by accident, said something in front of the wrong person, you slipped while jumping and are knocked prone, etc.
-- 20 - Omen: Distracted or blindsided, misfortune occurs. A major setback or Arbiter intervention, mete punishment as needed:
-	- Outside intervention forces failure, alerting the entire castle of your presence, falling of a precipice, ruining a relationship or lead, destroying something required, hurting yourself by accident.
-
-### Opposed Rolls 
-
-When making a check against another person or creature, you factor both of their skills and attributes into the TN.
-
-> [!EXAMPLE]
-> A Teller is attempting to persuade someone to let them in. Both the Teller and the target’s skills factor into the resolution. Teller rolls for persuasion and the target’s skills are added or subtracted from the TN. if the target has a +1 insight, TN is pushed by 1, making the roll more difficult.
-
-## On Magic
-
-Tellers manifest ‘magic’, or Forms, by connecting the dream world, their inner mind, with the outside world, physical space. It’s a process called manifesting, wherein certain ruk can practice forms by learning to control dream, and when mastered, can begin to actually manifest those forms into reality. Power is limited by a ruk’s natural form.
-
-Tellers can cast a form as many times until they fail. Once failed, they can force the form to go off at a cost of 1 vitality per augment, and cannot cast it again until they complete a Full Rest.
-
-It costs 1XP to improve a form. Can only stack effects up to 3 times. Can increase range by one zone, add damage or increase by 1, increase targets by 1, etc. Each effect can only stack 3 times. Converting something to AoE costs 3XP, but can only effect an area the size of a close circle.
-
-### Counterspell 
-
-This is a game mechanic. If you know a form being cast, you make a contested roll, whoever is further under their target number wins, tie goes to the caster. If successful, the caster does not lose the form, but the effect is nullified.
-
-### Spell Effects
-
-- Deafness
-- Blindness
-- Light
-- Glamour
-- Fear
-- Hypnotize
-- Auditory Illusion
-- Visual Illusion
-- Nondetection
-- Detect Resonance (magic)
-- Detect Thought
-- Paralyze
-- Invisibility
-- Confusion
-- Fog
-- TelekinesisTelekenesis
-- Blast: type
-- Impersonation
-- Dispel
-- Armor
+[[On Magic]]
 
 ## Combat
 
