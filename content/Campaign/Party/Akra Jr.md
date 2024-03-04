@@ -12,4 +12,4 @@ up: "[[Campaign Overview]]"
 | --------------- | ----- | ------------ | ---- |
 | Animal Training | 8     |              |      |
 |                 |       |              |      |
-
+![[lucide-alert-circle#icon]] 
