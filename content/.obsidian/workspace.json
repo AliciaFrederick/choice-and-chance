@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System/On Magic.md",
+                "file": "Campaign/Party/Char Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System/On Magic.md",
+                "file": "Campaign/Party/Char Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System/On Magic.md"
+                "file": "Campaign/Party/Char Sheet.md"
               }
             }
           },
@@ -198,8 +198,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "40b074d4da34e7ca",
+  "active": "8b0e595445ae6db6",
   "lastOpenFiles": [
+    "System/On Magic.md",
     "Choice & Chance.md",
     "System/Rolling the Dice.md",
     "System/Vitality (HP).md",
@@ -215,7 +216,6 @@
     "Campaign Overview.md",
     "Kh'thand.md",
     "Setting/Oanenya.md",
-    "System/On Magic.md",
     "System/Armor.md",
     "System/Combat.md",
     "Setting/Quajreyas.md",

@@ -63,3 +63,49 @@ Each talent costs 4 XP
 - [ ] Sharp Shooter: ignore 1 pt of armor and half cover. 
 - [ ] War Caster: Ease 2 on checks to maintain concentration.
 - [ ] Great Weapon Master: if wielding a 2 handed weapon, can attack two adjacent foes
+
+## Form
+
+Auditory Illusion
+Armor
+Blast: type
+Blindness
+Confusion
+Deafness
+Detect Thought
+Detect Resonance (magic)
+Dispel
+Fear
+Fog
+Glamour
+Hypnotize
+Impersonation
+Invisibility
+Light
+Nondetection
+Paralyze
+Telekinesis
+Visual Illusion
+
+| Forms                    | Failed | Forced Cost |
+| ------------------------ | ------ | ----------- |
+| Auditory Illusion        |        |             |
+| Armor                    |        |             |
+| Blast                    |        |             |
+| Blindness                |        |             |
+| Confusion                |        |             |
+| Deafness                 |        |             |
+| Detect Thought           |        |             |
+| Detect Resonance (magic) |        |             |
+| Dispel                   |        |             |
+| Fear                     |        |             |
+| Fog                      |        |             |
+| Glamour                  |        |             |
+| Hypnotize                |        |             |
+| Impersonation            |        |             |
+| Invisibility             |        |             |
+| Light                    |        |             |
+| Nondetection             |        |             |
+| Paralyze                 |        |             |
+| Telekinesis              |        |             |
+| Visual Illusion          |        |             |
