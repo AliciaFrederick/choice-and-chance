@@ -21,5 +21,5 @@ table summary from #session-notes and !"Extras/Templates"
 ```dataview
 list summary from #session-notes and !"Extras/Templates"
 ```
-- [[2024-03-02]]: `$=file(2024-03-02).summary` 
+- [[2024-03-02]]: `$=dv.file(dv.eq(name,"2024-03-02")).summary` 
 - 
