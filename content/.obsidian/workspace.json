@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/Campaign Overview.md",
-                "mode": "source",
+                "file": "Campaign/Party/Akra Jr.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign/Campaign Overview.md",
+                "file": "Campaign/Party/Akra Jr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign/Campaign Overview.md",
+                "file": "Campaign/Party/Akra Jr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign/Campaign Overview.md"
+                "file": "Campaign/Party/Akra Jr.md"
               }
             }
           },
@@ -181,8 +181,8 @@
   },
   "active": "40b074d4da34e7ca",
   "lastOpenFiles": [
-    "Campaign/Session Notes/2024-03-02.md",
     "Campaign/Campaign Overview.md",
+    "Campaign/Session Notes/2024-03-02.md",
     "Extras/Templates/Setting Meta.md",
     "Campaign/Party/Thorin Jr.md",
     "Campaign/Party/Cassandra Jr.md",
