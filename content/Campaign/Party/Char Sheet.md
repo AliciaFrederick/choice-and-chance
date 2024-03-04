@@ -8,13 +8,10 @@ vitality-current: "10"
 ap: "0"
 race: Ruk
 portrait: 
-token:
+token: 
+banner:
 ---
 %% Add your character's portrait and token images here %%
-
-## Description
-
-
 
 ## Armor
 
@@ -118,6 +115,10 @@ Each talent costs 4 XP
 ## Equipment
 
 ### Money
+
+
+
+### Weapons
 
 
 
