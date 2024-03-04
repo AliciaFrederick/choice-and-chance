@@ -6,10 +6,13 @@ xp-available: "15"
 vitality-max: "10"
 vitality-current: "10"
 ---
-## XP
+## Vitality
 
-Total: 15
-Remaining: 15
+| 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|     |     |     |     |     |     |     |     |     |     |
+- [ ] Incapacitated
+- [ ] Dead
 
 ## Skills
 
