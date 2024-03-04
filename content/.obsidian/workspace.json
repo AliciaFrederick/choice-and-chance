@@ -58,7 +58,7 @@
               "state": {
                 "file": "Campaign/Party/Akra Jr.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -112,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 246.5,
+    "collapsed": true
   },
   "right": {
     "id": "9b92aed1753f5b1e",
@@ -200,9 +201,10 @@
   },
   "active": "8b0e595445ae6db6",
   "lastOpenFiles": [
-    "circle.svg",
     "System/Skills.md",
     "Campaign/Party/Akra Jr.md",
+    "Extras/Templates/Lucide icon SVG.md",
+    "circle.svg",
     "System/Creating a Character.md",
     "Choice & Chance.md",
     "index.md",
