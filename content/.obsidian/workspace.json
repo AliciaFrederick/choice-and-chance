@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setting/Quajreyas.md",
+                "file": "System/Choice & Chance.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setting/Quajreyas.md",
+                "file": "System/Choice & Chance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setting/Quajreyas.md",
+                "file": "System/Choice & Chance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setting/Quajreyas.md"
+                "file": "System/Choice & Chance.md"
               }
             }
           },
@@ -180,12 +180,10 @@
   },
   "active": "40b074d4da34e7ca",
   "lastOpenFiles": [
-    "Setting/Ruk.md",
-    "Setting/Ruk'kan.md",
-    "Setting/Tulucaon Range.md",
-    "Setting/Vii Vaal.md",
     "Setting/Quajreyas.md",
-    "Setting/Ohntac'kan.md",
+    "Setting/Vii Vaal.md",
+    "Setting/Tulucaon Range.md",
+    "Setting/Ruk.md",
     "Setting/Ohntac.md",
     "Setting/Oanenya.md",
     "Setting/Malevolent Forest.md",
@@ -195,6 +193,8 @@
     "Setting/Kan.md",
     "Setting/Jrey'kan.md",
     "Setting/Dimen & Abeghin.md",
+    "Setting/Ohntac'kan.md",
+    "Setting/Ruk'kan.md",
     "Extras/Templates/Setting Meta.md",
     "Campaign/Session Notes/2024-03-02.md",
     "Extras/Templates/Session Notes.md",
