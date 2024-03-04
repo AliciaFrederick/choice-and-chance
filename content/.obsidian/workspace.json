@@ -27,7 +27,7 @@
               "state": {
                 "file": "Extras/Templates/Char Sheet.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -177,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 311.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {

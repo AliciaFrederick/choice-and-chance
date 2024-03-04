@@ -68,14 +68,20 @@ AoE costs 3 XP; each of the other augments costs 1 XP
 | O     | Visual Illusion   | O   | O O O | O O O    | O O O  | O O O   |
 
 
-| Lost? | Forms             | AoE | Range | Duration | Damage | Targets |
-| ----- | ----------------- | --- | ----- | -------- | ------ | ------- |
-|       | Auditory Illusion |     |       |          |        |         |
-|       |                   |     |       |          |        |         |
-|       |                   |     |       |          |        |         |
-|       | Auditory Illusion |     |       |          |        |         |
-|       |                   |     |       |          |        |         |
-|       |                   |     |       |          |        |         |
+| Lost? | Forms             | Aug | AoE | Range | Duration | Damage | Targets |
+| ----- | ----------------- | --- | --- | ----- | -------- | ------ | ------- |
+|       | Auditory Illusion | 1   |     |       |          |        |         |
+|       |                   | 2   |     |       |          |        |         |
+|       |                   | 3   |     |       |          |        |         |
+|       | Auditory Illusion | 1   |     |       |          |        |         |
+|       |                   | 2   |     |       |          |        |         |
+|       |                   | 3   |     |       |          |        |         |
+
+
+
+| Lost? | Forms             | AoE | 2   | 3   | Range | 2   | 3   | Duration | 2   | 3   | Damage | 2   | 3   | Targets | 2   | 3   |
+| ----- | ----------------- | --- | --- | --- | ----- | --- | --- | -------- | --- | --- | ------ | --- | --- | ------- | --- | --- |
+|       | Auditory Illusion |     |     |     |       |     |     |          |     |     |        |     |     |         |     |     |
 
 
 | Lost? | Forms             | Augments                                          | 1   | 2   | 3   |
@@ -86,25 +92,6 @@ AoE costs 3 XP; each of the other augments costs 1 XP
 |       |                   | Duration                                          |     |     |     |
 |       |                   | Damage                                            |     |     |     |
 |       |                   | Targets                                           |     |     |     |
-| O     | Armor             |                                                   |     |     |     |
-| O     | Blast             |                                                   |     |     |     |
-| O     | Blindness         |                                                   |     |     |     |
-| O     | Confusion         |                                                   |     |     |     |
-| O     | Deafness          |                                                   |     |     |     |
-| O     | Detect Thought    |                                                   |     |     |     |
-| O     | Detect Resonance  |                                                   |     |     |     |
-| O     | Dispel            |                                                   |     |     |     |
-| O     | Fear              |                                                   |     |     |     |
-| O     | Fog               |                                                   |     |     |     |
-| O     | Glamour           |                                                   |     |     |     |
-| O     | Hypnotize         |                                                   |     |     |     |
-| O     | Impersonation     |                                                   |     |     |     |
-| O     | Invisibility      |                                                   |     |     |     |
-| O     | Light             |                                                   |     |     |     |
-| O     | Nondetection      |                                                   |     |     |     |
-| O     | Paralyze          |                                                   |     |     |     |
-| O     | Telekinesis       |                                                   |     |     |     |
-| O     | Visual Illusion   |                                                   |     |     |     |
 
 
 ## Skills
