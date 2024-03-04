@@ -49,8 +49,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/Party/Akra Jr Jr.md",
-                "mode": "source",
+                "file": "Campaign/Party/Akra Jr.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign/Party/Akra Jr Jr.md",
+                "file": "Campaign/Party/Akra Jr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign/Party/Akra Jr Jr.md",
+                "file": "Campaign/Party/Akra Jr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign/Party/Akra Jr Jr.md"
+                "file": "Campaign/Party/Akra Jr.md"
               }
             }
           },
@@ -179,7 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 311.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,7 +194,7 @@
   "active": "8b0e595445ae6db6",
   "lastOpenFiles": [
     "Campaign/Party/Akra Jr.md",
-    "Campaign/Party/Akra Jr Jr.md",
+    "Campaign/Party/Akra Jr.md",
     "System/Creating a Character.md",
     "Extras/Templates/Char Sheet.md",
     "Extras/Templates/Session Notes.md",
