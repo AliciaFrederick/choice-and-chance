@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System/Armor.md",
+                "file": "System/Combat.md",
                 "mode": "source",
                 "source": false
               }
@@ -203,11 +203,11 @@
   },
   "active": "8b0e595445ae6db6",
   "lastOpenFiles": [
-    "System/Armor.md",
-    "Choice & Chance.md",
     "System/Combat.md",
-    "System/On Magic.md",
+    "Choice & Chance.md",
+    "System/Armor.md",
     "Campaign/Party/Char Sheet.md",
+    "System/On Magic.md",
     "System/Rolling the Dice.md",
     "System/Vitality (HP).md",
     "System/XP.md",

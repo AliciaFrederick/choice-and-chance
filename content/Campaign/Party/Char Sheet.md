@@ -5,6 +5,7 @@ up: "[[Campaign Overview]]"
 xp-available: "15"
 vitality-max: "10"
 vitality-current: "10"
+ap: "+2"
 ---
 ## Vitality
 
@@ -66,29 +67,29 @@ Each talent costs 4 XP
 
 ## Form
 
-Each
+AoE costs 3 XP; each of the other augments costs 1 XP
 
-| Forms                    | AoE | Range | Time  | Vitality | Num   | Failed? | Forced? |
-| ------------------------ | --- | ----- | ----- | -------- | ----- | ------- | ------- |
-| Auditory Illusion        | O   | O O O | O O O | O O O    | O O O |         |         |
-| Armor                    |     |       |       |          |       |         |         |
-| Blast                    |     |       |       |          |       |         |         |
-| Blindness                |     |       |       |          |       |         |         |
-| Confusion                |     |       |       |          |       |         |         |
-| Deafness                 |     |       |       |          |       |         |         |
-| Detect Thought           |     |       |       |          |       |         |         |
-| Detect Resonance (magic) |     |       |       |          |       |         |         |
-| Dispel                   |     |       |       |          |       |         |         |
-| Fear                     |     |       |       |          |       |         |         |
-| Fog                      |     |       |       |          |       |         |         |
-| Glamour                  |     |       |       |          |       |         |         |
-| Hypnotize                |     |       |       |          |       |         |         |
-| Impersonation            |     |       |       |          |       |         |         |
-| Invisibility             |     |       |       |          |       |         |         |
-| Light                    |     |       |       |          |       |         |         |
-| Nondetection             |     |       |       |          |       |         |         |
-| Paralyze                 |     |       |       |          |       |         |         |
-| Telekinesis              |     |       |       |          |       |         |         |
-| Visual Illusion          |     |       |       |          |       |         |         |
+| Forms                    | AoE | Range | Duration | Damage | Targets | Failed today? | Forced? |
+| ------------------------ | --- | ----- | -------- | ------ | ------- | ------------- | ------- |
+| Auditory Illusion        | O   | O O O | O O O    | O O O  | O O O   |               |         |
+| Armor                    |     |       |          |        |         |               |         |
+| Blast                    |     |       |          |        |         |               |         |
+| Blindness                |     |       |          |        |         |               |         |
+| Confusion                |     |       |          |        |         |               |         |
+| Deafness                 |     |       |          |        |         |               |         |
+| Detect Thought           |     |       |          |        |         |               |         |
+| Detect Resonance (magic) |     |       |          |        |         |               |         |
+| Dispel                   |     |       |          |        |         |               |         |
+| Fear                     |     |       |          |        |         |               |         |
+| Fog                      |     |       |          |        |         |               |         |
+| Glamour                  |     |       |          |        |         |               |         |
+| Hypnotize                |     |       |          |        |         |               |         |
+| Impersonation            |     |       |          |        |         |               |         |
+| Invisibility             |     |       |          |        |         |               |         |
+| Light                    |     |       |          |        |         |               |         |
+| Nondetection             |     |       |          |        |         |               |         |
+| Paralyze                 |     |       |          |        |         |               |         |
+| Telekinesis              |     |       |          |        |         |               |         |
+| Visual Illusion          |     |       |          |        |         |               |         |
 
 
