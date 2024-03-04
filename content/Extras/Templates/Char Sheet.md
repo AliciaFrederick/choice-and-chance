@@ -42,64 +42,30 @@ INSTRUCTIONS
 
 ## Forms
 
-AoE costs 3 XP; each of the other augments costs 1 XP
+AoE costs 3 XP ; each of the other augments costs 1 XP
 
-| Lost? | Forms             | AoE | Range | Duration | Damage | Targets |
-| ----- | ----------------- | --- | ----- | -------- | ------ | ------- |
-| O     | Auditory Illusion | O   | O O O | O O O    | O O O  | O O O   |
-| O     | Armor             | O   | O O O | O O O    | O O O  | O O O   |
-| O     | Blast             | O   | O O O | O O O    | O O O  | O O O   |
-| O     | Blindness         | O   | O O O | O O O    | O O O  | O O O   |
-| O     | Confusion         | O   | O O O | O O O    | O O O  | O O O   |
-| O     | Deafness          | O   | O O O | O O O    | O O O  | O O O   |
-| O     | Detect Thought    | O   | O O O | O O O    | O O O  | O O O   |
-| O     | Detect Resonance  | O   | O O O | O O O    | O O O  | O O O   |
-| O     | Dispel            | O   | O O O | O O O    | O O O  | O O O   |
-| O     | Fear              | O   | O O O | O O O    | O O O  | O O O   |
-| O     | Fog               | O   | O O O | O O O    | O O O  | O O O   |
-| O     | Glamour           | O   | O O O | O O O    | O O O  | O O O   |
-| O     | Hypnotize         | O   | O O O | O O O    | O O O  | O O O   |
-| O     | Impersonation     | O   | O O O | O O O    | O O O  | O O O   |
-| O     | Invisibility      | O   | O O O | O O O    | O O O  | O O O   |
-| O     | Light             | O   | O O O | O O O    | O O O  | O O O   |
-| O     | Nondetection      | O   | O O O | O O O    | O O O  | O O O   |
-| O     | Paralyze          | O   | O O O | O O O    | O O O  | O O O   |
-| O     | Telekinesis       | O   | O O O | O O O    | O O O  | O O O   |
-| O     | Visual Illusion   | O   | O O O | O O O    | O O O  | O O O   |
-
-
-| Lost? | Forms             | AoE | Range     | Duration  | Damage    | Targets   |
-| ----- | ----------------- | --- | --------- | --------- | --------- | --------- |
-|       | Auditory Illusion |     | _ _ _ | _ _ _ | _ _ _ | _ _ _ |
-|       | Armor             |     | _ / _ / _ | _ / _ / _ | _ / _ / _ | _ / _ / _ |
-|       | Auditory Illusion |     | ` ` ` ` ` ` | ` ` ` ` ` `  | ` ` ` ` ` `  | ` ` ` ` ` ` |
-
-
-| Lost? | Forms             | Aug | AoE | Range | Duration | Damage | Targets |
-| ----- | ----------------- | --- | --- | ----- | -------- | ------ | ------- |
-|       | Auditory Illusion | 1   |     |       |          |        |         |
-|       |                   | 2   |     |       |          |        |         |
-|       |                   | 3   |     |       |          |        |         |
-|       | Auditory Illusion | 1   |     |       |          |        |         |
-|       |                   | 2   |     |       |          |        |         |
-|       |                   | 3   |     |       |          |        |         |
-
-
-
-| Lost? | Forms             | AoE | 2   | 3   | Range | 2   | 3   | Duration | 2   | 3   | Damage | 2   | 3   | Targets | 2   | 3   |
-| ----- | ----------------- | --- | --- | --- | ----- | --- | --- | -------- | --- | --- | ------ | --- | --- | ------- | --- | --- |
-|       | Auditory Illusion |     |     |     |       |     |     |          |     |     |        |     |     |         |     |     |
-
-
-| Lost? | Forms             | Augments                                          | 1   | 2   | 3   |
-| ----- | ----------------- | ------------------------------------------------- | --- | --- | --- |
-| O     | Auditory Illusion | AoE</br>Range</br>Duration</br>Damage</br>Targets |     |     |     |
-| O     | Auditory Illusion | AoE                                               |     |     |     |
-|       |                   | Range                                             |     |     |     |
-|       |                   | Duration                                          |     |     |     |
-|       |                   | Damage                                            |     |     |     |
-|       |                   | Targets                                           |     |     |     |
-
+| Lost? | Forms             | AoE   | Range | Duration | Damage | Targets |
+| ----- | ----------------- | ----- | ----- | -------- | ------ | ------- |
+| O     | Auditory Illusion | O O O | O O O | O O O    | O O O  | O O O   |
+| O     | Armor             | O O O | O O O | O O O    | O O O  | O O O   |
+| O     | Blast             | O O O | O O O | O O O    | O O O  | O O O   |
+| O     | Blindness         | O O O | O O O | O O O    | O O O  | O O O   |
+| O     | Confusion         | O O O | O O O | O O O    | O O O  | O O O   |
+| O     | Deafness          | O O O | O O O | O O O    | O O O  | O O O   |
+| O     | Detect Thought    | O O O | O O O | O O O    | O O O  | O O O   |
+| O     | Detect Resonance  | O O O | O O O | O O O    | O O O  | O O O   |
+| O     | Dispel            | O O O | O O O | O O O    | O O O  | O O O   |
+| O     | Fear              | O O O | O O O | O O O    | O O O  | O O O   |
+| O     | Fog               | O O O | O O O | O O O    | O O O  | O O O   |
+| O     | Glamour           | O O O | O O O | O O O    | O O O  | O O O   |
+| O     | Hypnotize         | O O O | O O O | O O O    | O O O  | O O O   |
+| O     | Impersonation     | O O O | O O O | O O O    | O O O  | O O O   |
+| O     | Invisibility      | O O O | O O O | O O O    | O O O  | O O O   |
+| O     | Light             | O O O | O O O | O O O    | O O O  | O O O   |
+| O     | Nondetection      | O O O | O O O | O O O    | O O O  | O O O   |
+| O     | Paralyze          | O O O | O O O | O O O    | O O O  | O O O   |
+| O     | Telekinesis       | O O O | O O O | O O O    | O O O  | O O O   |
+| O     | Visual Illusion   | O O O | O O O | O O O    | O O O  | O O O   |
 
 ## Skills
 

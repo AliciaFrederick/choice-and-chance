@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Overview.md",
+                "file": "Extras/Templates/Char Sheet.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "698e97a217d57998",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Extras/Char Sheet.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extras/Char Sheet.pdf",
+                "file": "Extras/Templates/Char Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extras/Char Sheet.pdf",
+                "file": "Extras/Templates/Char Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extras/Char Sheet.pdf"
+                "file": "Extras/Templates/Char Sheet.md"
               }
             }
           },
@@ -166,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Extras/Char Sheet.pdf"
+                "file": "Extras/Templates/Char Sheet.md"
               }
             }
           }
@@ -188,17 +177,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "698e97a217d57998",
+  "active": "6de1addbf85c2632",
   "lastOpenFiles": [
-    "Extras/Templates/Char Sheet.md",
-    "Extras/Char Sheet.pdf",
     "System/Char Sheet.pdf",
+    "Campaign Overview.md",
+    "Extras/Char Sheet.pdf",
+    "Extras/Templates/Char Sheet.md",
     "Party/Akra Jr.md",
     "Mood Board.canvas",
     "Kh'thand.md",
     "index.md",
     "Choice & Chance.md",
-    "Campaign Overview.md",
     "Extras/Attachments/Screenshot 2024-03-04 2.13.24 AM.png",
     "circle.svg",
     "Screenshot 2024-03-04 2.07.35 AM.png",
