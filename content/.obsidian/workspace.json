@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "preview",
+                "file": "Extras/Templates/Char Sheet.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Extras/Templates/Char Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Extras/Templates/Char Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Extras/Templates/Char Sheet.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "index.md"
+                "file": "Extras/Templates/Char Sheet.md"
               }
             }
           }
@@ -191,10 +191,12 @@
   },
   "active": "698e97a217d57998",
   "lastOpenFiles": [
+    "Party/Akra Jr.md",
+    "Mood Board.canvas",
+    "Kh'thand.md",
+    "index.md",
     "Choice & Chance.md",
     "Campaign Overview.md",
-    "Party/Akra Jr.md",
-    "index.md",
     "Extras/Attachments/Screenshot 2024-03-04 2.13.24 AM.png",
     "circle.svg",
     "Screenshot 2024-03-04 2.07.35 AM.png",
@@ -213,13 +215,11 @@
     "System/Vitality (HP).md",
     "System/XP.md",
     "System/Skills.md",
-    "Kh'thand.md",
     "Setting/Quajreyas.md",
     "Setting/Vii Vaal.md",
     "Setting/Tulucaon Range.md",
     "Setting/Ruk.md",
     "Setting/Ohntac.md",
-    "Mood Board.canvas",
     "il_fullxfull.4945931293_4und.webp",
     "Extras/Attachments/akra-jr.png",
     "Extras/Attachments/map-kh'thand.png",

@@ -12,32 +12,26 @@ token:
 banner: "![[akra-jr.png]]"
 banner_y: 0.51606
 ---
-%% 
-INSTRUCTIONS
-1. Create a copy of this file
-2. Move the copy to the Party folder
-3. Fill out the sheet, including the file properties
-%%
 
 ## Armor
 
 - [ ] +0 None
-- [ ] +2 Light armor
+- [x] +2 Light armor
 - [ ] +4 Heavy armor
 
 ## Vitality
 
-- [ ] 10
-- [ ] 9
-- [ ] 8
-- [ ] 7
-- [ ] 6
-- [ ] 5
-- [ ] 4
-- [ ] 3
-- [ ] 2
-- [ ] 1
-- [ ] 0
+- [x] 10
+- [x] 9
+- [x] 8
+- [x] 7
+- [x] 6
+- [x] 5
+- [x] 4
+- [x] 3
+- [x] 2
+- [x] 1
+- [x] 0
 - [ ] Incapacitated
 - [ ] Dead
 
@@ -74,7 +68,7 @@ Each skill increase costs 1 XP
 
 | Skills              | 8   | 9   | 10  | 11  | 12  | 13  | 14  | Boon |
 | ------------------- | --- | --- | --- | --- | --- | --- | --- | ---- |
-| **Weapon (Melee)**  | X   | O   | O   | O   | O   | O   | O   |      |
+| **Weapon (Melee)**  | X   | X   | O   | O   | O   | O   | O   |      |
 | **Weapon (Ranged)** | X   | O   | O   | O   | O   | O   | O   |      |
 | Animal Training     | X   | O   | O   | O   | O   | O   | O   |      |
 | Brawler             | X   | O   | O   | O   | O   | O   | O   |      |
@@ -84,7 +78,7 @@ Each skill increase costs 1 XP
 | Dodge               | X   | O   | O   | O   | O   | O   | O   |      |
 | Finesse             | X   | O   | O   | O   | O   | O   | O   |      |
 | Fortitude           | X   | O   | O   | O   | O   | O   | O   |      |
-| Herbalism           | X   | O   | O   | O   | O   | O   | O   |      |
+| Herbalism           | X   | X   | O   | O   | O   | O   | O   |      |
 | Hunt & Gather       | X   | O   | O   | O   | O   | O   | O   |      |
 | Insight             | X   | O   | O   | O   | O   | O   | O   |      |
 | Jump                | X   | O   | O   | O   | O   | O   | O   |      |
