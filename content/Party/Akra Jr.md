@@ -76,7 +76,7 @@ Each skill increase costs 1 XP
 | ------------------- | --- | --- | --- | --- | --- | --- | --- | ---- |
 | **Weapon (Melee)**  | X   | X   |     |     |     |     |     |      |
 | **Weapon (Ranged)** | X   |     |     |     |     |     |     |      |
-| Animal Training     | X   |     |     |     |     |     |     |      |
+| Animal Training     | X   | X   |     |     |     |     |     |      |
 | Brawler             | X   |     |     |     |     |     |     |      |
 | Clarity             | X   |     |     |     |     |     |     |      |
 | Climb               | X   |     |     |     |     |     |     |      |
