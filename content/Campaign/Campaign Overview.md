@@ -22,4 +22,20 @@ table summary from #session-notes and !"Extras/Templates"
 list summary from #session-notes and !"Extras/Templates"
 ```
 ```dataviewjs
-$=dv.pages('-"Extras/Templates" and #session-notes').summary``` 
+let pages = dv.pages('-"Extras/Templates" and #session-notes')
+let items = [];
+for (let page of pages) {
+	items.push(page.file.link + ": " + page.summary)
+}
+dv.list(items)
+``` 
+
+```dataviewjs
+let pages = dv.pages('-"Extras/Templates" and #session-notes')
+let items = [];
+for (let page of pages) {
+	items.push(page.file.link + ": " + page.summary)
+}
+const markdown = dv.markdownList(items)
+dv.paragraph(markdown)
+```

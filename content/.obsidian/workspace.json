@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/index.md",
+                "file": "Campaign/Campaign Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign/index.md",
+                "file": "Campaign/Campaign Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign/index.md",
+                "file": "Campaign/Campaign Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign/index.md"
+                "file": "Campaign/Campaign Overview.md"
               }
             }
           },
@@ -162,12 +162,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,7 +182,7 @@
   "active": "40b074d4da34e7ca",
   "lastOpenFiles": [
     "Campaign/Session Notes/2024-03-02.md",
-    "Campaign/index.md",
+    "Campaign/Campaign Overview.md",
     "Extras/Templates/Setting Meta.md",
     "Campaign/Party/Thorin Jr.md",
     "Campaign/Party/Cassandra Jr.md",
