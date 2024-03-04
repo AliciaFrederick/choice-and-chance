@@ -73,32 +73,32 @@ Each skill increase costs 1 XP
 
 | Skills              | 8   | 9   | 10  | 11  | 12  | 13  | 14  | Boon |
 | ------------------- | --- | --- | --- | --- | --- | --- | --- | ---- |
-| **Weapon (Melee)**  | X   | O   | O   | O   | O   | O   | O   |      |
-| **Weapon (Ranged)** | X   | O   | O   | O   | O   | O   | O   |      |
-| Animal Training     | X   | O   | O   | O   | O   | O   | O   |      |
-| Brawler             | X   | O   | O   | O   | O   | O   | O   |      |
-| Clarity             | X   | O   | O   | O   | O   | O   | O   |      |
-| Climb               | X   | O   | O   | O   | O   | O   | O   |      |
-| Disguise            | X   | O   | O   | O   | O   | O   | O   |      |
-| Dodge               | X   | O   | O   | O   | O   | O   | O   |      |
-| Finesse             | X   | O   | O   | O   | O   | O   | O   |      |
-| Fortitude           | X   | O   | O   | O   | O   | O   | O   |      |
-| Herbalism           | X   | O   | O   | O   | O   | O   | O   |      |
-| Hunt & Gather       | X   | O   | O   | O   | O   | O   | O   |      |
-| Insight             | X   | O   | O   | O   | O   | O   | O   |      |
-| Jump                | X   | O   | O   | O   | O   | O   | O   |      |
-| Knowledge           | X   | O   | O   | O   | O   | O   | O   |      |
-| Oratory             | X   | O   | O   | O   | O   | O   | O   |      |
-| Perception          | X   | O   | O   | O   | O   | O   | O   |      |
-| Performance         | X   | O   | O   | O   | O   | O   | O   |      |
-| Power               | X   | O   | O   | O   | O   | O   | O   |      |
-| Profession          | X   | O   | O   | O   | O   | O   | O   |      |
-| Scout               | X   | O   | O   | O   | O   | O   | O   |      |
-| Sleight of Hand     | X   | O   | O   | O   | O   | O   | O   |      |
-| Stealth             | X   | O   | O   | O   | O   | O   | O   |      |
-| Swimming            | X   | O   | O   | O   | O   | O   | O   |      |
-| Tinker              | X   | O   | O   | O   | O   | O   | O   |      |
-| Tracking            | X   | O   | O   | O   | O   | O   | O   |      |
+| **Weapon (Melee)**  | X   |     |     |     |     |     |     |      |
+| **Weapon (Ranged)** | X   |     |     |     |     |     |     |      |
+| Animal Training     | X   |     |     |     |     |     |     |      |
+| Brawler             | X   |     |     |     |     |     |     |      |
+| Clarity             | X   |     |     |     |     |     |     |      |
+| Climb               | X   |     |     |     |     |     |     |      |
+| Disguise            | X   |     |     |     |     |     |     |      |
+| Dodge               | X   |     |     |     |     |     |     |      |
+| Finesse             | X   |     |     |     |     |     |     |      |
+| Fortitude           | X   |     |     |     |     |     |     |      |
+| Herbalism           | X   |     |     |     |     |     |     |      |
+| Hunt & Gather       | X   |     |     |     |     |     |     |      |
+| Insight             | X   |     |     |     |     |     |     |      |
+| Jump                | X   |     |     |     |     |     |     |      |
+| Knowledge           | X   |     |     |     |     |     |     |      |
+| Oratory             | X   |     |     |     |     |     |     |      |
+| Perception          | X   |     |     |     |     |     |     |      |
+| Performance         | X   |     |     |     |     |     |     |      |
+| Power               | X   |     |     |     |     |     |     |      |
+| Profession          | X   |     |     |     |     |     |     |      |
+| Scout               | X   |     |     |     |     |     |     |      |
+| Sleight of Hand     | X   |     |     |     |     |     |     |      |
+| Stealth             | X   |     |     |     |     |     |     |      |
+| Swimming            | X   |     |     |     |     |     |     |      |
+| Tinker              | X   |     |     |     |     |     |     |      |
+| Tracking            | X   |     |     |     |     |     |     |      |
 
 ## Talents
 
