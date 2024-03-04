@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Extras/Templates/Session Notes.md",
+                "file": "Extras/Templates/Setting Meta.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e3f2c526bda43505",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/Session Notes/2024-03-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setting/Oanenya.md",
+                "file": "Campaign/index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:session-notes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setting/Oanenya.md",
+                "file": "Extras/Templates/Setting Meta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setting/Oanenya.md",
+                "file": "Extras/Templates/Setting Meta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setting/Oanenya.md"
+                "file": "Extras/Templates/Setting Meta.md"
               }
             }
           },
@@ -167,8 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,19 +191,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "40b074d4da34e7ca",
+  "active": "83d5955155537cf5",
   "lastOpenFiles": [
-    "Campaign/Campaign Overview.md",
+    "Campaign/Party/Thorin Jr.md",
+    "Campaign/Party/Cassandra Jr.md",
+    "Campaign/Party/Akra Jr.md",
+    "Campaign/Session Notes/2024-03-02.md",
+    "Extras/Templates/Session Notes.md",
+    "Campaign/index.md",
+    "Setting/Oanenya.md",
     "Mood Board.canvas",
     "index.md",
     "il_fullxfull.4945931293_4und.webp",
-    "Campaign/Party/Akra Jr.md",
-    "Campaign/Party/Cassandra Jr.md",
-    "Campaign/Party/Thorin Jr.md",
-    "Campaign/Session Notes/2024-03-02.md",
     "Extras/Attachments/akra-jr.png",
     "Extras/Attachments/map-kh'thand.png",
-    "Extras/Templates/Session Notes.md",
     "Extras/Templates/Setting Meta.md",
     "Setting/Dimen & Abeghin.md",
     "Setting/Jrey'kan.md",
@@ -201,7 +213,6 @@
     "Setting/Khuan Gat Range.md",
     "Setting/Laeot.md",
     "Setting/Malevolent Forest.md",
-    "Setting/Oanenya.md",
     "Setting/Ohntac.md",
     "Setting/Ohntac'kan.md",
     "Setting/Quajreyas.md",
