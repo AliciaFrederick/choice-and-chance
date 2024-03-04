@@ -42,6 +42,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3ec3e10849f05f78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setting/Oanenya.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -163,7 +175,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -182,8 +194,10 @@
   "active": "40b074d4da34e7ca",
   "lastOpenFiles": [
     "index.md",
-    "Choice & Chance.md",
     "Campaign Overview.md",
+    "Choice & Chance.md",
+    "Kh'thand.md",
+    "Setting/Oanenya.md",
     "System/On Magic.md",
     "System/Armor.md",
     "System/Talents.md",
@@ -193,8 +207,6 @@
     "System/Rolling the Dice.md",
     "System/XP.md",
     "System/Creating a Character.md",
-    "Kh'thand.md",
-    "Setting/Oanenya.md",
     "Setting/Quajreyas.md",
     "Setting/Vii Vaal.md",
     "Setting/Tulucaon Range.md",

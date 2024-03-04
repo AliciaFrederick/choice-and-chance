@@ -1,5 +1,5 @@
 ---
-title: Campaign Overview
+title: Campaign
 ---
 - [ ] Add Joe and Amy's character images
 
