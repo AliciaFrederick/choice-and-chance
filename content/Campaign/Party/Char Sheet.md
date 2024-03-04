@@ -10,7 +10,7 @@ ap: "0"
 ## Armor
 
 - [ ] +2 Light armor
-- [ ] + 4 Heavy armor
+- [ ] +4 Heavy armor
 
 ## Vitality
 
