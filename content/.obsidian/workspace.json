@@ -11,11 +11,9 @@
             "id": "a6ae9609ff383dc1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Extras/Templates/Char Sheet PDF.md",
-                "mode": "source",
-                "source": true
+                "file": "System/Char Sheet PDF.pdf"
               }
             }
           }
@@ -97,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extras/Templates/Char Sheet PDF.md",
+                "file": "System/Char Sheet PDF.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extras/Templates/Char Sheet PDF.md",
+                "file": "System/Char Sheet PDF.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extras/Templates/Char Sheet PDF.md"
+                "file": "System/Char Sheet PDF.pdf"
               }
             }
           },
@@ -155,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Extras/Templates/Char Sheet PDF.md"
+                "file": "System/Char Sheet PDF.pdf"
               }
             }
           }
@@ -179,8 +177,8 @@
   },
   "active": "a6ae9609ff383dc1",
   "lastOpenFiles": [
-    "System/Char Sheet PDF.pdf",
     "Extras/Templates/Char Sheet PDF.md",
+    "System/Char Sheet PDF.pdf",
     "System/Vitality (HP).md",
     "System/Char Sheet PDF Generator.pdf",
     "Extras/Templates/Char Sheet Template.md",
