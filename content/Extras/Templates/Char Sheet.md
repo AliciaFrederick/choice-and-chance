@@ -38,11 +38,11 @@ INSTRUCTIONS
 - [ ] 1
 - [ ] 0
 - [ ] Incapacitated
-- [ ] Dead
+- [ ] <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-skull"><circle cx="9" cy="12" r="1"/><circle cx="15" cy="12" r="1"/><path d="M8 20v2h8v-2"/><path d="m12.5 17-.5-1-.5 1h1z"/><path d="M16 20a2 2 0 0 0 1.56-3.25 8 8 0 1 0-11.12 0A2 2 0 0 0 8 20"/></svg>
 
 ## Forms
 
-AoE costs 3 XP ; each of the other augments costs 1 XP
+AoE costs 3 XP all at once. Each of the others costs 1 XP for each improvement, up to 3 times.
 
 | Lost? | Forms             | AoE   | Range | Duration | Damage | Targets |
 | ----- | ----------------- | ----- | ----- | -------- | ------ | ------- |
