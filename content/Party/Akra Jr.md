@@ -11,8 +11,6 @@ portrait: "[[akra-jr.png]]"
 token: 
 banner: "![[akra-jr.png]]"
 banner_y: 0.51606
-banner_icon: ✨
-banner_lock: true
 ---
 %% 
 INSTRUCTIONS

@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "698e97a217d57998",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Overview.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Overview.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Overview.md"
+                "file": "index.md"
               }
             }
           },
@@ -155,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Campaign Overview.md"
+                "file": "index.md"
               }
             }
           }
@@ -176,13 +189,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6de1addbf85c2632",
+  "active": "698e97a217d57998",
   "lastOpenFiles": [
+    "Choice & Chance.md",
+    "Campaign Overview.md",
+    "Party/Akra Jr.md",
     "index.md",
     "Extras/Attachments/Screenshot 2024-03-04 2.13.24 AM.png",
     "circle.svg",
     "Screenshot 2024-03-04 2.07.35 AM.png",
-    "Party/Akra Jr.md",
     "Untitled.md",
     "Setting/Oanenya.md",
     "Session Notes/2024-03-02.md",
@@ -190,7 +205,6 @@
     "Extras/Templates/Char Sheet.md",
     "Extras/Templates/Session Notes.md",
     "Extras/Templates/Lucide icon SVG.md",
-    "Choice & Chance.md",
     "System/Talents.md",
     "System/Combat.md",
     "System/Armor.md",
@@ -199,7 +213,6 @@
     "System/Vitality (HP).md",
     "System/XP.md",
     "System/Skills.md",
-    "Campaign Overview.md",
     "Kh'thand.md",
     "Setting/Quajreyas.md",
     "Setting/Vii Vaal.md",
