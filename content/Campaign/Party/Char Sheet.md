@@ -27,26 +27,26 @@ AoE costs 3 XP; each of the other augments costs 1 XP
 
 | Lost? | Forms                    | AoE | Range | Duration | Damage | Targets |
 | ----- | ------------------------ | --- | ----- | -------- | ------ | ------- |
-|       | Auditory Illusion        | O   | O O O | O O O    | O O O  | O O O   |
-|       | Armor                    | O   | O O O | O O O    | O O O  | O O O   |
-|       | Blast                    | O   | O O O | O O O    | O O O  | O O O   |
-|       | Blindness                | O   | O O O | O O O    | O O O  | O O O   |
-|       | Confusion                | O   | O O O | O O O    | O O O  | O O O   |
-|       | Deafness                 | O   | O O O | O O O    | O O O  | O O O   |
-|       | Detect Thought           | O   | O O O | O O O    | O O O  | O O O   |
-|       | Detect Resonance (magic) | O   | O O O | O O O    | O O O  | O O O   |
-|       | Dispel                   | O   | O O O | O O O    | O O O  | O O O   |
-|       | Fear                     | O   | O O O | O O O    | O O O  | O O O   |
-|       | Fog                      | O   | O O O | O O O    | O O O  | O O O   |
-|       | Glamour                  | O   | O O O | O O O    | O O O  | O O O   |
-|       | Hypnotize                | O   | O O O | O O O    | O O O  | O O O   |
-|       | Impersonation            | O   | O O O | O O O    | O O O  | O O O   |
-|       | Invisibility             | O   | O O O | O O O    | O O O  | O O O   |
-|       | Light                    | O   | O O O | O O O    | O O O  | O O O   |
-|       | Nondetection             | O   | O O O | O O O    | O O O  | O O O   |
-|       | Paralyze                 | O   | O O O | O O O    | O O O  | O O O   |
-|       | Telekinesis              | O   | O O O | O O O    | O O O  | O O O   |
-|       | Visual Illusion          | O   | O O O | O O O    | O O O  | O O O   |
+| O     | Auditory Illusion        | O   | O O O | O O O    | O O O  | O O O   |
+| O     | Armor                    | O   | O O O | O O O    | O O O  | O O O   |
+| O     | Blast                    | O   | O O O | O O O    | O O O  | O O O   |
+| O     | Blindness                | O   | O O O | O O O    | O O O  | O O O   |
+| O     | Confusion                | O   | O O O | O O O    | O O O  | O O O   |
+| O     | Deafness                 | O   | O O O | O O O    | O O O  | O O O   |
+| O     | Detect Thought           | O   | O O O | O O O    | O O O  | O O O   |
+| O     | Detect Resonance (magic) | O   | O O O | O O O    | O O O  | O O O   |
+| O     | Dispel                   | O   | O O O | O O O    | O O O  | O O O   |
+| O     | Fear                     | O   | O O O | O O O    | O O O  | O O O   |
+| O     | Fog                      | O   | O O O | O O O    | O O O  | O O O   |
+| O     | Glamour                  | O   | O O O | O O O    | O O O  | O O O   |
+| O     | Hypnotize                | O   | O O O | O O O    | O O O  | O O O   |
+| O     | Impersonation            | O   | O O O | O O O    | O O O  | O O O   |
+| O     | Invisibility             | O   | O O O | O O O    | O O O  | O O O   |
+| O     | Light                    | O   | O O O | O O O    | O O O  | O O O   |
+| O     | Nondetection             | O   | O O O | O O O    | O O O  | O O O   |
+| O     | Paralyze                 | O   | O O O | O O O    | O O O  | O O O   |
+| O     | Telekinesis              | O   | O O O | O O O    | O O O  | O O O   |
+| O     | Visual Illusion          | O   | O O O | O O O    | O O O  | O O O   |
 
 
 ## Skills
@@ -55,14 +55,14 @@ Each skill increase costs 1 XP
 
 | Skills                | 8   | 9   | 10  | 11  | 12  | 13  | 14  | Boon |
 | --------------------- | --- | --- | --- | --- | --- | --- | --- | ---- |
-| Animal Training       | x   |     |     |     |     |     |     |      |
-| Brawler               | x   |     |     |     |     |     |     |      |
-| Clarity               | x   |     |     |     |     |     |     |      |
-| Climb                 | x   |     |     |     |     |     |     |      |
-| Disguise              | x   |     |     |     |     |     |     |      |
-| Dodge                 | x   |     |     |     |     |     |     |      |
-| Finesse               | x   |     |     |     |     |     |     |      |
-| Fortitude             | x   |     |     |     |     |     |     |      |
+| Animal Training       | x   | O   | O   | O   | O   | O   | O   |      |
+| Brawler               | x   | O   | O   | O   | O   | O   | O   |      |
+| Clarity               | x   | O   | O   | O   | O   | O   | O   |      |
+| Climb                 | x   | O   | O   | O   | O   | O   | O   |      |
+| Disguise              | x   | O   | O   | O   | O   | O   | O   |      |
+| Dodge                 | x   | O   | O   | O   | O   | O   | O   |      |
+| Finesse               | x   | O   | O   | O   | O   | O   | O   |      |
+| Fortitude             | x   | O   | O   | O   | O   | O   | O   |      |
 | Herbalism             | x   |     |     |     |     |     |     |      |
 | Hunting and Gathering | x   |     |     |     |     |     |     |      |
 | Insight               | x   |     |     |     |     |     |     |      |
