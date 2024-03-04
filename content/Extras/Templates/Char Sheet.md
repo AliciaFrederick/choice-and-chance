@@ -68,6 +68,13 @@ AoE costs 3 XP; each of the other augments costs 1 XP
 | O     | Visual Illusion   | O   | O O O | O O O    | O O O  | O O O   |
 
 
+| Lost? | Forms             | AoE | Range     | Duration  | Damage    | Targets   |
+| ----- | ----------------- | --- | --------- | --------- | --------- | --------- |
+|       | Auditory Illusion |     | _ _ _ | _ _ _ | _ _ _ | _ _ _ |
+|       | Armor             |     | _ / _ / _ | _ / _ / _ | _ / _ / _ | _ / _ / _ |
+|       | Auditory Illusion |     | `|` | _ _ _ | _ _ _ | _ _ _ |
+
+
 | Lost? | Forms             | Aug | AoE | Range | Duration | Damage | Targets |
 | ----- | ----------------- | --- | --- | ----- | -------- | ------ | ------- |
 |       | Auditory Illusion | 1   |     |       |          |        |         |
