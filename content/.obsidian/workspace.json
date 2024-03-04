@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System/Vitality (HP).md",
+                "file": "System/On Magic.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign/Party/Char Sheet.md",
+                "file": "System/On Magic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign/Party/Char Sheet.md",
+                "file": "System/On Magic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign/Party/Char Sheet.md"
+                "file": "System/On Magic.md"
               }
             }
           },
@@ -198,12 +198,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b0e595445ae6db6",
+  "active": "40b074d4da34e7ca",
   "lastOpenFiles": [
-    "System/Vitality (HP).md",
     "Choice & Chance.md",
-    "System/XP.md",
+    "System/Rolling the Dice.md",
+    "System/Vitality (HP).md",
     "Campaign/Party/Char Sheet.md",
+    "System/XP.md",
     "System/Talents.md",
     "System/Skills.md",
     "Campaign/Party/Akra Jr.md",
@@ -217,7 +218,6 @@
     "System/On Magic.md",
     "System/Armor.md",
     "System/Combat.md",
-    "System/Rolling the Dice.md",
     "Setting/Quajreyas.md",
     "Setting/Vii Vaal.md",
     "Setting/Tulucaon Range.md",

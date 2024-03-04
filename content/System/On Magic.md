@@ -12,23 +12,23 @@ This is a game mechanic. If you know a form being cast, you make a contested rol
 
 ### Spell Effects
 
-- Deafness
-- Blindness
-- Light
-- Glamour
-- Fear
-- Hypnotize
 - Auditory Illusion
-- Visual Illusion
-- Nondetection
-- Detect Resonance (magic)
-- Detect Thought
-- Paralyze
-- Invisibility
-- Confusion
-- Fog
-- TelekinesisTelekenesis
-- Blast: type
-- Impersonation
-- Dispel
 - Armor
+- Blast: type
+- Blindness
+- Confusion
+- Deafness
+- Detect Thought
+- Detect Resonance (magic)
+- Dispel
+- Fear
+- Fog
+- Glamour
+- Hypnotize
+- Impersonation
+- Invisibility
+- Light
+- Nondetection
+- Paralyze
+- Telekinesis
+- Visual Illusion
