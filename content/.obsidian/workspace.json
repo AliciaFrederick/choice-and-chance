@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6de1addbf85c2632",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Extras/Templates/Char Sheet PDF Generator.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a6ae9609ff383dc1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System/Vitality (HP).md",
+                "file": "Extras/Templates/Char Sheet PDF Generator.md",
                 "mode": "source",
                 "source": false
               }
@@ -176,8 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5,
-    "collapsed": true
+    "width": 311.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,11 +176,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6de1addbf85c2632",
+  "active": "a6ae9609ff383dc1",
   "lastOpenFiles": [
-    "Extras/Templates/Char Sheet Template.md",
-    "Extras/Templates/Char Sheet PDF Generator.md",
     "System/Vitality (HP).md",
+    "System/Char Sheet PDF Generator.pdf",
+    "Extras/Templates/Char Sheet PDF Generator.md",
+    "Extras/Templates/Char Sheet Template.md",
     "System/Char Sheet.pdf",
     "Campaign Overview.md",
     "Extras/Char Sheet.pdf",
@@ -222,7 +210,6 @@
     "Setting/Vii Vaal.md",
     "Setting/Tulucaon Range.md",
     "Setting/Ruk.md",
-    "Setting/Ohntac.md",
     "il_fullxfull.4945931293_4und.webp",
     "Extras/Attachments/akra-jr.png",
     "Extras/Attachments/map-kh'thand.png",
@@ -232,7 +219,6 @@
     "Extras/Templates",
     "Extras/Attachments",
     "Extras",
-    "Campaign",
-    "System"
+    "Campaign"
   ]
 }
