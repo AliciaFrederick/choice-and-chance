@@ -51,7 +51,7 @@
               "state": {
                 "file": "Campaign/Party/Char Sheet.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -194,13 +194,14 @@
   },
   "active": "8b0e595445ae6db6",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Campaign/Party/Char Sheet.md",
     "Choice & Chance.md",
     "System/Creating a Character.md",
     "System/Talents.md",
     "System/Combat.md",
     "Screenshot 2024-03-04 2.13.24 AM.png",
     "Screenshot 2024-03-04 2.07.35 AM.png",
-    "Campaign/Party/Char Sheet.md",
     "System/Armor.md",
     "System/On Magic.md",
     "System/Rolling the Dice.md",

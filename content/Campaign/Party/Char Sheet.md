@@ -9,8 +9,8 @@ ap: "0"
 ---
 ## Armor
 
-- [ ] +2 - Light armor
-- [ ] + 4 - Heavy armor
+- [ ] +2 Light armor
+- [ ] + 4 Heavy armor
 
 ## Vitality
 
@@ -63,39 +63,38 @@ Each skill increase costs 1 XP
 | Dodge                 | x   | O   | O   | O   | O   | O   | O   |      |
 | Finesse               | x   | O   | O   | O   | O   | O   | O   |      |
 | Fortitude             | x   | O   | O   | O   | O   | O   | O   |      |
-| Herbalism             | x   |     |     |     |     |     |     |      |
-| Hunting and Gathering | x   |     |     |     |     |     |     |      |
-| Insight               | x   |     |     |     |     |     |     |      |
-| Jump                  | x   |     |     |     |     |     |     |      |
-| Knowledge             | x   |     |     |     |     |     |     |      |
-| Melee Weapon          | x   |     |     |     |     |     |     |      |
-| Oratory               | x   |     |     |     |     |     |     |      |
-| Perception            | x   |     |     |     |     |     |     |      |
-| Performance           | x   |     |     |     |     |     |     |      |
-| Power                 | x   |     |     |     |     |     |     |      |
-| Profession            | x   |     |     |     |     |     |     |      |
-| Ranged Weapon         | x   |     |     |     |     |     |     |      |
-| Scout                 | x   |     |     |     |     |     |     |      |
-| Sleight of hand       | x   |     |     |     |     |     |     |      |
-| Stealth               | x   |     |     |     |     |     |     |      |
-| Swimming              | x   |     |     |     |     |     |     |      |
-| Tinker                | x   |     |     |     |     |     |     |      |
-| Tracking              | x   |     |     |     |     |     |     |      |
+| Herbalism             | x   | O   | O   | O   | O   | O   | O   |      |
+| Hunting and Gathering | x   | O   | O   | O   | O   | O   | O   |      |
+| Insight               | x   | O   | O   | O   | O   | O   | O   |      |
+| Jump                  | x   | O   | O   | O   | O   | O   | O   |      |
+| Knowledge             | x   | O   | O   | O   | O   | O   | O   |      |
+| Melee Weapon          | x   | O   | O   | O   | O   | O   | O   |      |
+| Oratory               | x   | O   | O   | O   | O   | O   | O   |      |
+| Perception            | x   | O   | O   | O   | O   | O   | O   |      |
+| Performance           | x   | O   | O   | O   | O   | O   | O   |      |
+| Power                 | x   | O   | O   | O   | O   | O   | O   |      |
+| Profession            | x   | O   | O   | O   | O   | O   | O   |      |
+| Ranged Weapon         | x   | O   | O   | O   | O   | O   | O   |      |
+| Scout                 | x   | O   | O   | O   | O   | O   | O   |      |
+| Sleight of hand       | x   | O   | O   | O   | O   | O   | O   |      |
+| Stealth               | x   | O   | O   | O   | O   | O   | O   |      |
+| Swimming              | x   | O   | O   | O   | O   | O   | O   |      |
+| Tinker                | x   | O   | O   | O   | O   | O   | O   |      |
+| Tracking              | x   | O   | O   | O   | O   | O   | O   |      |
 
 ## Talents
 
 Each talent costs 4 XP
 
-- [ ] Savvy: you know people and information in a major area.
-- [ ] Shield fighting: Can use shield to block attacks, including ranged, +1 to defense rolls for you and adjacent allies when blocking
-- [ ] Attack of Opportunity: when a creature leaves melee range, can use 1 action as a reaction to attack
-- [ ] Counter: when successfully blocking or parrying an attack, can use 1 action to attack in kind once per turn.
-- [ ] Sneak Attack: when enemy is surprised, triple damage.
-- [ ] Near Sighted: saves against forms with Close range are pushed by 2.
-- [ ] Ruk’: Ease 2 for attacks against creatures that have cast forms in the last round.
-- [ ] Focus: increase range or damage of a form by 1, at the cost of 1 vitality. Can use once you know a form cast is successful.
-- [ ] Communicant: you can read lips and between the lines. Ease 2 for Insight and 
-- [ ] Sharp Shooter: ignore 1 pt of armor and half cover. 
-- [ ] War Caster: Ease 2 on checks to maintain concentration.
-- [ ] Great Weapon Master: if wielding a 2 handed weapon, can attack two adjacent foes
-
+- [ ] **Attack of Opportunity**: When a creature leaves melee range, can use 1 action as a reaction to attack
+- [ ] **Communicant**: You can read lips and between the lines. Ease 2 for Insight and 
+- [ ] **Counter**: When successfully blocking or parrying an attack, can use 1 action to attack in kind once per turn.
+- [ ] **Focus**: Increase range or damage of a form by 1, at the cost of 1 vitality. Can use once you know a form cast is successful.
+- [ ] **Great Weapon Master**: If wielding a 2 handed weapon, can attack two adjacent foes
+- [ ] **Near Sighted**: Saves against forms with Close range are pushed by 2.
+- [ ] **Ruk**: Ease 2 for attacks against creatures that have cast forms in the last round.
+- [ ] **Savvy**: Wou know people and information in a major area.
+- [ ] **Sharp Shooter**: Ignore 1 pt of armor and half cover. 
+- [ ] **Shield Fighting**: Can use shield to block attacks, including ranged, +1 to defense rolls for you and adjacent allies when blocking
+- [ ] **Sneak Attack**: When enemy is surprised, triple damage.
+- [ ] **War Caster**: Ease 2 on checks to maintain concentration.
