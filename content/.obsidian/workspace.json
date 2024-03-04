@@ -163,7 +163,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -181,10 +181,17 @@
   },
   "active": "40b074d4da34e7ca",
   "lastOpenFiles": [
-    "On Magic.md",
+    "index.md",
+    "Choice & Chance.md",
+    "Campaign Overview.md",
+    "System/On Magic.md",
+    "System/Armor.md",
+    "System/Talents.md",
+    "System/Skills.md",
+    "System/Vitality (HP).md",
+    "System/Combat.md",
     "System/Rolling the Dice.md",
     "System/XP.md",
-    "Choice & Chance.md",
     "System/Creating a Character.md",
     "Kh'thand.md",
     "Setting/Oanenya.md",
@@ -200,13 +207,6 @@
     "Setting/Jrey'kan.md",
     "Setting/Dimen & Abeghin.md",
     "Setting/Ohntac'kan.md",
-    "Setting/Ruk'kan.md",
-    "Extras/Templates/Setting Meta.md",
-    "Campaign/Session Notes/2024-03-02.md",
-    "Extras/Templates/Session Notes.md",
-    "Campaign/Party/Akra Jr.md",
-    "Campaign Overview.md",
-    "Campaign/Party/Thorin Jr.md",
     "Mood Board.canvas",
     "il_fullxfull.4945931293_4und.webp",
     "Extras/Attachments/akra-jr.png",
