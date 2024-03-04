@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System/XP.md",
+                "file": "System/Vitality (HP).md",
                 "mode": "source",
                 "source": false
               }
@@ -200,10 +200,11 @@
   },
   "active": "8b0e595445ae6db6",
   "lastOpenFiles": [
-    "System/XP.md",
+    "System/Vitality (HP).md",
     "Choice & Chance.md",
-    "System/Talents.md",
+    "System/XP.md",
     "Campaign/Party/Char Sheet.md",
+    "System/Talents.md",
     "System/Skills.md",
     "Campaign/Party/Akra Jr.md",
     "Extras/Templates/Lucide icon SVG.md",
@@ -215,7 +216,6 @@
     "Setting/Oanenya.md",
     "System/On Magic.md",
     "System/Armor.md",
-    "System/Vitality (HP).md",
     "System/Combat.md",
     "System/Rolling the Dice.md",
     "Setting/Quajreyas.md",

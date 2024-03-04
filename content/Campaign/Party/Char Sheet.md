@@ -2,8 +2,14 @@
 tags:
   - pc
 up: "[[Campaign Overview]]"
+xp-available: "15"
+vitality-max: "10"
+vitality-current: "10"
 ---
+## XP
 
+Total: 15
+Remaining: 15
 
 ## Skills
 
