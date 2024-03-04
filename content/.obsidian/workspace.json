@@ -37,19 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Choice & Chance.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ec3e10849f05f78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Setting/Oanenya.md",
+                "file": "System/Skills.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,6 +45,24 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "2e3e90556a3c5c84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b0e595445ae6db6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/Party/Akra Jr.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Choice & Chance.md",
+                "file": "System/Skills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Choice & Chance.md",
+                "file": "System/Skills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Choice & Chance.md"
+                "file": "System/Skills.md"
               }
             }
           },
@@ -179,7 +185,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,20 +200,21 @@
   },
   "active": "40b074d4da34e7ca",
   "lastOpenFiles": [
+    "Campaign/Party/Akra Jr.md",
+    "System/Skills.md",
+    "System/Creating a Character.md",
+    "Choice & Chance.md",
     "index.md",
     "Campaign Overview.md",
-    "Choice & Chance.md",
     "Kh'thand.md",
     "Setting/Oanenya.md",
     "System/On Magic.md",
     "System/Armor.md",
     "System/Talents.md",
-    "System/Skills.md",
     "System/Vitality (HP).md",
     "System/Combat.md",
     "System/Rolling the Dice.md",
     "System/XP.md",
-    "System/Creating a Character.md",
     "Setting/Quajreyas.md",
     "Setting/Vii Vaal.md",
     "Setting/Tulucaon Range.md",
@@ -218,7 +226,6 @@
     "Setting/Kan.md",
     "Setting/Jrey'kan.md",
     "Setting/Dimen & Abeghin.md",
-    "Setting/Ohntac'kan.md",
     "Mood Board.canvas",
     "il_fullxfull.4945931293_4und.webp",
     "Extras/Attachments/akra-jr.png",
