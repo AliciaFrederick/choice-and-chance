@@ -11,7 +11,11 @@ portrait:
 token: 
 banner:
 ---
-%% Add your character's portrait and token images here %%
+%% 
+1. Create a copy of this file
+2. Move the copy to the Party folder
+3. Fill out the sheet, including the file properties
+%%
 
 ## Armor
 

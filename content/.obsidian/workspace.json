@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Choice & Chance.md",
+                "file": "System/Creating a Character.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5,
-    "collapsed": true
+    "width": 246.5
   },
   "right": {
     "id": "9b92aed1753f5b1e",
@@ -194,10 +193,10 @@
   },
   "active": "8b0e595445ae6db6",
   "lastOpenFiles": [
-    "Untitled.md",
+    "System/Creating a Character.md",
     "Campaign/Party/Char Sheet.md",
     "Choice & Chance.md",
-    "System/Creating a Character.md",
+    "Untitled.md",
     "System/Talents.md",
     "System/Combat.md",
     "Screenshot 2024-03-04 2.13.24 AM.png",
