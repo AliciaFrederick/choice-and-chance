@@ -15,5 +15,9 @@ title: Campaign Overview
 ![[2024-03-02#2024-03-02]] 
 
 ```dataview
-table tags from #session-notes and !"Extras/Templates"
+table summary from #session-notes and !"Extras/Templates"
+```
+
+```dataview
+list summary from #session-notes and !"Extras/Templates"
 ```
