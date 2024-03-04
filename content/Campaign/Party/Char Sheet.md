@@ -55,7 +55,6 @@ AoE costs 3 XP; each of the other augments costs 1 XP
 | O     | Telekinesis              | O   | O O O | O O O    | O O O  | O O O   |
 | O     | Visual Illusion          | O   | O O O | O O O    | O O O  | O O O   |
 
-
 ## Skills
 
 Each skill increase costs 1 XP
@@ -75,13 +74,13 @@ Each skill increase costs 1 XP
 | Insight               | x   | O   | O   | O   | O   | O   | O   |      |
 | Jump                  | x   | O   | O   | O   | O   | O   | O   |      |
 | Knowledge             | x   | O   | O   | O   | O   | O   | O   |      |
-| Melee Weapon          | x   | O   | O   | O   | O   | O   | O   |      |
+| Weapon (Melee)        | x   | O   | O   | O   | O   | O   | O   |      |
+| Weapon (Ranged)       | x   | O   | O   | O   | O   | O   | O   |      |
 | Oratory               | x   | O   | O   | O   | O   | O   | O   |      |
 | Perception            | x   | O   | O   | O   | O   | O   | O   |      |
 | Performance           | x   | O   | O   | O   | O   | O   | O   |      |
 | Power                 | x   | O   | O   | O   | O   | O   | O   |      |
 | Profession            | x   | O   | O   | O   | O   | O   | O   |      |
-| Ranged Weapon         | x   | O   | O   | O   | O   | O   | O   |      |
 | Scout                 | x   | O   | O   | O   | O   | O   | O   |      |
 | Sleight of hand       | x   | O   | O   | O   | O   | O   | O   |      |
 | Stealth               | x   | O   | O   | O   | O   | O   | O   |      |
