@@ -11,9 +11,11 @@
             "id": "a6ae9609ff383dc1",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "System/Char Sheet PDF.pdf"
+                "file": "Party/Akra Jr.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -95,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System/Char Sheet PDF.pdf",
+                "file": "Party/Akra Jr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System/Char Sheet PDF.pdf",
+                "file": "Party/Akra Jr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System/Char Sheet PDF.pdf"
+                "file": "Party/Akra Jr.md"
               }
             }
           },
@@ -153,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "System/Char Sheet PDF.pdf"
+                "file": "Party/Akra Jr.md"
               }
             }
           }
@@ -177,12 +179,12 @@
   },
   "active": "a6ae9609ff383dc1",
   "lastOpenFiles": [
+    "Extras/Templates/Char Sheet Template.md",
     "Extras/Templates/Char Sheet PDF.md",
     "System/Char Sheet PDF.pdf",
-    "System/Vitality (HP).md",
     "System/Char Sheet PDF Generator.pdf",
-    "Extras/Templates/Char Sheet Template.md",
     "System/Char Sheet.pdf",
+    "System/Vitality (HP).md",
     "Campaign Overview.md",
     "Extras/Char Sheet.pdf",
     "Party/Akra Jr.md",
