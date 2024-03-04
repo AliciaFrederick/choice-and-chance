@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/Party/Akra Jr.md",
+                "file": "Setting/Kh'thand.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign/Party/Akra Jr.md",
+                "file": "Setting/Kh'thand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign/Party/Akra Jr.md",
+                "file": "Setting/Kh'thand.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign/Party/Akra Jr.md"
+                "file": "Setting/Kh'thand.md"
               }
             }
           },
@@ -180,14 +180,15 @@
   },
   "active": "40b074d4da34e7ca",
   "lastOpenFiles": [
-    "Campaign/Campaign Overview.md",
-    "Campaign/Party/Akra Jr.md",
-    "Campaign/Session Notes/2024-03-02.md",
+    "Setting/Oanenya.md",
+    "Setting/Kh'thand.md",
     "Extras/Templates/Setting Meta.md",
+    "Campaign/Session Notes/2024-03-02.md",
+    "Extras/Templates/Session Notes.md",
+    "Campaign/Party/Akra Jr.md",
+    "Campaign/Campaign Overview.md",
     "Campaign/Party/Thorin Jr.md",
     "Campaign/Party/Cassandra Jr.md",
-    "Extras/Templates/Session Notes.md",
-    "Setting/Oanenya.md",
     "Mood Board.canvas",
     "index.md",
     "il_fullxfull.4945931293_4und.webp",
@@ -196,7 +197,6 @@
     "Setting/Dimen & Abeghin.md",
     "Setting/Jrey'kan.md",
     "Setting/Kan.md",
-    "Setting/Kh'thand.md",
     "Setting/Khuan Gat Range.md",
     "Setting/Laeot.md",
     "Setting/Malevolent Forest.md",

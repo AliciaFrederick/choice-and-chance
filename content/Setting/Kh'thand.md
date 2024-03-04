@@ -1,3 +1,10 @@
+---
+up: "[[Oanenya]]"
+tags:
+  - npc
+  - location
+  - race
+---
 [[Kh'thand]] is an island continent blanketed by forest and divided by mountains. The cities and villages of Kh'thand are mostly populated by [[Ruk]]. [[Ohntac]] tend to avoid cities, preferring to live in the wilderness instead. [[Kan]] from both ancestries are respected and feared in equal measure. 
 
 The northern part of [[Kh'thand]] is covered by the [[Malevolent Forest]] and uncharted. 
