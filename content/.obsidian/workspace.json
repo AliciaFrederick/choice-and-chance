@@ -30,19 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5fb6be83c28d77eb",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "System/Char Sheet.pdf"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System/Char Sheet.pdf",
+                "file": "Extras/Templates/Char Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System/Char Sheet.pdf",
+                "file": "Extras/Templates/Char Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System/Char Sheet.pdf"
+                "file": "Extras/Templates/Char Sheet.md"
               }
             }
           },
@@ -178,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "System/Char Sheet.pdf"
+                "file": "Extras/Templates/Char Sheet.md"
               }
             }
           }
@@ -199,10 +189,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5fb6be83c28d77eb",
+  "active": "698e97a217d57998",
   "lastOpenFiles": [
-    "Extras/Templates/Char Sheet.md",
     "System/Char Sheet.pdf",
+    "Extras/Templates/Char Sheet.md",
     "Party/Akra Jr.md",
     "Mood Board.canvas",
     "Kh'thand.md",

@@ -40,8 +40,6 @@ INSTRUCTIONS
 - [ ] Incapacitated
 - [ ] Dead
 
----
-
 ## Forms
 
 AoE costs 3 XP; each of the other augments costs 1 XP
@@ -68,8 +66,6 @@ AoE costs 3 XP; each of the other augments costs 1 XP
 | O     | Paralyze          | O   | O O O | O O O    | O O O  | O O O   |
 | O     | Telekinesis       | O   | O O O | O O O    | O O O  | O O O   |
 | O     | Visual Illusion   | O   | O O O | O O O    | O O O  | O O O   |
-
----
 
 ## Skills
 
@@ -103,8 +99,6 @@ Each skill increase costs 1 XP
 | Swimming            | X   | O   | O   | O   | O   | O   | O   |      |
 | Tinker              | X   | O   | O   | O   | O   | O   | O   |      |
 | Tracking            | X   | O   | O   | O   | O   | O   | O   |      |
-
----
 
 ## Talents
 
