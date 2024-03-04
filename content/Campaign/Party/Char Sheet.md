@@ -7,9 +7,12 @@ vitality-max: "10"
 vitality-current: "10"
 ap: "+2"
 ---
-## Vitality
+## Armor
 
-AP +2
+- [ ] Light armor +2
+- [ ] Heavy armor +4
+
+## Vitality
 
 | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -67,25 +70,25 @@ Each talent costs 4 XP
 - [ ] War Caster: Ease 2 on checks to maintain concentration.
 - [ ] Great Weapon Master: if wielding a 2 handed weapon, can attack two adjacent foes
 
-## Form
+## Forms
 
 AoE costs 3 XP; each of the other augments costs 1 XP
 
 | Forms                    | AoE | Range | Duration | Damage | Targets | Failed today? | Forced? |
 | ------------------------ | --- | ----- | -------- | ------ | ------- | ------------- | ------- |
 | Auditory Illusion        | O   | O O O | O O O    | O O O  | O O O   |               |         |
-| Armor                    |     |       |          |        |         |               |         |
-| Blast                    |     |       |          |        |         |               |         |
-| Blindness                |     |       |          |        |         |               |         |
-| Confusion                |     |       |          |        |         |               |         |
-| Deafness                 |     |       |          |        |         |               |         |
-| Detect Thought           |     |       |          |        |         |               |         |
-| Detect Resonance (magic) |     |       |          |        |         |               |         |
-| Dispel                   |     |       |          |        |         |               |         |
-| Fear                     |     |       |          |        |         |               |         |
-| Fog                      |     |       |          |        |         |               |         |
-| Glamour                  |     |       |          |        |         |               |         |
-| Hypnotize                |     |       |          |        |         |               |         |
+| Armor                    | O   | O O O | O O O    | O O O  | O O O  |               |         |
+| Blast                    | O   | O O O | O O O    | O O O  | O O O   |               |         |
+| Blindness                | O   | O O O | O O O    | O O O  | O O O   |               |         |
+| Confusion                | O   | O O O | O O O    | O O O  | O O O  |               |         |
+| Deafness                 | O   | O O O | O O O    | O O O  | O O O  |               |         |
+| Detect Thought           | O   | O O O | O O O    | O O O  | O O O   |               |         |
+| Detect Resonance (magic) | O   | O O O | O O O    | O O O  | O O O   |               |         |
+| Dispel                   | O   | O O O | O O O    | O O O  | O O O  |               |         |
+| Fear                     |O   | O O O | O O O    | O O O  | O O O  |               |         |
+| Fog                      | O   | O O O | O O O    | O O O  | O O O   |               |         |
+| Glamour                  | O   | O O O | O O O    | O O O  | O O O   |               |         |
+| Hypnotize                | O   | O O O | O O O    | O O O  | O O O   |               |         |
 | Impersonation            |     |       |          |        |         |               |         |
 | Invisibility             |     |       |          |        |         |               |         |
 | Light                    |     |       |          |        |         |               |         |

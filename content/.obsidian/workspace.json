@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System/Combat.md",
+                "file": "Choice & Chance.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
               "state": {
                 "file": "Campaign/Party/Char Sheet.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System/Combat.md",
+                "file": "Campaign/Party/Char Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System/Combat.md",
+                "file": "Campaign/Party/Char Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System/Combat.md"
+                "file": "Campaign/Party/Char Sheet.md"
               }
             }
           },
@@ -201,23 +201,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "40b074d4da34e7ca",
+  "active": "8b0e595445ae6db6",
   "lastOpenFiles": [
+    "Choice & Chance.md",
+    "System/Creating a Character.md",
+    "System/Talents.md",
+    "System/Combat.md",
+    "Screenshot 2024-03-04 2.13.24 AM.png",
     "Screenshot 2024-03-04 2.07.35 AM.png",
     "Campaign/Party/Char Sheet.md",
-    "System/Combat.md",
-    "Choice & Chance.md",
     "System/Armor.md",
     "System/On Magic.md",
     "System/Rolling the Dice.md",
     "System/Vitality (HP).md",
     "System/XP.md",
-    "System/Talents.md",
     "System/Skills.md",
     "Campaign/Party/Akra Jr.md",
     "Extras/Templates/Lucide icon SVG.md",
     "circle.svg",
-    "System/Creating a Character.md",
     "index.md",
     "Campaign Overview.md",
     "Kh'thand.md",
