@@ -6,7 +6,6 @@
       {
         "id": "3366450dcbfd42c4",
         "type": "tabs",
-        "dimension": 36.05898123324397,
         "children": [
           {
             "id": "6de1addbf85c2632",
@@ -43,15 +42,7 @@
                 "source": false
               }
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "4695429c2c103958",
-        "type": "tabs",
-        "dimension": 63.94101876675603,
-        "children": [
+          },
           {
             "id": "8b0e595445ae6db6",
             "type": "leaf",
@@ -60,11 +51,12 @@
               "state": {
                 "file": "Campaign/Party/Char Sheet.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -188,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
