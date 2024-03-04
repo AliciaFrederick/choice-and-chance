@@ -10,3 +10,5 @@ You roll to attack and to defend (Evade, Block, etc.). On a successful defense, 
 - Near: up to 50 ft
 - Far: 50 -100 ft
 - Distant: 100-150ft
+
+![[Screenshot 2024-03-04 2.07.35 AM.png]] 

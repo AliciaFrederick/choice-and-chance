@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign/Party/Char Sheet.md",
+                "file": "System/Combat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign/Party/Char Sheet.md",
+                "file": "System/Combat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign/Party/Char Sheet.md"
+                "file": "System/Combat.md"
               }
             }
           },
@@ -201,12 +201,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b0e595445ae6db6",
+  "active": "40b074d4da34e7ca",
   "lastOpenFiles": [
+    "Screenshot 2024-03-04 2.07.35 AM.png",
+    "Campaign/Party/Char Sheet.md",
     "System/Combat.md",
     "Choice & Chance.md",
     "System/Armor.md",
-    "Campaign/Party/Char Sheet.md",
     "System/On Magic.md",
     "System/Rolling the Dice.md",
     "System/Vitality (HP).md",
@@ -229,7 +230,6 @@
     "Setting/Malevolent Forest.md",
     "Setting/Laeot.md",
     "Setting/Khuan Gat Range.md",
-    "Setting/Kan.md",
     "Mood Board.canvas",
     "il_fullxfull.4945931293_4und.webp",
     "Extras/Attachments/akra-jr.png",
