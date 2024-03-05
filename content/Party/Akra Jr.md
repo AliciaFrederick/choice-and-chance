@@ -19,6 +19,22 @@ INSTRUCTIONS
 3. Fill out the sheet, including the file properties
 %%
 
+# Concept
+
+## Gimmick
+
+
+
+## Conflict
+
+
+
+## Want
+
+
+
+# Mechanics
+
 ## Armor
 
 - [ ] +0 None
@@ -118,15 +134,15 @@ Each talent costs 4 XP
 - [ ] **Sneak Attack**: When enemy is surprised, triple damage.
 - [ ] **War Caster**: Ease 2 on checks to maintain concentration.
 
-## Equipment
+# Equipment
 
-### Money
-
-
-
-### Weapons
+## Money
 
 
 
-### Inventory
+## Weapons
+
+
+
+## Inventory
 
