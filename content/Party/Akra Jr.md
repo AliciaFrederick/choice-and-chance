@@ -33,14 +33,12 @@ I believe it's my fault that everyone I love is dead. Even if I didn't destroy t
 
 ## Potential Motivations
 
-1. I know nothing - I want to know why I keep losing my memory for hours at a time.
-2. 
-
-### Option 2 - I know a little
-
-- Gimmick - I just discovered I have DID, characterized by frequent episodes of memory loss when my Alter(s) take control of my body. I have no idea how many Alters I have.
-- Conflict - My village was destroyed during a period of amnesia and I was the only survivor.
-- Want - I want to know what happened to my village. 
+2. I want to find out what happened to my village. 
+3. I want to find out if I caused the ward to fail. 
+4. I want to find out why I keep losing my memory for hours at a time.
+5. I want to meet and integrate my Alters.
+6. I want to find out why I have DID (unknown early childhood trauma). 
+7. I want to find my birth parents. 
 
 ## Inspiration and Ideas
 
