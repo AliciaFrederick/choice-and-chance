@@ -23,13 +23,13 @@ INSTRUCTIONS
 
 ## Inspiration and Ideas
 
-I'm interested in the intersection of the Inner World found through meditation and the idea of dissociation, specifically Dissociative Identity Disorder. Either [[Akra Jr]] doesn't know or only just found out that she has DID. She doesn't remember anything from early childhood which would have caused her to develop DID. Her episodes of memory loss are caused by her Alters taking over her body to protect her from getting triggered or re-traumatized. When she is manifesting and notices her Alters, she believes they are simply imaginary characters she made up for fun, and they allow her to continue believing it. 
+I'm interested in the intersection of the Inner World found through meditation and the idea of dissociation, specifically Dissociative Identity Disorder. Either [[Akra Jr]] doesn't know or only just found out that she has DID. She doesn't remember anything from early childhood which would have caused her to develop DID. Her episodes of memory loss are caused by her Alters taking over her body to protect her from getting triggered or re-traumatized. When she is manifesting and first notices her Alters, she believes they are simply imaginary characters she made up for fun, and they allow her to continue believing it. 
 
-[DissociaDID](https://www.youtube.com/@DissociaDID) is a real life DID System who have inspired most of the dissociation aspect. 
+[DissociaDID](https://www.youtube.com/@DissociaDID) is a real life DID system who have inspired and informed most of the dissociation aspect of this character. 
 
-I think it would be good for me to establish 2 or 3 main Alters and then improv the rest from randomized prompts. For handling gameplay, We could go one of two ways. The first way is the simplest - I can play all of my Alters. This would give the rest of the group the experience of interacting with a DID system. It would also allow me to experiment with different voices and physicalities, which is something I would like to level up in my gameplay. 
+I think it would be good for me to establish 2 or 3 main Alters and then the rest can be made up on-the-fly. For handling gameplay, We could go one of two ways. The first way is the simplest - I can play all of my Alters. This would give the rest of the group the experience of interacting with a DID system. It would also allow me to experiment with different voices and physicalities, which is something I would like to level up in my gameplay. 
 
-The second way is that we could all play some of them. This would give me the experience of only the main Alter, with the amnesia and the confusion of finding myself in strange places and situations. Sharing the Alters would enable me to have Inner World conversations with them without becoming a one-woman show. I could even leave the table if an Alter takes over my body in-game so that I actually have no memory of what happened when I'm back in control. 
+The second way is that y'all could play the Alters. I could then leave the table if an Alter takes over my body in-game so that I actually have no memory of what happened when I'm back in control. This would give me the experience of only the main Alter, with the amnesia and the confusion of finding myself in strange places and situations. Sharing the Alters would enable me to have Inner World conversations with them without becoming a one-woman show. 
 
 ## Backstory
 
