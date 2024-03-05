@@ -15,7 +15,7 @@
               "state": {
                 "file": "Party/Akra Jr.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -178,6 +178,7 @@
   },
   "active": "a6ae9609ff383dc1",
   "lastOpenFiles": [
+    "Extras/Concept.md",
     "Extras/Templates/Char Sheet Template.md",
     "Extras/Templates/Char Sheet PDF.md",
     "System/Char Sheet PDF.pdf",
