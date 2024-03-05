@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Choice & Chance.md",
+                "file": "Extras/Concept.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Choice & Chance.md",
+                "file": "Extras/Concept.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Choice & Chance.md",
+                "file": "Extras/Concept.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Choice & Chance.md"
+                "file": "Extras/Concept.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Choice & Chance.md"
+                "file": "Extras/Concept.md"
               }
             }
           }
@@ -179,6 +179,9 @@
   },
   "active": "a6ae9609ff383dc1",
   "lastOpenFiles": [
+    "Mood Board.canvas",
+    "index.md",
+    "Choice & Chance.md",
     "Extras/Concept.md",
     "Party/Akra Jr.md",
     "Extras/Templates/Char Sheet Template.md",
@@ -189,10 +192,7 @@
     "System/Vitality (HP).md",
     "Campaign Overview.md",
     "Extras/Char Sheet.pdf",
-    "Mood Board.canvas",
     "Kh'thand.md",
-    "index.md",
-    "Choice & Chance.md",
     "Extras/Attachments/Screenshot 2024-03-04 2.13.24 AM.png",
     "circle.svg",
     "Screenshot 2024-03-04 2.07.35 AM.png",
@@ -212,7 +212,6 @@
     "Setting/Quajreyas.md",
     "Setting/Vii Vaal.md",
     "Setting/Tulucaon Range.md",
-    "Setting/Ruk.md",
     "il_fullxfull.4945931293_4und.webp",
     "Extras/Attachments/akra-jr.png",
     "Extras/Attachments/map-kh'thand.png",

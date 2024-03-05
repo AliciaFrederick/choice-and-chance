@@ -12,12 +12,12 @@ I believe it's my fault that everyone I love is dead. Even if I didn't destroy t
 
 ## Potential Motivations
 
-2. I want to find out what happened to my village. 
-3. I want to find out if I caused the ward to fail. 
-4. I want to find out why I keep losing my memory for hours at a time.
-5. I want to meet and integrate my Alters.
-6. I want to find out why I have DID (unknown early childhood trauma). 
-7. I want to find my birth parents. 
+1. I want to find out what happened to my village. 
+2. I want to find out if I caused the ward to fail. 
+3. I want to find out why I keep losing my memory for hours at a time.
+4. I want to meet and integrate my Alters.
+5. I want to find out why I have DID (unknown early childhood trauma). 
+6. I want to find my birth parents. 
 
 ## Inspiration and Ideas
 
@@ -29,9 +29,9 @@ I think it would be good for me to establish 2 or 3 main Alters and then the res
 
 1. Host
 2. Protector
-4. Caretaker
-6. Persecutor
-3. Trauma Holder
+3. Caretaker
+4. Persecutor
+5. Trauma Holder
 
 For handling gameplay, we could go one of two ways, or a combination of both:
 
