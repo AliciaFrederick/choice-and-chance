@@ -23,7 +23,9 @@ INSTRUCTIONS
 
 ## Inspiration
 
-I'm interested in the intersection of the Inner World found through meditation and the idea of dissociation, specifically Dissociative Identity Disorder. Either [[Akra Jr]] doesn't know or only just found out that she has DID. Her episodes of memory loss are caused by her Alters taking over her body to protect her from getting triggered or re-traumatized. She doesn't remember anything from early childhood which would have caused her to develop DID. When she is manifesting and notices her Alters, she believes they are simply imaginary characters she made up for fun, and they allow her to continue believing it. 
+I'm interested in the intersection of the Inner World found through meditation and the idea of dissociation, specifically Dissociative Identity Disorder. Either [[Akra Jr]] doesn't know or only just found out that she has DID. She doesn't remember anything from early childhood which would have caused her to develop DID. Her episodes of memory loss are caused by her Alters taking over her body to protect her from getting triggered or re-traumatized. When she is manifesting and notices her Alters, she believes they are simply imaginary characters she made up for fun, and they allow her to continue believing it. 
+
+DissociaDID is a real life DID System who has inspired most of the dissociation aspect. 
 
 ## Backstory
 
@@ -33,7 +35,7 @@ Throughout my adolescence I would occasionally lose several hours of time, unsur
 
 Last week, after having an argument with my best friend about something I couldn't remember, I ran into the forest to clear my head. The next thing I knew, it was several hours later and I was standing in the center of the village with no memory of how I got there. I was surrounded by dismembered and incinerated bodies. 
 
-I believe it's my fault that everyone I love is dead. The ward must have failed while I was in the forest, and the other Kan weren't able to get it back up in time to protect the village. Now, without the rest of the Kan to help maintain the ward and no survivors in the village, I have been forced to travel to Quajreyas for safety and work.
+I believe it's my fault that everyone I love is dead. The ward must have failed while I was in the forest, and the other Kan weren't able to get it back up in time to protect the village from whatever caused the devastation. Now, without the rest of the Kan to help maintain the ward and no survivors in the village, I have been forced to travel to Quajreyas for safety and work.
 
 ## Potential arcs
 
