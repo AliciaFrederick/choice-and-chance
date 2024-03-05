@@ -23,9 +23,9 @@ INSTRUCTIONS
 
 ## Backstory
 
-I was adopted as a small chi into a small village within the forest by a loving pair of mothers. I and the other Ruk'kan of the village were tasked with maintaining a magical ward to keep the forest from overtaking us. In the last few months however, the ward has been more difficult to keep up, even failing completely once or twice. We don't know why this is happening. 
+I was adopted as a small child by a loving pair of mothers who lived in a village within the forest. Throughout my adolescence I would occasionally lose several hours of time, unsure of where I had been or who had been with me. Sometimes my friends or family would be angry about something I couldn't remember doing.  and would be out of character for me to do. 
 
-Throughout my adolescence I would occasionally lose several hours of time, unsure of where I had been or who had been with me. Sometimes my friends or family would be angry about something I couldn't remember doing and would be out of character for me to do. Lately my episodes of memory loss have been coming more frequently, causing even more conflict. 
+I and the other Ruk'kan of the village maintain a magical ward to keep the forest from overtaking us. In the last few months however, the ward has been more difficult to keep up, even failing completely once or twice. We don't know why this is happening, and on top of this my episodes of memory loss have been coming more frequently, causing even more conflict. 
 
 Last week, after having an argument with my best friend about something I couldn't remember, I ran into the forest to clear my head. The next thing I knew, it was several hours later and I was standing in the center of the village with no memory of how I got there. I was surrounded by dismembered and incinerated bodies. 
 
