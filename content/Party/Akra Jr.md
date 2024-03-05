@@ -29,7 +29,7 @@ I'm interested in the intersection of the Inner World found through meditation a
 
 ## Backstory
 
-I was born into a small village within the forest. I and the other Kan of the village were tasked with maintaining a magical ward to keep the forest from overtaking us. In the last few months however, the ward has been more difficult to keep up, even failing completely once or twice. 
+I was adopted into a small village within the forest by a loving pair of mothers. I and the other Ruk'kan of the village were tasked with maintaining a magical ward to keep the forest from overtaking us. In the last few months however, the ward has been more difficult to keep up, even failing completely once or twice. 
 
 Throughout my adolescence I would occasionally lose several hours of time, unsure of where I had been or who had been with me. Sometimes my friends or family would be angry about something I couldn't remember doing and would be out of character for me to do. Lately my episodes of memory loss have been coming more frequently, causing even more conflict. 
 
@@ -39,17 +39,18 @@ I believe it's my fault that everyone I love is dead. The ward must have failed 
 
 ## Potential arcs
 
-### Option 1
+### Option 1 - I know nothing
 
 - [ ] Gimmick - I have frequent episodes of memory loss.
 - [ ] Conflict - My village was destroyed during a period of amnesia and I was the only survivor.
-- [ ] Want - I want to know why I keep losing my memory for hours at a time
+- [ ] Want - I want to know why I keep losing my memory for hours at a time.
 
 ### Option 2
 
-- [ ] Gimmick - I just discovered I have DID, characterized by frequent episodes of memory loss when my Alter(s) take control of my body.
+- [ ] Gimmick - I just discovered I have DID, characterized by frequent episodes of memory loss when my Alter(s) take control of my body. I have no idea how many Alters I have.
+	- [ ] Opportunity for collaborative improv with some of these!
 - [ ] Conflict - My village was destroyed during a period of amnesia and I was the only survivor.
-- [ ] Want - 
+- [ ] Want - I want to know what happened to my village. 
 
 # Mechanics
 
