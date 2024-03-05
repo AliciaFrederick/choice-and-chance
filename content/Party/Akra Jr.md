@@ -27,6 +27,8 @@ I'm interested in the intersection of the Inner World found through meditation a
 
 [DissociaDID](https://www.youtube.com/@DissociaDID) is a real life DID System who has inspired most of the dissociation aspect. 
 
+I think it would be good for me to establish some primary Alters and improv the rest from randomized prompts. We could potentially introduce some collaboration with the rest of the group to play them. This would enable me to have Inner World conversations with my Alters without the GM playing all of them. 
+
 ## Backstory
 
 I was adopted into a small village within the forest by a loving pair of mothers. I and the other Ruk'kan of the village were tasked with maintaining a magical ward to keep the forest from overtaking us. In the last few months however, the ward has been more difficult to keep up, even failing completely once or twice. 
@@ -35,22 +37,21 @@ Throughout my adolescence I would occasionally lose several hours of time, unsur
 
 Last week, after having an argument with my best friend about something I couldn't remember, I ran into the forest to clear my head. The next thing I knew, it was several hours later and I was standing in the center of the village with no memory of how I got there. I was surrounded by dismembered and incinerated bodies. 
 
-I believe it's my fault that everyone I love is dead. The ward must have failed while I was in the forest, and the other Kan weren't able to get it back up in time to protect the village from whatever caused the devastation. Now, without the rest of the Kan to help maintain the ward and no survivors in the village, I have been forced to travel to Quajreyas for safety and work.
+I believe it's my fault that everyone I love is dead. The ward must have failed while I was in the forest, and the other Ruk'kan weren't able to get it back up in time to protect the village from whatever caused the devastation. Now, without the rest of the Ruk'kan to help maintain the ward and no survivors in the village, I have been forced to travel to Quajreyas for safety and work.
 
 ## Potential arcs
 
 ### Option 1 - I know nothing
 
-- [ ] Gimmick - I have frequent episodes of memory loss.
-- [ ] Conflict - My village was destroyed during a period of amnesia and I was the only survivor.
-- [ ] Want - I want to know why I keep losing my memory for hours at a time.
+- Gimmick - I have frequent episodes of memory loss.
+- Conflict - My village was destroyed during a period of amnesia and I was the only survivor.
+- Want - I want to know why I keep losing my memory for hours at a time.
 
-### Option 2
+### Option 2 - I know a little
 
-- [ ] Gimmick - I just discovered I have DID, characterized by frequent episodes of memory loss when my Alter(s) take control of my body. I have no idea how many Alters I have.
-	- [ ] Opportunity for collaborative improv with some of these!
-- [ ] Conflict - My village was destroyed during a period of amnesia and I was the only survivor.
-- [ ] Want - I want to know what happened to my village. 
+- Gimmick - I just discovered I have DID, characterized by frequent episodes of memory loss when my Alter(s) take control of my body. I have no idea how many Alters I have.
+- Conflict - My village was destroyed during a period of amnesia and I was the only survivor.
+- Want - I want to know what happened to my village. 
 
 # Mechanics
 
