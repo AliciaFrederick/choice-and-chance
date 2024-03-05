@@ -25,7 +25,7 @@ INSTRUCTIONS
 
 I'm interested in the intersection of the Inner World found through meditation and the idea of dissociation, specifically Dissociative Identity Disorder. Either [[Akra Jr]] doesn't know or only just found out that she has DID. She doesn't remember anything from early childhood which would have caused her to develop DID. Her episodes of memory loss are caused by her Alters taking over her body to protect her from getting triggered or re-traumatized. When she is manifesting and notices her Alters, she believes they are simply imaginary characters she made up for fun, and they allow her to continue believing it. 
 
-DissociaDID is a real life DID System who has inspired most of the dissociation aspect. 
+[DissociaDID](https://www.youtube.com/@DissociaDID) is a real life DID System who has inspired most of the dissociation aspect. 
 
 ## Backstory
 
@@ -41,14 +41,14 @@ I believe it's my fault that everyone I love is dead. The ward must have failed 
 
 ### Option 1
 
-- [ ] Gimmick - 
-- [ ] Conflict - 
-- [ ] Want - 
+- [ ] Gimmick - I have frequent episodes of memory loss.
+- [ ] Conflict - My village was destroyed during a period of amnesia and I was the only survivor.
+- [ ] Want - I want to know why I keep losing my memory for hours at a time
 
 ### Option 2
 
-- [ ] Gimmick - 
-- [ ] Conflict - 
+- [ ] Gimmick - I just discovered I have DID, characterized by frequent episodes of memory loss when my Alter(s) take control of my body.
+- [ ] Conflict - My village was destroyed during a period of amnesia and I was the only survivor.
 - [ ] Want - 
 
 # Mechanics
