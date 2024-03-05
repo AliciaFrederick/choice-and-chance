@@ -23,7 +23,7 @@ INSTRUCTIONS
 
 ## Backstory
 
-I used to live in a small village in the forest with my family. Throughout my adolescence I would occasionally lose several hours of time, unsure of where I had been who I was with. Sometimes my friends or family would be angry about something I couldn't remember doing.
+I used to live in a small village in the forest with my family. Throughout my adolescence I would occasionally lose several hours of time, unsure of where I had been or who had been with me. Sometimes my friends or family would be angry about something I couldn't remember doing and would be out of ch. After having an argument about this with my best friend one day, I ran into the forest to clear my head. Several hours later, I was standing in the center of the village with no memory of how I got there, surrounded by dismembered bodies. 
 
 ## Option 1
 
