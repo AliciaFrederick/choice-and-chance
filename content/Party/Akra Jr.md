@@ -27,7 +27,11 @@ I'm interested in the intersection of the Inner World found through meditation a
 
 [DissociaDID](https://www.youtube.com/@DissociaDID) is a real life DID System who have inspired most of the dissociation aspect. 
 
-I think it would be good for me to establish 2 or 3 main Alters and then improv the rest from randomized prompts. For handling gameplay, I could play all of my Alters, or we could all play some of them. Sharing the Alters would enable me to have Inner World conversations with them without becoming a one-woman show. I could even leave the table if an Alter takes over my body in-game so that I actually have no memory of what happened when I'm back in control. It depends on if it makes more sense for me to 
+I think it would be good for me to establish 2 or 3 main Alters and then improv the rest from randomized prompts. For handling gameplay, We could go one of two ways. The first way is the simplest - I can play all of my Alters. This would give the rest of the group the experience of interacting with a DID system.
+
+The second way is that we could all play some of them. This would give me the experience of only the main Alter, with the amnesia and the 
+
+Sharing the Alters would enable me to have Inner World conversations with them without becoming a one-woman show. I could even leave the table if an Alter takes over my body in-game so that I actually have no memory of what happened when I'm back in control. It depends on if it makes more sense for me to have the experience of only the main Alter or for  
 
 ## Backstory
 
