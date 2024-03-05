@@ -23,13 +23,13 @@ INSTRUCTIONS
 
 ## Backstory
 
-I was adopted as a small child by a loving pair of mothers who lived in a village within the forest. Throughout my adolescence I would occasionally lose several hours of time, unsure of where I had been or who had been with me. Sometimes my friends or family would be angry about something I couldn't remember doing.  and would be out of character for me to do. 
+I was adopted as a small child by a loving pair of mothers who lived in a village within the forest. Throughout my adolescence I would occasionally lose several hours of time, unsure of where I had been or who had been with me. Sometimes my friends or family would be angry about something I couldn't remember doing, making me feel confused and hurt. In these moments I liked to escape to my Inner World. 
 
-I and the other Ruk'kan of the village maintain a magical ward to keep the forest from overtaking us. In the last few months however, the ward has been more difficult to keep up, even failing completely once or twice. We don't know why this is happening, and on top of this my episodes of memory loss have been coming more frequently, causing even more conflict. 
+As a young adult, I and the other Ruk'kan of the village maintain a magical ward to keep the forest from overtaking us. In the last few months however, the ward has been more difficult to keep up, even failing completely once or twice. We don't know why this is happening, and on top of this my episodes of memory loss have been coming more frequently, causing even more conflict. I'm secretly afraid that I might be causing the failures during the time I lost. 
 
 Last week, after having an argument with my best friend about something I couldn't remember, I ran into the forest to clear my head. The next thing I knew, it was several hours later and I was standing in the center of the village with no memory of how I got there. I was surrounded by dismembered and incinerated bodies. 
 
-I believe it's my fault that everyone I love is dead. The ward must have failed while I was in the forest, and the other Ruk'kan weren't able to get it back up in time to protect the village from whatever caused the devastation. Now, without the rest of the Ruk'kan to help maintain the ward and no survivors in the village, I have been forced to travel to Quajreyas for safety and work.
+I believe it's my fault that everyone I love is dead. Even if I didn't cause this failure, the ward must have gone down while I was in the forest, and the other Ruk'kan weren't able to get it back up in time to protect the village from whatever caused the devastation. Now, without the rest of the Ruk'kan to help maintain the ward and no survivors in the village, I have been forced to travel to Quajreyas for safety and work.
 
 ## Potential arcs
 
