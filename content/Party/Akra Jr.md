@@ -21,17 +21,17 @@ INSTRUCTIONS
 
 # Concept
 
-## Gimmick
+## Option 1
 
+- [ ] Gimmick - 
+- [ ] Conflict - 
+- [ ] Want - 
 
+## Option 2
 
-## Conflict
-
-
-
-## Want
-
-
+- [ ] Gimmick - 
+- [ ] Conflict - 
+- [ ] Want - 
 
 # Mechanics
 
