@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Party/Akra Jr.md",
+                "file": "Extras/Concept.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Party/Akra Jr.md",
+                "file": "Extras/Concept.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Party/Akra Jr.md",
+                "file": "Extras/Concept.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Party/Akra Jr.md"
+                "file": "Extras/Concept.md"
               }
             }
           },
@@ -155,16 +155,17 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Party/Akra Jr.md"
+                "file": "Extras/Concept.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 311.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,6 +179,7 @@
   },
   "active": "a6ae9609ff383dc1",
   "lastOpenFiles": [
+    "Party/Akra Jr.md",
     "Extras/Concept.md",
     "Extras/Templates/Char Sheet Template.md",
     "Extras/Templates/Char Sheet PDF.md",
@@ -187,7 +189,6 @@
     "System/Vitality (HP).md",
     "Campaign Overview.md",
     "Extras/Char Sheet.pdf",
-    "Party/Akra Jr.md",
     "Mood Board.canvas",
     "Kh'thand.md",
     "index.md",

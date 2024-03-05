@@ -11,6 +11,7 @@ portrait: "[[akra-jr.png]]"
 token: 
 banner: "![[akra-jr.png]]"
 banner_y: 0.51606
+concept: "[[Concept]]"
 ---
 %% 
 INSTRUCTIONS
@@ -18,8 +19,6 @@ INSTRUCTIONS
 2. Move the copy to the Party folder
 3. Fill out the sheet, including the file properties
 %%
-
-[[Concept]]
 
 # Mechanics
 
