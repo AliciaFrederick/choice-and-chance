@@ -27,11 +27,13 @@ I'm interested in the intersection of the Inner World found through meditation a
 
 ## Backstory
 
-I was born into a small village within the forest. I was one of the Kan of the village, tasked with maintaining a magical ward to keep the forest from overtaking us. In the last few months, however, the ward has been more difficult to keep up and has even begun falling completely on occasion. 
+I was born into a small village within the forest. I and the other Kan of the village were tasked with maintaining a magical ward to keep the forest from overtaking us. In the last few months however, the ward has been more difficult to keep up, even failing completely once or twice. 
 
-Throughout my adolescence I would occasionally lose several hours of time, unsure of where I had been or who had been with me. Sometimes my friends or family would be angry about something I couldn't remember doing and would be out of character for me to do. Lately my episodes of memory loss have been coming more frequently. 
+Throughout my adolescence I would occasionally lose several hours of time, unsure of where I had been or who had been with me. Sometimes my friends or family would be angry about something I couldn't remember doing and would be out of character for me to do. Lately my episodes of memory loss have been coming more frequently, causing even more conflict. 
 
-After having an argument about something I couldn't remember with my best friend, I ran into the forest to clear my head. The next thing I remember, it was several hours later and I was standing in the center of the village with no memory of how I got there, surrounded by dismembered and incinerated bodies. Fearing the worst, I believe I am the one who destroyed all of the people I loved. 
+After having an argument about something I couldn't remember with my best friend, I ran into the forest to clear my head. The next thing I remember, it was several hours later and I was standing in the center of the village with no memory of how I got there, surrounded by dismembered and incinerated bodies. 
+
+I believe it's my fault everyone I love is dead. The ward must have failed while I was in the forest, and . 
 
 Without the rest of the Kan
 
