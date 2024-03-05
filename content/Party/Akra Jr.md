@@ -21,17 +21,20 @@ INSTRUCTIONS
 
 # Concept
 
+## Inspiration
+
+I'm interested in the intersection of the Inner World found through meditation and the idea of dissociation, specifically Dissociative Identity Disorder. Either [[Akra Jr]] doesn't know or only just found out that she has DID. Her episodes of memory loss are caused by her Alters taking over her body to protect her from getting triggered or re-traumatized. She doesn't remember anything from early childhood which would have caused her to develop DID. When she is manifesting and notices her Alters, she believes they are simply imaginary characters she made up for fun, and they allow her to continue believing it. 
+
 ## Backstory
 
-I was born into a small village within the forest. The Kan of the village maintained a magical ward to keep the forest from overtaking us, but the ward has begun faltering in the last few months. 
+I was born into a small village within the forest. I was one of the Kan of the village, tasked with maintaining a magical ward to keep the forest from overtaking us. In the last few months, however, the ward has been more difficult to keep up and has even begun falling completely on occasion. 
 
 Throughout my adolescence I would occasionally lose several hours of time, unsure of where I had been or who had been with me. Sometimes my friends or family would be angry about something I couldn't remember doing and would be out of character for me to do. Lately my episodes of memory loss have been coming more frequently. 
 
 After having an argument about something I couldn't remember with my best friend, I ran into the forest to clear my head. The next thing I remember, it was several hours later and I was standing in the center of the village with no memory of how I got there, surrounded by dismembered and incinerated bodies. Fearing the worst, I believe I am the one who destroyed all of the people I loved. 
 
-## Inspiration
+Without the rest of the Kan
 
-I'm interested in the intersection of the Inner World found through meditation and the idea of dissociation, specifically Dissociative Identity Disorder. Either [[Akra Jr]] doesn't know or only just found out that she has DID. Her episodes of memory loss are caused by her Alters taking over her body to protect her from getting triggered or re-traumatized. She doesn't remember anything from early childhood which would have caused her to develop DID, and when she is manifesting and notices her Alters, she believes they are simply imaginary characters she made up for fun. 
 ## Potential arcs
 
 ### Option 1
