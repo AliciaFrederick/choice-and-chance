@@ -27,11 +27,12 @@ I was born into a small village within the forest. The Kan of the village mainta
 
 Throughout my adolescence I would occasionally lose several hours of time, unsure of where I had been or who had been with me. Sometimes my friends or family would be angry about something I couldn't remember doing and would be out of character for me to do. Lately my episodes of memory loss have been coming more frequently. 
 
-After having an argument about something I couldn't remember with my best friend, I ran into the forest to clear my head. The next thing I remember, Ieveral hours later, I was standing in the center of the village with no memory of how I got there, surrounded by dismembered and incinerated bodies. Fearing the worst, I believe I am the one who destroyed all of the people I loved. 
+After having an argument about something I couldn't remember with my best friend, I ran into the forest to clear my head. The next thing I remember, it was several hours later and I was standing in the center of the village with no memory of how I got there, surrounded by dismembered and incinerated bodies. Fearing the worst, I believe I am the one who destroyed all of the people I loved. 
 
-## Inspiration and potential arcs
+## Inspiration
 
-I'm interested in the intersection of the Inner World found through meditation and the idea of dissociation, specifically Dissociative Identity Disorder. Either [[Akra Jr]] doesn't know or only just found out that she has DID. Her episodes of memory loss are caused by her alters taking over her body to protect her from getting triggered or re-traumatized. She doesn't remember what happened in her early childhood to cause her to develop DID. 
+I'm interested in the intersection of the Inner World found through meditation and the idea of dissociation, specifically Dissociative Identity Disorder. Either [[Akra Jr]] doesn't know or only just found out that she has DID. Her episodes of memory loss are caused by her Alters taking over her body to protect her from getting triggered or re-traumatized. She doesn't remember anything from early childhood which would have caused her to develop DID, and when she is manifesting and notices her Alters, she believes they are simply imaginary characters she made up for fun. 
+## Potential arcs
 
 ### Option 1
 
