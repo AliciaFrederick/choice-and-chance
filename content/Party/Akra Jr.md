@@ -21,6 +21,10 @@ INSTRUCTIONS
 
 # Concept
 
+## Backstory
+
+I used to live in a small village in the forest with my family. Throughout my adolescence I would occasionally lose several hours of time, unsure of where I had been who I was with. Sometimes my friends or family would be angry about something I couldn't remember doing.
+
 ## Option 1
 
 - [ ] Gimmick - 
