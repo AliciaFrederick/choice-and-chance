@@ -23,7 +23,13 @@ INSTRUCTIONS
 
 ## Backstory
 
-I used to live in a small village in the forest with my family. Throughout my adolescence I would occasionally lose several hours of time, unsure of where I had been or who had been with me. Sometimes my friends or family would be angry about something I couldn't remember doing and would be out of ch. After having an argument about this with my best friend one day, I ran into the forest to clear my head. Several hours later, I was standing in the center of the village with no memory of how I got there, surrounded by dismembered bodies. 
+I used to live in a small village in the forest with my family. Throughout my adolescence I would occasionally lose several hours of time, unsure of where I had been or who had been with me. Sometimes my friends or family would be angry about something I couldn't remember doing and would be out of character for me to do. 
+
+Lately my episodes of memory loss have been coming more frequently. After having an argument about one such occurrence with my best friend one day, I ran into the forest to clear my head. Several hours later, I was standing in the center of the village with no memory of how I got there, surrounded by dismembered and incinerated bodies. Fearing the worst, I believe I am the one who destroyed all of the people I loved. 
+
+### Inspiration and potential arcs
+
+I'm interested in the intersection of the Inner World found through meditation and the idea of dissociation, specifically Dissociative Identity Disorder. 
 
 ## Option 1
 
