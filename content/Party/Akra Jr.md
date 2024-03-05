@@ -21,19 +21,9 @@ INSTRUCTIONS
 
 # Concept
 
-## Inspiration and Ideas
-
-I'm interested in exploring the Inner World found through meditation and the idea of dissociation, specifically Dissociative Identity Disorder. Either [[Akra Jr]] doesn't know or only just found out that she has DID. She doesn't remember anything from early childhood which would have caused her to develop DID. Her episodes of memory loss are caused by her Alters taking over her body to protect her from getting triggered or re-traumatized. When she is manifesting and first notices her Alters, she believes they are simply imaginary characters she made up for fun, and they allow her to continue believing it. 
-
-[DissociaDID](https://www.youtube.com/@DissociaDID) is a real life DID system who have inspired and informed most of the dissociation aspect of this character. 
-
-I think it would be good for me to establish 2 or 3 main Alters and then the rest can be made up on-the-fly. For handling gameplay, We could go one of two ways. 
-1. I can play all of her Alters. This would give the rest of the group the experience of interacting with (my best interpretation of) a DID system. It would also allow me to experiment with different voices and physicalities, which is something I would like to level up in my gameplay. 
-2. Y'all could play the Alters. I could then leave the table if an Alter takes over her body in-game so that I actually have no memory of what happened when she is back in control. This would give me the experience of only the main Alter, with the amnesia and the confusion of finding herself in strange places and situations. Sharing the Alters would also enable her to have Inner World conversations with the other Alters without me becoming a one-woman show. 
-
 ## Backstory
 
-I was adopted into a small village within the forest by a loving pair of mothers. I and the other Ruk'kan of the village were tasked with maintaining a magical ward to keep the forest from overtaking us. In the last few months however, the ward has been more difficult to keep up, even failing completely once or twice. 
+I was adopted as a small chi into a small village within the forest by a loving pair of mothers. I and the other Ruk'kan of the village were tasked with maintaining a magical ward to keep the forest from overtaking us. In the last few months however, the ward has been more difficult to keep up, even failing completely once or twice. We don't know why this is happening. 
 
 Throughout my adolescence I would occasionally lose several hours of time, unsure of where I had been or who had been with me. Sometimes my friends or family would be angry about something I couldn't remember doing and would be out of character for me to do. Lately my episodes of memory loss have been coming more frequently, causing even more conflict. 
 
@@ -54,6 +44,17 @@ I believe it's my fault that everyone I love is dead. The ward must have failed 
 - Gimmick - I just discovered I have DID, characterized by frequent episodes of memory loss when my Alter(s) take control of my body. I have no idea how many Alters I have.
 - Conflict - My village was destroyed during a period of amnesia and I was the only survivor.
 - Want - I want to know what happened to my village. 
+
+## Inspiration and Ideas
+
+I'm interested in exploring the Inner World found through meditation and the idea of dissociation, specifically Dissociative Identity Disorder. Either [[Akra Jr]] doesn't know or only just found out that she has DID. She doesn't remember anything from early childhood which would have caused her to develop DID. Her episodes of memory loss are caused by her Alters taking over her body to protect her from getting triggered or re-traumatized. When she is manifesting and first notices her Alters, she believes they are simply imaginary characters she made up for fun, and they allow her to continue believing it. 
+
+[DissociaDID](https://www.youtube.com/@DissociaDID) is a real life DID system who have inspired and informed most of the dissociation aspect of this character. 
+
+I think it would be good for me to establish 2 or 3 main Alters and then the rest can be made up on-the-fly. For handling gameplay, we could go one of two ways, or a combination of both:
+
+1. I can play all of her Alters. This would give the rest of the group the experience of interacting with (my best interpretation of) a DID system. It would also allow me to experiment with different voices and physicalities, which is something I would like to level up in my gameplay. 
+2. Y'all could play her Alters. I could then leave the table if an Alter takes over her body in-game so that I actually have no memory of what happened when she is back in control. This would give me the experience of only the main Alter, with the amnesia and the confusion of finding herself in strange places and situations. Sharing the Alters would also prevent me from hogging the spotlight if she needs to have Inner World conversations with them. 
 
 # Mechanics
 
