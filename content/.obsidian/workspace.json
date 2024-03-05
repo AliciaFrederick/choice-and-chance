@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Extras/Concept.md",
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1064fbeeddefe813",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System/Creating a Character.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extras/Concept.md",
+                "file": "System/Creating a Character.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extras/Concept.md",
+                "file": "System/Creating a Character.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extras/Concept.md"
+                "file": "System/Creating a Character.md"
               }
             }
           },
@@ -155,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Extras/Concept.md"
+                "file": "System/Creating a Character.md"
               }
             }
           }
@@ -177,12 +190,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6ae9609ff383dc1",
+  "active": "1064fbeeddefe813",
   "lastOpenFiles": [
-    "Mood Board.canvas",
-    "index.md",
     "Choice & Chance.md",
+    "index.md",
     "Extras/Concept.md",
+    "Mood Board.canvas",
     "Party/Akra Jr.md",
     "Extras/Templates/Char Sheet Template.md",
     "Extras/Templates/Char Sheet PDF.md",
