@@ -25,9 +25,9 @@ INSTRUCTIONS
 
 I'm interested in the intersection of the Inner World found through meditation and the idea of dissociation, specifically Dissociative Identity Disorder. Either [[Akra Jr]] doesn't know or only just found out that she has DID. She doesn't remember anything from early childhood which would have caused her to develop DID. Her episodes of memory loss are caused by her Alters taking over her body to protect her from getting triggered or re-traumatized. When she is manifesting and notices her Alters, she believes they are simply imaginary characters she made up for fun, and they allow her to continue believing it. 
 
-[DissociaDID](https://www.youtube.com/@DissociaDID) is a real life DID System who has inspired most of the dissociation aspect. 
+[DissociaDID](https://www.youtube.com/@DissociaDID) is a real life DID System who have inspired most of the dissociation aspect. 
 
-I think it would be good for me to establish some primary Alters and improv the rest from randomized prompts. We could potentially introduce some collaboration with the rest of the group to play them. This would enable me to have Inner World conversations with my Alters without the GM playing all of them. 
+I think it would be good for me to establish 2 or 3 main Alters and then improv the rest from randomized prompts. We could potentially introduce some collaboration with the rest of the group to play some of them; this would enable me to have Inner World conversations with my Alters without becoming a one-woman show. I could even leave the table if an Alter takes over my body in game so that I actually have no memory of what happened when I'm back in control. 
 
 ## Backstory
 
