@@ -31,11 +31,9 @@ I was born into a small village within the forest. I and the other Kan of the vi
 
 Throughout my adolescence I would occasionally lose several hours of time, unsure of where I had been or who had been with me. Sometimes my friends or family would be angry about something I couldn't remember doing and would be out of character for me to do. Lately my episodes of memory loss have been coming more frequently, causing even more conflict. 
 
-After having an argument about something I couldn't remember with my best friend, I ran into the forest to clear my head. The next thing I remember, it was several hours later and I was standing in the center of the village with no memory of how I got there, surrounded by dismembered and incinerated bodies. 
+Last week, after having an argument with my best friend about something I couldn't remember, I ran into the forest to clear my head. The next thing I knew, it was several hours later and I was standing in the center of the village with no memory of how I got there. I was surrounded by dismembered and incinerated bodies. 
 
-I believe it's my fault everyone I love is dead. The ward must have failed while I was in the forest, and . 
-
-Without the rest of the Kan
+I believe it's my fault that everyone I love is dead. The ward must have failed while I was in the forest, and the other Kan weren't able to get it back up in time to protect the village. Now, without the rest of the Kan to help maintain the ward and no survivors in the village, I have been forced to travel to Quajreyas for safety and work.
 
 ## Potential arcs
 
