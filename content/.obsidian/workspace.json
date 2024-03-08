@@ -17,25 +17,23 @@
                 "mode": "source",
                 "source": true
               }
-            }
+            },
+            "group": "fccad744fb5c524f"
           },
           {
-            "id": "1064fbeeddefe813",
+            "id": "2267b95c8cc8559f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Mood Board.canvas",
-                "viewState": {
-                  "x": 742.2287520064224,
-                  "y": 684.3001003210277,
-                  "zoom": -1.1188577709525354
-                }
+                "file": "Campaign Overview.md",
+                "mode": "preview",
+                "source": false
               }
-            }
+            },
+            "group": "fccad744fb5c524f"
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -115,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mood Board.canvas",
+                "file": "Campaign Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mood Board.canvas",
+                "file": "Campaign Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mood Board.canvas"
+                "file": "Campaign Overview.md"
               }
             }
           },
@@ -173,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Mood Board.canvas"
+                "file": "Campaign Overview.md"
               }
             }
           }
@@ -195,7 +193,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1064fbeeddefe813",
+  "active": "a6ae9609ff383dc1",
   "lastOpenFiles": [
     "Campaign Overview.md",
     "Mood Board.canvas",
