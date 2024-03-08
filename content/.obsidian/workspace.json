@@ -13,14 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Overview.md",
-                "mode": "source",
+                "file": "index.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5,
-    "collapsed": true
+    "width": 246.5
   },
   "right": {
     "id": "9b92aed1753f5b1e",
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Overview.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Overview.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Overview.md"
+                "file": "index.md"
               }
             }
           },
@@ -157,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Campaign Overview.md"
+                "file": "index.md"
               }
             }
           }
@@ -166,8 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5,
-    "collapsed": true
+    "width": 311.5
   },
   "left-ribbon": {
     "hiddenItems": {
