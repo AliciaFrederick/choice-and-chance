@@ -3,6 +3,20 @@ title: Campaign
 ---
 - [ ] Add Joe and Amy's character images
 
+
+# Party 
+
+| Alicia           | Joe              | Amy              |
+| ---------------- | ---------------- | ---------------- |
+| ![[akra-jr.png]] | ![[akra-jr.png]] | ![[akra-jr.png]] |
+| [[Akra Jr]]      | [[Thorin Jr]]    | [[Cassandra Jr]] |
+
+# Session Highlights
+
+![[2024-03-02#2024-03-02]] 
+
+# Mood
+
 ![](https://i.etsystatic.com/15139779/r/il/c7cbb8/2475750443/il_fullxfull.2475750443_jlz3.jpg)
 ![](https://i.etsystatic.com/41411880/r/il/74e7ae/4945931293/il_fullxfull.4945931293_4und.jpg)
 ![](https://i.pinimg.com/originals/d4/81/b6/d481b64c063b4256249dff405572bbaa.jpg)
@@ -15,15 +29,3 @@ title: Campaign
 
 ![](https://img.freepik.com/premium-photo/faint-glow-mystical-potions-emanating-from-witchs-hut-dark-swamp_1023514-414.jpg)
 ![](https://storage.googleapis.com/pai-images/97b270dd8a4a425eb1d133ae41ce6eeb.jpeg)
-
-
-# Party 
-
-| Alicia           | Joe              | Amy              |
-| ---------------- | ---------------- | ---------------- |
-| ![[akra-jr.png]] | ![[akra-jr.png]] | ![[akra-jr.png]] |
-| [[Akra Jr]]      | [[Thorin Jr]]    | [[Cassandra Jr]] |
-
-# Session Highlights
-
-![[2024-03-02#2024-03-02]] 

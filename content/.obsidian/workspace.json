@@ -17,21 +17,7 @@
                 "mode": "source",
                 "source": true
               }
-            },
-            "group": "fccad744fb5c524f"
-          },
-          {
-            "id": "2267b95c8cc8559f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign Overview.md",
-                "mode": "preview",
-                "source": false
-              }
-            },
-            "group": "fccad744fb5c524f"
+            }
           }
         ],
         "stacked": true
