@@ -15,16 +15,10 @@
               "state": {
                 "file": "Campaign Overview.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "df959b60a4a8139a",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "1064fbeeddefe813",
             "type": "leaf",
@@ -33,14 +27,16 @@
               "state": {
                 "file": "Mood Board.canvas",
                 "viewState": {
-                  "x": 770,
-                  "y": 500,
+                  "x": 742.2287520064224,
+                  "y": 684.3001003210277,
                   "zoom": -1.1188577709525354
                 }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -102,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 246.5,
+    "collapsed": true
   },
   "right": {
     "id": "9b92aed1753f5b1e",
