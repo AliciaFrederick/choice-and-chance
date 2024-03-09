@@ -15,7 +15,7 @@
               "state": {
                 "file": "Campaign Overview.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Party/Akra Jr.md",
+                "file": "Campaign Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Party/Akra Jr.md",
+                "file": "Campaign Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Party/Akra Jr.md"
+                "file": "Campaign Overview.md"
               }
             }
           },
@@ -168,7 +167,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Party/Akra Jr.md"
+                "file": "Campaign Overview.md"
               }
             }
           }
@@ -190,11 +189,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "13be41cd70962f26",
+  "active": "a6ae9609ff383dc1",
   "lastOpenFiles": [
+    "Party/Akra Jr.md",
     "Extras/Concept.md",
     "Extras/Templates/Char Sheet Template.md",
-    "Party/Akra Jr.md",
     "Campaign Overview.md",
     "Party/Cassandra Jr.md",
     "Party/Thorin Jr.md",
