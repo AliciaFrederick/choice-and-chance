@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign.md",
-                "mode": "preview",
+                "file": "Party/index.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5,
-    "collapsed": true
+    "width": 246.5
   },
   "right": {
     "id": "9b92aed1753f5b1e",
@@ -109,7 +108,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Campaign.md"
+                "file": "Party/index.md"
               }
             }
           },
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign.md",
+                "file": "Party/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign.md",
+                "file": "Party/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign.md"
+                "file": "Party/index.md"
               }
             }
           },
@@ -179,6 +178,8 @@
   },
   "active": "93cab8640c6161d0",
   "lastOpenFiles": [
+    "Campaign.md",
+    "Party/index.md",
     "index.md",
     "Extras/Attachments/fig-forest-ruin.png",
     "Extras/Attachments/fig-forest-swamp-hut.png",
@@ -188,7 +189,6 @@
     "Extras/Attachments/fig-forest-stalker.png",
     "Extras/Attachments/fig-mountain-river-valley.png",
     "Extras/Attachments/fig-sea-cliff-village.png",
-    "Campaign.md",
     "Extras/Attachments/fig-mountain-valley-city.png",
     "Extras/Attachments/fig-forest-gas-mask.png",
     "Mood Board.canvas",
