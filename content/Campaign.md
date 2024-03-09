@@ -3,6 +3,7 @@ title: Campaign
 tags:
   - campaign
 up: "[[README]]"
+cssclasses: []
 ---
 ## Party 
 

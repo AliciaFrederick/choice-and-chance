@@ -15,29 +15,9 @@
               "state": {
                 "file": "Campaign.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
-            },
-            "group": "ba2d82b8a513a695"
-          }
-        ]
-      },
-      {
-        "id": "e4fc1a60d626f3e0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "83c552f1b8577e97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign.md",
-                "mode": "preview",
-                "source": false
-              }
-            },
-            "group": "ba2d82b8a513a695"
+            }
           }
         ]
       }
@@ -197,7 +177,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "13be41cd70962f26",
+  "active": "c4955449c39f388b",
   "lastOpenFiles": [
     "Campaign.md",
     "index.md",
