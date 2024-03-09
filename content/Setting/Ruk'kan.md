@@ -1,6 +1,6 @@
 ---
 tags:
   - class
-up: "[[Setting/index]]"
+up: "[[Kh'thand]]"
 ---
 A [[Ruk'kan]] is any [[Ruk]] who is a [[Kan]], or magic user. 

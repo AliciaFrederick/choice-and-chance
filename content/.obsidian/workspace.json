@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "System/Choice & Chance.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -108,7 +108,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "README.md"
+                "file": "System/Choice & Chance.md"
               }
             }
           },
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "System/Choice & Chance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "System/Choice & Chance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "System/Choice & Chance.md"
               }
             }
           },
@@ -176,10 +176,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "13be41cd70962f26",
+  "active": "6b01efd9d0313a85",
   "lastOpenFiles": [
-    "Extras/Templates/Char Sheet PDF.md",
+    "Setting/index.md",
+    "Setting/Kh'thand.md",
+    "Setting/Kan.md",
     "README.md",
+    "Extras/Templates/Char Sheet PDF.md",
     "System.md",
     "index.md",
     "Campaign.md",
@@ -191,8 +194,7 @@
     "Extras/Templates/System Template.md",
     "Party/Akra Jr.md",
     "Session Notes/2024-03-02.md",
-    "Setting/index.md",
-    "System/index.md",
+    "System/Choice & Chance.md",
     "Mood Board.canvas",
     "Setting/Oanenya.md",
     "System/Armor.md",
@@ -203,8 +205,6 @@
     "System/Creating a Character.md",
     "System/XP.md",
     "System/Vitality (HP).md",
-    "System/Talents.md",
-    "System/Skills.md",
     "Extras/Attachments/fig-range.png",
     "Extras/Attachments/portrait-akra-jr.png",
     "System/Char Sheet PDF.pdf",

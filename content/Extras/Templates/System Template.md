@@ -1,5 +1,5 @@
 ---
 tags:
   - system
-up: "[[System/index]]"
+up: "[[Choice & Chance]]"
 ---

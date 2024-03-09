@@ -4,4 +4,4 @@ tags:
   - system
 up: "[[index]]"
 ---
-![[System/index]] 
+![[Choice & Chance]] 
