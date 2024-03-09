@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b8363b550eee70a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Party.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +121,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Party/index.md"
+                "file": "Party.md"
               }
             }
           },
@@ -118,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Party/index.md",
+                "file": "Party.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Party/index.md",
+                "file": "Party.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Party/index.md"
+                "file": "Party.md"
               }
             }
           },
@@ -176,10 +189,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "93cab8640c6161d0",
+  "active": "b8363b550eee70a8",
   "lastOpenFiles": [
-    "Campaign.md",
     "Party/index.md",
+    "Party.md",
+    "Campaign.md",
     "index.md",
     "Extras/Attachments/fig-forest-ruin.png",
     "Extras/Attachments/fig-forest-swamp-hut.png",
@@ -214,7 +228,6 @@
     "System/Armor.md",
     "Setting/Dimen & Abeghin.md",
     "System/Rolling the Dice.md",
-    "System/Creating a Character.md",
     "System/Char Sheet PDF.pdf",
     "System/Char Sheet PDF Generator.pdf",
     "System/Char Sheet.pdf",
