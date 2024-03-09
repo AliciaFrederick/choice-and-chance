@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System/Combat.md",
+                "file": "Extras/Templates/System Template.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:session-notes",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,6 +76,17 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "afc9a4832a34886c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
         ]
       }
@@ -92,12 +103,22 @@
         "type": "tabs",
         "children": [
           {
+            "id": "c4955449c39f388b",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Extras/Templates/System Template.md"
+              }
+            }
+          },
+          {
             "id": "3066bd5ef6a0b099",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System/Combat.md",
+                "file": "Extras/Templates/System Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,20 +135,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System/Combat.md",
+                "file": "Extras/Templates/System Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "afc9a4832a34886c",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
               }
             }
           },
@@ -137,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System/Combat.md"
+                "file": "Extras/Templates/System Template.md"
               }
             }
           },
@@ -148,19 +158,8 @@
               "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
-          },
-          {
-            "id": "c4955449c39f388b",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "System/Combat.md"
-              }
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,14 +178,25 @@
   },
   "active": "13be41cd70962f26",
   "lastOpenFiles": [
-    "System/Char Sheet PDF.pdf",
-    "System/Armor.md",
     "System/index.md",
+    "Extras/Templates/System Template.md",
+    "System/XP.md",
+    "System/Vitality (HP).md",
+    "System/Talents.md",
+    "System/Skills.md",
+    "System/Rolling the Dice.md",
+    "System/On Magic.md",
+    "System/Creating a Character.md",
+    "System/Combat.md",
+    "System/Armor.md",
+    "Extras/Attachments/fig-range.png",
+    "Extras/Attachments/portrait-akra-jr.png",
+    "System/Char Sheet PDF.pdf",
     "Choice & Chance.md",
     "README.md",
     "index.md",
     "Party/Akra Jr.md",
-    "Extras/Attachments/continuum-of-dissociation.png",
+    "Extras/Attachments/fig-continuum-of-dissociation.png",
     "Mood Board.canvas",
     "Extras/Concept.md",
     "Extras/Templates/Char Sheet Template.md",
@@ -195,14 +205,11 @@
     "Extras/Attachments/token_akra-jr-EFC96C-1x1.png",
     "Extras/Attachments/token_akra-jr-1x1.png",
     "Extras/Attachments/token_akra-jr 1x1.png",
-    "System/Creating a Character.md",
     "Extras/Templates/Char Sheet PDF.md",
     "System/Char Sheet PDF Generator.pdf",
     "System/Char Sheet.pdf",
-    "System/Vitality (HP).md",
     "Extras/Char Sheet.pdf",
     "Kh'thand.md",
-    "Extras/Attachments/Screenshot 2024-03-04 2.13.24 AM.png",
     "circle.svg",
     "Screenshot 2024-03-04 2.07.35 AM.png",
     "Untitled.md",
@@ -210,14 +217,7 @@
     "Session Notes/2024-03-02.md",
     "Extras/Templates/Session Notes.md",
     "Extras/Templates/Lucide icon SVG.md",
-    "System/Talents.md",
-    "System/Combat.md",
-    "System/On Magic.md",
-    "System/Rolling the Dice.md",
-    "System/XP.md",
-    "System/Skills.md",
     "il_fullxfull.4945931293_4und.webp",
-    "Extras/Attachments/akra-jr.png",
     "Extras/Attachments/map-kh'thand.png",
     "Session Notes",
     "Party",

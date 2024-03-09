@@ -1,3 +1,7 @@
+---
+tags:
+  - system
+---
 ## Rolling the Dice
 
 This system uses 2d10 to roll. Tellers must roll at or under a Target Number to succeed. You add your skill to the TN to succeed.

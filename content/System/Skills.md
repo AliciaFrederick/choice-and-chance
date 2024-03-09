@@ -1,3 +1,7 @@
+---
+tags:
+  - system
+---
 ## Skills
 
 Skills TN starts at base 8. Skills can be improved a total of 6 times, each time increases TN by 1.

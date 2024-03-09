@@ -1,3 +1,7 @@
+---
+tags:
+  - system
+---
 ## Combat
 
 You get 1 action (attack, move, consume potion).
@@ -11,4 +15,4 @@ You roll to attack and to defend (Evade, Block, etc.). On a successful defense, 
 - Far: 50 -100 ft
 - Distant: 100-150ft
 
-![[Screenshot 2024-03-04 2.13.24 AM.png]] 
+![[fig-range.png]] 

@@ -1,3 +1,7 @@
+---
+tags:
+  - system
+---
 ## Talents
 
  Each talent costs 4XP.

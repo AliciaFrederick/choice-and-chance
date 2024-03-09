@@ -1,3 +1,7 @@
+---
+tags:
+  - system
+---
 ## Armor
 
 There is Light and Heavy armor, each adding a number of Armor Points. Other effects, items etc. may increase AP as well.

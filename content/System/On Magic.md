@@ -1,3 +1,7 @@
+---
+tags:
+  - system
+---
 ## On Magic
 
 Tellers manifest ‘magic’, or Forms, by connecting the dream world, their inner mind, with the outside world, physical space. It’s a process called manifesting, wherein certain ruk can practice forms by learning to control dream, and when mastered, can begin to actually manifest those forms into reality. Power is limited by a ruk’s natural form.

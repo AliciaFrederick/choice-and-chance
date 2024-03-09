@@ -7,7 +7,7 @@ vitality-max: "10"
 vitality-current: "10"
 ap: "0"
 race: Ruk
-portrait: "[[akra-jr.png]]"
+portrait: "[[portrait-akra-jr.png]]"
 token: "[[token_akra-jr-EFC96C-1x1.png]]"
 banner: "![[akra-jr.png]]"
 banner_y: 0.51606
@@ -187,4 +187,4 @@ For handling gameplay, we could go one of two ways, or a combination of both:
 1. I can play all of her Alters. This would give the rest of the group the experience of interacting with (my best interpretation of) a DID system. It would also allow me to experiment with different voices and physicalities, which is something I would like to level up in my gameplay. 
 2. Y'all could play her Alters. I could then leave the table if an Alter takes over her body in-game so that I actually have no memory of what happened when she is back in control. This would give me the experience of only the Host, with the amnesia and the confusion of finding herself in strange places and situations. Sharing the Alters would also prevent me from hogging the spotlight if she needs to have Inner World conversations with them. 
 
-![[continuum-of-dissociation.png]] 
+![[fig-continuum-of-dissociation.png]] 

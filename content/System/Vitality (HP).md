@@ -1,3 +1,7 @@
+---
+tags:
+  - system
+---
 ## Vitality (HP)
 
 Starts at 10.
