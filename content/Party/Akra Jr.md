@@ -9,7 +9,7 @@ ap: "0"
 race: Ruk
 portrait: "[[portrait-akra-jr.png]]"
 token: "[[token_akra-jr-EFC96C-1x1.png]]"
-banner: "![[akra-jr.png]]"
+banner: "![[portrait-akra-jr.png]]"
 banner_y: 0.51606
 ---
 %% 

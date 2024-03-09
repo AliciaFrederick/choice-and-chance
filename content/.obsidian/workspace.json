@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Party/Akra Jr.md",
+                "file": "Choice & Chance.md",
                 "mode": "source",
                 "source": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Party/Akra Jr.md"
+                "file": "Choice & Chance.md"
               }
             }
           },
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Party/Akra Jr.md",
+                "file": "Choice & Chance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Party/Akra Jr.md",
+                "file": "Choice & Chance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Party/Akra Jr.md"
+                "file": "Choice & Chance.md"
               }
             }
           },
@@ -178,6 +178,12 @@
   },
   "active": "13be41cd70962f26",
   "lastOpenFiles": [
+    "System/index.md",
+    "Setting/index.md",
+    "Choice & Chance.md",
+    "Party/Akra Jr.md",
+    "Party/Thorin Jr.md",
+    "Party/Cassandra Jr.md",
     "Extras/Templates/System Template.md",
     "Extras/Templates/Setting Template.md",
     "Extras/Templates/Session Notes Template.md",
@@ -192,21 +198,16 @@
     "System/Talents.md",
     "System/Skills.md",
     "System/On Magic.md",
-    "System/index.md",
     "System/Combat.md",
     "System/Armor.md",
     "Extras/Attachments/fig-range.png",
     "Extras/Attachments/portrait-akra-jr.png",
     "System/Char Sheet PDF.pdf",
-    "Choice & Chance.md",
     "README.md",
     "index.md",
-    "Party/Akra Jr.md",
     "Extras/Attachments/fig-continuum-of-dissociation.png",
     "Mood Board.canvas",
     "Extras/Concept.md",
-    "Party/Cassandra Jr.md",
-    "Party/Thorin Jr.md",
     "Extras/Attachments/token_akra-jr-EFC96C-1x1.png",
     "Extras/Attachments/token_akra-jr-1x1.png",
     "Extras/Attachments/token_akra-jr 1x1.png",
@@ -216,7 +217,6 @@
     "Kh'thand.md",
     "circle.svg",
     "Screenshot 2024-03-04 2.07.35 AM.png",
-    "Untitled.md",
     "il_fullxfull.4945931293_4und.webp",
     "Extras/Attachments/map-kh'thand.png",
     "Session Notes",

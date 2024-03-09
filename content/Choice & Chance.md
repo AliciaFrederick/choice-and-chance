@@ -2,6 +2,7 @@
 title: System
 tags:
   - system
+aliases:
 ---
 # Choice & Chance
 
