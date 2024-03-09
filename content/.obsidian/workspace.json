@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Setting/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "README.md"
+                "file": "Setting/index.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Setting/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Setting/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Setting/index.md"
               }
             }
           },
@@ -191,6 +191,7 @@
   },
   "active": "8717d685a157c987",
   "lastOpenFiles": [
+    "README.md",
     "Mood Board.canvas",
     "Kh'thand.md",
     "Choice & Chance.md",
@@ -219,7 +220,6 @@
     "Extras/Attachments/fig-range.png",
     "Extras/Attachments/portrait-akra-jr.png",
     "System/Char Sheet PDF.pdf",
-    "README.md",
     "Extras/Attachments/fig-continuum-of-dissociation.png",
     "Extras/Attachments/token_akra-jr-EFC96C-1x1.png",
     "Extras/Attachments/token_akra-jr-1x1.png",
