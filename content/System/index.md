@@ -1,1 +1,4 @@
+---
+title: System
+---
 ![[Choice & Chance]] 

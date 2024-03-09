@@ -1,5 +1,5 @@
 ---
-title: Party
+title:
 ---
 
 | Alicia                            | Joe                               | Amy                               |

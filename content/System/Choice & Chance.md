@@ -1,10 +1,8 @@
 ---
-title: System
+title: 
 tags:
   - system
-aliases:
-  - Choice & Chance
-  - System
+aliases: []
 ---
 # Choice & Chance
 

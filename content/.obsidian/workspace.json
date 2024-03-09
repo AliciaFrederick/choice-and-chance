@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/index.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Session Notes/index.md"
+                "file": "index.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/index.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/index.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/index.md"
+                "file": "index.md"
               }
             }
           },
@@ -203,19 +203,19 @@
   },
   "active": "dac3246e26c2838c",
   "lastOpenFiles": [
-    "Session Notes.md",
-    "Session Notes/index.md",
-    "System/Choice & Chance.md",
-    "System/index.md",
-    "System.md",
-    "Setting.md",
+    "Party.md",
+    "index.md",
+    "Party/index.md",
     "Campaign.md",
     "Party/Triple-A.md",
-    "Setting/Kh'thand.md",
-    "Party/index.md",
-    "Party.md",
+    "System/index.md",
+    "Session Notes.md",
+    "System.md",
+    "Setting.md",
     "Setting/index.md",
-    "index.md",
+    "System/Choice & Chance.md",
+    "Session Notes/index.md",
+    "Setting/Kh'thand.md",
     "Extras/Attachments/fig-forest-ruin.png",
     "Extras/Attachments/fig-forest-swamp-hut.png",
     "Extras/Attachments/fig-forest-twilight.png",
