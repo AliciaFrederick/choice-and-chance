@@ -34,6 +34,8 @@ INSTRUCTIONS
 1. 
 
 ## Inspiration and Ideas
+%% Links, comments, images, etc %%
+
 
 ## Mechanics
 
