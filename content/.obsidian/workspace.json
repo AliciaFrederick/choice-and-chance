@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Extras/Templates/Char Sheet PDF.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "index.md"
+                "file": "Extras/Templates/Char Sheet PDF.md"
               }
             }
           },
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Extras/Templates/Char Sheet PDF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Extras/Templates/Char Sheet PDF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Extras/Templates/Char Sheet PDF.md"
               }
             }
           },
@@ -159,8 +159,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,8 +178,8 @@
   },
   "active": "13be41cd70962f26",
   "lastOpenFiles": [
-    "Party/Akra Jr.md",
     "index.md",
+    "Party/Akra Jr.md",
     "Session Notes/2024-03-02.md",
     "Party/Cassandra Jr.md",
     "Party/Thorin Jr.md",
