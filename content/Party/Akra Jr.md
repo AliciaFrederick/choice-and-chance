@@ -19,8 +19,6 @@ INSTRUCTIONS
 3. Fill out the sheet, including the file properties
 %%
 
-# Character Concept
-
 ## Backstory
 
 ### The past
@@ -73,15 +71,15 @@ For handling gameplay, we could go one of two ways, or a combination of both:
 
 ![[fig-continuum-of-dissociation.png]] 
 
-# Mechanics
+## Mechanics
 
-## Armor
+### Armor
 
 - [ ] +0 None
 - [x] +2 Light armor
 - [ ] +4 Heavy armor
 
-## Vitality
+### Vitality
 
 - [x] 10
 - [x] 9
@@ -97,7 +95,7 @@ For handling gameplay, we could go one of two ways, or a combination of both:
 - [ ] <svg xmlns="http://www.w3.org/2000/svg" width="1rem" height="1rem" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-ambulance"><path d="M10 10H6"/><path d="M14 18V6a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2v11a1 1 0 0 0 1 1h2"/><path d="M19 18h2a1 1 0 0 0 1-1v-3.28a1 1 0 0 0-.684-.948l-1.923-.641a1 1 0 0 1-.578-.502l-1.539-3.076A1 1 0 0 0 16.382 8H14"/><path d="M8 8v4"/><path d="M9 18h6"/><circle cx="17" cy="18" r="2"/><circle cx="7" cy="18" r="2"/></svg>
 - [ ] <svg xmlns="http://www.w3.org/2000/svg" width="1rem" height="1rem" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-skull"><circle cx="9" cy="12" r="1"/><circle cx="15" cy="12" r="1"/><path d="M8 20v2h8v-2"/><path d="m12.5 17-.5-1-.5 1h1z"/><path d="M16 20a2 2 0 0 0 1.56-3.25 8 8 0 1 0-11.12 0A2 2 0 0 0 8 20"/></svg>
 
-## Forms
+### Forms
 
 AoE costs 3 XP all at once. Each of the others costs 1 XP for each improvement, up to 3 times.
 
@@ -124,7 +122,7 @@ AoE costs 3 XP all at once. Each of the others costs 1 XP for each improvement, 
 |       | Telekinesis       |     |       |          |        |         |
 |       | Visual Illusion   |     |       |          |        |         |
 
-## Skills
+### Skills
 
 Each skill increase costs 1 XP
 
@@ -157,7 +155,7 @@ Each skill increase costs 1 XP
 | Tinker              | X   |     |     |     |     |     |     |      |
 | Tracking            | X   |     |     |     |     |     |     |      |
 
-## Talents
+### Talents
 
 Each talent costs 4 XP
 
@@ -174,17 +172,17 @@ Each talent costs 4 XP
 - [ ] **Sneak Attack**: When enemy is surprised, triple damage.
 - [ ] **War Caster**: Ease 2 on checks to maintain concentration.
 
-# Equipment
+## Equipment
 
-## Money
-
-
-
-## Weapons
+### Money
 
 
 
-## Inventory
+### Weapons
+
+
+
+### Inventory
 
 
 

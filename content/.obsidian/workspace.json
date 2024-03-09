@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Party/Akra Jr.md",
+                "file": "Extras/Templates/Party Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Party/Akra Jr.md"
+                "file": "Extras/Templates/Party Template.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Party/Akra Jr.md",
+                "file": "Extras/Templates/Party Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Party/Akra Jr.md",
+                "file": "Extras/Templates/Party Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Party/Akra Jr.md"
+                "file": "Extras/Templates/Party Template.md"
               }
             }
           },
@@ -192,6 +192,7 @@
   },
   "active": "07739d85bc232140",
   "lastOpenFiles": [
+    "Party/Akra Jr.md",
     "Campaign.md",
     "Extras/Templates/Session Notes Template.md",
     "Extras/Templates/Setting Template.md",
@@ -210,7 +211,6 @@
     "Extras/Templates/Lucide icon SVG.md",
     "Extras/Templates/Party Template.md",
     "Extras/Templates/System Template.md",
-    "Party/Akra Jr.md",
     "Setting/Oanenya.md",
     "System/Armor.md",
     "Party/Thorin Jr.md",
