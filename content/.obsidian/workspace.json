@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "66591d998485dd6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,14 +176,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "66591d998485dd6e",
+  "active": "13be41cd70962f26",
   "lastOpenFiles": [
-    "System.md",
+    "Extras/Templates/Char Sheet PDF.md",
     "README.md",
+    "System.md",
     "index.md",
     "Campaign.md",
     "Setting.md",
-    "Extras/Templates/Char Sheet PDF.md",
     "Extras/Templates/Lucide icon SVG.md",
     "Extras/Templates/Party Template.md",
     "Extras/Templates/Session Notes Template.md",
