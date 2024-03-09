@@ -1,6 +1,6 @@
 ---
 tags:
   - location/poi
-up: "[[Kh'thand]]"
+up: "[[Setting/index]]"
 ---
-This mountain range is in the center of [[Kh'thand]], effectively separating the south from the north. 
+This mountain range is in the center of [[Setting/index]], effectively separating the south from the north. 

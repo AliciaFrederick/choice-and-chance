@@ -3,8 +3,8 @@ title: Welcome!
 ---
 This is the 2024 reboot of our 2019 campaign in Brent's world of Kh'thand. This time around, we are using his new custom RPG system, Choice & Chance. 
 
-- **System** - Contains the mechanical rules of [[Choice & Chance]]. 
-- **Setting** - Contains details about [[Kh'thand]] and the larger world of [[Oanenya]]. 
+- **System** - Contains the mechanical rules of [[System/index]]. 
+- **Setting** - Contains details about [[Setting/index]] and the larger world of [[Oanenya]]. 
 - **Campaign** - Contains session notes, details about the player characters, and a [[index]]. 
 - **Extras** - Contains note templates, image assets, and other supporting media. 
 

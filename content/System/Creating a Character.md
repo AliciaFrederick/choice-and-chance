@@ -1,7 +1,7 @@
 ---
 tags:
   - system
-up: "[[Choice & Chance]]"
+up: "[[System/index]]"
 ---
 1. Create a new file in the Party folder with the character's name
 2. Insert template > [[Party Template]] 

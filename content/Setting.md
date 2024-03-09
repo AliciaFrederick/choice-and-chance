@@ -3,5 +3,6 @@ aliases:
 tags:
   - setting
 up: "[[Setting/index]]"
+title: Setting
 ---
-Lorem ipsum dolor sit ...
+![[Setting/index]] 

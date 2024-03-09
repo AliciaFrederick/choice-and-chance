@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kh'thand.md",
+                "file": "Setting/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setting/index.md",
+                "file": "System/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Setting/index.md"
+                "file": "System/index.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setting/index.md",
+                "file": "System/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setting/index.md",
+                "file": "System/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setting/index.md"
+                "file": "System/index.md"
               }
             }
           },
@@ -191,14 +191,14 @@
   },
   "active": "8717d685a157c987",
   "lastOpenFiles": [
+    "Setting/index.md",
+    "System/index.md",
+    "System.md",
+    "Setting.md",
     "README.md",
     "Mood Board.canvas",
-    "Kh'thand.md",
-    "Choice & Chance.md",
     "Setting/Oanenya.md",
-    "System/index.md",
     "System/Armor.md",
-    "Setting/index.md",
     "Party/Akra Jr.md",
     "Party/Thorin Jr.md",
     "Party/Cassandra Jr.md",
