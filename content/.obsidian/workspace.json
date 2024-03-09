@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setting/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8717d685a157c987",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "System/index.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +108,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "System/index.md"
+                "file": "index.md"
               }
             }
           },
@@ -131,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System/index.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System/index.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System/index.md"
+                "file": "index.md"
               }
             }
           },
@@ -189,25 +176,27 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8717d685a157c987",
+  "active": "13be41cd70962f26",
   "lastOpenFiles": [
+    "Extras/Templates/Char Sheet PDF.md",
+    "Extras/Templates/Lucide icon SVG.md",
+    "Extras/Templates/Party Template.md",
+    "Extras/Templates/Session Notes Template.md",
+    "Extras/Templates/Setting Template.md",
+    "Extras/Templates/System Template.md",
+    "Party/Akra Jr.md",
+    "Session Notes/2024-03-02.md",
     "Setting/index.md",
     "System/index.md",
-    "System.md",
-    "Setting.md",
+    "index.md",
     "README.md",
+    "Setting.md",
+    "System.md",
     "Mood Board.canvas",
     "Setting/Oanenya.md",
     "System/Armor.md",
-    "Party/Akra Jr.md",
     "Party/Thorin Jr.md",
     "Party/Cassandra Jr.md",
-    "Extras/Templates/System Template.md",
-    "Extras/Templates/Setting Template.md",
-    "Extras/Templates/Session Notes Template.md",
-    "Extras/Templates/Party Template.md",
-    "Extras/Templates/Lucide icon SVG.md",
-    "Extras/Templates/Char Sheet PDF.md",
     "Setting/Dimen & Abeghin.md",
     "System/Rolling the Dice.md",
     "System/Creating a Character.md",
@@ -216,7 +205,6 @@
     "System/Talents.md",
     "System/Skills.md",
     "System/On Magic.md",
-    "System/Combat.md",
     "Extras/Attachments/fig-range.png",
     "Extras/Attachments/portrait-akra-jr.png",
     "System/Char Sheet PDF.pdf",

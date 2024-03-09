@@ -1,5 +1,6 @@
 ---
 title: Welcome!
+aliases: []
 ---
 This is the 2024 reboot of our 2019 campaign in Brent's world of Kh'thand. This time around, we are using his new custom RPG system, Choice & Chance. 
 

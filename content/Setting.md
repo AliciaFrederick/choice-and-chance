@@ -1,8 +1,7 @@
 ---
-aliases: 
 tags:
   - setting
-up: "[[Setting/index]]"
+up: "[[index]]"
 title: Setting
 ---
 ![[Setting/index]] 

@@ -1,5 +1,7 @@
 ---
 title: Campaign
+aliases:
+  - Home
 ---
 - [ ] Add Joe and Amy's character images
 - [ ] Try out [Dasboard++](https://github.com/TfTHacker/DashboardPlusPlus)  
