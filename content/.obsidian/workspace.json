@@ -11,8 +11,12 @@
             "id": "13be41cd70962f26",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "System/Combat.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -93,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "System/Combat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "System/Combat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "System/Combat.md"
+              }
             }
           },
           {
@@ -146,11 +154,13 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "System/Combat.md"
+              }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -169,10 +179,14 @@
   },
   "active": "13be41cd70962f26",
   "lastOpenFiles": [
+    "System/Char Sheet PDF.pdf",
+    "System/Armor.md",
+    "System/index.md",
+    "Choice & Chance.md",
+    "README.md",
     "index.md",
     "Party/Akra Jr.md",
     "Extras/Attachments/continuum-of-dissociation.png",
-    "Campaign Overview.md",
     "Mood Board.canvas",
     "Extras/Concept.md",
     "Extras/Templates/Char Sheet Template.md",
@@ -182,9 +196,7 @@
     "Extras/Attachments/token_akra-jr-1x1.png",
     "Extras/Attachments/token_akra-jr 1x1.png",
     "System/Creating a Character.md",
-    "Choice & Chance.md",
     "Extras/Templates/Char Sheet PDF.md",
-    "System/Char Sheet PDF.pdf",
     "System/Char Sheet PDF Generator.pdf",
     "System/Char Sheet.pdf",
     "System/Vitality (HP).md",
@@ -200,12 +212,10 @@
     "Extras/Templates/Lucide icon SVG.md",
     "System/Talents.md",
     "System/Combat.md",
-    "System/Armor.md",
     "System/On Magic.md",
     "System/Rolling the Dice.md",
     "System/XP.md",
     "System/Skills.md",
-    "Setting/Quajreyas.md",
     "il_fullxfull.4945931293_4und.webp",
     "Extras/Attachments/akra-jr.png",
     "Extras/Attachments/map-kh'thand.png",

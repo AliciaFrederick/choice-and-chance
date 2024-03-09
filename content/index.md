@@ -1,18 +1,33 @@
 ---
-title: Welcome!
+title: Campaign
 ---
-This is the 2024 reboot of our 2019 campaign in Brent's world of Kh'thand. This time around, we are using his new custom RPG system, Choice & Chance. 
+- [ ] Add Joe and Amy's character images
+- [ ] Try out [Dasboard++](https://github.com/TfTHacker/DashboardPlusPlus)  
+- [ ] Add Home Page plugin
 
-- **System** - Contains the mechanical rules of [[Choice & Chance]]. 
-- **Setting** - Contains details about [[Kh'thand]] and the larger world of [[Oanenya]]. 
-- **Campaign** - Contains session notes, details about the player characters, and a [[Campaign Overview]]. 
-- **Extras** - Contains note templates, image assets, and other supporting media. 
 
-## See Also
+# Party 
 
-- [Demiplane Invite Link](https://app.demiplane.com/share/VRI272P?utm_source=demiplane&utm_medium=share&utm_campaign=238537) 
-- [Living Google Doc](https://docs.google.com/document/d/1AFUSyEgLVVTTq5rTqS7DSrYVwWzT3wF4DFqBILeWqtE/edit#heading=h.xmhouxo6avmi) 
+| Alicia                            | Joe                               | Amy                               |
+| --------------------------------- | --------------------------------- | --------------------------------- |
+| ![[token_akra-jr-EFC96C-1x1.png]] | ![[token_akra-jr-EFC96C-1x1.png]] | ![[token_akra-jr-EFC96C-1x1.png]] |
+| [[Akra Jr]]                       | [[Thorin Jr]]                     | [[Cassandra Jr]]                  |
 
-```
-<div class="toc desktop-only"><button type="button" id="toc" class=""><h3>Table of Contents</h3><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="toc-content" style="max-height: 123px;"><ul class="overflow"><li class="depth-0"><a href="#party" data-for="party" class="in-view">Party</a></li><li class="depth-0"><a href="#session-highlights" data-for="session-highlights" class="">Session Highlights</a></li><li class="depth-0"><a href="#mood" data-for="mood" class="">Mood</a></li></ul></div></div>
-```
+# Session Highlights
+
+![[2024-03-02#2024-03-02]] 
+
+# Mood
+
+![](https://i.etsystatic.com/15139779/r/il/c7cbb8/2475750443/il_fullxfull.2475750443_jlz3.jpg)
+![](https://i.etsystatic.com/41411880/r/il/74e7ae/4945931293/il_fullxfull.4945931293_4und.jpg)
+![](https://i.pinimg.com/originals/d4/81/b6/d481b64c063b4256249dff405572bbaa.jpg)
+![](https://img.freepik.com/premium-photo/river-mountains-fantasy-art-landscape_662214-3917.jpg)
+
+![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/efbaaa35-a368-4c03-a55b-ce0f7452d0b1/d8m5q5z-7ffbeaf2-7af8-4f7f-b026-5cbc25dc95b6.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VmYmFhYTM1LWEzNjgtNGMwMy1hNTViLWNlMGY3NDUyZDBiMVwvZDhtNXE1ei03ZmZiZWFmMi03YWY4LTRmN2YtYjAyNi01Y2JjMjVkYzk1YjYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.hDdRseajEf9-nk1oWTyTvrVkhpR1LnfMdbsNIw4N034)
+![](https://image.tensorartassets.com/cdn-cgi/image/w=500,q=85/model_showcase/651795015816757228/5f3faa44-2333-e9e4-fd5b-935f756233f5.png)
+![](https://pics.craiyon.com/2023-09-18/eb59cfcbf1ba425583afb2911438abe6.webp) 
+![](https://i.pinimg.com/originals/bf/1d/16/bf1d1605e62b31685316fa5ab1f7a32d.jpg)
+
+![](https://img.freepik.com/premium-photo/faint-glow-mystical-potions-emanating-from-witchs-hut-dark-swamp_1023514-414.jpg)
+![](https://storage.googleapis.com/pai-images/97b270dd8a4a425eb1d133ae41ce6eeb.jpeg)

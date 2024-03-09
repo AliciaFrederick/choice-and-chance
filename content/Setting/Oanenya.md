@@ -1,5 +1,5 @@
 ---
-up: "[[index]]"
+up: "[[README]]"
 tags:
   - location
 ---

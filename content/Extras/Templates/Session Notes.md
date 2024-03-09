@@ -1,7 +1,7 @@
 ---
 tags:
   - session-notes
-up: "[[Campaign Overview]]"
+up: "[[index]]"
 summary: lorem ipsum
 ---
 ## {{date}}
