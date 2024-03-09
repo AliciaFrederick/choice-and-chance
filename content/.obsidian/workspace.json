@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System/index.md",
+                "file": "Campaign.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "System/index.md"
+                "file": "Campaign.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System/index.md",
+                "file": "Campaign.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System/index.md",
+                "file": "Campaign.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System/index.md"
+                "file": "Campaign.md"
               }
             }
           },
@@ -191,13 +191,15 @@
   },
   "active": "b8363b550eee70a8",
   "lastOpenFiles": [
-    "Party/index.md",
-    "Party/Party.md",
-    "System/index.md",
-    "System/Choice & Chance.md",
-    "System.md",
     "Party.md",
     "Setting.md",
+    "Party/Triple-A.md",
+    "Setting/Kh'thand.md",
+    "Setting/index.md",
+    "Party/index.md",
+    "System/+ Choice & Chance.md",
+    "System/index.md",
+    "System.md",
     "Campaign.md",
     "index.md",
     "Extras/Attachments/fig-forest-ruin.png",
@@ -220,8 +222,6 @@
     "Extras/Templates/Session Notes Template.md",
     "Extras/Templates/Setting Template.md",
     "README.md",
-    "Setting/index.md",
-    "Setting/Kh'thand.md",
     "Setting/Kan.md",
     "Extras/Templates/Lucide icon SVG.md",
     "Extras/Templates/System Template.md",

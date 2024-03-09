@@ -1,1 +1,2 @@
-![[Party/index|index]] 
+![[Triple-A]] 
+

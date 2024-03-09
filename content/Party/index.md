@@ -1,4 +1,1 @@
----
-title: Party
----
-[[Party/Party]]
+![[Triple-A|Triple-A]] 

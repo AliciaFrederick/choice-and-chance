@@ -10,7 +10,7 @@ cssclasses:
 ---
 ## Party 
 
-![[Party/index]]
+![[Triple-A]] 
 
 ## Session Highlights
 
