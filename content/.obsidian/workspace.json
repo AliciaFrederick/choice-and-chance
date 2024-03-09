@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Overview.md",
+                "file": "Party/Akra Jr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Overview.md",
+                "file": "Party/Akra Jr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Overview.md"
+                "file": "Party/Akra Jr.md"
               }
             }
           },
@@ -167,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Campaign Overview.md"
+                "file": "Party/Akra Jr.md"
               }
             }
           }
@@ -189,10 +190,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a6ae9609ff383dc1",
+  "active": "13be41cd70962f26",
   "lastOpenFiles": [
-    "Mood Board.canvas",
+    "Extras/Attachments/continuum-of-dissociation.png",
     "Campaign Overview.md",
+    "Mood Board.canvas",
     "Party/Akra Jr.md",
     "Extras/Concept.md",
     "Extras/Templates/Char Sheet Template.md",
