@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Party.md",
+                "file": "System/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Party.md"
+                "file": "System/index.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Party.md",
+                "file": "System/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Party.md",
+                "file": "System/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Party.md"
+                "file": "System/index.md"
               }
             }
           },
@@ -192,7 +192,12 @@
   "active": "b8363b550eee70a8",
   "lastOpenFiles": [
     "Party/index.md",
+    "Party/Party.md",
+    "System/index.md",
+    "System/Choice & Chance.md",
+    "System.md",
     "Party.md",
+    "Setting.md",
     "Campaign.md",
     "index.md",
     "Extras/Attachments/fig-forest-ruin.png",
@@ -214,12 +219,8 @@
     "Extras/Templates/Party Template.md",
     "Extras/Templates/Session Notes Template.md",
     "Extras/Templates/Setting Template.md",
-    "System.md",
-    "Setting.md",
     "README.md",
     "Setting/index.md",
-    "System/index.md",
-    "System/Choice & Chance.md",
     "Setting/Kh'thand.md",
     "Setting/Kan.md",
     "Extras/Templates/Lucide icon SVG.md",
@@ -227,7 +228,6 @@
     "Setting/Oanenya.md",
     "System/Armor.md",
     "Setting/Dimen & Abeghin.md",
-    "System/Rolling the Dice.md",
     "System/Char Sheet PDF.pdf",
     "System/Char Sheet PDF Generator.pdf",
     "System/Char Sheet.pdf",
