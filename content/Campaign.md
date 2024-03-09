@@ -24,8 +24,8 @@ cssclasses: []
 
 ## Mood
 
-![](https://i.etsystatic.com/15139779/r/il/c7cbb8/2475750443/il_fullxfull.2475750443_jlz3.jpg)
-![](https://i.etsystatic.com/41411880/r/il/74e7ae/4945931293/il_fullxfull.4945931293_4und.jpg)
+![[]
+![[Pasted image 20240309171251.png]]
 ![](https://i.pinimg.com/originals/d4/81/b6/d481b64c063b4256249dff405572bbaa.jpg)
 ![](https://img.freepik.com/premium-photo/river-mountains-fantasy-art-landscape_662214-3917.jpg)
 

@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5,
-    "collapsed": true
+    "width": 246.5
   },
   "right": {
     "id": "9b92aed1753f5b1e",
@@ -177,10 +176,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c4955449c39f388b",
+  "active": "13be41cd70962f26",
   "lastOpenFiles": [
-    "Campaign.md",
+    "Extras/Attachments/Pasted image 20240309171251.png",
+    "Extras/Attachments/fig-forest-gas-mask.png",
     "index.md",
+    "Mood Board.canvas",
+    "Campaign.md",
     "Extras/Templates/Char Sheet PDF.md",
     "Party/Akra Jr.md",
     "Session Notes/2024-03-02.md",
@@ -192,7 +194,6 @@
     "System.md",
     "Setting.md",
     "README.md",
-    "Mood Board.canvas",
     "Setting/index.md",
     "System/index.md",
     "System/Choice & Chance.md",
@@ -218,7 +219,6 @@
     "circle.svg",
     "Screenshot 2024-03-04 2.07.35 AM.png",
     "il_fullxfull.4945931293_4und.webp",
-    "Extras/Attachments/map-kh'thand.png",
     "Session Notes",
     "Party",
     "Party",
