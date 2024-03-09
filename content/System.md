@@ -2,6 +2,6 @@
 title: System
 tags:
   - system
-up: "[[index]]"
+up: "[[Campaign]]"
 ---
 ![[Choice & Chance]] 

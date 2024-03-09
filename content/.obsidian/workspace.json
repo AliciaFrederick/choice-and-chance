@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System/Choice & Chance.md",
+                "file": "Campaign.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -108,7 +108,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "System/Choice & Chance.md"
+                "file": "Campaign.md"
               }
             }
           },
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System/Choice & Chance.md",
+                "file": "Campaign.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System/Choice & Chance.md",
+                "file": "Campaign.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System/Choice & Chance.md"
+                "file": "Campaign.md"
               }
             }
           },
@@ -176,17 +176,20 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6b01efd9d0313a85",
+  "active": "13be41cd70962f26",
   "lastOpenFiles": [
+    "index.md",
+    "System.md",
+    "Setting.md",
+    "README.md",
+    "Mood Board.canvas",
+    "Campaign.md",
     "Setting/index.md",
+    "System/index.md",
+    "System/Choice & Chance.md",
     "Setting/Kh'thand.md",
     "Setting/Kan.md",
-    "README.md",
     "Extras/Templates/Char Sheet PDF.md",
-    "System.md",
-    "index.md",
-    "Campaign.md",
-    "Setting.md",
     "Extras/Templates/Lucide icon SVG.md",
     "Extras/Templates/Party Template.md",
     "Extras/Templates/Session Notes Template.md",
@@ -194,8 +197,6 @@
     "Extras/Templates/System Template.md",
     "Party/Akra Jr.md",
     "Session Notes/2024-03-02.md",
-    "System/Choice & Chance.md",
-    "Mood Board.canvas",
     "Setting/Oanenya.md",
     "System/Armor.md",
     "Party/Thorin Jr.md",
@@ -203,8 +204,6 @@
     "Setting/Dimen & Abeghin.md",
     "System/Rolling the Dice.md",
     "System/Creating a Character.md",
-    "System/XP.md",
-    "System/Vitality (HP).md",
     "Extras/Attachments/fig-range.png",
     "Extras/Attachments/portrait-akra-jr.png",
     "System/Char Sheet PDF.pdf",

@@ -2,6 +2,6 @@
 title: Setting
 tags:
   - setting
-up: "[[index]]"
+up: "[[Campaign]]"
 ---
 ![[Kh'thand]] 
