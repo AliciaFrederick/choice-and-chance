@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Extras/Templates/System Template.md",
+                "file": "System/index.md",
                 "mode": "source",
                 "source": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Extras/Templates/System Template.md"
+                "file": "System/index.md"
               }
             }
           },
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extras/Templates/System Template.md",
+                "file": "System/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extras/Templates/System Template.md",
+                "file": "System/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extras/Templates/System Template.md"
+                "file": "System/index.md"
               }
             }
           },
@@ -178,17 +178,22 @@
   },
   "active": "13be41cd70962f26",
   "lastOpenFiles": [
-    "System/index.md",
+    "System/Creating a Character.md",
+    "System/Combat.md",
+    "System/Armor.md",
     "Extras/Templates/System Template.md",
+    "Extras/Templates/Setting Template.md",
+    "Extras/Templates/Session Notes Template.md",
+    "Extras/Templates/Party Template.md",
+    "Extras/Templates/Char Sheet PDF.md",
+    "Extras/Templates/Lucide icon SVG.md",
+    "System/index.md",
     "System/XP.md",
     "System/Vitality (HP).md",
     "System/Talents.md",
     "System/Skills.md",
     "System/Rolling the Dice.md",
     "System/On Magic.md",
-    "System/Creating a Character.md",
-    "System/Combat.md",
-    "System/Armor.md",
     "Extras/Attachments/fig-range.png",
     "Extras/Attachments/portrait-akra-jr.png",
     "System/Char Sheet PDF.pdf",
@@ -199,13 +204,11 @@
     "Extras/Attachments/fig-continuum-of-dissociation.png",
     "Mood Board.canvas",
     "Extras/Concept.md",
-    "Extras/Templates/Char Sheet Template.md",
     "Party/Cassandra Jr.md",
     "Party/Thorin Jr.md",
     "Extras/Attachments/token_akra-jr-EFC96C-1x1.png",
     "Extras/Attachments/token_akra-jr-1x1.png",
     "Extras/Attachments/token_akra-jr 1x1.png",
-    "Extras/Templates/Char Sheet PDF.md",
     "System/Char Sheet PDF Generator.pdf",
     "System/Char Sheet.pdf",
     "Extras/Char Sheet.pdf",
@@ -214,9 +217,6 @@
     "Screenshot 2024-03-04 2.07.35 AM.png",
     "Untitled.md",
     "Setting/Oanenya.md",
-    "Session Notes/2024-03-02.md",
-    "Extras/Templates/Session Notes.md",
-    "Extras/Templates/Lucide icon SVG.md",
     "il_fullxfull.4945931293_4und.webp",
     "Extras/Attachments/map-kh'thand.png",
     "Session Notes",
