@@ -1,7 +1,7 @@
 ---
 tags:
   - pc
-up: "[[Campaign]]"
+up: "[[index]]"
 xp-available: "15"
 vitality-max: "10"
 vitality-current: "10"

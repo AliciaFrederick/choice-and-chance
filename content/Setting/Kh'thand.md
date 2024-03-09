@@ -2,9 +2,9 @@
 up: "[[Oanenya]]"
 tags:
   - location
-title: Setting
+  - setting
+title: 
 aliases:
-  - Setting
   - Kh'thand
 ---
 [[Kh'thand]] is an island continent on the world of [[Oanenya]], blanketed by forest and divided by mountains. The cities and villages of Kh'thand are mostly populated by [[Ruk]]. [[Ohntac]] tend to avoid cities, preferring to live in the wilderness instead. [[Kan]] from both ancestries are respected and feared in equal measure. 

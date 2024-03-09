@@ -1,7 +1,7 @@
 ---
 tags:
   - session-notes
-up: "[[Campaign]]"
+up: "[[index]]"
 summary: lorem ipsum
 ---
 

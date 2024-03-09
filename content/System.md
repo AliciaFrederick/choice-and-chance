@@ -2,5 +2,5 @@
 title: System
 tags:
   - system
-up: "[[Campaign]]"
+up: "[[index]]"
 ---

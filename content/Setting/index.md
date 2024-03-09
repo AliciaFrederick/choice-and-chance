@@ -1,1 +1,4 @@
+---
+title: Setting
+---
 ![[Kh'thand]] 
