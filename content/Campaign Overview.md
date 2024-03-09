@@ -2,14 +2,15 @@
 title: Campaign
 ---
 - [ ] Add Joe and Amy's character images
+- [ ] Try out Dasboard++ 
 
 
 # Party 
 
-| Alicia           | Joe              | Amy              |
-| ---------------- | ---------------- | ---------------- |
+| Alicia                            | Joe                               | Amy                               |
+| --------------------------------- | --------------------------------- | --------------------------------- |
 | ![[token_akra-jr-EFC96C-1x1.png]] | ![[token_akra-jr-EFC96C-1x1.png]] | ![[token_akra-jr-EFC96C-1x1.png]] |
-| [[Akra Jr]]      | [[Thorin Jr]]    | [[Cassandra Jr]] |
+| [[Akra Jr]]                       | [[Thorin Jr]]                     | [[Cassandra Jr]]                  |
 
 # Session Highlights
 

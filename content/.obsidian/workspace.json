@@ -15,7 +15,7 @@
               "state": {
                 "file": "Campaign Overview.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
@@ -191,17 +191,17 @@
   },
   "active": "a6ae9609ff383dc1",
   "lastOpenFiles": [
+    "Mood Board.canvas",
+    "Campaign Overview.md",
     "Party/Akra Jr.md",
     "Extras/Concept.md",
     "Extras/Templates/Char Sheet Template.md",
-    "Campaign Overview.md",
     "Party/Cassandra Jr.md",
     "Party/Thorin Jr.md",
     "Extras/Attachments/token_akra-jr-EFC96C-1x1.png",
     "Extras/Attachments/token_akra-jr-1x1.png",
     "Extras/Attachments/token_akra-jr 1x1.png",
     "index.md",
-    "Mood Board.canvas",
     "System/Creating a Character.md",
     "Choice & Chance.md",
     "Extras/Templates/Char Sheet PDF.md",
