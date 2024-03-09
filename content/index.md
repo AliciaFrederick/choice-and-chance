@@ -1,5 +1,5 @@
 ---
 tags: 
-title:
+title: Home
 ---
 ![[Campaign]] 

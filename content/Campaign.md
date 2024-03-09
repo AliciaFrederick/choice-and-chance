@@ -3,27 +3,25 @@ title: Campaign
 tags:
   - campaign
 up: "[[README]]"
-aliases:
-  - Home
 ---
-# Party 
+## Party 
 
 | Alicia                            | Joe                               | Amy                               |
 | --------------------------------- | --------------------------------- | --------------------------------- |
 | ![[token_akra-jr-EFC96C-1x1.png]] | ![[token_akra-jr-EFC96C-1x1.png]] | ![[token_akra-jr-EFC96C-1x1.png]] |
 | [[Akra Jr]]                       | [[Thorin Jr]]                     | [[Cassandra Jr]]                  |
 
-# Session Highlights
+## Session Highlights
 
 ![[2024-03-02#2024-03-02]] 
 
-# Maintenance
+## Maintenance
 
 - [ ] Add Joe and Amy's character images
 - [ ] Try out [Dasboard++](https://github.com/TfTHacker/DashboardPlusPlus)  
 - [ ] Add Home Page plugin
 
-# Mood
+## Mood
 
 ![](https://i.etsystatic.com/15139779/r/il/c7cbb8/2475750443/il_fullxfull.2475750443_jlz3.jpg)
 ![](https://i.etsystatic.com/41411880/r/il/74e7ae/4945931293/il_fullxfull.4945931293_4und.jpg)
