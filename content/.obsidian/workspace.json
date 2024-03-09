@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +121,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Campaign.md"
+                "file": "Session Notes/2024-03-02.md"
               }
             }
           },
@@ -130,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign.md",
+                "file": "Session Notes/2024-03-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign.md",
+                "file": "Session Notes/2024-03-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign.md"
+                "file": "Session Notes/2024-03-02.md"
               }
             }
           },
@@ -188,10 +189,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "13be41cd70962f26",
+  "active": "07739d85bc232140",
   "lastOpenFiles": [
-    "Session Notes/2024-03-02.md",
     "Campaign.md",
+    "Session Notes/2024-03-02.md",
     "index.md",
     "System.md",
     "Setting.md",
