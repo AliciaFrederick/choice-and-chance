@@ -4,4 +4,4 @@ tags:
   - system
 up: "[[Campaign]]"
 ---
-![[+ Choice & Chance]] 
+![[Choice & Chance]] 

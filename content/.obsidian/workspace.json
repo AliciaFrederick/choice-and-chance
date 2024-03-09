@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign.md",
+                "file": "Session Notes/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dac3246e26c2838c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +133,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Campaign.md"
+                "file": "Session Notes/index.md"
               }
             }
           },
@@ -131,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign.md",
+                "file": "Session Notes/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign.md",
+                "file": "Session Notes/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign.md"
+                "file": "Session Notes/index.md"
               }
             }
           },
@@ -189,18 +201,20 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b8363b550eee70a8",
+  "active": "dac3246e26c2838c",
   "lastOpenFiles": [
-    "Party.md",
-    "Setting.md",
-    "Party/Triple-A.md",
-    "Setting/Kh'thand.md",
-    "Setting/index.md",
-    "Party/index.md",
-    "System/+ Choice & Chance.md",
+    "Session Notes.md",
+    "Session Notes/index.md",
+    "System/Choice & Chance.md",
     "System/index.md",
     "System.md",
+    "Setting.md",
     "Campaign.md",
+    "Party/Triple-A.md",
+    "Setting/Kh'thand.md",
+    "Party/index.md",
+    "Party.md",
+    "Setting/index.md",
     "index.md",
     "Extras/Attachments/fig-forest-ruin.png",
     "Extras/Attachments/fig-forest-swamp-hut.png",
@@ -226,8 +240,6 @@
     "Extras/Templates/Lucide icon SVG.md",
     "Extras/Templates/System Template.md",
     "Setting/Oanenya.md",
-    "System/Armor.md",
-    "Setting/Dimen & Abeghin.md",
     "System/Char Sheet PDF.pdf",
     "System/Char Sheet PDF Generator.pdf",
     "System/Char Sheet.pdf",
