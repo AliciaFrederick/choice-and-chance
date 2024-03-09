@@ -25,16 +25,17 @@ cssclasses:
 
 ## Mood
 
-![[fig-forest-gas-mask.png]] 
+![[fig-forest-stalker.png]] 
+![[fig-forest-twilight.png]] 
+![[fig-forest-ruin.png]] 
+
+
+![[fig-forest-swamp-hut.png]] 
 ![[fig-mountain-valley-city.png]] 
+![[fig-mountain-river-valley.png]] 
+
 ![[fig-sea-cliff-village.png]] 
-![[Pasted image 20240309171548.png]] 
+![[fig-sea-cove-city.png]] 
+![[fig-sea-cliff-city.png]]  
 
-![[Pasted image 20240309171604.png]] 
-![[Pasted image 20240309171639.png]] 
-![[Pasted image 20240309171654.png]]  
-![[Pasted image 20240309171705.png]] 
-
-![[Pasted image 20240309171733.png]] 
-![[Pasted image 20240309171747.png]] 
 
