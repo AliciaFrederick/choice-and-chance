@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System/index.md",
+                "file": "Party/Akra Jr.md",
                 "mode": "source",
                 "source": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "System/index.md"
+                "file": "Party/Akra Jr.md"
               }
             }
           },
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System/index.md",
+                "file": "Party/Akra Jr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System/index.md",
+                "file": "Party/Akra Jr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System/index.md"
+                "file": "Party/Akra Jr.md"
               }
             }
           },
@@ -178,22 +178,23 @@
   },
   "active": "13be41cd70962f26",
   "lastOpenFiles": [
-    "System/Creating a Character.md",
-    "System/Combat.md",
-    "System/Armor.md",
     "Extras/Templates/System Template.md",
     "Extras/Templates/Setting Template.md",
     "Extras/Templates/Session Notes Template.md",
     "Extras/Templates/Party Template.md",
-    "Extras/Templates/Char Sheet PDF.md",
     "Extras/Templates/Lucide icon SVG.md",
-    "System/index.md",
+    "Extras/Templates/Char Sheet PDF.md",
+    "Setting/Dimen & Abeghin.md",
+    "System/Rolling the Dice.md",
+    "System/Creating a Character.md",
     "System/XP.md",
     "System/Vitality (HP).md",
     "System/Talents.md",
     "System/Skills.md",
-    "System/Rolling the Dice.md",
     "System/On Magic.md",
+    "System/index.md",
+    "System/Combat.md",
+    "System/Armor.md",
     "Extras/Attachments/fig-range.png",
     "Extras/Attachments/portrait-akra-jr.png",
     "System/Char Sheet PDF.pdf",
@@ -216,7 +217,6 @@
     "circle.svg",
     "Screenshot 2024-03-04 2.07.35 AM.png",
     "Untitled.md",
-    "Setting/Oanenya.md",
     "il_fullxfull.4945931293_4und.webp",
     "Extras/Attachments/map-kh'thand.png",
     "Session Notes",
