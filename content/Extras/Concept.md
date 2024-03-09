@@ -6,9 +6,17 @@ I was adopted as a small child by a loving pair of mothers who lived in a villag
 
 As a young adult, I and the other Ruk'kan of the village maintain a magical ward to keep the forest from overtaking us. In the last few months however, the ward has been more difficult to keep up, even failing completely once or twice. We don't know why this is happening, and on top of this my episodes of memory loss have been coming more frequently, causing even more conflict. I'm secretly afraid that I might be causing the failures during the amnesia episodes. 
 
-Last week, after having an argument with my best friend about something I couldn't remember, I ran into the forest to clear my head. The next thing I knew, it was several hours later and I was standing in the center of the village with no memory of how I got there. I was surrounded by dismembered and incinerated bodies. 
+Last week, after having an argument with my best friend about something I couldn't remember, I ran into the forest to clear my head. The next thing I knew, it was several hours later and I was standing in the center of the village with no memory of how I got there. 
 
-I believe it's my fault that everyone I love is dead. Even if I didn't destroy the village, the ward must have gone down while I was in the forest and unable to help. I'm guessing the other Ruk'kan couldn't get it back up in time to protect the village from whatever caused the devastation. Now, with no way to maintain the ward and no survivors in the village, I have been forced to travel to Quajreyas for safety and work.
+### Option 1: I was surrounded by dismembered and incinerated bodies.
+
+I believe it's my fault that everyone I love is dead. Even if I didn't destroy the village, the ward must have gone down while I was in the forest and unable to help. I'm guessing the other Ruk'kan couldn't get it back up in time to protect the village from whatever caused the devastation. 
+
+### Option 2: Everyone was gone with no indication of where they went.
+
+
+
+Now, with no way to maintain the ward and no one left in the village, I have been forced to travel to Quajreyas for safety and work.
 
 ## Potential Motivations
 
