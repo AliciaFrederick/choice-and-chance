@@ -13,6 +13,7 @@ summary: lorem ipsum
 
 - [ ] 
 
-### {{date}} %% Summary for Campaign page %%
+### {{date}} 
+%% Summary for Campaign page %%
 
 Lorem ipsum dolor sit ...

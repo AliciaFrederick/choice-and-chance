@@ -146,25 +146,25 @@ As a young adult, I and the other Ruk'kan of the village maintain a magical ward
 
 Last week, after having an argument with my best friend about something I couldn't remember, I ran into the forest to clear my head. The next thing I knew, it was several hours later and I was standing in the center of the village with no memory of how I got there. 
 
-### The present - option 1: I was surrounded by dismembered and incinerated bodies.
+#### Option 1: I was surrounded by dismembered and incinerated bodies.
 
 I believe it's my fault that everyone I love is dead. Even if I didn't destroy the village, the ward must have gone down while I was in the forest and unable to help. I'm guessing the other Ruk'kan couldn't get it back up in time to protect the village from whatever caused the devastation. 
 
-### The present - option 2: Everyone was gone with no indication of where they went.
+#### Option 2: Everyone was gone with no indication of where they went.
 
 I believe it's my fault that everyone I love is gone. Even if I wasn't the reason they abandoned me and the village, the ward must have gone down while I was in the forest and unable to help. I'm guessing the other Ruk'kan couldn't get it back up in time to protect the village from whatever caused them to flee. I have no idea if they are alive or dead. 
 
-### The future
+### The present
 
 Now, with no way to maintain the ward and no one left in the village, I have been forced to travel to Quajreyas for safety and work.
 
-## Potential Motivations
+### The future
 
 1. I want to find out what happened to my village. 
 2. I want to find out if I caused the ward to fail. 
-3. I want to find out why I keep losing my memory for hours at a time.
-4. I want to find out why I have DID (unknown early childhood trauma). 
-5. I want to meet and integrate my Alters.
+3. I want to find out why I keep losing my memory for hours at a time (if I don't know I have DID yet).
+4. I want to find out why I have DID (unknown events in my early childhood). 
+5. I want to meet and improve communication with my Alters.
 6. I want to find my birth parents. 
 
 ## Inspiration and Ideas

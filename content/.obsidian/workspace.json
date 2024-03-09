@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/2024-03-02.md",
+                "file": "Party/Akra Jr.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Session Notes/2024-03-02.md"
+                "file": "Party/Akra Jr.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2024-03-02.md",
+                "file": "Party/Akra Jr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/2024-03-02.md",
+                "file": "Party/Akra Jr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2024-03-02.md"
+                "file": "Party/Akra Jr.md"
               }
             }
           },
@@ -193,8 +193,9 @@
   "active": "07739d85bc232140",
   "lastOpenFiles": [
     "Campaign.md",
-    "Session Notes/2024-03-02.md",
     "Extras/Templates/Session Notes Template.md",
+    "Extras/Templates/Setting Template.md",
+    "Session Notes/2024-03-02.md",
     "index.md",
     "System.md",
     "Setting.md",
@@ -208,7 +209,6 @@
     "Extras/Templates/Char Sheet PDF.md",
     "Extras/Templates/Lucide icon SVG.md",
     "Extras/Templates/Party Template.md",
-    "Extras/Templates/Setting Template.md",
     "Extras/Templates/System Template.md",
     "Party/Akra Jr.md",
     "Setting/Oanenya.md",
