@@ -172,7 +172,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -193,6 +194,7 @@
   "lastOpenFiles": [
     "Campaign.md",
     "Session Notes/2024-03-02.md",
+    "Extras/Templates/Session Notes Template.md",
     "index.md",
     "System.md",
     "Setting.md",
@@ -206,7 +208,6 @@
     "Extras/Templates/Char Sheet PDF.md",
     "Extras/Templates/Lucide icon SVG.md",
     "Extras/Templates/Party Template.md",
-    "Extras/Templates/Session Notes Template.md",
     "Extras/Templates/Setting Template.md",
     "Extras/Templates/System Template.md",
     "Party/Akra Jr.md",

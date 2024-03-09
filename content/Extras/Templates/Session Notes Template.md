@@ -4,9 +4,6 @@ tags:
 up: "[[Campaign]]"
 summary: lorem ipsum
 ---
-## {{date}}
-
-Lorem ipsum dolor sit ...
 
 ## Notes
 
@@ -15,3 +12,7 @@ Lorem ipsum dolor sit ...
 ## Action Items
 
 - [ ] 
+
+### {{date}} %% Summary for Campaign page %%
+
+Lorem ipsum dolor sit ...

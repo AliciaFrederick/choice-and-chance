@@ -13,8 +13,7 @@ up: "[[README]]"
 
 ## Session Highlights
 
-### [[2024-03-02]] 
-![[2024-03-02#^summary]]  
+![[2024-03-02#2024-03-02 Summary for Campaign page]]  
 
 ## Maintenance
 
