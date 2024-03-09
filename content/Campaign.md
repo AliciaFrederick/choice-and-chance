@@ -5,6 +5,8 @@ tags:
 up: "[[README]]"
 cssclasses:
   - img-grid
+  - img-max
+  - max
 ---
 ## Party 
 
@@ -27,15 +29,15 @@ cssclasses:
 
 ![[fig-forest-stalker.png]] 
 ![[fig-forest-twilight.png]] 
-![[fig-forest-ruin.png]] 
-
-
 ![[fig-forest-swamp-hut.png]] 
-![[fig-mountain-valley-city.png]] 
+
+![[fig-forest-ruin.png]] 
 ![[fig-mountain-river-valley.png]] 
+![[fig-mountain-valley-city.png]] 
 
 ![[fig-sea-cliff-village.png]] 
-![[fig-sea-cove-city.png]] 
 ![[fig-sea-cliff-city.png]]  
+![[fig-sea-cove-city.png]] 
+
 
 
