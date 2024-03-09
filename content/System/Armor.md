@@ -1,7 +1,7 @@
 ---
 tags:
   - system
-up: "[[System]]"
+up: "[[Choice & Chance]]"
 ---
 ## Armor
 

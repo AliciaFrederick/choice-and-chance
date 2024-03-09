@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setting/Oanenya.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +121,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Kh'thand.md"
+                "file": "README.md"
               }
             }
           },
@@ -130,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kh'thand.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kh'thand.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kh'thand.md"
+                "file": "README.md"
               }
             }
           },
@@ -188,14 +189,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "13be41cd70962f26",
+  "active": "8717d685a157c987",
   "lastOpenFiles": [
-    "System.md",
+    "Mood Board.canvas",
     "Kh'thand.md",
+    "Choice & Chance.md",
+    "Setting/Oanenya.md",
     "System/index.md",
     "System/Armor.md",
     "Setting/index.md",
-    "Setting/Oanenya.md",
     "Party/Akra Jr.md",
     "Party/Thorin Jr.md",
     "Party/Cassandra Jr.md",
@@ -218,9 +220,7 @@
     "Extras/Attachments/portrait-akra-jr.png",
     "System/Char Sheet PDF.pdf",
     "README.md",
-    "index.md",
     "Extras/Attachments/fig-continuum-of-dissociation.png",
-    "Mood Board.canvas",
     "Extras/Attachments/token_akra-jr-EFC96C-1x1.png",
     "Extras/Attachments/token_akra-jr-1x1.png",
     "Extras/Attachments/token_akra-jr 1x1.png",
