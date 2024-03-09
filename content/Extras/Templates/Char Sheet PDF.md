@@ -1,7 +1,7 @@
 ---
 tags:
   - pc
-up: "[[Choice & Chance]]"
+up: "[[System]]"
 xp-available: "15"
 vitality-max: "10"
 vitality-current: "10"
@@ -9,7 +9,7 @@ ap: "0"
 race: Ruk
 portrait: 
 token: 
-banner:
+banner: 
 ---
 ## Armor & Vitality
 

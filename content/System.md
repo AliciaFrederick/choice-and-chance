@@ -3,6 +3,7 @@ title: System
 tags:
   - system
 aliases:
+  - Choice & Chance
 ---
 # Choice & Chance
 

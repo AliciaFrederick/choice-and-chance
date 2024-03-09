@@ -2,6 +2,9 @@
 up: "[[README]]"
 tags:
   - location
+aliases:
+  - World
+title: World
 ---
 Oanenya is a low-magic non-European medieval fantasy world. Populated by peoples of Ruk and Ohntac ancestry, both races occasionally produce Kan - individuals possessing innate magical abilities. 
 
