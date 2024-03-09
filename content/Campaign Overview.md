@@ -2,7 +2,7 @@
 title: Campaign
 ---
 - [ ] Add Joe and Amy's character images
-- [ ] Try out Dasboard++ 
+- [ ] Try out [Dasboard++](https://github.com/TfTHacker/DashboardPlusPlus)  
 
 
 # Party 
