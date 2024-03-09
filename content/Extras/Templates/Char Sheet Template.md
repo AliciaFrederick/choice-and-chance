@@ -129,3 +129,29 @@ Each talent costs 4 XP
 
 ### Inventory
 
+
+# Character Concept
+
+## Backstory
+
+### The past
+
+
+
+### The present - option 1: I was surrounded by dismembered and incinerated bodies.
+
+
+
+### The present - option 2: Everyone was gone with no indication of where they went.
+
+
+
+### The future
+
+
+
+## Potential Motivations
+
+1. 
+
+## Inspiration and Ideas

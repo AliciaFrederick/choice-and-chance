@@ -25,18 +25,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Extras/Concept.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad1e23d67a7066b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Party/Akra Jr.md",
                 "mode": "source",
                 "source": false
@@ -44,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,7 +173,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -202,9 +190,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ad1e23d67a7066b8",
+  "active": "13be41cd70962f26",
   "lastOpenFiles": [
     "Extras/Concept.md",
+    "Extras/Templates/Char Sheet Template.md",
     "Party/Akra Jr.md",
     "Campaign Overview.md",
     "Party/Cassandra Jr.md",
@@ -212,7 +201,6 @@
     "Extras/Attachments/token_akra-jr-EFC96C-1x1.png",
     "Extras/Attachments/token_akra-jr-1x1.png",
     "Extras/Attachments/token_akra-jr 1x1.png",
-    "Extras/Templates/Char Sheet Template.md",
     "index.md",
     "Mood Board.canvas",
     "System/Creating a Character.md",
