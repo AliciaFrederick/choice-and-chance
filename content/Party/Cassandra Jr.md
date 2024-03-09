@@ -7,9 +7,10 @@ vitality-max: "10"
 vitality-current: "10"
 ap: "0"
 race: Ruk
-portrait: 
+portrait: "[[akra-jr.png]]"
 token: 
-banner:
+banner: "![[akra-jr.png]]"
+banner_y: 0.51606
 ---
 %% 
 INSTRUCTIONS
