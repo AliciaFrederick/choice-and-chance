@@ -1,12 +1,14 @@
 ---
 title: Campaign
+tags:
+  - campaign
+up: "[[README]]"
 aliases:
   - Home
 ---
 - [ ] Add Joe and Amy's character images
 - [ ] Try out [Dasboard++](https://github.com/TfTHacker/DashboardPlusPlus)  
 - [ ] Add Home Page plugin
-
 
 # Party 
 
