@@ -15,8 +15,8 @@ I believe it's my fault that everyone I love is dead. Even if I didn't destroy t
 1. I want to find out what happened to my village. 
 2. I want to find out if I caused the ward to fail. 
 3. I want to find out why I keep losing my memory for hours at a time.
-4. I want to meet and integrate my Alters.
-5. I want to find out why I have DID (unknown early childhood trauma). 
+4. I want to find out why I have DID (unknown early childhood trauma). 
+5. I want to meet and integrate my Alters.
 6. I want to find my birth parents. 
 
 ## Inspiration and Ideas

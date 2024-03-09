@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Party/Akra Jr.md",
+                "file": "Extras/Concept.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Party/Akra Jr.md",
+                "file": "Extras/Concept.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Party/Akra Jr.md",
+                "file": "Extras/Concept.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Party/Akra Jr.md"
+                "file": "Extras/Concept.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Party/Akra Jr.md"
+                "file": "Extras/Concept.md"
               }
             }
           }
@@ -186,15 +186,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
     }
   },
   "active": "13be41cd70962f26",
   "lastOpenFiles": [
+    "Party/Akra Jr.md",
     "Campaign Overview.md",
     "Party/Cassandra Jr.md",
     "Party/Thorin Jr.md",
-    "Party/Akra Jr.md",
     "Extras/Attachments/token_akra-jr-EFC96C-1x1.png",
     "Extras/Attachments/token_akra-jr-1x1.png",
     "Extras/Attachments/token_akra-jr 1x1.png",
