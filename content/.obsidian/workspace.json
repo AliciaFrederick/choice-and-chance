@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "System.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "index.md"
+                "file": "System.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "System.md"
               }
             }
           },
@@ -191,13 +191,13 @@
   },
   "active": "7b4a8eebc13dd6a2",
   "lastOpenFiles": [
-    "README.md",
-    "Party.md",
-    "Mood Board.canvas",
-    "index.md",
-    "System.md",
     "Setting.md",
     "Session Notes.md",
+    "Party.md",
+    "index.md",
+    "README.md",
+    "Mood Board.canvas",
+    "System.md",
     "Session Notes/index.md",
     "Session Notes/2024-03-02.md",
     "Setting/Kh'thand.md",
