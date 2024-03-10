@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setting/Quajreyas.md",
+                "file": "Setting/Kh'thand.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Setting/Quajreyas.md"
+                "file": "Setting/Kh'thand.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setting/Quajreyas.md",
+                "file": "Setting/Kh'thand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setting/Quajreyas.md",
+                "file": "Setting/Kh'thand.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setting/Quajreyas.md"
+                "file": "Setting/Kh'thand.md"
               }
             }
           },
@@ -191,6 +191,7 @@
   },
   "active": "c805556021024344",
   "lastOpenFiles": [
+    "Setting/Quajreyas.md",
     "Setting/Kh'thand.md",
     "README.md",
     "Setting/Malevolent Forest.md",
@@ -228,7 +229,6 @@
     "Party/Thorin Jr.md",
     "Extras/Templates/Party Template.md",
     "Extras/Templates/Session Notes Template.md",
-    "Extras/Templates/Setting Template.md",
     "System/Char Sheet PDF Generator.pdf",
     "System/Char Sheet.pdf",
     "Extras/Char Sheet.pdf",
