@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes.md",
+                "file": "System.md",
                 "mode": "source",
                 "source": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Session Notes.md"
+                "file": "System.md"
               }
             }
           },
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes.md",
+                "file": "System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes.md",
+                "file": "System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes.md"
+                "file": "System.md"
               }
             }
           },
@@ -163,8 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5,
-    "collapsed": true
+    "width": 311.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,10 +179,10 @@
   "active": "ebd5d8a0c6bfad17",
   "lastOpenFiles": [
     "Party.md",
+    "Session Notes.md",
+    "Setting.md",
     "index.md",
     "System.md",
-    "Setting.md",
-    "Session Notes.md",
     "Party/Akra Jr.md",
     "README.md",
     "Mood Board.canvas",

@@ -4,3 +4,4 @@ tags:
   - system
 up: "[[index]]"
 ---
+![[System/index|index]] 

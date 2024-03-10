@@ -4,3 +4,4 @@ tags:
   - setting
 up: "[[index]]"
 ---
+![[Setting/index|index]] 
