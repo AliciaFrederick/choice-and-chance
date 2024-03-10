@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ec36357978e54ba2",
+        "id": "b328511aad74ab70",
         "type": "tabs",
         "children": [
           {
-            "id": "ebd5d8a0c6bfad17",
+            "id": "a9e7b5a1ffded683",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b4a8eebc13dd6a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "System.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +108,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "System.md"
+                "file": "index.md"
               }
             }
           },
@@ -131,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System.md"
+                "file": "index.md"
               }
             }
           },
@@ -189,28 +176,28 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "7b4a8eebc13dd6a2",
+  "active": "a9e7b5a1ffded683",
   "lastOpenFiles": [
+    "Party/index.md",
+    "Party.md",
+    "Party/Triple-A.md",
+    "Setting/index.md",
+    "index.md",
+    "System.md",
     "Setting.md",
     "Session Notes.md",
-    "Party.md",
-    "index.md",
     "README.md",
     "Mood Board.canvas",
-    "System.md",
     "Session Notes/index.md",
     "Session Notes/2024-03-02.md",
     "Setting/Kh'thand.md",
     "System/index.md",
-    "Party/index.md",
     "System/Choice & Chance.md",
     "Party/Akra Jr.md",
     "Extras/Templates/C&C Character Sheet.md",
     "System/C&C Character Sheet.pdf",
     "Extras/Templates/Lucide icon SVG.md",
     "index2.md",
-    "Setting/index.md",
-    "Party/Triple-A.md",
     "Extras/Attachments/fig-forest-ruin.png",
     "Extras/Attachments/fig-forest-swamp-hut.png",
     "Extras/Attachments/fig-forest-twilight.png",
