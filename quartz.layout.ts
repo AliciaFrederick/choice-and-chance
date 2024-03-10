@@ -7,8 +7,8 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      GitHub: "https://github.com/AliciaFrederick/choice-and-chance",
+      "Demiplane Group": "https://app.demiplane.com/share/VRI272P?utm_source=demiplane&utm_medium=share&utm_campaign=238537",
     },
   }),
 }
