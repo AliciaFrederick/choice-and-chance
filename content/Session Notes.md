@@ -4,5 +4,4 @@ tags:
   - session-notes
 up: "[[index]]"
 ---
-![[Session Notes/index|Session Notes]] 
 

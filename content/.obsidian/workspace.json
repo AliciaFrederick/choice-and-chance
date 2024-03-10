@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Party.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Party.md"
+                "file": "README.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Party.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Party.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Party.md"
+                "file": "README.md"
               }
             }
           },
@@ -191,19 +191,19 @@
   },
   "active": "7b4a8eebc13dd6a2",
   "lastOpenFiles": [
+    "Party.md",
+    "Mood Board.canvas",
+    "index.md",
+    "System.md",
+    "Setting.md",
     "Session Notes.md",
     "Session Notes/index.md",
     "Session Notes/2024-03-02.md",
-    "Party.md",
-    "System.md",
-    "Setting.md",
     "Setting/Kh'thand.md",
-    "index.md",
     "System/index.md",
     "Party/index.md",
     "System/Choice & Chance.md",
     "README.md",
-    "Mood Board.canvas",
     "Party/Akra Jr.md",
     "Extras/Templates/C&C Character Sheet.md",
     "System/C&C Character Sheet.pdf",
