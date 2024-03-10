@@ -39,7 +39,6 @@ Banner.css = `
 .obsidian-banner-wrapper{
     height:250px;
     width:100%;
-    margin-top:calc(var(--banner-height) - 15px);
     padding-top:.5em;
 }
 html {
