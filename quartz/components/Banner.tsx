@@ -3,14 +3,14 @@ import { classNames } from "../util/lang"
 
 const Banner: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
   const bannerImage = fileData.frontmatter?.banner_image
-  const bannerPosition = fileData.frontmatter?.banner_y??0.53
-  const objecctPosition = `${bannerPosition*100}%`
+  const bannerPosition = fileData.frontmatter?.banner_y
+  const objecctPosition = `object-position: 50% ${(bannerPosition??0.5)*100}%;`
   
   if (bannerImage) {
     return (
         <div class={classNames(displayClass, "obsidian-banner-wrapper")}>
             <div class={classNames(displayClass, "obsidian-banner")}>
-                <img class={classNames(displayClass, "banner-image", "line-width")} src={bannerImage} style="object-position: 50% ${bannerPosition*100}%;"/>
+                <img class={classNames(displayClass, "banner-image", "line-width")} src={bannerImage} style={objecctPosition}/>
             </div>
         </div>
     )
