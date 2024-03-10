@@ -1,4 +1,4 @@
 ---
 title: Party
 ---
-![[Triple-A|Triple-A]]  ^0855ad
+![[Triple-A|Triple-A]] 

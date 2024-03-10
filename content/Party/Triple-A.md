@@ -1,5 +1,5 @@
 ---
-title:
+title: Triple-A
 ---
 
 | Alicia                            | Joe                               | Amy                               |

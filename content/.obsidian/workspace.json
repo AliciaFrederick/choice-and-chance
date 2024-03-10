@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Party/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "index.md"
+                "file": "Party/index.md"
               }
             }
           },
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Party/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Party/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Party/index.md"
               }
             }
           },
@@ -178,11 +178,12 @@
   },
   "active": "a9e7b5a1ffded683",
   "lastOpenFiles": [
+    "Party/Akra Jr.md",
     "Party/index.md",
-    "Party.md",
     "Party/Triple-A.md",
-    "Setting/index.md",
     "index.md",
+    "Party.md",
+    "Setting/index.md",
     "System.md",
     "Setting.md",
     "Session Notes.md",
@@ -193,7 +194,6 @@
     "Setting/Kh'thand.md",
     "System/index.md",
     "System/Choice & Chance.md",
-    "Party/Akra Jr.md",
     "Extras/Templates/C&C Character Sheet.md",
     "System/C&C Character Sheet.pdf",
     "Extras/Templates/Lucide icon SVG.md",
