@@ -20,8 +20,6 @@ INSTRUCTIONS
 3. Fill out the sheet, including the file properties
 %%
 
-![[portrait-akra-jr.png]] 
-
 ## Backstory
 
 ### The past
