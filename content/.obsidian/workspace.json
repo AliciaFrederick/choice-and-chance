@@ -15,11 +15,24 @@
               "state": {
                 "file": "README.md",
                 "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c805556021024344",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Party/index.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +121,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "README.md"
+                "file": "Party/index.md"
               }
             }
           },
@@ -118,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Party/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Party/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Party/index.md"
               }
             }
           },
@@ -176,12 +189,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a9e7b5a1ffded683",
+  "active": "c805556021024344",
   "lastOpenFiles": [
+    "README.md",
     "System.md",
     "Setting.md",
     "Session Notes.md",
-    "README.md",
     "Party.md",
     "index.md",
     "Party/index.md",

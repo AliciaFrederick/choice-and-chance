@@ -4,11 +4,11 @@ aliases: []
 ---
 This is the 2024 reboot of our 2019 campaign in Brent's world of Kh'thand. This time around, we are using his new custom RPG system, Choice & Chance. 
 
-- **Home** - Contains a [[index|Campaign]] overview. 
-- **Party** - Contains pages for each of [[Triple-A]]. 
-- Session Notes - Contains the 
-- **Setting** - Contains details about [[Kh'thand]] and the larger world of [[Oanenya]]. 
-- **System** - Contains the mechanical rules of [[Choice & Chance]]. 
+- [[index|Home]] - Contains a campaign overview. 
+- [[Party/index|Party]] - Contains pages for each of the player characters. 
+- [[Session Notes]] - Contains the record from each session. 
+- [[Setting]] - Contains details about [[Kh'thand]] and the larger world of [[Oanenya]]. 
+- [[System]] - Contains the mechanical rules of Choice & Chance. 
 - **Extras** - Contains note templates, image assets, and other supporting media. 
 
 ## See Also
