@@ -4,7 +4,9 @@ import * as Component from "./quartz/components"
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [],
+  header: [
+    Component.Banner(),
+  ],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/AliciaFrederick/choice-and-chance",
