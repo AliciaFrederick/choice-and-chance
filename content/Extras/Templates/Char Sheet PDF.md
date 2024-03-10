@@ -10,6 +10,7 @@ race: Ruk
 portrait: 
 token: 
 banner: 
+cssclasses:
 ---
 ## Armor & Vitality
 

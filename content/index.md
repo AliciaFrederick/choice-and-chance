@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Campaign
 tags:
   - campaign
 up: "[[README]]"

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Extras/Templates/Char Sheet PDF.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "index.md"
+                "file": "Extras/Templates/Char Sheet PDF.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Extras/Templates/Char Sheet PDF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Extras/Templates/Char Sheet PDF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Extras/Templates/Char Sheet PDF.md"
               }
             }
           },
@@ -203,9 +203,9 @@
   },
   "active": "dac3246e26c2838c",
   "lastOpenFiles": [
-    "README.md",
     "index.md",
     "index2.md",
+    "README.md",
     "Setting/Kh'thand.md",
     "System/Choice & Chance.md",
     "System/index.md",
