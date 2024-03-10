@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System.md",
+                "file": "Setting.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -108,7 +108,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "System.md"
+                "file": "Setting.md"
               }
             }
           },
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System.md",
+                "file": "Setting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System.md",
+                "file": "Setting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System.md"
+                "file": "Setting.md"
               }
             }
           },
@@ -178,18 +178,18 @@
   },
   "active": "ebd5d8a0c6bfad17",
   "lastOpenFiles": [
-    "Party.md",
     "Session Notes.md",
     "Setting.md",
+    "Party.md",
+    "Party/index.md",
+    "README.md",
+    "Mood Board.canvas",
     "index.md",
     "System.md",
     "Party/Akra Jr.md",
-    "README.md",
-    "Mood Board.canvas",
     "Extras/Templates/C&C Character Sheet.md",
     "System/C&C Character Sheet.pdf",
     "Extras/Templates/Lucide icon SVG.md",
-    "Party/index.md",
     "Session Notes/index.md",
     "index2.md",
     "Setting/Kh'thand.md",

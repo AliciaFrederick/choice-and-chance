@@ -4,4 +4,4 @@ tags:
   - pc
 up: "[[index]]"
 ---
-![[Party/index|index]] 
+![[Party/index#^0855ad|index]] 
