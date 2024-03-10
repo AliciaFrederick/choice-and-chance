@@ -7,4 +7,4 @@ up: "[[Choice & Chance]]"
 2. Insert template > [[Party Template]] 
 3. Fill out the sheet!
 
-Alternatively, you can print the [[Char Sheet PDF.pdf]] and go analog! 
+Alternatively, you can print the [[C&C Character Sheet.pdf]] and go analog! 

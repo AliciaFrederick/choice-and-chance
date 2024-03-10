@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Extras/Templates/Character Sheet PDF Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "index.md"
+                "file": "Extras/Templates/Character Sheet PDF Template.md"
               }
             }
           },
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Extras/Templates/Character Sheet PDF Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Extras/Templates/Character Sheet PDF Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Extras/Templates/Character Sheet PDF Template.md"
               }
             }
           },
@@ -178,14 +178,14 @@
   },
   "active": "ebd5d8a0c6bfad17",
   "lastOpenFiles": [
+    "index.md",
     "Mood Board.canvas",
     "Party/Akra Jr.md",
-    "index.md",
     "Party.md",
     "System.md",
     "Party/index.md",
     "Session Notes/index.md",
-    "Extras/Templates/Char Sheet PDF.md",
+    "Extras/Templates/Character Sheet PDF Template.md",
     "index2.md",
     "README.md",
     "Setting/Kh'thand.md",
@@ -214,7 +214,7 @@
     "Setting/Kan.md",
     "Extras/Templates/Lucide icon SVG.md",
     "Extras/Templates/System Template.md",
-    "System/Char Sheet PDF.pdf",
+    "System/C&C Character Sheet.pdf",
     "System/Char Sheet PDF Generator.pdf",
     "System/Char Sheet.pdf",
     "Extras/Char Sheet.pdf",

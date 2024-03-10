@@ -12,7 +12,7 @@ token:
 banner: 
 cssclasses:
 ---
-This page is used to generate the [[Char Sheet PDF.pdf]] 
+%%This page is used to generate the [[C&C Character Sheet.pdf]]%% 
 
 ## Armor & Vitality
 
@@ -46,7 +46,9 @@ This page is used to generate the [[Char Sheet PDF.pdf]]
 | Visual Illusion   | O     | O O O | O O O    | O O O  | O O O   | O O O |
 
 .
+
 .
+
 .
 
 ## Skills
@@ -81,10 +83,15 @@ This page is used to generate the [[Char Sheet PDF.pdf]]
 | Tracking            | X   | O   | O   | O   | O   | O   | O   |      |
 
 .
+
 .
+
 .
+
 .
+
 .
+
 .
 
 ## Talents
