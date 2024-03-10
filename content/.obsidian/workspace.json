@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "index.md",
                 "mode": "preview",
                 "source": true
               }
             }
-          },
-          {
-            "id": "c805556021024344",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Setting/Kh'thand.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +108,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Setting/Kh'thand.md"
+                "file": "index.md"
               }
             }
           },
@@ -131,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setting/Kh'thand.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setting/Kh'thand.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setting/Kh'thand.md"
+                "file": "index.md"
               }
             }
           },
@@ -189,16 +176,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c805556021024344",
+  "active": "a9e7b5a1ffded683",
   "lastOpenFiles": [
-    "Setting/Quajreyas.md",
-    "Setting/Kh'thand.md",
     "README.md",
+    "Setting/Kh'thand.md",
+    "index.md",
+    "Party/Akra Jr.md",
+    "Setting/Quajreyas.md",
     "Setting/Malevolent Forest.md",
     "Setting/Tulucaon Range.md",
     "Setting/Vii Vaal.md",
-    "index.md",
-    "Party/Akra Jr.md",
     "Setting/index.md",
     "Session Notes.md",
     "System/index.md",

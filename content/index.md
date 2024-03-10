@@ -7,6 +7,8 @@ cssclasses:
   - img-grid
   - img-max
   - max
+aliases:
+  - Home
 ---
 ## Party 
 
