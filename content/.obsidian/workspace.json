@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Party/index.md",
+                "file": "System.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Party/index.md"
+                "file": "System.md"
               }
             }
           },
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Party/index.md",
+                "file": "System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Party/index.md",
+                "file": "System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Party/index.md"
+                "file": "System.md"
               }
             }
           },
@@ -178,16 +178,16 @@
   },
   "active": "a9e7b5a1ffded683",
   "lastOpenFiles": [
-    "Party/Akra Jr.md",
-    "Party/index.md",
-    "Party/Triple-A.md",
-    "index.md",
-    "Party.md",
-    "Setting/index.md",
-    "System.md",
     "Setting.md",
     "Session Notes.md",
     "README.md",
+    "Party.md",
+    "index.md",
+    "Party/index.md",
+    "Party/Akra Jr.md",
+    "Party/Triple-A.md",
+    "Setting/index.md",
+    "System.md",
     "Mood Board.canvas",
     "Session Notes/index.md",
     "Session Notes/2024-03-02.md",
