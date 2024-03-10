@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "README.md"
+                "file": "index.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "index.md"
               }
             }
           },
@@ -191,6 +191,7 @@
   },
   "active": "7b4a8eebc13dd6a2",
   "lastOpenFiles": [
+    "README.md",
     "Party.md",
     "Mood Board.canvas",
     "index.md",
@@ -203,7 +204,6 @@
     "System/index.md",
     "Party/index.md",
     "System/Choice & Chance.md",
-    "README.md",
     "Party/Akra Jr.md",
     "Extras/Templates/C&C Character Sheet.md",
     "System/C&C Character Sheet.pdf",
