@@ -24,6 +24,7 @@ Banner.css = `
     max-width: none;
     height: 100%;
     width: 100%;
+    margin: 0;
 }
 .obsidian-banner {
     position: relative;
@@ -36,7 +37,7 @@ Banner.css = `
     user-select: none;
 }
 .obsidian-banner-wrapper{
-    
+    width:100%;
 }
 html {
     --banner-height: 250px;
