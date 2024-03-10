@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "478d0187e095dafa",
+        "id": "ec36357978e54ba2",
         "type": "tabs",
         "children": [
           {
-            "id": "93cab8640c6161d0",
+            "id": "ebd5d8a0c6bfad17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Party/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b8363b550eee70a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dac3246e26c2838c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Extras/Templates/Char Sheet PDF.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +108,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Extras/Templates/Char Sheet PDF.md"
+                "file": "index.md"
               }
             }
           },
@@ -143,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extras/Templates/Char Sheet PDF.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extras/Templates/Char Sheet PDF.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extras/Templates/Char Sheet PDF.md"
+                "file": "index.md"
               }
             }
           },
@@ -201,9 +176,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "dac3246e26c2838c",
+  "active": "ebd5d8a0c6bfad17",
   "lastOpenFiles": [
+    "Mood Board.canvas",
+    "Party/Akra Jr.md",
     "index.md",
+    "Party.md",
+    "System.md",
+    "Party/index.md",
+    "Session Notes/index.md",
+    "Extras/Templates/Char Sheet PDF.md",
     "index2.md",
     "README.md",
     "Setting/Kh'thand.md",
@@ -212,11 +194,7 @@
     "Setting/index.md",
     "Setting.md",
     "Session Notes.md",
-    "Party.md",
-    "Party/index.md",
     "Party/Triple-A.md",
-    "System.md",
-    "Session Notes/index.md",
     "Extras/Attachments/fig-forest-ruin.png",
     "Extras/Attachments/fig-forest-swamp-hut.png",
     "Extras/Attachments/fig-forest-twilight.png",
@@ -227,9 +205,6 @@
     "Extras/Attachments/fig-sea-cliff-village.png",
     "Extras/Attachments/fig-mountain-valley-city.png",
     "Extras/Attachments/fig-forest-gas-mask.png",
-    "Mood Board.canvas",
-    "Extras/Templates/Char Sheet PDF.md",
-    "Party/Akra Jr.md",
     "Session Notes/2024-03-02.md",
     "Party/Cassandra Jr.md",
     "Party/Thorin Jr.md",
@@ -239,7 +214,6 @@
     "Setting/Kan.md",
     "Extras/Templates/Lucide icon SVG.md",
     "Extras/Templates/System Template.md",
-    "Setting/Oanenya.md",
     "System/Char Sheet PDF.pdf",
     "System/Char Sheet PDF Generator.pdf",
     "System/Char Sheet.pdf",
