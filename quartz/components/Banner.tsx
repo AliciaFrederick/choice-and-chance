@@ -9,7 +9,7 @@ const Banner: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProp
     return (
         <div class={classNames(displayClass, "obsidian-banner-wrapper")}>
             <div class={classNames(displayClass, "obsidian-banner")}>
-                <img class={classNames(displayClass, "banner-image", "line-width")} src={bannerImage}/>
+                <img class={classNames(displayClass, "banner-image", "line-width")} src={bannerImage} style="object-position: 50% ${bannerPosition*100}%;"/>
             </div>
         </div>
     )
@@ -25,7 +25,6 @@ Banner.css = `
     height: 100%;
     width: 100%;
     margin: 0;
-    object-position: 50% ${bannerPosition*100}%;
 }
 .obsidian-banner {
     position: relative;
