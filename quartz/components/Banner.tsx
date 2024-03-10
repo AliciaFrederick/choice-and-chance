@@ -3,9 +3,10 @@ import { classNames } from "../util/lang"
 
 const Banner: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
   const bannerImage = fileData.frontmatter?.banner_image
+  const bannerPosition = fileData.frontmatter?.banner_y??0.53
+  const objecctPosition = `${bannerPosition*100}%`
   
   if (bannerImage) {
-    const bannerPosition = "53%" //fileData.frontmatter?.banner_y
     return (
         <div class={classNames(displayClass, "obsidian-banner-wrapper")}>
             <div class={classNames(displayClass, "obsidian-banner")}>
