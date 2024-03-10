@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "index.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -176,13 +176,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c4955449c39f388b",
+  "active": "ebd5d8a0c6bfad17",
   "lastOpenFiles": [
+    "index.md",
     "Mood Board.canvas",
     "Extras/Templates/C&C Character Sheet.md",
     "System/C&C Character Sheet.pdf",
     "Extras/Templates/Lucide icon SVG.md",
-    "index.md",
     "Party/Akra Jr.md",
     "Party.md",
     "System.md",
