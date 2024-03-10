@@ -89,9 +89,7 @@ cssclasses:
 .
 
 .
-
 .
-
 .
 
 ## Talents
