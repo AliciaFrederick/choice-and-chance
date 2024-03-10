@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Setting/Vii Vaal.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +120,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "index.md"
+                "file": "README.md"
               }
             }
           },
@@ -131,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "README.md"
               }
             }
           },
@@ -189,21 +188,22 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c805556021024344",
+  "active": "a9e7b5a1ffded683",
   "lastOpenFiles": [
-    "README.md",
     "index.md",
+    "Party/Akra Jr.md",
+    "Setting/Vii Vaal.md",
+    "Setting/Kh'thand.md",
+    "README.md",
+    "Setting/index.md",
     "Session Notes.md",
     "System/index.md",
-    "Setting/index.md",
     "Session Notes/index.md",
     "Party/index.md",
     "Party.md",
-    "Setting/Kh'thand.md",
     "System/Choice & Chance.md",
     "System.md",
     "Setting.md",
-    "Party/Akra Jr.md",
     "Party/Triple-A.md",
     "Mood Board.canvas",
     "Session Notes/2024-03-02.md",
