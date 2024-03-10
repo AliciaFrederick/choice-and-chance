@@ -20,7 +20,6 @@ const Banner: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProp
 
 Banner.css = `
 .obsidian-banner .banner-image {
-    position: relative;
     object-fit: cover;
     max-width: none;
     height: 100%;
@@ -37,8 +36,7 @@ Banner.css = `
     user-select: none;
 }
 .obsidian-banner-wrapper{
-    height:250px;
-    width:100%;
+    
 }
 html {
     --banner-height: 250px;
