@@ -33,7 +33,7 @@ const config: QuartzConfig = {
           darkgray: "#4e4e4e",
           dark: "#2b2b2b",
           secondary: "hsl(77, 42%, 27%)",
-          tertiary: "hsl(106, 15%, 58%)",
+          tertiary: "hsl(285, 15%, 58%)",
           highlight: "rgba(161, 168, 143, 0.15)",
         },
         darkMode: {
@@ -43,7 +43,7 @@ const config: QuartzConfig = {
           darkgray: "#d4d4d4",
           dark: "#ebebec",
           secondary: "hsl(77, 42%, 40%)",
-          tertiary: "hsl(106, 15%, 58%)",
+          tertiary: "hsl(285, 15%, 58%)",
           highlight: "rgba(161, 168, 143, 0.15)",
         },
       },
