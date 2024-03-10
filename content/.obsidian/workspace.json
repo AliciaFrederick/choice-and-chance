@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setting/Vii Vaal.md",
+                "file": "Setting/Quajreyas.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +121,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "README.md"
+                "file": "Setting/Quajreyas.md"
               }
             }
           },
@@ -130,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Setting/Quajreyas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Setting/Quajreyas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Setting/Quajreyas.md"
               }
             }
           },
@@ -188,13 +189,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a9e7b5a1ffded683",
+  "active": "c805556021024344",
   "lastOpenFiles": [
-    "index.md",
-    "Party/Akra Jr.md",
-    "Setting/Vii Vaal.md",
     "Setting/Kh'thand.md",
     "README.md",
+    "Setting/Malevolent Forest.md",
+    "Setting/Tulucaon Range.md",
+    "Setting/Vii Vaal.md",
+    "index.md",
+    "Party/Akra Jr.md",
     "Setting/index.md",
     "Session Notes.md",
     "System/index.md",
@@ -226,8 +229,6 @@
     "Extras/Templates/Party Template.md",
     "Extras/Templates/Session Notes Template.md",
     "Extras/Templates/Setting Template.md",
-    "Setting/Kan.md",
-    "Extras/Templates/System Template.md",
     "System/Char Sheet PDF Generator.pdf",
     "System/Char Sheet.pdf",
     "Extras/Char Sheet.pdf",
