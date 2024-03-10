@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Party/Akra Jr.md",
-                "mode": "preview",
+                "file": "Session Notes.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -108,7 +108,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Party/Akra Jr.md"
+                "file": "Session Notes.md"
               }
             }
           },
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Party/Akra Jr.md",
+                "file": "Session Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Party/Akra Jr.md",
+                "file": "Session Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Party/Akra Jr.md"
+                "file": "Session Notes.md"
               }
             }
           },
@@ -179,15 +179,17 @@
   },
   "active": "ebd5d8a0c6bfad17",
   "lastOpenFiles": [
+    "Party.md",
     "index.md",
+    "System.md",
+    "Setting.md",
+    "Session Notes.md",
     "Party/Akra Jr.md",
     "README.md",
     "Mood Board.canvas",
     "Extras/Templates/C&C Character Sheet.md",
     "System/C&C Character Sheet.pdf",
     "Extras/Templates/Lucide icon SVG.md",
-    "Party.md",
-    "System.md",
     "Party/index.md",
     "Session Notes/index.md",
     "index2.md",
@@ -195,8 +197,6 @@
     "System/Choice & Chance.md",
     "System/index.md",
     "Setting/index.md",
-    "Setting.md",
-    "Session Notes.md",
     "Party/Triple-A.md",
     "Extras/Attachments/fig-forest-ruin.png",
     "Extras/Attachments/fig-forest-swamp-hut.png",
