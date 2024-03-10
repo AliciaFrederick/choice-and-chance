@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Party/Akra Jr.md",
                 "mode": "preview",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "index.md"
+                "file": "Party/Akra Jr.md"
               }
             }
           },
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Party/Akra Jr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Party/Akra Jr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Party/Akra Jr.md"
               }
             }
           },
@@ -179,8 +179,8 @@
   },
   "active": "ebd5d8a0c6bfad17",
   "lastOpenFiles": [
-    "Party/Akra Jr.md",
     "index.md",
+    "Party/Akra Jr.md",
     "README.md",
     "Mood Board.canvas",
     "Extras/Templates/C&C Character Sheet.md",
