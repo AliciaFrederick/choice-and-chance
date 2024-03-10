@@ -5,7 +5,7 @@ const Banner: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProp
   const bannerImage = fileData.frontmatter?.banner_image
   
   if (bannerImage) {
-    const bannerPosition = fileData.frontmatter?.banner_y || 0.5
+    const bannerPosition = "53%" //fileData.frontmatter?.banner_y
     return (
         <div class={classNames(displayClass, "obsidian-banner-wrapper")}>
             <div class={classNames(displayClass, "obsidian-banner")}>
