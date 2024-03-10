@@ -2,7 +2,7 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 import { classNames } from "../util/lang"
 
 const Banner: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
-  const bannerImage = fileData.frontmatter?.banner
+  const bannerImage = fileData.frontmatter?.banner_image
   
   if (bannerImage) {
     const bannerPosition = fileData.frontmatter?.banner_y ?? 0.5

@@ -11,6 +11,7 @@ portrait: "[[portrait-akra-jr.png]]"
 token: "[[token_akra-jr-EFC96C-1x1.png]]"
 banner: "![[portrait-akra-jr.png]]"
 banner_y: 0.53212
+banner_image: "[[portrait-akra-jr.png]]"
 ---
 %% 
 INSTRUCTIONS
@@ -18,6 +19,8 @@ INSTRUCTIONS
 2. Move the copy to the Party folder
 3. Fill out the sheet, including the file properties
 %%
+
+[[portrait-akra-jr.png]] 
 
 ## Backstory
 
