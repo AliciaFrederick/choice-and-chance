@@ -48,7 +48,6 @@ cssclasses:
 .
 
 .
-.
 
 ## Skills
 
@@ -85,9 +84,6 @@ cssclasses:
 
 .
 
-.
-.
-.
 .
 
 ## Talents
