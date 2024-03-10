@@ -12,7 +12,7 @@ token:
 banner: 
 cssclasses:
 ---
-%%This page is used to generate the [[C&C Character Sheet.pdf]]%% 
+%% This page is used to generate the [[C&C Character Sheet.pdf]]. Print with 2 pages per sheet, Landscape, Scale 113, Flip on short side. %% 
 
 ## Armor & Vitality
 

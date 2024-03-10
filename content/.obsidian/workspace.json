@@ -11,9 +11,11 @@
             "id": "ebd5d8a0c6bfad17",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "System/C&C Character Sheet.pdf"
+                "file": "index.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -90,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 246.5,
+    "collapsed": true
   },
   "right": {
     "id": "9b92aed1753f5b1e",
@@ -106,7 +109,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "System/C&C Character Sheet.pdf"
+                "file": "index.md"
               }
             }
           },
@@ -116,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System/C&C Character Sheet.pdf",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System/C&C Character Sheet.pdf",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System/C&C Character Sheet.pdf"
+                "file": "index.md"
               }
             }
           },
@@ -161,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 311.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,13 +178,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ebd5d8a0c6bfad17",
+  "active": "c4955449c39f388b",
   "lastOpenFiles": [
+    "Mood Board.canvas",
     "Extras/Templates/C&C Character Sheet.md",
     "System/C&C Character Sheet.pdf",
     "Extras/Templates/Lucide icon SVG.md",
     "index.md",
-    "Mood Board.canvas",
     "Party/Akra Jr.md",
     "Party.md",
     "System.md",
