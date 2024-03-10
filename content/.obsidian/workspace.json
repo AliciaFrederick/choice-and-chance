@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes.md",
+                "file": "Party.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Session Notes.md"
+                "file": "Party.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes.md",
+                "file": "Party.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes.md",
+                "file": "Party.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes.md"
+                "file": "Party.md"
               }
             }
           },
@@ -191,8 +191,8 @@
   },
   "active": "7b4a8eebc13dd6a2",
   "lastOpenFiles": [
-    "Session Notes/index.md",
     "Session Notes.md",
+    "Session Notes/index.md",
     "Session Notes/2024-03-02.md",
     "Party.md",
     "System.md",
