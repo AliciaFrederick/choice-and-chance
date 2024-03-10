@@ -104,3 +104,6 @@ cssclasses:
 - [ ] **Shield Fighting**: Can use shield to block attacks, including ranged, +1 to defense rolls for you and adjacent allies when blocking
 - [ ] **Sneak Attack**: When enemy is surprised, triple damage.
 - [ ] **War Caster**: Ease 2 on checks to maintain concentration.
+
+## Inventory
+
