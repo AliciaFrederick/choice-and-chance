@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setting.md",
+                "file": "Session Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Setting.md"
+                "file": "Session Notes.md"
               }
             }
           },
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setting.md",
+                "file": "Session Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setting.md",
+                "file": "Session Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setting.md"
+                "file": "Session Notes.md"
               }
             }
           },
@@ -178,23 +178,24 @@
   },
   "active": "ebd5d8a0c6bfad17",
   "lastOpenFiles": [
+    "Session Notes/2024-03-02.md",
+    "Session Notes/index.md",
     "Session Notes.md",
     "Setting.md",
-    "Party.md",
+    "System.md",
+    "index.md",
+    "System/index.md",
     "Party/index.md",
+    "System/Choice & Chance.md",
+    "Party.md",
     "README.md",
     "Mood Board.canvas",
-    "index.md",
-    "System.md",
     "Party/Akra Jr.md",
     "Extras/Templates/C&C Character Sheet.md",
     "System/C&C Character Sheet.pdf",
     "Extras/Templates/Lucide icon SVG.md",
-    "Session Notes/index.md",
     "index2.md",
     "Setting/Kh'thand.md",
-    "System/Choice & Chance.md",
-    "System/index.md",
     "Setting/index.md",
     "Party/Triple-A.md",
     "Extras/Attachments/fig-forest-ruin.png",
@@ -207,7 +208,6 @@
     "Extras/Attachments/fig-sea-cliff-village.png",
     "Extras/Attachments/fig-mountain-valley-city.png",
     "Extras/Attachments/fig-forest-gas-mask.png",
-    "Session Notes/2024-03-02.md",
     "Party/Cassandra Jr.md",
     "Party/Thorin Jr.md",
     "Extras/Templates/Party Template.md",

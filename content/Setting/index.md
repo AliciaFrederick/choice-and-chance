@@ -1,4 +1,4 @@
 ---
 title: Setting
 ---
-![[Kh'thand]] 
+![[Kh'thand]]  ^d544c1
