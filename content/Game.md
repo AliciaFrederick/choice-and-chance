@@ -208,8 +208,8 @@ Talents:
 New Talent 4 (max 2) 
 
 Forms:
-TN improvement - 1 each
-Augments - every 3 improvements you get an augment (increase damage, distance, duration, targets by 1 category).
+Improvement (+1 to TN) 1 each
+Augment - 3 Improvements (+1 to base damage, duration or targets, OR increase base distance by one category).
 
 Form Creation:
 Spell effect 3
