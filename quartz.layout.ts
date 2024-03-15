@@ -32,8 +32,8 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
-    Component.MobileOnly(Component.TableOfContents()),
     Component.MobileOnly(Component.Explorer()),
+    Component.MobileOnly(Component.TableOfContents()),
   ],
 }
 
@@ -54,8 +54,8 @@ export const defaultListPageLayout: PageLayout = {
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
-    Component.MobileOnly(Component.TableOfContents()),
     Component.MobileOnly(Component.Explorer()),
+    Component.MobileOnly(Component.TableOfContents()),
   ],
   center: [
   ],
