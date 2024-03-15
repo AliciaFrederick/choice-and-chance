@@ -190,15 +190,13 @@ Tellers are awarded Time Points (TP) by the Arbiter. All points earned counts to
 - “Winning” a combat, which could mean surviving.
 - Smart or creative actions
 
-Players start with 15 points to spend during [[Game#Characters|character]] creation.
+Players start with 15 points to spend during [[Game#Characters|character]] creation. Subsequent points can be spent to advance. **Improvements** can only be made when Tellers are in a safe or guarded place, like an enclave or a guarded encampment, etc.
 
-**Talents** are passives that alter game mechanics or don’t require rolls per se (see below).
+**Talents** are passive features that alter game mechanics or don’t require rolls per se (see below).
 
 **Skills** start at TN 9 and are capped at +6 (TN 15). Each improvement provides a +1. Skills and Forms when mastered will provide a boon or augment. 
 
 **Forms** are spells that can be custom designed, and improved over time. See [[Game#On Magic|On Magic]]. 
-
-**Improvements** can only be made when Tellers are in a safe or guarded place, like an enclave or a guarded encampment, etc.
 
 #### Point Costs
 
