@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setting.md",
+                "file": "Setting/index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Setting.md"
+                "file": "Setting/index.md"
               }
             }
           },
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setting.md",
+                "file": "Setting/index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setting.md",
+                "file": "Setting/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setting.md"
+                "file": "Setting/index.md"
               }
             }
           },
@@ -182,6 +182,7 @@
     "Session Notes.md",
     "Party.md",
     "Party/index.md",
+    "Setting.md",
     "System.md",
     "index.md",
     "Party/Akra Jr.md",
@@ -193,7 +194,6 @@
     "Extras/Templates/Session Notes Template.md",
     "Extras/Templates/C&C Character Sheet.md",
     "System/index.md",
-    "Setting.md",
     "Extras/Templates/Lucide icon SVG.md",
     "Session Notes/index.md",
     "Session Notes/2024-03-02.md",
