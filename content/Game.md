@@ -203,7 +203,7 @@ Players start with 15 points to spend during [[Game#Characters|character]] creat
 
 Skills:
 - New Skill (TN 9) = 3 
-- Improvement (+1 to ) = 1 per
+- Improvement (+1 to TN) = 1 per
 
 Talents:
 - New Talent = 4 (max 2) 
