@@ -188,7 +188,8 @@ Players start with 15 points, and then acquire new skills, and upgrade existing 
 **Skills** start at TN 9 and are capped at +6. Each improvement provides a +1. Skills and Forms when mastered will provide a boon or augment.
 
 **Talents** are passives that alter game mechanics or don’t require rolls per se (see below).
-Forms are spells that can be custom designed, and improved over time. See [[Game#On Magic|On Magic]]. 
+
+**Forms** are spells that can be custom designed, and improved over time. See [[Game#On Magic|On Magic]]. 
 
 **Improvements** can only be made when Tellers are in a safe or guarded place, like an enclave or a guarded encampment, etc.
 
@@ -285,26 +286,28 @@ War Caster - Ease 2 on Fortitude checks to maintain concentration.
 Great Weapon Master - if wielding a 2h weapon, can attack two adjacent foes
 Resilient - Max vitality +2.
 
-#### On Magic
+### On Magic
 
-Tellers manifest ‘magic’, or Forms, by connecting the dream world, their inner mind, with the outside world, physical space. It’s a process called manifesting, wherein certain Ruk can practice forms by learning to control dream itself. When mastered, they can begin to manifest those forms into reality. Power is limited by a Ruk’s natural form.
+Tellers manifest ‘magic’, or **Forms**, by connecting the dream world, their inner mind, with the outside world, physical space. It’s a process called manifesting, wherein certain Ruk can practice forms by learning to control dream itself. When mastered, they can begin to manifest those forms into reality. Power is limited by a Ruk’s natural form.
 
 Tellers can cast a form as many times until they fail. Once failed, they can force the form to go off at a cost of 1 vitality, and cannot cast it again until they complete a Full Rest.
 
 Additionally, forms do not require verbal or somatic components. However, anyone capable of producing forms can detect when someone is using one in proximity (Near), and can be detectable to those who use Detection forms up to greater distances. 
 
-Tellers create new spells from spell effects and adding the cost of augments. The Arbiter can add limitations which reduce costs but keeps forms within bounds of what is realistic in your game.
-Counterspell 
+Tellers create new spells from **spell effects** and adding the cost of **augments**. The **Arbiter** can add limitations which reduce costs but keeps forms within bounds of what is realistic in your game.
+
+#### Counterspell 
 
 This is a game mechanic. If you know a Spell Effect being cast, you can make a contested roll, whoever is further under their target number wins, tie goes to the caster. If successful, the caster does not lose the form, but the effect is nullified. If failed, lose a vitality. Must be within the maximum range you can produce with that effect.
 
-Spell Parameters and Considerations
-Distance - follows zone categories, maximum is Distant, cost 2 per zone.
-Damage - 2 per damage.
-Duration - forms with duration must be concentrated on, and other forms cannot be cast
- Increasing duration costs 2 points per increase, and are categorized as follows: instant, 1 round, 1 minute, 10 minutes, 1 hour, 1 day.
-Targets: allied or enemy targets, costs 2 per target; convert spell into an AoE, Close-sized circle, cost 8 
-Spell Silence - cannot be used on damage forms, cost 5.
+#### Spell Parameters and Considerations
+
+- Distance - follows zone categories, maximum is Distant, cost 2 per zone.
+- Damage - 2 per damage.
+- Duration - forms with duration must be concentrated on, and other forms cannot be cast
+- Increasing duration costs 2 points per increase, and are categorized as follows: instant, 1 round, 1 minute, 10 minutes, 1 hour, 1 day.
+- Targets: allied or enemy targets, costs 2 per target; convert spell into an AoE, Close-sized circle, cost 8 
+- Spell Silence - cannot be used on damage forms, cost 5.
 
 Spell Effects
 
