@@ -212,7 +212,7 @@ Forms:
 - Improvement (+1 to TN) = 1 each
 - Augment (increase base damage, duration, targets or distance by one category) = 3 Improvements.
 
-Form Manifestation:
+Form Creation:
 - Base spell effect = 3
 - Increase Distance by 1 zone = 2
 - Increase Duration by 1 category = 2
