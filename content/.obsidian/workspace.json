@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System.md",
+                "file": "Party/Akra Jr.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "System.md"
+                "file": "Party/Akra Jr.md"
               }
             }
           },
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System.md",
+                "file": "Party/Akra Jr.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System.md",
+                "file": "Party/Akra Jr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System.md"
+                "file": "Party/Akra Jr.md"
               }
             }
           },
@@ -179,16 +179,17 @@
   },
   "active": "ec1193e5ab82e62a",
   "lastOpenFiles": [
+    "Extras/Attachments/fig-continuum-of-dissociation.png",
+    "Party/Akra Jr.md",
+    "System.md",
     "Setting.md",
     "Session Notes.md",
     "Party.md",
-    "System.md",
     "System/index.md",
     "Party/index.md",
     "Session Notes/index.md",
     "Setting/index.md",
     "index.md",
-    "Party/Akra Jr.md",
     "Party/Cassandra Jr.md",
     "Party/Thorin Jr.md",
     "Extras/Templates/Party Template.md",
@@ -206,7 +207,6 @@
     "README.md",
     "Setting/Oanenya.md",
     "System",
-    "Ka’Thand.md",
     "Mood Board.canvas",
     "Extras/System - Old/C&C Character Sheet.pdf",
     "Extras/Attachments/fig-forest-ruin.png",
