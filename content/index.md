@@ -33,7 +33,7 @@ This is the 2024 reboot of our 2019 campaign in Brent's world of Ka'Thand. This 
 ## Maintenance
 
 - [ ] Add Joe and Amy's character images
-- [ ] Update [[C&C Character Sheet.pdf]] 
+- [ ] Update [[C&C Character Sheet]] and generate PDF  
 
 ## Mood
 
