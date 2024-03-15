@@ -16,15 +16,15 @@ token: "[[token_akra-jr-EFC96C-1x1.png]]"
 
 ### The past
 
-I was adopted as a small child by a loving pair of mothers who lived in a village within the forest. Throughout my adolescence I would occasionally lose several hours of time, unsure of where I had been or who had been with me. Sometimes my friends or family would be angry about something I couldn't remember doing, making me feel confused and hurt. In these moments I liked to escape to my Inner World. 
+I was adopted as a small child by a loving pair of mothers who lived in a village within the forest. Throughout my adolescence I would occasionally lose several hours of time, unsure of where I had been or who had been with me. 
 
-As a young adult, I and the other Ruk'kan of the village maintain a magical ward to keep the forest from overtaking us. In the last few months however, the ward has been more difficult to keep up, even failing completely once or twice. We don't know why this is happening, and on top of this my episodes of memory loss have been coming more frequently, causing even more conflict. I'm secretly afraid that I might be causing the failures during the amnesia episodes. 
+As a young adult, I and the other Ruk'kan of the village maintained a magical ward to keep the forest from overtaking us. In the last few months however, the ward was more difficult to keep up, even failing completely once or twice. We didn't know why it was happening, and on top of that my episodes of memory loss were happening more frequently. 
 
-Last week, after having an argument with my best friend about something I couldn't remember, I ran into the forest to clear my head. The next thing I knew, it was several hours later and I was standing in the center of the village with no memory of how I got there. 
+Last week, after having an argument with my best friend and parents, I ran into the forest to clear my head. The next thing I knew, it was several hours later and I was standing in the center of the village with no memory of how I got there.
 
 Everyone was gone, with no indication of where they went.
 
-I believe it's my fault that everyone I love is gone. Even if I wasn't the reason they abandoned me and the village, the ward must have gone down while I was in the forest and unable to help. I'm guessing the other Ruk'kan couldn't get it back up in time to protect the village from whatever caused them to flee. I have no idea if they are alive or dead. 
+I believe it's my fault that everyone I love is gone. Even if I didn't cause them to abandon the village, the ward must have gone down while I was in the forest and unable to help. I'm guessing the other Ruk'kan couldn't get it back up in time to protect the village from whatever caused them to flee. I have no idea if they are alive or dead.
 
 ### The present
 
