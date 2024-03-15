@@ -1,5 +1,5 @@
 ---
-up: "[[README]]"
+up: "[[index|Home]]"
 tags:
   - location
 aliases:
