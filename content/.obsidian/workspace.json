@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Party/Akra Jr.md",
+                "file": "Party/index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 381.5
   },
   "right": {
     "id": "9b92aed1753f5b1e",
@@ -109,7 +109,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Party/Akra Jr.md"
+                "file": "Party/index.md"
               }
             }
           },
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Party/Akra Jr.md",
+                "file": "Party/index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Party/Akra Jr.md",
+                "file": "Party/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Party/Akra Jr.md"
+                "file": "Party/index.md"
               }
             }
           },
@@ -160,7 +160,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -179,8 +180,9 @@
   },
   "active": "ec1193e5ab82e62a",
   "lastOpenFiles": [
-    "Extras/Attachments/fig-continuum-of-dissociation.png",
+    "index.md",
     "Party/Akra Jr.md",
+    "Extras/Attachments/fig-continuum-of-dissociation.png",
     "System.md",
     "Setting.md",
     "Session Notes.md",
@@ -189,7 +191,6 @@
     "Party/index.md",
     "Session Notes/index.md",
     "Setting/index.md",
-    "index.md",
     "Party/Cassandra Jr.md",
     "Party/Thorin Jr.md",
     "Extras/Templates/Party Template.md",
@@ -217,7 +218,6 @@
     "Extras/Attachments/fig-forest-stalker.png",
     "Extras/Attachments/fig-mountain-river-valley.png",
     "Extras/Attachments/fig-sea-cliff-village.png",
-    "Extras/Attachments/fig-mountain-valley-city.png",
     "System/Char Sheet PDF Generator.pdf",
     "System/Char Sheet.pdf",
     "Extras/Char Sheet.pdf",
