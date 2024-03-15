@@ -149,9 +149,9 @@ Ranged attacks cannot be dodged due to their speed, but can be blocked if one po
 
 When Vitality hits zero, players are desperate and exhausted. They can crawl/move 5 feet per turn and can only take defensive maneuvers that don’t require movement. If attacked, a failed defense roll results in incapacitation. Another blow results in death.
 
-### Characters
+## Characters
 
-#### Background
+### Background
 
 There are no mechanical elements to background. The skills you choose are determined by where your character has been and what they’ve focused on, so add skills accordingly.
 
@@ -159,16 +159,16 @@ But think of it this way: stories are interesting when characters grow or change
 
 Nothing is perfect in life, and the most relatable heroes are those that you can understand, because they’re imperfect, too. This doesn’t mean everyone needs a tragic or fatal flaw, or even one taken to extremes. But think about your character as a real person. Think about funny situations they may have been in, or difficulties they’ve had, quirks and preferences - but don’t fully resolve them. 
 
-#### Vitality
+### Vitality
 
 Vitality is a measure of a character’s physical and mental well-being. It is not just a statistic for combat. Each Teller starts with 10 vitality, which can be increased.
 
-#### Skills and Advancement 
+### Character Creation & Advancement 
 
 Some **Skills** are active, some are passive. 
 **Forms** are a special skill with their own difficulty and mechanics. See [[System/index#On Magic|On Magic]].
 
-##### Time Points
+#### Time Points
 
 Tellers are awarded Time Points (TP) by the Arbiter. All points earned counts towards the group, not just the individual who earned it, and can be earned by several means:
 
@@ -184,15 +184,15 @@ Tellers are awarded Time Points (TP) by the Arbiter. All points earned counts to
 - “Winning” a combat, which could mean surviving.
 - Smart or creative actions
 
-Players start with 15 points to spend during [[System/index#Characters|character]] creation. Subsequent points can be spent to advance their characters. **Improvements** can only be made when Tellers are in a safe or guarded place, like an enclave or a guarded encampment, etc.
+Players start with 15 points to spend during [[System/index#Characters|character]] creation. Subsequent points can be spent to advance their characters. 
 
-**Talents** are passive features that alter game mechanics or don’t require rolls per se (see below).
+- **Skills** start at TN 9 and are capped at +6 (TN 15). Each improvement provides a +1. Skills and Forms when mastered will provide a boon or augment. 
+- **Talents** are passive features that alter game mechanics or don’t require rolls per se (see below).
+- **Forms** are spells that can be custom designed, and improved over time. See [[System/index#On Magic|On Magic]]. 
 
-**Skills** start at TN 9 and are capped at +6 (TN 15). Each improvement provides a +1. Skills and Forms when mastered will provide a boon or augment. 
+**Improvements can only be made when Tellers are in a safe or guarded place, like an enclave or a guarded encampment, etc.**
 
-**Forms** are spells that can be custom designed, and improved over time. See [[System/index#On Magic|On Magic]]. 
-
-##### Point Costs
+#### Point Costs
 
 Skills:
 - New Skill (TN 9) = 3 
@@ -203,16 +203,16 @@ Talents:
 
 Form Creation:
 - Base spell effect (TN 8) = 3
-- Increase Distance by 1 zone = 2
-- Increase Duration by 1 category = 2
-- Increase Damage by 1 = 2
-- Increase Targets by 1 = 2
+	- Increase Distance by 1 zone = 2
+	- Increase Duration by 1 category = 2
+	- Increase Damage by 1 = 2
+	- Increase Targets by 1 = 2
 
 Form Improvement:
 - Improvement (+1 to TN) = 1 each
-- Augment (increase damage, duration, distance by one category) = 3 Improvements.
+	- Augment (increase damage, duration, distance by one category) = 3 Improvements.
 
-##### Skills List
+#### Skills List
 
 - **Power** - bodily strength - lifting, pushing, bracing, bending.
 	- **Mastery** - advantage, or increase Vitality by 4
@@ -269,7 +269,7 @@ Form Improvement:
 - **Tracking** - find clues to pursue a target in the wild.
 	- **Mastery** - choose a sense (sight, smell, hearing) and gain advantage on checks relying on that sense.
 
-##### Talents List
+#### Talents List
 
 - **Savvy** - you know people and information in a major area.
 - **Shield fighting** - Can turn an ally’s missed defense roll into a success if within touch range.
@@ -284,7 +284,7 @@ Form Improvement:
 - **Great Weapon Master** - if wielding a 2h weapon, can attack two adjacent foes
 - **Resilient** - Max vitality +2.
 
-#### On Magic
+### On Magic
 
 Tellers manifest ‘magic’, or **Forms**, by connecting the dream world, their inner mind, with the outside world, physical space. It’s a process called manifesting, wherein certain Ruk can practice forms by learning to control dream itself. When mastered, they can begin to manifest those forms into reality. Power is limited by a Ruk’s natural form.
 
@@ -294,11 +294,11 @@ Additionally, forms do not require verbal or somatic components. However, anyone
 
 Tellers create new spells from **spell effects** and adding the cost of **augments**. The **Arbiter** can add limitations which reduce costs but keeps forms within bounds of what is realistic in your game.
 
-##### Counterspell 
+#### Counterspell 
 
 This is a game mechanic. If you know a Spell Effect being cast, you can make a contested roll, whoever is further under their target number wins, tie goes to the caster. If successful, the caster does not lose the form, but the effect is nullified. If failed, lose a vitality. Must be within the maximum range you can produce with that effect.
 
-##### Spell Parameters and Considerations
+#### Spell Parameters and Considerations
 
 - Distance - follows [[System/index#Zones|zone]] categories, maximum is Distant, cost 2 per zone.
 - Damage - 2 per damage.
@@ -307,7 +307,7 @@ This is a game mechanic. If you know a Spell Effect being cast, you can make a c
 - Targets: allied or enemy targets, costs 2 per target; convert spell into an AoE, Close-sized circle, cost 8 
 - Spell Silence - cannot be used on damage forms, cost 5.
 
-##### Spell Effects
+#### Spell Effects
 
 - Deafness
 - Blindness
@@ -330,7 +330,7 @@ This is a game mechanic. If you know a Spell Effect being cast, you can make a c
 - Dispel 
 - Armor - mage armor. 2 points per 1AP gained.
 
-##### Form Examples
+#### Form Examples
 
 - Conjure Flame (3) - Distance Touch (0 points), duration instant (0 points), damage 0 (0 points). 3 Point cost
 - Flame Touch (3) - Distance Touch (0 points), duration instant (0 points), damage 2 (4 points). 7 Point cost
