@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/2024-03-02.md",
+                "file": "index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -149,7 +149,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Session Notes/2024-03-02.md"
+                "file": "index.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2024-03-02.md",
+                "file": "index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/2024-03-02.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2024-03-02.md"
+                "file": "index.md"
               }
             }
           },
@@ -220,6 +220,8 @@
   "active": "f241f4cbae7b4616",
   "lastOpenFiles": [
     "Session Notes/index.md",
+    "Extras/Templates/Session Notes Template.md",
+    "Session Notes/2024-03-02.md",
     "Session Notes.md",
     "Party.md",
     "Party/index.md",
@@ -228,7 +230,6 @@
     "Setting/index.md",
     "Setting.md",
     "System/index.md",
-    "Session Notes/2024-03-02.md",
     "Setting/Ka’Thand.md",
     "System.md",
     "Extras/Attachments/map-ka'thand.png",
