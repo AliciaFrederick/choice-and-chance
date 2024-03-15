@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setting/Ka’Thand.md",
+                "file": "Setting.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Setting/Ka’Thand.md"
+                "file": "Setting.md"
               }
             }
           },
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setting/Ka’Thand.md",
+                "file": "Setting.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setting/Ka’Thand.md",
+                "file": "Setting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setting/Ka’Thand.md"
+                "file": "Setting.md"
               }
             }
           },
@@ -180,9 +180,9 @@
   },
   "active": "ec1193e5ab82e62a",
   "lastOpenFiles": [
-    "Extras/Attachments/map-ka'thand.png",
-    "Setting/Ka’Thand.md",
     "Setting/index.md",
+    "Setting/Ka’Thand.md",
+    "Extras/Attachments/map-ka'thand.png",
     "Setting.md",
     "index.md",
     "Party/index.md",
@@ -218,7 +218,6 @@
     "Extras/Attachments/fig-mountain-river-valley.png",
     "Extras/Attachments/fig-sea-cliff-village.png",
     "Extras/Attachments/fig-mountain-valley-city.png",
-    "Extras/Attachments/fig-forest-gas-mask.png",
     "System/Char Sheet PDF Generator.pdf",
     "System/Char Sheet.pdf",
     "Extras/Char Sheet.pdf",
