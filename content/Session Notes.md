@@ -1,0 +1,4 @@
+---
+aliases:
+  - Session Notes/index
+---
