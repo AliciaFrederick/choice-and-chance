@@ -1,4 +1,3 @@
 ---
-aliases:
-  - Party/index
+aliases: []
 ---
