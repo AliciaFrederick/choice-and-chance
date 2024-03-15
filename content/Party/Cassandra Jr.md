@@ -1,7 +1,7 @@
 ---
 tags:
   - pc
-up: "[[index]]"
+up: "[[Party/index|Party]]"
 xp-available: "15"
 vitality-max: "10"
 vitality-current: "10"

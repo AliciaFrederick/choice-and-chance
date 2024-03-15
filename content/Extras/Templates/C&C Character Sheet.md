@@ -1,7 +1,7 @@
 ---
 tags:
   - pc
-up: "[[System/index|index]]"
+up: "[[System/index|System]]"
 xp-available: "15"
 vitality-max: "10"
 vitality-current: "10"

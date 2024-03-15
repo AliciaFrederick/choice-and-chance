@@ -1,7 +1,7 @@
 ---
 title: Party
-aliases: []
-up: "[[index]]"
+aliases: 
+up: "[[index|Home]]"
 tags:
   - pc
 ---

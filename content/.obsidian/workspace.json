@@ -13,54 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System/index.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "394cf669914889f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Party/index.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12fd33e0d55a1e85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Party.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f241f4cbae7b4616",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Party/Cassandra Jr.md",
+                "file": "index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,7 +109,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Party/Cassandra Jr.md"
+                "file": "index.md"
               }
             }
           },
@@ -159,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Party/Cassandra Jr.md",
+                "file": "index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Party/Cassandra Jr.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Party/Cassandra Jr.md"
+                "file": "index.md"
               }
             }
           },
@@ -217,20 +177,21 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f241f4cbae7b4616",
+  "active": "ec1193e5ab82e62a",
   "lastOpenFiles": [
     "Party/index.md",
-    "Party/Thorin Jr.md",
     "Party/Akra Jr.md",
-    "index.md",
-    "Extras/Templates/C&C Character Sheet.md",
+    "Party/Cassandra Jr.md",
+    "Party/Thorin Jr.md",
     "Extras/Templates/Party Template.md",
     "Extras/Templates/System Template.md",
     "Extras/Templates/Setting Template.md",
     "Extras/Templates/Session Notes Template.md",
-    "Setting.md",
+    "Extras/Templates/C&C Character Sheet.md",
+    "index.md",
     "System/index.md",
     "Party.md",
+    "Setting.md",
     "Extras/Templates/Lucide icon SVG.md",
     "Session Notes.md",
     "Session Notes/index.md",
@@ -246,7 +207,6 @@
     "Setting/Oanenya.md",
     "System",
     "Ka’Thand.md",
-    "Setting/Malevolent Forest.md",
     "Mood Board.canvas",
     "Extras/System - Old/C&C Character Sheet.pdf",
     "Extras/Attachments/fig-forest-ruin.png",
