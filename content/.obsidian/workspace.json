@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/index.md",
+                "file": "Party/index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -136,7 +136,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Session Notes/index.md"
+                "file": "Party/index.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/index.md",
+                "file": "Party/index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/index.md",
+                "file": "Party/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/index.md"
+                "file": "Party/index.md"
               }
             }
           },
@@ -206,12 +206,13 @@
   },
   "active": "12fd33e0d55a1e85",
   "lastOpenFiles": [
+    "Party/Triple-A.md",
     "Party/index.md",
+    "Setting/index.md",
+    "Session Notes/index.md",
     "Party.md",
     "Setting.md",
-    "Setting/index.md",
     "System/index.md",
-    "Session Notes/index.md",
     "Session Notes/2024-03-02.md",
     "Setting/Ka’Thand.md",
     "index.md",
@@ -229,7 +230,6 @@
     "Setting/Tulucaon Range.md",
     "Setting/Vii Vaal.md",
     "Session Notes.md",
-    "Party/Triple-A.md",
     "Mood Board.canvas",
     "Extras/Templates/C&C Character Sheet.md",
     "Extras/System - Old/C&C Character Sheet.pdf",
