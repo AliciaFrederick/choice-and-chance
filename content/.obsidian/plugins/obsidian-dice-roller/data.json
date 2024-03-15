@@ -9,9 +9,9 @@
   ],
   "displayFormulaForMod": true,
   "displayResultsInline": false,
-  "displayFormulaAfter": true,
+  "displayFormulaAfter": false,
   "escapeDiceMod": true,
-  "signed": true,
+  "signed": false,
   "displayLookupRoll": true,
   "formulas": {},
   "persistResults": true,
@@ -22,7 +22,7 @@
   "renderAllDice": true,
   "addToView": true,
   "renderTime": 1000,
-  "colorfulDice": true,
+  "colorfulDice": false,
   "scaler": 1,
   "diceColor": "#7e00c2",
   "textColor": "#ffffff",
@@ -52,7 +52,7 @@
       "id": "dice-roller-d10"
     }
   ],
-  "showRenderNotice": true,
+  "showRenderNotice": false,
   "diceModTemplateFolders": {},
   "replaceDiceModInLivePreview": true
 }
