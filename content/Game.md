@@ -213,10 +213,10 @@ Augment - 3 Improvements (+1 to base damage, duration or targets, OR increase ba
 
 Form Creation:
 Spell effect 3
-Increase Distance 2
-Increase Duration 2
-Increase Damage 2
-Increase Targets 2
+Increase Distance by 1 zone = 2
+Increase Duration by 1 category = 2
+Increase Damage by 1 = 2
+Increase Targets by 1 = 2
 
 
 #### Skills List
