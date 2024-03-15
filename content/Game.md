@@ -4,6 +4,12 @@ source: https://docs.google.com/document/d/1AFUSyEgLVVTTq5rTqS7DSrYVwWzT3wF4DFqB
 
 Overview, Rules & Core Gameplay
 
+## Overview
+
+This is a Tabletop Role Playing Game, or TTRPG. Ka’Thand is the world I’ve created for you to play in, explore and shape. A place of your wildest imagination, Ka’Thand has its own happenings and creatures and goings ons. But just like you, the world is ever changing, evolving, and growing. Every story told in this world is unique, just as every conversation you have is one of a kind. This place is just a stepping stone for you to take your creativity, as Arbiter or Teller, and run with it - with a few rules to keep the game fair and fun.
+
+This game is meant to be played end to end, with a story that takes you all the way through a completed adventure with a full arc.
+
 ## Setting
 
 [[Ka’Thand]] is a fictional world on which anything can happen. Where fantasy, science and other tales of whimsy and woe can be woven and explored with your friends. You can navigate the dangers of exploration and combat; unravel plots of intrigue, discover romance and more. You can tread through treacherous temples, solve complex problems and wander through cities and landscapes of your wildest imagination. The stories told will shape reality itself.
@@ -109,11 +115,29 @@ Any abilities in the game will have these distances in mind, and can be played i
 
 Vitality is a measure of a character’s physical and mental well-being. It is not just a statistic for combat. Each Teller starts with 10 vitality, which can be increased.
 
+### Resting
+
+Players can rest 4 times a day to recover Vitality up to their maximum, with each successive rest taking longer.
+
+- Breather: Recover 1 Vitality, takes 1 action
+- Respite: Recover 2 Vitality, takes 10 minutes
+- Short Rest: Recover 3 Vitality, takes 1 hour
+- Long Rest: Recover 4 Vitality and any Forms, takes 10 hours, 6 of which must be spent sleeping.
+
+### Armor
+
+There is Light and Heavy armor, adding 2 and 4 Armor points. AP functions as hit points that can be restored after an encounter, and after a rest is taken. Other effects, items etc. may increase AP as well.
+
+Heavy armor can only be made out of metal and has the following traits:
+- Susceptible to elemental conditions like heat/cold, conductor for electricity as well (after effects from fire, frost or electricity causes an additional damage.
+- Swimming at disadvantage
+
 ### Combat
 
 Each turn you get 10’ of free movement, and 1 action (attack, move, consume potion).
 
 You roll to attack and to defend (Evade, Block, etc.). On a successful defense, damage is mitigated/avoided:
+
 - Dodge - 5 foot adjacent step.
 - Block - must have shield
 - Parry - must have melee weapon
@@ -128,11 +152,7 @@ When Vitality hits zero, players are desperate and exhausted. They can crawl/mov
 
 Players describe actions and if they impose risk of failure the DM will assign the roll to one of their skills, and push or ease the roll based on player skill and context.
 
-### TellersOverview
-
-This is a Tabletop Role Playing Game, or TTRPG. Ka’Thand is the world I’ve created for you to play in, explore and shape. A place of your wildest imagination, Ka’Thand has its own happenings and creatures and goings ons. But just like you, the world is ever changing, evolving, and growing. Every story told in this world is unique, just as every conversation you have is one of a kind. This place is just a stepping stone for you to take your creativity, as Arbiter or Teller, and run with it - with a few rules to keep the game fair and fun.
-
-This game is meant to be played end to end, with a story that takes you all the way through a completed adventure with a full arc.
+## Tellers
 
 ### Background
 
@@ -315,19 +335,3 @@ Form Examples
 - Invisibility (3) - Distance Touch (0), Duration 10 minutes (6), Targets 3 (6). Cost 15. 
 	- Add the limitation you cannot attack while invisible or it ends the effect, (-3). Cost 12. 
 
-### Resting
-
-Players can rest 4 times a day to recover Vitality up to their maximum, with each successive rest taking longer.
-
-- Breather: Recover 1 Vitality, takes 1 action
-- Respite: Recover 2 Vitality, takes 10 minutes
-- Short Rest: Recover 3 Vitality, takes 1 hour
-- Long Rest: Recover 4 Vitality and any Forms, takes 10 hours, 6 of which must be spent sleeping.
-### Armor
-
-There is Light and Heavy armor, adding 2 and 4 Armor points.  
-AP functions as hit points that can be restored after an encounter, and after a rest is taken. Requires a
-Other effects, items etc. may increase AP as well.
-Heavy armor can only be made out of metal and has the following traits:
-Susceptible to elemental conditions like heat/cold, conductor for electricity as well (after effects from fire, frost or electricity causes an additional damage.
-Swimming at disadvantage
