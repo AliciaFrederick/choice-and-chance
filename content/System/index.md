@@ -9,13 +9,9 @@ tags:
 
 ## Overview
 
-This is a Tabletop Role Playing Game, or TTRPG. Ka’Thand is the world I’ve created for you to play in, explore and shape. A place of your wildest imagination, Ka’Thand has its own happenings and creatures and goings ons. But just like you, the world is ever changing, evolving, and growing. Every story told in this world is unique, just as every conversation you have is one of a kind. This place is just a stepping stone for you to take your creativity, as Arbiter or Teller, and run with it - with a few rules to keep the game fair and fun.
+This is a Tabletop Role Playing Game, or TTRPG. Ka’Thand is the [[Setting/index|world]] I’ve created for you to play in, explore and shape. A place of your wildest imagination, Ka’Thand has its own happenings and creatures and goings ons. But just like you, the world is ever changing, evolving, and growing. Every story told in this world is unique, just as every conversation you have is one of a kind. This place is just a stepping stone for you to take your creativity, as Arbiter or Teller, and run with it - with a few rules to keep the game fair and fun.
 
 This game is meant to be played end to end, with a story that takes you all the way through a completed adventure with a full arc.
-
-See also:[[Setting/index|Setting]] 
-
-## System
 
 [[Choice & Chance]] is the system I’ve devised to help you tell stories. It’s meant to be rules light so you can keep things going. Complexity in design doesn’t always equal fun. 
 
@@ -100,10 +96,6 @@ Target Number
 2
 1
 
-### Vitality
-
-Vitality is a measure of a character’s physical and mental well-being. It is not just a statistic for combat. Each Teller starts with 10 vitality, which can be increased.
-
 ### Resting
 
 Players can rest 4 times a day to recover Vitality up to their maximum, with each successive rest taking longer.
@@ -166,6 +158,10 @@ There are no mechanical elements to background. The skills you choose are determ
 But think of it this way: stories are interesting when characters grow or change in response to the things that happen to them. Too often characters come with completed arcs before we’re even introduced, and that doesn’t make for a compelling story. How can someone be tempted by evil or changed by hardship if they’ve already already wrestled with and defeated their demons?
 
 Nothing is perfect in life, and the most relatable heroes are those that you can understand, because they’re imperfect, too. This doesn’t mean everyone needs a tragic or fatal flaw, or even one taken to extremes. But think about your character as a real person. Think about funny situations they may have been in, or difficulties they’ve had, quirks and preferences - but don’t fully resolve them. 
+
+#### Vitality
+
+Vitality is a measure of a character’s physical and mental well-being. It is not just a statistic for combat. Each Teller starts with 10 vitality, which can be increased.
 
 #### Skills and Advancement 
 
