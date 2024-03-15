@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "31ff22237baadfff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Setting/Ka'Thand.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Ka",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +89,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -123,7 +110,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Setting/Ka'Thand.md"
+                "file": "README.md"
               }
             }
           },
@@ -133,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setting/Ka'Thand.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setting/Ka'Thand.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setting/Ka'Thand.md"
+                "file": "README.md"
               }
             }
           },
@@ -175,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -192,15 +179,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "31ff22237baadfff",
+  "active": "a9e7b5a1ffded683",
   "lastOpenFiles": [
-    "Game.md",
+    "Setting/Ka’Thand.md",
     "README.md",
+    "Ka’Thand.md",
+    "Game.md",
+    "Setting/Malevolent Forest.md",
+    "Session Notes/2024-03-02.md",
     "index.md",
-    "Setting/Ka'Thand.md",
     "Party/Akra Jr.md",
     "Setting/Quajreyas.md",
-    "Setting/Malevolent Forest.md",
     "Setting/Tulucaon Range.md",
     "Setting/Vii Vaal.md",
     "Setting/index.md",
@@ -214,7 +203,6 @@
     "Setting.md",
     "Party/Triple-A.md",
     "Mood Board.canvas",
-    "Session Notes/2024-03-02.md",
     "Extras/Templates/C&C Character Sheet.md",
     "System/C&C Character Sheet.pdf",
     "Extras/Templates/Lucide icon SVG.md",
@@ -231,7 +219,6 @@
     "Extras/Attachments/fig-forest-gas-mask.png",
     "Party/Cassandra Jr.md",
     "Party/Thorin Jr.md",
-    "Extras/Templates/Party Template.md",
     "System/Char Sheet PDF Generator.pdf",
     "System/Char Sheet.pdf",
     "Extras/Char Sheet.pdf",

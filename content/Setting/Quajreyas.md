@@ -1,7 +1,7 @@
 ---
 tags:
   - location/settlement
-up: "[[Ka'Thand]]"
+up: "[[Ka’Thand]]"
 location: "[[Khuan Gat Range]]"
 ---
 ![[fig-sea-cove-city.png]] 
