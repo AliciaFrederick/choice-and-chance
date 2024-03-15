@@ -169,7 +169,7 @@ Some **Skills** are active, some are passive.
 
 #### Time Points
 
-Tellers are awarded Time Points by the Arbiter. All points earned counts towards the group, not just the individual who earned it, and can be earned by several means:
+Tellers are awarded Time Points (TP) by the Arbiter. All points earned counts towards the group, not just the individual who earned it, and can be earned by several means:
 
 - Finding a required item
 - Saving anything
@@ -196,11 +196,11 @@ Players start with 15 points, and then acquire new skills, and upgrade existing 
 #### Point Costs
 
 Skills:
-New Skill 3
+New Skill 3 
 Skill Improvement 1 per
 
 Talents:
-4 XP per, max 2.
+4 per, max 2 talents.
 
 Form Creation:
 Spell effect 3
@@ -210,7 +210,7 @@ Increase Damage 2
 Increase Targets 2
 
 Form Improvement:
-Form Improvement (to roll) 1 per
+Form Improvement (to roll) 1 XP per
 Augments - every 3 improvements you get an augment (increase damage, distance, duration by 1 category).
 
 
