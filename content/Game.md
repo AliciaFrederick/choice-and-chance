@@ -109,9 +109,16 @@ Players will sometimes enter “Encounters” where actions are taken in “roun
 
 When all involved parties complete their actions, a new round begins.
 
-### Distance and Movement
+### Zones
 
-Distance is calculated by “zones”: Close is 10’, Near is up to 50’, Far is 50-100’, and Distant is 100-150’. A Teller can move anywhere close to perform an action once per turn.
+Distance is calculated by **zones**: 
+
+- **Close** is within 10'
+- **Near** is 10' - 50'
+- **Far** is 50' - 100'
+- **Distant** is 100' - 150'
+
+A Teller can move anywhere **Close** to perform an action once per turn.
 
 Any abilities in the game will have these distances in mind, and can be played in a “Theatre of the Mind” style of play. Though this can easily translate to tabletop play depending on preference.
 
@@ -183,7 +190,7 @@ Tellers are awarded Time Points (TP) by the Arbiter. All points earned counts to
 - “Winning” a combat, which could mean surviving.
 - Smart or creative actions
 
-Players start with 15 points, and then acquire new skills, and upgrade existing ones.
+Players start with 15 points, to use during character creation.
 
 **Skills** start at TN 9 and are capped at +6. Each improvement provides a +1. Skills and Forms when mastered will provide a boon or augment.
 
