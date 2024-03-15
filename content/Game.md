@@ -1,3 +1,7 @@
+---
+source: https://docs.google.com/document/d/1AFUSyEgLVVTTq5rTqS7DSrYVwWzT3wF4DFqBILeWqtE/edit
+---
+
 Overview, Rules & Core Gameplay
 
 Game and Setting
@@ -6,11 +10,11 @@ Game and Setting
 
 Magic, or Forms - Life changes constantly, and though those changes are difficult to view over a small window of time, they can be profound at the scale of thousands of years.
 
-The Ruk have always been an inward-looking people, and through their practices began to gain control over their bodies, such as staving off disease by raising the temperature in their extremities to fight infection. The root of this is not in what a Ruk is, but how they think, and their relationship to their bodies and the outside world.
+The [[Ruk]] have always been an inward-looking people, and through their practices began to gain control over their bodies, such as staving off disease by raising the temperature in their extremities to fight infection. The root of this is not in what a Ruk is, but how they think, and their relationship to their bodies and the outside world.
 
-Choice & Chance is the system I’ve devised to help you tell stories. It’s meant to be rules light so you can keep things going. Complexity in design doesn’t always equal fun. 
+[[Choice & Chance]] is the system I’ve devised to help you tell stories. It’s meant to be rules light so you can keep things going. Complexity in design doesn’t always equal fun. 
 
-The “game master” is heretofore the Arbiter. The players are Tellers. For everything, you will need 1d4, 1d6, and 2d10. 
+The “game master” is heretofore the **Arbiter**. The players are **Tellers**. For everything, you will need 1d4, 1d6, and 2d10. 
 
 If an action has risk or difficulty, it is decided by a 2d10 test, or 2 10-sided dice. You must meet or roll under the Target Number (TN) to succeed on any given action. The target number is always based on a character or creature’s skill stat when performing an action, with any modifiers ‘easing’ or ‘pushing’ the TN up or down. 
 Skills start at 9, Forms start at 8. A great rule of thumb for the Arbiter is as follows:

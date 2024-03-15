@@ -3,7 +3,9 @@
   "rollLinksForTags": false,
   "copyContentButton": true,
   "customFormulas": [
-    "hf"
+    "1d4",
+    "1d6",
+    "2d10"
   ],
   "displayFormulaForMod": true,
   "displayResultsInline": true,
