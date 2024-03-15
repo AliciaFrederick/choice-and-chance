@@ -13,13 +13,7 @@ This is a Tabletop Role Playing Game, or TTRPG. Ka’Thand is the world I’ve c
 
 This game is meant to be played end to end, with a story that takes you all the way through a completed adventure with a full arc.
 
-## Setting
-
-[[Ka’Thand]] is a fictional world on which anything can happen. Where fantasy, science and other tales of whimsy and woe can be woven and explored with your friends. You can navigate the dangers of exploration and combat; unravel plots of intrigue, discover romance and more. You can tread through treacherous temples, solve complex problems and wander through cities and landscapes of your wildest imagination. The stories told will shape reality itself.
-
-Magic, or Forms - Life changes constantly, and though those changes are difficult to view over a small window of time, they can be profound at the scale of thousands of years.
-
-The [[Ruk]] have always been an inward-looking people, and through their practices began to gain control over their bodies, such as staving off disease by raising the temperature in their extremities to fight infection. The root of this is not in what a Ruk is, but how they think, and their relationship to their bodies and the outside world.
+See also:[[Setting/index|Setting]] 
 
 ## System
 
@@ -27,7 +21,7 @@ The [[Ruk]] have always been an inward-looking people, and through their practic
 
 The “game master” is heretofore the **Arbiter**. The players are **Tellers**. 
 
-### Tellers
+## Tellers
 
 Players describe actions and if they impose risk of failure the DM will assign the roll to one of their skills, and push or ease the roll based on player skill and context.
 
@@ -119,7 +113,7 @@ Players can rest 4 times a day to recover Vitality up to their maximum, with eac
 - Short Rest: Recover 3 Vitality, takes 1 hour
 - Long Rest: Recover 4 Vitality and any Forms, takes 10 hours, 6 of which must be spent sleeping.
 
-### Encounters
+## Encounters
 
 Players will sometimes enter “Encounters” where actions are taken in “rounds”. One round comprises one action.
 
