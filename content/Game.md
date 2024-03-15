@@ -205,11 +205,11 @@ New Skill 3
 Skill Improvement 1 per
 
 Talents:
-4 each, max 2 talents.
+New Talent 4 (max 2) 
 
 Forms:
 TN improvement - 1 each
-Augments - every 3 improvements you get an augment (increase damage, distance, duration by 1 category).
+Augments - every 3 improvements you get an augment (increase damage, distance, duration, targets by 1 category).
 
 Form Creation:
 Spell effect 3
