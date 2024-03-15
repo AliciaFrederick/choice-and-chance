@@ -201,23 +201,22 @@ Players start with 15 points to spend during [[Game#Characters|character]] creat
 #### Point Costs
 
 Skills:
-New Skill 3 
-Skill Improvement 1 per
+New Skill = 3 
+Improvement = 1 per
 
 Talents:
-New Talent 4 (max 2) 
+New Talent = 4 (max 2) 
 
 Forms:
-Improvement (+1 to TN) 1 each
-Augment - 3 Improvements (+1 to base damage, duration or targets, OR increase base distance by one category).
+Improvement (+1 to TN) = 1 each
+Augment (increase base damage, duration, targets or distance by one category) = 3 Improvements.
 
-Form Creation:
-Spell effect 3
+Form Manifestation:
+Base spell effect = 3
 Increase Distance by 1 zone = 2
 Increase Duration by 1 category = 2
 Increase Damage by 1 = 2
 Increase Targets by 1 = 2
-
 
 #### Skills List
 
