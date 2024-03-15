@@ -45,9 +45,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f241f4cbae7b4616",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/2024-03-02.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -136,7 +149,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Party.md"
+                "file": "Session Notes/2024-03-02.md"
               }
             }
           },
@@ -146,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Party.md",
+                "file": "Session Notes/2024-03-02.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Party.md",
+                "file": "Session Notes/2024-03-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Party.md"
+                "file": "Session Notes/2024-03-02.md"
               }
             }
           },
@@ -204,14 +217,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "12fd33e0d55a1e85",
+  "active": "f241f4cbae7b4616",
   "lastOpenFiles": [
+    "Session Notes/index.md",
+    "Session Notes.md",
+    "Party.md",
     "Party/index.md",
     "Party/Triple-A.md",
     "index.md",
     "Setting/index.md",
-    "Session Notes/index.md",
-    "Party.md",
     "Setting.md",
     "System/index.md",
     "Session Notes/2024-03-02.md",
@@ -229,7 +243,6 @@
     "Setting/Quajreyas.md",
     "Setting/Tulucaon Range.md",
     "Setting/Vii Vaal.md",
-    "Session Notes.md",
     "Mood Board.canvas",
     "Extras/Templates/C&C Character Sheet.md",
     "Extras/System - Old/C&C Character Sheet.pdf",
