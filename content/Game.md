@@ -113,6 +113,7 @@ When all involved parties complete their actions, a new round begins.
 
 Distance is calculated by **zones**: 
 
+- **Touch** is 0' 
 - **Close** is within 10'
 - **Near** is 10' - 50'
 - **Far** is 50' - 100'
@@ -281,14 +282,14 @@ Form Manifestation:
 - **Shield fighting** - Can turn an ally’s missed defense roll into a success if within touch range.
 - **Attack of Opportunity** - when a creature leaves melee range, can roll an attack as a reaction one per turn.
 - **Counter** - when successfully parrying an attack, can attack as a reaction once per turn.
-- Sneak Attack - when enemy is suprised, triple damage.
-- Ruk’kan Killer - Ease attack rolls by 1 against creatures that have cast forms in the last round.
-- Focus - increase range or damage of a form by 1, at the cost of 1 vitality. Can use once you know a form cast is successful.
-- Communicant - you can read lips and between the lines. Ease 2 for insight and Oratory
-- Sharp Shooter - ignore armor points with ranged weapons
-- War Caster - Ease 2 on Fortitude checks to maintain concentration.
-- Great Weapon Master - if wielding a 2h weapon, can attack two adjacent foes
-- Resilient - Max vitality +2.
+- **Sneak Attack** - when enemy is suprised, triple damage.
+- **Ruk’kan Killer** - Ease attack rolls by 1 against creatures that have cast forms in the last round.
+- **Focus** - increase range or damage of a form by 1, at the cost of 1 vitality. Can use once you know a form cast is successful.
+- **Communicant** - you can read lips and between the lines. Ease 2 for insight and Oratory
+- **Sharp Shooter** - ignore armor points with ranged weapons
+- **War Caster** - Ease 2 on Fortitude checks to maintain concentration.
+- **Great Weapon Master** - if wielding a 2h weapon, can attack two adjacent foes
+- **Resilient** - Max vitality +2.
 
 ### On Magic
 
