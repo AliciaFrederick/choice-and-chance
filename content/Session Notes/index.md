@@ -1,7 +1,7 @@
 ---
 title: Session Notes
-aliases: []
+aliases: 
+up: "[[index]]"
 tags:
   - session-notes
-up: "[[index]]"
 ---
