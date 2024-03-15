@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setting/Ka’Thand.md",
+                "file": "Party/index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12fd33e0d55a1e85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +136,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Setting/Ka’Thand.md"
+                "file": "Session Notes/index.md"
               }
             }
           },
@@ -133,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setting/Ka’Thand.md",
+                "file": "Session Notes/index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setting/Ka’Thand.md",
+                "file": "Session Notes/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setting/Ka’Thand.md"
+                "file": "Session Notes/index.md"
               }
             }
           },
@@ -191,17 +204,19 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "394cf669914889f3",
+  "active": "12fd33e0d55a1e85",
   "lastOpenFiles": [
+    "Party/index.md",
+    "Party.md",
+    "Setting.md",
     "Setting/index.md",
+    "System/index.md",
+    "Session Notes/index.md",
+    "Session Notes/2024-03-02.md",
     "Setting/Ka’Thand.md",
     "index.md",
-    "Setting.md",
     "System.md",
-    "System/index.md",
     "Extras/Attachments/map-ka'thand.png",
-    "Party/index.md",
-    "Session Notes/index.md",
     "Extras/System - Old/index.md",
     "Extras/System - Old/Choice & Chance.md",
     "README.md",
@@ -209,13 +224,11 @@
     "System",
     "Ka’Thand.md",
     "Setting/Malevolent Forest.md",
-    "Session Notes/2024-03-02.md",
     "Party/Akra Jr.md",
     "Setting/Quajreyas.md",
     "Setting/Tulucaon Range.md",
     "Setting/Vii Vaal.md",
     "Session Notes.md",
-    "Party.md",
     "Party/Triple-A.md",
     "Mood Board.canvas",
     "Extras/Templates/C&C Character Sheet.md",
