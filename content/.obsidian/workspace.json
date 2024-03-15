@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setting.md",
+                "file": "index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -123,7 +123,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Setting.md"
+                "file": "index.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setting.md",
+                "file": "index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setting.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setting.md"
+                "file": "index.md"
               }
             }
           },
@@ -193,9 +193,9 @@
   },
   "active": "394cf669914889f3",
   "lastOpenFiles": [
+    "Setting.md",
     "Setting/index.md",
     "System/index.md",
-    "Setting.md",
     "System.md",
     "Setting/Ka’Thand.md",
     "Extras/Attachments/map-ka'thand.png",
