@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "System/index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "README.md"
+                "file": "System/index.md"
               }
             }
           },
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "System/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "System/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "System/index.md"
               }
             }
           },
@@ -180,10 +180,12 @@
   },
   "active": "a9e7b5a1ffded683",
   "lastOpenFiles": [
-    "Game.md",
+    "README.md",
+    "System/index.md",
+    "Setting/index.md",
+    "System",
     "Untitled.md",
     "Setting/Ka’Thand.md",
-    "README.md",
     "Ka’Thand.md",
     "Setting/Malevolent Forest.md",
     "Session Notes/2024-03-02.md",
@@ -192,19 +194,18 @@
     "Setting/Quajreyas.md",
     "Setting/Tulucaon Range.md",
     "Setting/Vii Vaal.md",
-    "Setting/index.md",
     "Session Notes.md",
-    "System/index.md",
+    "Extras/System - Old/index.md",
     "Session Notes/index.md",
     "Party/index.md",
     "Party.md",
-    "System/Choice & Chance.md",
+    "Extras/System - Old/Choice & Chance.md",
     "System.md",
     "Setting.md",
     "Party/Triple-A.md",
     "Mood Board.canvas",
     "Extras/Templates/C&C Character Sheet.md",
-    "System/C&C Character Sheet.pdf",
+    "Extras/System - Old/C&C Character Sheet.pdf",
     "Extras/Templates/Lucide icon SVG.md",
     "index2.md",
     "Extras/Attachments/fig-forest-ruin.png",
@@ -217,7 +218,6 @@
     "Extras/Attachments/fig-sea-cliff-village.png",
     "Extras/Attachments/fig-mountain-valley-city.png",
     "Extras/Attachments/fig-forest-gas-mask.png",
-    "Party/Cassandra Jr.md",
     "System/Char Sheet PDF Generator.pdf",
     "System/Char Sheet.pdf",
     "Extras/Char Sheet.pdf",
@@ -225,7 +225,6 @@
     "Party",
     "Party",
     "Extras/Templates",
-    "Extras/Attachments",
-    "Extras"
+    "Extras/Attachments"
   ]
 }
