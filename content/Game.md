@@ -4,7 +4,7 @@ source: https://docs.google.com/document/d/1AFUSyEgLVVTTq5rTqS7DSrYVwWzT3wF4DFqB
 
 Overview, Rules & Core Gameplay
 
-Game and Setting
+## Setting
 
 [[Ka’Thand]] is a fictional world on which anything can happen. Where fantasy, science and other tales of whimsy and woe can be woven and explored with your friends. You can navigate the dangers of exploration and combat; unravel plots of intrigue, discover romance and more. You can tread through treacherous temples, solve complex problems and wander through cities and landscapes of your wildest imagination. The stories told will shape reality itself.
 
@@ -12,15 +12,21 @@ Magic, or Forms - Life changes constantly, and though those changes are difficul
 
 The [[Ruk]] have always been an inward-looking people, and through their practices began to gain control over their bodies, such as staving off disease by raising the temperature in their extremities to fight infection. The root of this is not in what a Ruk is, but how they think, and their relationship to their bodies and the outside world.
 
+## System
+
 [[Choice & Chance]] is the system I’ve devised to help you tell stories. It’s meant to be rules light so you can keep things going. Complexity in design doesn’t always equal fun. 
 
-The “game master” is heretofore the **Arbiter**. The players are **Tellers**. For everything, you will need 1d4, 1d6, and 2d10. 
+The “game master” is heretofore the **Arbiter**. The players are **Tellers**. 
+
+### Dice & Rolling
+
+For everything, you will need 1d4, 1d6, and 2d10. 
 
 If an action has risk or difficulty, it is decided by a 2d10 test, or 2 10-sided dice. You must meet or roll under the Target Number (TN) to succeed on any given action. The target number is always based on a character or creature’s skill stat when performing an action, with any modifiers ‘easing’ or ‘pushing’ the TN up or down. 
 Skills start at 9, Forms start at 8. A great rule of thumb for the Arbiter is as follows:
 
 Very Easy Task - TN +4
-East Task - TN +2
+Easy Task - TN +2
 Normal Task - TN +0
 Hard Task - TN -2
 Extreme Task - TN -4
@@ -87,32 +93,35 @@ Target Number
 2
 1
 
-Encounters, Distance and Map Play
-Encounters
+### Encounters
 
 Players will sometimes enter “Encounters” where actions are taken in “rounds”. One round comprises one action.
 
 When all involved parties complete their actions, a new round begins.
 
-Distance and Movement
+### Distance and Movement
 
 Distance is calculated by “zones”: Close is 10’, Near is up to 50’, Far is 50-100’, and Distant is 100-150’. A Teller can move anywhere close to perform an action once per turn.
 
 Any abilities in the game will have these distances in mind, and can be played in a “Theatre of the Mind” style of play. Though this can easily translate to tabletop play depending on preference.
 
-Vitality
+### Vitality
+
 Vitality is a measure of a character’s physical and mental well-being. It is not just a statistic for combat. Each Teller starts with 10 vitality, which can be increased.
-Combat
+
+### Combat
+
 Each turn you get 10’ of free movement, and 1 action (attack, move, consume potion).
 
 You roll to attack and to defend (Evade, Block, etc.). On a successful defense, damage is mitigated/avoided:
-Dodge - 5 foot adjacent step.
-Block - must have shield
-Parry - must have melee weapon
+- Dodge - 5 foot adjacent step.
+- Block - must have shield
+- Parry - must have melee weapon
 
 Ranged attacks cannot be dodged due to their speed, but can be blocked if one possesses a shield, shield form or other type of improvised cover.
 
-Death and Death Saves
+### Death and Death Saves
+
 When Vitality hits zero, players are desperate and exhausted. They can crawl/move 5 feet per turn and can only take defensive maneuvers that don’t require movement. If attacked, a failed defense roll results in incapacitation. Another blow results in death.
 
 Characters
