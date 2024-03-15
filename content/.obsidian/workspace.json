@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Extras/Templates/System Template.md",
+                "file": "index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -149,7 +149,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Extras/Templates/System Template.md"
+                "file": "index.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extras/Templates/System Template.md",
+                "file": "index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extras/Templates/System Template.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extras/Templates/System Template.md"
+                "file": "index.md"
               }
             }
           },
@@ -219,13 +219,13 @@
   },
   "active": "f241f4cbae7b4616",
   "lastOpenFiles": [
+    "Extras/Templates/System Template.md",
     "Extras/Templates/Setting Template.md",
     "Extras/Templates/Session Notes Template.md",
     "Extras/Templates/Party Template.md",
     "Extras/Templates/C&C Character Sheet.md",
     "Setting.md",
     "System/index.md",
-    "Extras/Templates/System Template.md",
     "Party.md",
     "Extras/Templates/Lucide icon SVG.md",
     "Session Notes.md",
