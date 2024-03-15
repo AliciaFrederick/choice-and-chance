@@ -1,7 +1,7 @@
 ---
 tags:
   - class
-up: "[[Kh'thand]]"
+up: "[[Ka'Thand]]"
 ---
 "[[Kan]]" roughly translates to "more than" or "center of". These people have the rare ability to use forms to produce magical [[Choice & Chance#Spell Effects|Spell Effects]]. Kan are both feared and respected by the otherwise mundane populace. Kan can be born to people of any ancestry. 
 

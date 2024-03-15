@@ -1,7 +1,7 @@
 ---
 tags:
   - location/settlement
-up: "[[Kh'thand]]"
+up: "[[Ka'Thand]]"
 location: "[[Tulucaon Range]]"
 ---
 ![[fig-mountain-valley-city.png]] 

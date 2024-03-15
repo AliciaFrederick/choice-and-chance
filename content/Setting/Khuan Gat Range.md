@@ -1,6 +1,6 @@
 ---
 tags:
   - "#location/poi"
-up: "[[Kh'thand]]"
+up: "[[Ka'Thand]]"
 ---
-This mountain range lies along the southern coast of [[Kh'thand]]. 
+This mountain range lies along the southern coast of [[Ka'Thand]]. 

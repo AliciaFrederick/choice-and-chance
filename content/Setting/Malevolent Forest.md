@@ -3,7 +3,7 @@ aliases:
   - forest
 tags:
   - location/poi
-up: "[[Kh'thand]]"
+up: "[[Ka'Thand]]"
 ---
 ![[fig-forest-twilight.png]] 
 

@@ -6,4 +6,4 @@ aliases:
   - Setting
 up: "[[index]]"
 ---
-![[Kh'thand]]  ^d544c1
+![[Ka'Thand]]  ^d544c1

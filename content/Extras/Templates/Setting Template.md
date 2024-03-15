@@ -2,6 +2,6 @@
 aliases: 
 tags:
   - setting
-up: "[[Kh'thand]]"
+up: "[[Ka'Thand]]"
 ---
 Lorem ipsum dolor sit ...

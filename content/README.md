@@ -10,7 +10,7 @@ This is the 2024 reboot of our 2019 campaign in Brent's world of Kh'thand. This 
 - [[index|Home]] - Contains a campaign overview. 
 - [[Party/index|Party]] - Contains pages for each of the player characters. 
 - [[Session Notes/index|Session Notes]] - Contains the record from each session. 
-- [[Setting/index|Setting]] - Contains details about [[Kh'thand]] and the larger world of [[Oanenya]]. 
+- [[Setting/index|Setting]] - Contains details about [[Ka'Thand]] and the larger world of [[Oanenya]]. 
 - [[System/index|System]] - Contains the mechanical rules of Choice & Chance. 
 - **Extras** - Contains note templates, image assets, and other supporting media. 
 

@@ -1,6 +1,6 @@
 ---
 tags:
   - class
-up: "[[Kh'thand]]"
+up: "[[Ka'Thand]]"
 ---
 An [[Ohntac'kan]] is any [[Ohntac]] who is a [[Kan]], or magic user. 
