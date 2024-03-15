@@ -18,7 +18,6 @@ export const sharedPageComponents: SharedLayout = {
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(),
-    Component.Banner(),
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
@@ -33,17 +32,17 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
-    Component.Graph(),
+    Component.MobileOnly(Component.TableOfContents()),
+    Component.MobileOnly(Component.Explorer()),
   ],
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [
-    Component.MobileOnly(Component.TableOfContents()),
     Component.Breadcrumbs(), 
     Component.ArticleTitle(), 
-    Component.ContentMeta()
+    Component.ContentMeta(),
   ],
   left: [
     Component.PageTitle(),
@@ -54,6 +53,8 @@ export const defaultListPageLayout: PageLayout = {
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
+    Component.Backlinks(),
+    Component.MobileOnly(Component.TableOfContents()),
     Component.MobileOnly(Component.Explorer()),
   ],
   center: [
