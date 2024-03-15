@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Game.md"
+                "file": "README.md"
               }
             }
           },
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game.md"
+                "file": "README.md"
               }
             }
           },
@@ -180,8 +180,8 @@
   },
   "active": "a9e7b5a1ffded683",
   "lastOpenFiles": [
-    "Untitled.md",
     "Game.md",
+    "Untitled.md",
     "Setting/Ka’Thand.md",
     "README.md",
     "Ka’Thand.md",
