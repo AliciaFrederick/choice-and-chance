@@ -5,17 +5,15 @@
   "customFormulas": [
     "1d4",
     "1d6",
-    "2d10"
+    "1d10"
   ],
   "displayFormulaForMod": true,
-  "displayResultsInline": true,
-  "displayFormulaAfter": false,
+  "displayResultsInline": false,
+  "displayFormulaAfter": true,
   "escapeDiceMod": true,
   "signed": true,
   "displayLookupRoll": true,
-  "formulas": {
-    "hf": "2d10"
-  },
+  "formulas": {},
   "persistResults": true,
   "results": {},
   "defaultRoll": 1,
@@ -48,40 +46,10 @@
       "text": "6"
     },
     {
-      "id": "dice-roller-d8",
-      "shape": "Diamond",
-      "formula": "d8",
-      "text": "8"
-    },
-    {
-      "id": "dice-roller-d10",
-      "shape": "Diamond",
+      "text": "10",
       "formula": "d10",
-      "text": "10"
-    },
-    {
-      "id": "dice-roller-d12",
-      "shape": "Dodecahedron",
-      "formula": "d12",
-      "text": "12"
-    },
-    {
-      "id": "dice-roller-d20",
-      "shape": "Icosahedron",
-      "formula": "d20",
-      "text": "20"
-    },
-    {
-      "id": "dice-roller-d100",
-      "shape": "Circle",
-      "formula": "d%",
-      "text": "%"
-    },
-    {
-      "text": "HF",
-      "formula": "2d10",
       "shape": "Diamond",
-      "id": "screeching-hundreds-man"
+      "id": "dice-roller-d10"
     }
   ],
   "showRenderNotice": true,
