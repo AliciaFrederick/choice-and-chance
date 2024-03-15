@@ -23,4 +23,4 @@ The forest gives way to the [[Tulucaon Range]] of mountains at the center of the
 
 Toward the southern end of Ka'Thand, the [[Khuan Gat Range]] of mountains rises above the vast forest. The city of [[Quajreyas]] lies at the cape beyond the mountains. 
 
-![[map-Ka'Thand.png]] 
+![[map-ka'thand.png]]  
