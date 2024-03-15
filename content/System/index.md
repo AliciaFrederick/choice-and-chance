@@ -4,6 +4,7 @@ aliases:
   - System
 tags:
   - system
+title: System
 ---
 # Choice & Chance
 
