@@ -190,11 +190,11 @@ Tellers are awarded Time Points (TP) by the Arbiter. All points earned counts to
 - “Winning” a combat, which could mean surviving.
 - Smart or creative actions
 
-Players start with 15 points, to use during character creation.
-
-**Skills** start at TN 9 and are capped at +6. Each improvement provides a +1. Skills and Forms when mastered will provide a boon or augment.
+Players start with 15 points to spend during [[Game#Characters|character]] creation.
 
 **Talents** are passives that alter game mechanics or don’t require rolls per se (see below).
+
+**Skills** start at TN 9 and are capped at +6 (TN 15). Each improvement provides a +1. Skills and Forms when mastered will provide a boon or augment. 
 
 **Forms** are spells that can be custom designed, and improved over time. See [[Game#On Magic|On Magic]]. 
 
@@ -210,7 +210,7 @@ Talents:
 4 each, max 2 talents.
 
 Forms:
-TN increase - 1 each
+TN improvement - 1 each
 Augments - every 3 improvements you get an augment (increase damage, distance, duration by 1 category).
 
 Form Creation:
