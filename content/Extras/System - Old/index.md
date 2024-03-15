@@ -2,8 +2,7 @@
 title: System
 tags:
   - system
-up: "[[index]]"
+up: 
 aliases:
-  - System
 ---
 ![[Choice & Chance]] 

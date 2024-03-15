@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setting/index.md",
+                "file": "System/index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -123,7 +123,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Setting/index.md"
+                "file": "System/index.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setting/index.md",
+                "file": "System/index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setting/index.md",
+                "file": "System/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setting/index.md"
+                "file": "System/index.md"
               }
             }
           },
@@ -175,7 +175,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -194,9 +194,11 @@
   },
   "active": "ec1193e5ab82e62a",
   "lastOpenFiles": [
+    "Extras/System - Old/index.md",
+    "index.md",
+    "Extras/System - Old/Choice & Chance.md",
     "Setting.md",
     "Setting/index.md",
-    "index.md",
     "README.md",
     "Setting/Oanenya.md",
     "Setting/Ka’Thand.md",
@@ -210,11 +212,9 @@
     "Setting/Tulucaon Range.md",
     "Setting/Vii Vaal.md",
     "Session Notes.md",
-    "Extras/System - Old/index.md",
     "Session Notes/index.md",
     "Party/index.md",
     "Party.md",
-    "Extras/System - Old/Choice & Chance.md",
     "System.md",
     "Party/Triple-A.md",
     "Mood Board.canvas",
