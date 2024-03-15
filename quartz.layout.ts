@@ -21,6 +21,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
+    Component.MobileOnly(Component.TableOfContents()),
   ],
   left: [
     Component.PageTitle(),
@@ -33,7 +34,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
     Component.MobileOnly(Component.Explorer()),
-    Component.MobileOnly(Component.TableOfContents()),
   ],
 }
 
@@ -43,6 +43,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.Breadcrumbs(), 
     Component.ArticleTitle(), 
     Component.ContentMeta(),
+    Component.MobileOnly(Component.TableOfContents()),
   ],
   left: [
     Component.PageTitle(),
@@ -55,7 +56,6 @@ export const defaultListPageLayout: PageLayout = {
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
     Component.MobileOnly(Component.Explorer()),
-    Component.MobileOnly(Component.TableOfContents()),
   ],
   center: [
   ],

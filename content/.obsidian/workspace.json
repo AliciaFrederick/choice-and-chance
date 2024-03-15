@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Setting/Ka’Thand.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -123,7 +123,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "index.md"
+                "file": "Setting/Ka’Thand.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Setting/Ka’Thand.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Setting/Ka’Thand.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Setting/Ka’Thand.md"
               }
             }
           },
@@ -193,13 +193,13 @@
   },
   "active": "394cf669914889f3",
   "lastOpenFiles": [
-    "Setting.md",
     "Setting/index.md",
-    "System/index.md",
-    "System.md",
     "Setting/Ka’Thand.md",
-    "Extras/Attachments/map-ka'thand.png",
     "index.md",
+    "Setting.md",
+    "System.md",
+    "System/index.md",
+    "Extras/Attachments/map-ka'thand.png",
     "Party/index.md",
     "Session Notes/index.md",
     "Extras/System - Old/index.md",
