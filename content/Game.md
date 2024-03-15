@@ -307,7 +307,7 @@ This is a game mechanic. If you know a Spell Effect being cast, you can make a c
 
 #### Spell Parameters and Considerations
 
-- Distance - follows zone categories, maximum is Distant, cost 2 per zone.
+- Distance - follows [[Game#Zones|zone]] categories, maximum is Distant, cost 2 per zone.
 - Damage - 2 per damage.
 - Duration - forms with duration must be concentrated on, and other forms cannot be cast
 - Increasing duration costs 2 points per increase, and are categorized as follows: instant, 1 round, 1 minute, 10 minutes, 1 hour, 1 day.
