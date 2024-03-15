@@ -24,6 +24,10 @@ The [[Ruk]] have always been an inward-looking people, and through their practic
 
 The “game master” is heretofore the **Arbiter**. The players are **Tellers**. 
 
+### Tellers
+
+Players describe actions and if they impose risk of failure the DM will assign the roll to one of their skills, and push or ease the roll based on player skill and context.
+
 ### Dice & Rolling
 
 For everything, you will need 1d4, 1d6, and 2d10. 
@@ -148,11 +152,7 @@ Ranged attacks cannot be dodged due to their speed, but can be blocked if one po
 
 When Vitality hits zero, players are desperate and exhausted. They can crawl/move 5 feet per turn and can only take defensive maneuvers that don’t require movement. If attacked, a failed defense roll results in incapacitation. Another blow results in death.
 
-### Characters
-
-Players describe actions and if they impose risk of failure the DM will assign the roll to one of their skills, and push or ease the roll based on player skill and context.
-
-## Tellers
+## Characters
 
 ### Background
 
@@ -164,8 +164,8 @@ Nothing is perfect in life, and the most relatable heroes are those that you can
 
 ### Skills and Advancement 
 
-Skills - some are active, some are passive. 
-Forms are a Special skill with their own difficulty and mechanics.. See “On Magic”.
+Some **Skills** are active, some are passive. 
+**Forms** are a special skill with their own difficulty and mechanics. See [[Game#On Magic|On Magic]].
 
 Tellers are awarded Time Points by the Arbiter. All points earned counts towards the group, not just the individual who earned it, and can be earned by several means:
 
