@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Party/Cassandra Jr.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -149,7 +149,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "index.md"
+                "file": "Party/Cassandra Jr.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Party/Cassandra Jr.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Party/Cassandra Jr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Party/Cassandra Jr.md"
               }
             }
           },
@@ -219,9 +219,12 @@
   },
   "active": "f241f4cbae7b4616",
   "lastOpenFiles": [
+    "Party/index.md",
+    "Party/Thorin Jr.md",
+    "Party/Akra Jr.md",
+    "index.md",
     "Extras/Templates/C&C Character Sheet.md",
     "Extras/Templates/Party Template.md",
-    "index.md",
     "Extras/Templates/System Template.md",
     "Extras/Templates/Setting Template.md",
     "Extras/Templates/Session Notes Template.md",
@@ -231,7 +234,6 @@
     "Extras/Templates/Lucide icon SVG.md",
     "Session Notes.md",
     "Session Notes/index.md",
-    "Party/index.md",
     "Session Notes/2024-03-02.md",
     "Party/Triple-A.md",
     "Setting/index.md",
@@ -245,8 +247,6 @@
     "System",
     "Ka’Thand.md",
     "Setting/Malevolent Forest.md",
-    "Party/Akra Jr.md",
-    "Setting/Quajreyas.md",
     "Mood Board.canvas",
     "Extras/System - Old/C&C Character Sheet.pdf",
     "Extras/Attachments/fig-forest-ruin.png",
