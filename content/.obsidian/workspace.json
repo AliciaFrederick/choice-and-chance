@@ -13,9 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "preview",
-                "source": true
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -108,7 +109,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "index.md"
+                "file": "README.md"
               }
             }
           },
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "README.md"
               }
             }
           },
@@ -178,9 +179,9 @@
   },
   "active": "a9e7b5a1ffded683",
   "lastOpenFiles": [
+    "index.md",
     "README.md",
     "Setting/Kh'thand.md",
-    "index.md",
     "Party/Akra Jr.md",
     "Setting/Quajreyas.md",
     "Setting/Malevolent Forest.md",

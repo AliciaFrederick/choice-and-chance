@@ -5,7 +5,7 @@ aliases:
 up: "[[index]]"
 tags:
 ---
-This is the 2024 reboot of our 2019 campaign in Brent's world of Kh'thand. This time around, we are using his new custom RPG system, Choice & Chance. 
+This is the 2024 reboot of our 2019 campaign in Brent's world of Kh'thand. This time around, we are using his new custom RPG system, Choice & Chance. The [Player Guide](https://docs.google.com/document/d/1AFUSyEgLVVTTq5rTqS7DSrYVwWzT3wF4DFqBILeWqtE/edit#heading=h.fvhadisoat29) is continually evolving, so check there first!
 
 - [[index|Home]] - Contains a campaign overview. 
 - [[Party/index|Party]] - Contains pages for each of the player characters. 

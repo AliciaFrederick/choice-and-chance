@@ -2,7 +2,7 @@
   "readableLineLength": true,
   "alwaysUpdateLinks": true,
   "showLineNumber": true,
-  "propertiesInDocument": "hidden",
+  "propertiesInDocument": "visible",
   "attachmentFolderPath": "Extras/Attachments",
   "pdfExportSettings": {
     "includeName": true,
