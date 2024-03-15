@@ -24,7 +24,7 @@ This is the 2024 reboot of our 2019 campaign in Brent's world of Ka'Thand. This 
 
 ## Party 
 
-![[Party/index#^92f606|index]] 
+![[Party/index]] 
 
 ## Session Highlights
 
