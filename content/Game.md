@@ -124,37 +124,42 @@ Ranged attacks cannot be dodged due to their speed, but can be blocked if one po
 
 When Vitality hits zero, players are desperate and exhausted. They can crawl/move 5 feet per turn and can only take defensive maneuvers that don’t require movement. If attacked, a failed defense roll results in incapacitation. Another blow results in death.
 
-Characters
+### Characters
 
 Players describe actions and if they impose risk of failure the DM will assign the roll to one of their skills, and push or ease the roll based on player skill and context.
 
-TellersOverview
+### TellersOverview
+
 This is a Tabletop Role Playing Game, or TTRPG. Ka’Thand is the world I’ve created for you to play in, explore and shape. A place of your wildest imagination, Ka’Thand has its own happenings and creatures and goings ons. But just like you, the world is ever changing, evolving, and growing. Every story told in this world is unique, just as every conversation you have is one of a kind. This place is just a stepping stone for you to take your creativity, as Arbiter or Teller, and run with it - with a few rules to keep the game fair and fun.
 
 This game is meant to be played end to end, with a story that takes you all the way through a completed adventure with a full arc.
-Background
+
+### Background
+
 There are no mechanical elements to background. The skills you choose are determined by where your character has been and what they’ve focused on, so add skills accordingly.
 
- But think of it this way: stories are interesting when characters grow or change in response to the things that happen to them. Too often characters come with completed arcs before we’re even introduced, and that doesn’t make for a compelling story. How can someone be tempted by evil or changed by hardship if they’ve already already wrestled with and defeated their demons?
+But think of it this way: stories are interesting when characters grow or change in response to the things that happen to them. Too often characters come with completed arcs before we’re even introduced, and that doesn’t make for a compelling story. How can someone be tempted by evil or changed by hardship if they’ve already already wrestled with and defeated their demons?
 
 Nothing is perfect in life, and the most relatable heroes are those that you can understand, because they’re imperfect, too. This doesn’t mean everyone needs a tragic or fatal flaw, or even one taken to extremes. But think about your character as a real person. Think about funny situations they may have been in, or difficulties they’ve had, quirks and preferences - but don’t fully resolve them. 
-Skills and Advancement 
+
+### Skills and Advancement 
+
 Skills - some are active, some are passive. 
 Forms are a Special skill with their own difficulty and mechanics.. See “On Magic”.
 
 Tellers are awarded Time Points by the Arbiter. All points earned counts towards the group, not just the individual who earned it, and can be earned by several means:
 
-Finding a required item
-Saving anything
-Completing a contract
-Extracting useful rumors or information
-Convincing someone to like you or do something
-Overcoming a difficult physical barrier
-Successfully researching an esoteric topic
-Negotiating
-Overcoming combat scenarios
-“Winning” a combat, which could mean surviving.
-Smart or creative actions
+- Finding a required item
+- Saving anything
+- Completing a contract
+- Extracting useful rumors or information
+- Convincing someone to like you or do something
+- Overcoming a difficult physical barrier
+- Successfully researching an esoteric topic
+- Negotiating
+- Overcoming combat scenarios
+- “Winning” a combat, which could mean surviving.
+- Smart or creative actions
 
 Players start with 15 points, and then acquire new skills, and upgrade existing ones.
 Skills start at TN 9 and are capped at +6. Each improvement provides a +1. Skills and Forms when mastered will provide a boon or augment.
@@ -178,13 +183,13 @@ Increase Duration 2
 Increase Damage 2
 Increase Targets 2
 
-
 Form Improvement:
 Form Improvement (to roll) 1 per
 Augments - every 3 improvements you get an augment (increase damage, distance, duration by 1 category).
 
 
-Skills List
+#### Skills List
+
 Power - bodily strength - lifting, pushing, bracing, bending.
 Mastery: advantage, or increase Vitality by 4
 Melee Attack: ___: +1 to attack roll. Includes martial training (unarmed). Every other skill point invested increases damage by 1.
@@ -240,7 +245,7 @@ Mastery - ignore armor swimming penalty
 Tracking - find clues to pursue a target in the wild.
 Mastery - choose a sense (sight, smell, hearing) and gain advantage on checks relying on that sense.
 
-Talents List
+#### Talents List
 
 Savvy - you know people and information in a major area.
 Shield fighting - Can turn an ally’s missed defense roll into a success if within touch range.
@@ -255,7 +260,7 @@ War Caster - Ease 2 on Fortitude checks to maintain concentration.
 Great Weapon Master - if wielding a 2h weapon, can attack two adjacent foes
 Resilient - Max vitality +2.
 
-On Magic
+#### On Magic
 
 Tellers manifest ‘magic’, or Forms, by connecting the dream world, their inner mind, with the outside world, physical space. It’s a process called manifesting, wherein certain Ruk can practice forms by learning to control dream itself. When mastered, they can begin to manifest those forms into reality. Power is limited by a Ruk’s natural form.
 
@@ -276,7 +281,8 @@ Duration - forms with duration must be concentrated on, and other forms cannot b
 Targets: allied or enemy targets, costs 2 per target; convert spell into an AoE, Close-sized circle, cost 8 
 Spell Silence - cannot be used on damage forms, cost 5.
 
-Spell Effects: 
+Spell Effects
+
 - Deafness
 - Blindness
 - Light
@@ -309,17 +315,15 @@ Form Examples
 - Invisibility (3) - Distance Touch (0), Duration 10 minutes (6), Targets 3 (6). Cost 15. 
 	- Add the limitation you cannot attack while invisible or it ends the effect, (-3). Cost 12. 
 
+### Resting
 
-Resting
+Players can rest 4 times a day to recover Vitality up to their maximum, with each successive rest taking longer.
 
-Players can rest 4 times a day to recover Vitality up to their maximum, with each successive rest taking longer:
-Breather: Recover 1 Vitality, takes 1 action
-Respite: Recover 2 Vitality, takes 10 minutes
-Short Rest: Recover 3 Vitality, takes 1 hour
-Long Rest: Recover 4 Vitality and any Forms, takes 10 hours, 6 of which must be spent sleeping.
-
-
-Armor
+- Breather: Recover 1 Vitality, takes 1 action
+- Respite: Recover 2 Vitality, takes 10 minutes
+- Short Rest: Recover 3 Vitality, takes 1 hour
+- Long Rest: Recover 4 Vitality and any Forms, takes 10 hours, 6 of which must be spent sleeping.
+### Armor
 
 There is Light and Heavy armor, adding 2 and 4 Armor points.  
 AP functions as hit points that can be restored after an encounter, and after a rest is taken. Requires a
