@@ -201,94 +201,94 @@ Players start with 15 points to spend during [[Game#Characters|character]] creat
 #### Point Costs
 
 Skills:
-New Skill = 3 
-Improvement = 1 per
+- New Skill = 3 
+- Improvement = 1 per
 
 Talents:
-New Talent = 4 (max 2) 
+- New Talent = 4 (max 2) 
 
 Forms:
-Improvement (+1 to TN) = 1 each
-Augment (increase base damage, duration, targets or distance by one category) = 3 Improvements.
+- Improvement (+1 to TN) = 1 each
+- Augment (increase base damage, duration, targets or distance by one category) = 3 Improvements.
 
 Form Manifestation:
-Base spell effect = 3
-Increase Distance by 1 zone = 2
-Increase Duration by 1 category = 2
-Increase Damage by 1 = 2
-Increase Targets by 1 = 2
+- Base spell effect = 3
+- Increase Distance by 1 zone = 2
+- Increase Duration by 1 category = 2
+- Increase Damage by 1 = 2
+- Increase Targets by 1 = 2
 
 #### Skills List
 
-Power - bodily strength - lifting, pushing, bracing, bending.
-Mastery: advantage, or increase Vitality by 4
-Melee Attack: ___: +1 to attack roll. Includes martial training (unarmed). Every other skill point invested increases damage by 1.
-Mastery - 1h - riposte/counter. 2h - AoO 
-Ranged Attack: ___: +1 to attack roll 
-Mastery - learn ‘Sharshooter’ -  use an action to aim a ranged attack, easing TN by 2.  Every other skill point invested increases damage by 1.
-Or unblocked sharpshooter attacks ignore AP.
-Defense - Used to evade mitigate damage whether dodging, blocking or parrying.
-Mastery - can attacks from Far range or greater.
-Perception - Glean information about surrounding area or situation.
-Mastery - you cannot be surprised while awake.
-Insight - Glean intention from other’s words or actions.
-Mastery - ease TN by 2 if you’ve met the target before.
-Clarity - +1TN to resist mental form effects.
-Mastery - advantage against effects to one of the following: control you, modify memory, scry you
-Animal Training - Charm or induce an animal companion to perform simple actions, 1 animal at a time.
-Mastery - advantage on the check.
-Brawler -grab and control creatures (if successful, ATK and DEF are pushed by 2 for the grappled creature, must use action to attempt escape.
-Mastery - must successfully escape twice to get loose.
-Climber - Climb any reasonable surface with texture or holds.
-Mastery - Advantage on either urban or wilderness climbing checks.
-Scout - Detect traps, hidden doors and dangers in an unknown area.
-	Mastery - advantage on finding hidden enemies in a searched area.
-Disguise - Take on alternate identities. Imitating a specific person requires a day to prepare.
-Mastery - Advantage on deception checks while wearing an appropriate disguise.
-Sleight of hand - Stealing small items, cheat or overcome betting games, conceal something that requires hand movement
-Mastery - first failed check on unaware targets does not alert them.
-Hunting and Gathering - ability to acquire food and water in any environment, enough for a group.
-Mastery - on a failed check you still find enough food/water for 1.
-Investigate - Uncover hidden and subtle information.
-Jump - Increase jump distance 3-fold
-Mastery - ignore fall damage below a Near Distance (40’)
-Knowledge:___ - Roll to recall details on a topic or area of expertise.
-Mastery - advantage on the rolls.
-Tinker - Manipulate non-magical locks, traps or other devices.
-	Mastery - can dismantle and re-activate traps and other devices
-Herbalism - find and use plants for tinctures, potions and salves that can be applied for different uses. 1 alchemist supply makes 1 use.
-	Mastery - Cooking - can cook herbs in meals, takes 1 hr. Party gets the effect and tincture effect doubled. But must be consumed. Consumes 1 ration per teller.. 
-Oratory - Persuade or deceive with words
-	Mastery - Ease checks against non-hostile targets by 2.
-Performance - Entertain, distract, intimidate or charm.
-	Mastery - advantage when there is a crowd.
-Profession: any working skill with any required tools and knowledge.
-Mastery - advantage on skill-related checks.
-Fortitude - Roll to ignore extreme environmental effects or the effects of ingested materials.
-Mastery - If you rolled a 1 during a rest, you rolled a 2..
-Finesse - physical speed and acumen. 
-Mastery - Advantage during chases, or double free movement on turn (20’).
-Stealth - attempt to remain unseen while moving, easier when still or hiding.
-Mastery - advantage when in a crowd or forest.
-Swimming - swim twice as fast
-Mastery - ignore armor swimming penalty
-Tracking - find clues to pursue a target in the wild.
-Mastery - choose a sense (sight, smell, hearing) and gain advantage on checks relying on that sense.
+- Power - bodily strength - lifting, pushing, bracing, bending.
+- Mastery: advantage, or increase Vitality by 4
+- Melee Attack: +1 to attack roll. Includes martial training (unarmed). Every other skill point invested increases damage by 1.
+- Mastery - 1h - riposte/counter. 2h - AoO 
+- Ranged Attack: +1 to attack roll 
+- Mastery - learn ‘Sharshooter’ -  use an action to aim a ranged attack, easing TN by 2.  Every other skill point invested increases damage by 1.
+- Or unblocked sharpshooter attacks ignore AP.
+- Defense - Used to evade mitigate damage whether dodging, blocking or parrying.
+- Mastery - can attacks from Far range or greater.
+- Perception - Glean information about surrounding area or situation.
+- Mastery - you cannot be surprised while awake.
+- Insight - Glean intention from other’s words or actions.
+- Mastery - ease TN by 2 if you’ve met the target before.
+- Clarity - +1TN to resist mental form effects.
+- Mastery - advantage against effects to one of the following: control you, modify memory, scry you
+- Animal Training - Charm or induce an animal companion to perform simple actions, 1 animal at a time.
+- Mastery - advantage on the check.
+- Brawler - grab and control creatures (if successful, ATK and DEF are pushed by 2 for the grappled creature, must use action to attempt escape.
+- Mastery - must successfully escape twice to get loose.
+- Climber - Climb any reasonable surface with texture or holds.
+- Mastery - Advantage on either urban or wilderness climbing checks.
+- Scout - Detect traps, hidden doors and dangers in an unknown area.
+	- Mastery - advantage on finding hidden enemies in a searched area.
+- Disguise - Take on alternate identities. Imitating a specific person requires a day to prepare.
+- Mastery - Advantage on deception checks while wearing an appropriate disguise.
+- Sleight of hand - Stealing small items, cheat or overcome betting games, conceal something that requires hand movement
+- Mastery - first failed check on unaware targets does not alert them.
+- Hunting and Gathering - ability to acquire food and water in any environment, enough for a group.
+- Mastery - on a failed check you still find enough food/water for 1.
+- Investigate - Uncover hidden and subtle information.
+- Jump - Increase jump distance 3-fold
+- Mastery - ignore fall damage below a Near Distance (40’)
+- Knowledge:___ - Roll to recall details on a topic or area of expertise.
+- Mastery - advantage on the rolls.
+- Tinker - Manipulate non-magical locks, traps or other devices.
+	- Mastery - can dismantle and re-activate traps and other devices
+- Herbalism - find and use plants for tinctures, potions and salves that can be applied for different uses. 1 alchemist supply makes 1 use.
+	- Mastery - Cooking - can cook herbs in meals, takes 1 hr. Party gets the effect and tincture effect doubled. But must be consumed. Consumes 1 ration per teller.. 
+- Oratory - Persuade or deceive with words
+	- Mastery - Ease checks against non-hostile targets by 2.
+- Performance - Entertain, distract, intimidate or charm.
+	- Mastery - advantage when there is a crowd.
+- Profession: any working skill with any required tools and knowledge.
+- Mastery - advantage on skill-related checks.
+- Fortitude - Roll to ignore extreme environmental effects or the effects of ingested materials.
+- Mastery - If you rolled a 1 during a rest, you rolled a 2..
+- Finesse - physical speed and acumen. 
+- Mastery - Advantage during chases, or double free movement on turn (20’).
+- Stealth - attempt to remain unseen while moving, easier when still or hiding.
+- Mastery - advantage when in a crowd or forest.
+- Swimming - swim twice as fast
+- Mastery - ignore armor swimming penalty
+- Tracking - find clues to pursue a target in the wild.
+- Mastery - choose a sense (sight, smell, hearing) and gain advantage on checks relying on that sense.
 
 #### Talents List
 
-Savvy - you know people and information in a major area.
-Shield fighting - Can turn an ally’s missed defense roll into a success if within touch range.
-Attack of Opportunity - when a creature leaves melee range, can roll an attack as a reaction one per turn.
-Counter - when successfully parrying an attack, can attack as a reaction once per turn.
-Sneak Attack - when enemy is suprised, triple damage.
-Ruk’kan Killer - Ease attack rolls by 1 against creatures that have cast forms in the last round.
-Focus - increase range or damage of a form by 1, at the cost of 1 vitality. Can use once you know a form cast is successful.
-Communicant - you can read lips and between the lines. Ease 2 for insight and Oratory
-Sharp Shooter - ignore armor points with ranged weapons
-War Caster - Ease 2 on Fortitude checks to maintain concentration.
-Great Weapon Master - if wielding a 2h weapon, can attack two adjacent foes
-Resilient - Max vitality +2.
+- Savvy - you know people and information in a major area.
+- Shield fighting - Can turn an ally’s missed defense roll into a success if within touch range.
+- Attack of Opportunity - when a creature leaves melee range, can roll an attack as a reaction one per turn.
+- Counter - when successfully parrying an attack, can attack as a reaction once per turn.
+- Sneak Attack - when enemy is suprised, triple damage.
+- Ruk’kan Killer - Ease attack rolls by 1 against creatures that have cast forms in the last round.
+- Focus - increase range or damage of a form by 1, at the cost of 1 vitality. Can use once you know a form cast is successful.
+- Communicant - you can read lips and between the lines. Ease 2 for insight and Oratory
+- Sharp Shooter - ignore armor points with ranged weapons
+- War Caster - Ease 2 on Fortitude checks to maintain concentration.
+- Great Weapon Master - if wielding a 2h weapon, can attack two adjacent foes
+- Resilient - Max vitality +2.
 
 ### On Magic
 
@@ -313,7 +313,7 @@ This is a game mechanic. If you know a Spell Effect being cast, you can make a c
 - Targets: allied or enemy targets, costs 2 per target; convert spell into an AoE, Close-sized circle, cost 8 
 - Spell Silence - cannot be used on damage forms, cost 5.
 
-Spell Effects
+#### Spell Effects
 
 - Deafness
 - Blindness
@@ -336,7 +336,7 @@ Spell Effects
 - Dispel 
 - Armor - mage armor. 2 points per 1AP gained.
 
-Form Examples
+#### Form Examples
 
 - Conjure Flame (3) - Distance Touch (0 points), duration instant (0 points), damage 0 (0 points). 3 Point cost
 - Flame Touch (3) - Distance Touch (0 points), duration instant (0 points), damage 2 (4 points). 7 Point cost
