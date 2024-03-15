@@ -161,7 +161,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -180,10 +180,11 @@
   },
   "active": "a9e7b5a1ffded683",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Game.md",
     "Setting/Ka’Thand.md",
     "README.md",
     "Ka’Thand.md",
-    "Game.md",
     "Setting/Malevolent Forest.md",
     "Session Notes/2024-03-02.md",
     "index.md",
@@ -217,7 +218,6 @@
     "Extras/Attachments/fig-mountain-valley-city.png",
     "Extras/Attachments/fig-forest-gas-mask.png",
     "Party/Cassandra Jr.md",
-    "Party/Thorin Jr.md",
     "System/Char Sheet PDF Generator.pdf",
     "System/Char Sheet.pdf",
     "Extras/Char Sheet.pdf",

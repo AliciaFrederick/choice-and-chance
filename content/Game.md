@@ -167,6 +167,8 @@ Nothing is perfect in life, and the most relatable heroes are those that you can
 Some **Skills** are active, some are passive. 
 **Forms** are a special skill with their own difficulty and mechanics. See [[Game#On Magic|On Magic]].
 
+#### Time Points
+
 Tellers are awarded Time Points by the Arbiter. All points earned counts towards the group, not just the individual who earned it, and can be earned by several means:
 
 - Finding a required item
@@ -182,13 +184,16 @@ Tellers are awarded Time Points by the Arbiter. All points earned counts towards
 - Smart or creative actions
 
 Players start with 15 points, and then acquire new skills, and upgrade existing ones.
-Skills start at TN 9 and are capped at +6. Each improvement provides a +1. Skills and Forms when mastered will provide a boon or augment.
-Talents are passives that alter game mechanics or don’t require rolls per se (see below).
-Forms are spells that can be custom designed, and improved over time. See “On Magic”
 
-Improvements can only be made when Tellers are in a safe or guarded place, like an enclave or a guarded encampment, etc.
+**Skills** start at TN 9 and are capped at +6. Each improvement provides a +1. Skills and Forms when mastered will provide a boon or augment.
 
-Point Costs
+**Talents** are passives that alter game mechanics or don’t require rolls per se (see below).
+Forms are spells that can be custom designed, and improved over time. See [[Game#On Magic|On Magic]]. 
+
+**Improvements** can only be made when Tellers are in a safe or guarded place, like an enclave or a guarded encampment, etc.
+
+#### Point Costs
+
 Skills:
 New Skill 3
 Skill Improvement 1 per
