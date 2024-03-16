@@ -17,7 +17,7 @@
 - [x] **Animal Training** - Charm or induce an animal companion to perform simple actions, 1 animal at a time.
 	- [x] **Mastery** - advantage on the check.
 - [x] **Brawler** - grab and control creatures (if successful, ATK and DEF are pushed by 2 for the grappled creature, must use action to attempt escape.
-	- [ ] **Mastery** - must successfully escape twice to get loose.
+	- [x] **Mastery** - must successfully escape twice to get loose.
 - [x] **Climber** - Climb any reasonable surface with texture or holds.
 	- [ ] **Mastery** - Advantage on either urban or wilderness climbing checks.
 - [x] **Scout** - Detect traps, hidden doors and dangers in an unknown area.
