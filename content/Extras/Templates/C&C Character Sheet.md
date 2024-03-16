@@ -26,15 +26,6 @@ Uncomment if using Heavy (+2) armor
 
 ![[Skill tables#^ed168e]] 
 
-## Forms
-
-![[Skill tables#^56beb1]] 
-
-## Skills
-
-![[Skill tables#^7bb332]]
-
-
 ## Talents
 
 Cost: 4 TN each, max of 2. 
@@ -51,6 +42,15 @@ Cost: 4 TN each, max of 2.
 - [ ] **Shield Fighting**: Can turn an ally’s missed defense roll into a success if within touch range.
 - [ ] **Sneak Attack**: When enemy is surprised, triple damage.
 - [ ] **War Caster**: Ease 2 on Fortitude checks to maintain concentration. 
+
+## Skills
+
+![[Skill tables#^7bb332]]
+
+
+## Forms
+
+![[Skill tables#^56beb1]] 
 
 ## Inventory
 
