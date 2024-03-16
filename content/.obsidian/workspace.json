@@ -30,7 +30,7 @@
                 "file": "Extras/Templates/C&C Character Sheet.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           }
