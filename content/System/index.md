@@ -28,77 +28,16 @@ For everything, you will need 1d4, 1d6, and 2d10.
 If an action has risk or difficulty, it is decided by a 2d10 test, or 2 10-sided dice. You must meet or roll under the Target Number (TN) to succeed on any given action. The target number is always based on a character or creature’s skill stat when performing an action, with any modifiers ‘easing’ or ‘pushing’ the TN up or down. 
 Skills start at 9, Forms start at 8. A great rule of thumb for the Arbiter is as follows:
 
-Very Easy Task - TN +4
-Easy Task - TN +2
-Normal Task - TN +0
-Hard Task - TN -2
-Extreme Task - TN -4
+- Very Easy Task - TN +4
+- Easy Task - TN +2
+- Normal Task - TN +0
+- Hard Task - TN -2
+- Extreme Task - TN -4
 
-
-| Target Number                 | 2   | ... |     | 20  |
-| ----------------------------- | --- | --- | --- | --- |
-| % Success to roll at or under | 1   | ... |     | 100 |
-| % to roll specific number     | 1   | ... |     | 1   |
-
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-% Success to roll at or under
-1
-3
-6
-10
-15
-21
-28
-36
-45
-55
-64
-72
-79
-85
-90
-94
-97
-99
-100
-% to roll specific number
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-9
-8
-7
-6
-5
-4
-3
-2
-1
+| Target Number                 | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | 20  |
+| ----------------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| % Success to roll at or under | 1   | 3   | 6   | 10  | 15  | 21  | 28  | 36  | 45  | 55  | 64  | 72  | 79  | 85  | 90  | 94  | 97  | 99  | 100 |
+| % to roll specific number     | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 9   | 8   | 7   | 6   | 5   | 4   | 3   | 2   | 1   |
 
 ### Resting
 
