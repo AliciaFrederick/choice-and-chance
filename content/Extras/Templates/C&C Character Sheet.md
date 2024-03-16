@@ -12,7 +12,7 @@ cssclasses:
 ---
 %% This page is used to generate the [[C&C Character Sheet.pdf]]. Print with 2 pages per sheet, Landscape, Scale 113, Flip on short side. %% 
 
-## Armor & Vitality
+## Combat
 
 ![[Vitality tables#^v-hearts]]
 
@@ -21,8 +21,6 @@ Uncomment if using Heavy (+2) armor
 - Vulnerable to ice, fire, electricity
 - Disadvantage on swimming
 %%
-
-## Attacks
 
 ![[Skill tables#^ed168e]] 
 
@@ -47,6 +45,11 @@ Cost: 4 TN each, max of 2.
 
 ![[Skill tables#^7bb332]]
 
+.
+
+.
+
+.
 
 ## Forms
 
