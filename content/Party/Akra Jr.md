@@ -70,10 +70,12 @@ skillsaves:
   - forms: 8
 damage_vulnerabilities: "fire, ice, and electricity if wearing heavy armor"
 spells:
-  - Conjure Flame
-  - 3: Fire
-  - Flame Touch
-  - 7: Fire
+  - As a Ruk'kan, you are capable of manifesting Forms.
+  - 3: Conjure Flame
+  - 7: Flame Touch
+  - 9: Flame Lance
+  - 11: Detect Thought
+  - 20: Greater Detect Thought
 traits:
   - name: Sneak Attack
     desc: When target is surprised, triple damage

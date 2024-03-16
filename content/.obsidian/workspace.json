@@ -33,7 +33,7 @@
               "type": "markdown",
               "state": {
                 "file": "System/index.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -52,8 +52,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +142,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Extras/Templates/Empty Statblock.md"
+                "file": "Party/Akra Jr.md"
               }
             }
           },
@@ -153,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extras/Templates/Empty Statblock.md",
+                "file": "Party/Akra Jr.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extras/Templates/Empty Statblock.md",
+                "file": "Party/Akra Jr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extras/Templates/Empty Statblock.md"
+                "file": "Party/Akra Jr.md"
               }
             }
           },
@@ -223,10 +222,10 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "f4d03c334f511080",
+  "active": "ec1193e5ab82e62a",
   "lastOpenFiles": [
-    "Party/Akra Jr.md",
     "System/index.md",
+    "Party/Akra Jr.md",
     "Extras/Templates/Empty Statblock.md",
     "Extras/Attachments/fig-zones.png",
     "index.md",
