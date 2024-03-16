@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d08d5f1d7f369d4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Extras/Templates/C&C Character Sheet.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e115c37241def845",
@@ -156,7 +170,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "System/Time Point Cost Tables.md"
+                "file": "Extras/Templates/C&C Character Sheet.md"
               }
             }
           },
@@ -166,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System/Time Point Cost Tables.md",
+                "file": "Extras/Templates/C&C Character Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System/Time Point Cost Tables.md",
+                "file": "Extras/Templates/C&C Character Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System/Time Point Cost Tables.md"
+                "file": "Extras/Templates/C&C Character Sheet.md"
               }
             }
           },
@@ -236,11 +250,12 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "1060010df9a43e8f",
+  "active": "d08d5f1d7f369d4b",
   "lastOpenFiles": [
-    "System/index.md",
     "Extras/Templates/CNC Statblock.md",
     "System/Time Point Cost Tables.md",
+    "Extras/Templates/C&C Character Sheet.md",
+    "System/index.md",
     "index.md",
     "Extras/Templates/Empty Statblock.md",
     "System.md",
@@ -264,7 +279,6 @@
     "Extras/Templates/System Template.md",
     "Extras/Templates/Setting Template.md",
     "Extras/Templates/Session Notes Template.md",
-    "Extras/Templates/C&C Character Sheet.md",
     "Extras/Templates/Lucide icon SVG.md",
     "Session Notes/2024-03-02.md",
     "Extras/Attachments/map-ka'thand.png",
