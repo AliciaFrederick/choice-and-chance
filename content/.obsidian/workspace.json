@@ -8,38 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fd1e68e6ed74a506",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Extras/Templates/C&C Character Sheet.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "021019eff9e8d66e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Skill tables.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "7a1369f871fae69e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System.md",
+                "file": "Squirrels.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -119,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5110321044922,
-    "collapsed": true
+    "width": 203.5110321044922
   },
   "right": {
     "id": "9b92aed1753f5b1e",
@@ -136,7 +109,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Extras/Templates/C&C Character Sheet.md"
+                "file": "Squirrels.md"
               }
             }
           },
@@ -146,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extras/Templates/C&C Character Sheet.md",
+                "file": "Squirrels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extras/Templates/C&C Character Sheet.md",
+                "file": "Squirrels.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extras/Templates/C&C Character Sheet.md"
+                "file": "Squirrels.md"
               }
             }
           },
@@ -219,7 +192,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 311.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -234,14 +208,19 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "fd1e68e6ed74a506",
+  "active": "7a1369f871fae69e",
   "lastOpenFiles": [
-    "Skill tables.md",
-    "Extras/Templates/C&C Character Sheet.md",
-    "Vitality tables.md",
     "Party/Akra Jr.md",
+    "Skill tables.md",
+    "System/Vitality tables.md",
+    "System/Skills List.md",
+    "System/Skill tables.md",
     "Skills List.md",
     "System.md",
+    "Extras/Templates/C&C Character Sheet.md",
+    "System/C&C Character Sheet 20240316.pdf",
+    "Extras/Templates/C&C Character Sheet 20240316.pdf",
+    "Vitality tables.md",
     "Squirrels.md",
     "System/index.md",
     "index.md",
@@ -265,12 +244,9 @@
     "Extras/Templates/Empty Statblock.md",
     "z-test-folder.md",
     "z-test-folder/index.md",
-    "z-test-folder/second-page.md",
-    "Setting/Oanenya.md",
     "z-test-folder",
     "Extras/Attachments/fig-zones.png",
     "Extras/Attachments/fig-continuum-of-dissociation.png",
-    "Extras/Templates/Party Template.md",
     "Extras/Attachments/map-ka'thand.png",
     "System",
     "Mood Board.canvas",
@@ -280,8 +256,6 @@
     "System/Char Sheet.pdf",
     "Extras/Char Sheet.pdf",
     "Session Notes",
-    "Party",
-    "Party",
-    "Extras/Templates"
+    "Party"
   ]
 }
