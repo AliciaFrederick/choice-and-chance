@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Party/index.md",
+                "file": "System/index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Party/index.md"
+                "file": "System/index.md"
               }
             }
           },
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Party/index.md",
+                "file": "System/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Party/index.md",
+                "file": "System/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Party/index.md"
+                "file": "System/index.md"
               }
             }
           },
@@ -191,11 +191,13 @@
   },
   "active": "fd1e68e6ed74a506",
   "lastOpenFiles": [
-    "index.md",
+    "Setting.md",
+    "Setting/index.md",
+    "Session Notes/index.md",
     "Party/index.md",
+    "index.md",
     "Party.md",
     "System.md",
-    "Setting.md",
     "Session Notes.md",
     "System/index.md",
     "Session Notes/2024-03-02.md",
@@ -205,8 +207,6 @@
     "Extras/Templates/Empty Statblock.md",
     "z-test-folder.md",
     "Party/Thorin Jr.md",
-    "Session Notes/index.md",
-    "Setting/index.md",
     "z-test-folder/index.md",
     "z-test-folder/second-page.md",
     "Setting/Oanenya.md",
