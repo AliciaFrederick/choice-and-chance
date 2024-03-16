@@ -6,7 +6,7 @@
       {
         "id": "b328511aad74ab70",
         "type": "tabs",
-        "dimension": 55.29490616621984,
+        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "8e25c428050b916e",
@@ -28,53 +28,6 @@
               "type": "markdown",
               "state": {
                 "file": "Extras/Templates/C&C Character Sheet.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "e115c37241def845",
-        "type": "tabs",
-        "dimension": 44.70509383378016,
-        "children": [
-          {
-            "id": "9f9e0613c927c60a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "System/index.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1060010df9a43e8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "System/Time Point Cost Tables.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3cd51fab52f94b5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Extras/Templates/Empty Statblock.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -254,12 +207,12 @@
   },
   "active": "d08d5f1d7f369d4b",
   "lastOpenFiles": [
-    "System/Time Point Cost Tables.md",
-    "Extras/Templates/C&C Character Sheet.md",
     "System/index.md",
+    "Extras/Templates/Empty Statblock.md",
+    "Extras/Templates/C&C Character Sheet.md",
+    "System/Time Point Cost Tables.md",
     "Extras/Templates/CNC Statblock.md",
     "index.md",
-    "Extras/Templates/Empty Statblock.md",
     "System.md",
     "z-test-folder.md",
     "Setting.md",
