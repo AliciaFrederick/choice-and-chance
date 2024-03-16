@@ -5,7 +5,7 @@ up: "[[System/index|System]]"
 ---
 ## Creating a Form
 
-You must spend 3 TP to create a form to gain access to its spell effect. For every augment you add to the spell, you must spend an additional 2 TP
+You must spend 3 TP to create a form to gain access to its spell effect. For every augment you add to the spell, you must spend an additional 2 TP. Once created, the spell's TN is 8. During gameplay, you can reduce augments on-the-fly to ease (increase) the TN. 
 
 | Cost (TP) | 3       | 2       | 2     | 2      | 2       | 2     |
 | --------- | ------- | ------- | ----- | ------ | ------- | ----- |
