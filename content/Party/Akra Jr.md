@@ -60,8 +60,8 @@ TBD
 ```statblock
 image: [[token_akra-jr-EFC96C-1x1.png]]
 name: Akra Jr
-type: "Ruk"
-subtype: "Ruk"
+type: "Ruk'Kan"
+subtype: "Ruk'Kan"
 ac: 1
 hp: 10
 speed: 10 ft
@@ -72,9 +72,11 @@ damage_vulnerabilities: "fire, ice, and electricity if wearing heavy armor"
 spells:
   - As a Ruk'kan, you are capable of manifesting Forms.
   - 3: Conjure Flame
+  - 6: Double Image
   - 7: Flame Touch
   - 9: Flame Lance
   - 11: Detect Thought
+  - 12-15: Invisibility
   - 20: Greater Detect Thought
 traits:
   - name: Sneak Attack
