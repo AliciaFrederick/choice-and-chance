@@ -6,7 +6,6 @@
       {
         "id": "b328511aad74ab70",
         "type": "tabs",
-        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "8e25c428050b916e",
@@ -30,7 +29,7 @@
                 "file": "Extras/Templates/C&C Character Sheet.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           }
