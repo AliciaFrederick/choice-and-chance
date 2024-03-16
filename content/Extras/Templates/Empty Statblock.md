@@ -1,3 +1,4 @@
+
 ```statblock
 image: [[Wikilink To Image]]
 name: string
