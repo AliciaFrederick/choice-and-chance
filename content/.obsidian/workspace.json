@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CNC Statblock.md",
+                "file": "Extras/Templates/CNC Statblock.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Time Point Cost Tables.md",
+                "file": "System/Time Point Cost Tables.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -169,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Time Point Cost Tables.md"
+                "file": "System/Time Point Cost Tables.md"
               }
             }
           },
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Time Point Cost Tables.md",
+                "file": "System/Time Point Cost Tables.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Time Point Cost Tables.md",
+                "file": "System/Time Point Cost Tables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Time Point Cost Tables.md"
+                "file": "System/Time Point Cost Tables.md"
               }
             }
           },
@@ -249,11 +249,11 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "8990b120549816e6",
+  "active": "6b01efd9d0313a85",
   "lastOpenFiles": [
     "System/index.md",
-    "Time Point Cost Tables.md",
-    "CNC Statblock.md",
+    "System/Time Point Cost Tables.md",
+    "Extras/Templates/CNC Statblock.md",
     "Extras/Templates/Empty Statblock.md",
     "Extras/Attachments/fig-zones.png",
     "Party/Akra Jr.md",
