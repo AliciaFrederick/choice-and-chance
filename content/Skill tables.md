@@ -1,3 +1,10 @@
+
+# Forms
+
+## Origin
+
+# Skills
+
 ## Combat
 
 ### With descriptions
@@ -10,19 +17,21 @@
 
 ### Simple
 
-| Attack        | 9            | 10 11 12 13 14 15     |
+| Attack TN     | 9            | 10 11 12 13 14 15     |
 | ------------- | ------------ | --------------------- |
 | Cost          | 3            | 1 each                |
 | Description   | +1 to attack | damage +1 each        |
 | Melee Attack  | O            | O   O   O   O   O   O |
 | Ranged Attack | O            | O   O   O   O   O   O |
 
+^ed168e
+
 
 ## Exploration
 
 ### With descriptions
 
-| TN                    | 9   | 10 11 12 13 14 15     | Learned                                                                                                                              | Mastery                                                                                 |
+| Skill TN              | 9   | 10 11 12 13 14 15     | Learned                                                                                                                              | Mastery                                                                                 |
 | --------------------- | --- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- |
 | Cost                  | 3   | 1 each                | -                                                                                                                                    | -                                                                                       |
 | Defense               | O   | O   O   O   O   O   O | Mitigate damage                                                                                                                      | can attack from Far range or greater                                                    |
@@ -83,6 +92,8 @@
 | Stealth               | O   | O   O   O   O   O   O |
 | Swimming              | O   | O   O   O   O   O   O |
 | Tracking              | O   | O   O   O   O   O   O |
+
+^7bb332
 
 
 

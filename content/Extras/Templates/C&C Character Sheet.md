@@ -80,6 +80,11 @@ Uncomment if using Heavy (+2) armor
 
 ## Skills
 
+![[Skill tables#^ed168e]] 
+
+![[Skill tables#^7bb332]]
+
+
 Cost: 3 TP for access, 1 TP per improvement
 
 | TN                  | 9   | 10  | 11  | 12  | 13  | 14  | 15  | Boon |
