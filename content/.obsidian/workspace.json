@@ -32,10 +32,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z-test-folder.md",
+                "file": "System/index.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "z-test-folder.md"
+                "file": "System/index.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z-test-folder.md",
+                "file": "System/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z-test-folder.md",
+                "file": "System/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z-test-folder.md"
+                "file": "System/index.md"
               }
             }
           },
@@ -223,7 +223,10 @@
   },
   "active": "9f9e0613c927c60a",
   "lastOpenFiles": [
+    "index.md",
+    "Extras/Templates/Empty Statblock.md",
     "System.md",
+    "z-test-folder.md",
     "Setting.md",
     "Session Notes.md",
     "Party.md",
@@ -234,13 +237,10 @@
     "System/index.md",
     "z-test-folder/index.md",
     "z-test-folder/second-page.md",
-    "index.md",
-    "z-test-folder.md",
     "Setting/Oanenya.md",
     "System/Time Point Cost Tables.md",
     "z-test-folder",
     "Extras/Templates/CNC Statblock.md",
-    "Extras/Templates/Empty Statblock.md",
     "Extras/Attachments/fig-zones.png",
     "Party/Akra Jr.md",
     "Extras/Attachments/fig-continuum-of-dissociation.png",
