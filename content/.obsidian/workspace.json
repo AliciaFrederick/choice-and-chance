@@ -13,33 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Extras/Templates/C&C Character Sheet.md",
+                "file": "System/Skill tables.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "e94c21c534700af3",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "58e5b37fff2ef5ae",
+            "id": "8ad36de4e0e9f847",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setting/Malevolent Forest.md",
+                "file": "System/Time Point Cost Tables.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +123,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Setting/Malevolent Forest.md"
+                "file": "System/Time Point Cost Tables.md"
               }
             }
           },
@@ -138,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setting/Malevolent Forest.md",
+                "file": "System/Time Point Cost Tables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setting/Malevolent Forest.md",
+                "file": "System/Time Point Cost Tables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setting/Malevolent Forest.md"
+                "file": "System/Time Point Cost Tables.md"
               }
             }
           },
@@ -225,12 +220,15 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "58e5b37fff2ef5ae",
+  "active": "8ad36de4e0e9f847",
   "lastOpenFiles": [
-    "Extras/Templates/C&C Character Sheet.md",
-    "System/C&C Character Sheet 20240316.pdf",
-    "Alicia's Eyes Only/From Brent.md",
+    "System/Skill tables.md",
+    "System/Skills List.md",
+    "Extras/Character Sheet/C&C Character Sheet.md",
+    "Extras/Character Sheet",
     "Setting/Malevolent Forest.md",
+    "Extras/Character Sheet/C&C Character Sheet 20240316.pdf",
+    "Alicia's Eyes Only/From Brent.md",
     "Alicia's Eyes Only/MyVillage.md",
     "Private/Untitled",
     "Alicia's Eyes Only/MyAlly.md",
@@ -241,8 +239,6 @@
     "Squirrels.md",
     "Skill tables.md",
     "System/Vitality tables.md",
-    "System/Skills List.md",
-    "System/Skill tables.md",
     "Skills List.md",
     "System.md",
     "Extras/Templates/C&C Character Sheet 20240316.pdf",
@@ -271,7 +267,6 @@
     "Extras/System - Old/C&C Character Sheet.pdf",
     "Extras/Attachments/fig-forest-ruin.png",
     "System/Char Sheet PDF Generator.pdf",
-    "System/Char Sheet.pdf",
-    "Extras/Char Sheet.pdf"
+    "System/Char Sheet.pdf"
   ]
 }
