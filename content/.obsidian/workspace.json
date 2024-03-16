@@ -65,7 +65,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "System/index.md"
+                "file": "System/Time Point Cost Tables.md"
               }
             }
           },
@@ -165,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System/index.md",
+                "file": "System/Time Point Cost Tables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System/index.md",
+                "file": "System/Time Point Cost Tables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System/index.md"
+                "file": "System/Time Point Cost Tables.md"
               }
             }
           },
@@ -235,11 +236,11 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "9f9e0613c927c60a",
+  "active": "1060010df9a43e8f",
   "lastOpenFiles": [
+    "System/index.md",
     "Extras/Templates/CNC Statblock.md",
     "System/Time Point Cost Tables.md",
-    "System/index.md",
     "index.md",
     "Extras/Templates/Empty Statblock.md",
     "System.md",

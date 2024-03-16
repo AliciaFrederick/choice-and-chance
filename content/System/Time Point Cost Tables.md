@@ -11,8 +11,8 @@ You must spend 3 TP to create a form to gain access to its spell effect. For eve
 | --------- | ------- | ------- | ----- | ------ | ------- | ----- |
 | Distance  | touch   | close   | near  | far    | distant | -     |
 | Duration  | instant | 1 round | 1 min | 10 min | 1 hr    | 1 day |
-| Damage    | 0       | 1       | 2     | 3      | 4       | 5     |
-| Targets   | 1       | 2       | 3     | 4      | 5       | 6     |
+| Damage    | 0       | 1       | 2     | 3      | 4?      | 5?    |
+| Targets   | 1       | 2       | 3     | 4      | 5?      | 6?    |
 | AoE       | -       | -       | -     | -      | 8       | -     |
 | Silence   | -       | -       | -     | 5      | -       | -     |
 
