@@ -65,8 +65,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3cd51fab52f94b5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Extras/Templates/Empty Statblock.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -156,7 +170,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "System/index.md"
+                "file": "CNC Statblock.md"
               }
             }
           },
@@ -166,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System/index.md",
+                "file": "CNC Statblock.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System/index.md",
+                "file": "CNC Statblock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System/index.md"
+                "file": "CNC Statblock.md"
               }
             }
           },
@@ -236,13 +250,13 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "9f9e0613c927c60a",
+  "active": "8e25c428050b916e",
   "lastOpenFiles": [
-    "Time Point Cost Tables.md",
     "Extras/Templates/Empty Statblock.md",
-    "Extras/Attachments/fig-zones.png",
-    "System/index.md",
     "CNC Statblock.md",
+    "System/index.md",
+    "Time Point Cost Tables.md",
+    "Extras/Attachments/fig-zones.png",
     "Party/Akra Jr.md",
     "index.md",
     "Party/index.md",

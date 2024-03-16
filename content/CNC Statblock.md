@@ -20,8 +20,10 @@ spells:
   - 6 pts: Double Image - touch, 1 min, 2 duplicates
   - 15 (12) pts: Invisibility - touch, 10 min, 3 targets (ends if you attack while invisible)
 traits:
-  - name: Sneak Attack
-    desc: When target is surprised, triple damage
+  - name: Talent 1
+    desc: Talent 1 description
+  - name: Talent 2
+    desc: Talent 2 description
   - ...
 actions:
   - name: Attack
@@ -31,6 +33,9 @@ actions:
   - name: Use item
     desc: For example, cosume a potion.
   - ...
+bonus_actions:
+  - name: Movement
+    desc: You can move freely anywhere in Close range
 reactions:
   - name: Dodge
     desc: You take a 5 foot adjacent step; against melee attacks only.
