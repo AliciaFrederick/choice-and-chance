@@ -64,14 +64,13 @@ type: "Ruk"
 subtype: "Ruk"
 ac: 1
 hp: 10
-speed: string
-stats: [number, number, number, number, number, number]
-fage_stats: [number, number, number, number, number, number, number, number, number]
+speed: close
 saves:
   - <ability-score>: number
 skillsaves:
-  - <skill-name>: number
-damage_vulnerabilities: string
+  - skills: 9
+  - forms: 8
+damage_vulnerabilities: "fire, ice, and electricity if wearing heavy armor"
 damage_resistances: string
 damage_immunities: string
 condition_immunities: string

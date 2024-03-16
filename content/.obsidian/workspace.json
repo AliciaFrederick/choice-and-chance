@@ -19,19 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "af2af9580e5ccf49",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Extras/Attachments/fig-zones.png"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +109,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Extras/Attachments/fig-zones.png"
+                "file": "Party/Akra Jr.md"
               }
             }
           },
@@ -130,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extras/Attachments/fig-zones.png",
+                "file": "Party/Akra Jr.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extras/Attachments/fig-zones.png",
+                "file": "Party/Akra Jr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extras/Attachments/fig-zones.png"
+                "file": "Party/Akra Jr.md"
               }
             }
           },
@@ -198,8 +187,9 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "6b01efd9d0313a85",
+  "active": "ec1193e5ab82e62a",
   "lastOpenFiles": [
+    "Extras/Attachments/fig-zones.png",
     "Party/Akra Jr.md",
     "index.md",
     "Party/index.md",
