@@ -8,5 +8,5 @@ vitality-current: "10"
 ap: "0"
 race: Ruk
 portrait: "[[portrait-cassandra-jr.png]]"
-token: "[[token_cassandra-jr-EFC96C-1x1 2.png]]"
+token: "[[token_cassandra-jr-EFC96C-1x1.png]]"
 ---

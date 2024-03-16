@@ -11,9 +11,12 @@
             "id": "fd1e68e6ed74a506",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Extras/Attachments/token_cassandra-jr-EFC96C-1x1 2.png"
+                "file": "Extras/Templates/C&C Character Sheet.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -106,7 +109,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Extras/Attachments/token_cassandra-jr-EFC96C-1x1 2.png"
+                "file": "Extras/Templates/C&C Character Sheet.md"
               }
             }
           },
@@ -116,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extras/Attachments/token_cassandra-jr-EFC96C-1x1 2.png",
+                "file": "Extras/Templates/C&C Character Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extras/Attachments/token_cassandra-jr-EFC96C-1x1 2.png",
+                "file": "Extras/Templates/C&C Character Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extras/Attachments/token_cassandra-jr-EFC96C-1x1 2.png"
+                "file": "Extras/Templates/C&C Character Sheet.md"
               }
             }
           },
@@ -187,20 +190,20 @@
   },
   "active": "fd1e68e6ed74a506",
   "lastOpenFiles": [
+    "Party/Akra Jr.md",
+    "Squirrels.md",
     "Party.md",
+    "Party/Owen.md",
+    "Extras/Attachments/token_owen-EFC96C-1x1.png",
+    "Extras/Attachments/token_cassandra-jr-EFC96C-1x1.png",
     "Party/index.md",
     "index.md",
     "Party/Cassandra Jr.md",
-    "Party/Owen.md",
-    "Party/Akra Jr.md",
-    "Extras/Attachments/token_cassandra-jr-EFC96C-1x1 2.png",
-    "Extras/Attachments/token_owen-EFC96C-1x1 1.png",
     "Extras/Attachments/token_akra-jr-EFC96C-1x1.png",
     "Extras/Attachments/portrait-owen.png",
     "Extras/Attachments/portrait-cassandra-jr.png",
     "Extras/Attachments/portrait-akra-jr.png",
     "System.md",
-    "Squirrels.md",
     "Setting.md",
     "Session Notes.md",
     "System/index.md",
