@@ -213,7 +213,11 @@ Form Improvement:
 - Improvement (+1 to TN) = 1 each
 	- Augment (increase damage, duration, distance by one category) = 3 Improvements.
 
-Improvement | 
+| Improvement | 0   | +1  | +2  | +3  | +4  | +5  | +6  | +7  | +8  | +9  | +10 | +11 | +12 |
+| ----------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| TN          | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | 20  |
+| Augment     | -   | -   | -   | 1   | -   | -   | 2   | -   | -   | x   | -   | -   | x   |
+| Cost        | 1   | 1   | 1   | 1   | 1   | 1   | 1   | 1   | 1   | 1   | 1   | 1   | 1   |
 
 ### Skills
 
