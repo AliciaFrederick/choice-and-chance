@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8e25c428050b916e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CNC Statblock.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e115c37241def845",
@@ -51,22 +65,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8e25c428050b916e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CNC Statblock.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -238,10 +238,10 @@
   },
   "active": "8e25c428050b916e",
   "lastOpenFiles": [
-    "Extras/Templates/Empty Statblock.md",
-    "CNC Statblock.md",
-    "Party/Akra Jr.md",
     "System/index.md",
+    "CNC Statblock.md",
+    "Extras/Templates/Empty Statblock.md",
+    "Party/Akra Jr.md",
     "Extras/Attachments/fig-zones.png",
     "index.md",
     "Party/index.md",
