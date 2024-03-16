@@ -65,8 +65,6 @@ subtype: "Ruk"
 ac: 1
 hp: 10
 speed: 10 ft
-saves:
-  - <ability-score>: number
 skillsaves:
   - skills: 9
   - forms: 8
