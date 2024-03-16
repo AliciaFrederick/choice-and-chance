@@ -78,7 +78,7 @@ Cost: 3 TP for access, 1 TN per improvement
 
 | Skills              | 9   | 10  | 11  | 12  | 13  | 14  | 15  | Boon (see [[System/index#Skills\|skills list]]) |
 | ------------------- | --- | --- | --- | --- | --- | --- | --- | ----------------------------------------------- |
-| Cost (TP)           | 3   | 1   | 1   | 1   | 1   | 1   | 1   |                                                 |
+| Cost (TP)           | 3   | 1   | 1   | 1   | 1   | 1   | 1   | -                                               |
 | **Weapon (Melee)**  | X   | O   | O   | O   | O   | O   | O   |                                                 |
 | **Weapon (Ranged)** | X   | O   | O   | O   | O   | O   | O   |                                                 |
 | Animal Training     | X   | O   | O   | O   | O   | O   | O   |                                                 |
