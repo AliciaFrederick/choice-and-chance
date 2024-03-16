@@ -36,28 +36,28 @@ Uncomment if using Heavy armor
 
 ## Forms
 
-| Forms             | Access    | Range | Duration | Damage | Targets | AoE   |
-| ----------------- | --------- | ----- | -------- | ------ | ------- | ----- |
-| Auditory Illusion | O O O O O | O O O | O O O    | O O O  | O O O   | O O O |
-| Armor             | O O O O O | O O O | O O O    | O O O  | O O O   | O O O |
-| Blast             | O O O O   | O O O | O O O    | O O O  | O O O   | O O O |
-| Blindness         | O O O     | O O O | O O O    | O O O  | O O O   | O O O |
-| Confusion         | O O O     | O O O | O O O    | O O O  | O O O   | O O O |
-| Deafness          | O O O     | O O O | O O O    | O O O  | O O O   | O O O |
-| Detect Thought    | O O O     | O O O | O O O    | O O O  | O O O   | O O O |
-| Detect Resonance  | O O O     | O O O | O O O    | O O O  | O O O   | O O O |
-| Dispel            | O O O     | O O O | O O O    | O O O  | O O O   | O O O |
-| Fear              | O O O     | O O O | O O O    | O O O  | O O O   | O O O |
-| Fog               | O O O     | O O O | O O O    | O O O  | O O O   | O O O |
-| Glamour           | O O O     | O O O | O O O    | O O O  | O O O   | O O O |
-| Hypnotize         | O O O     | O O O | O O O    | O O O  | O O O   | O O O |
-| Impersonation     | O O O     | O O O | O O O    | O O O  | O O O   | O O O |
-| Invisibility      | O O O     | O O O | O O O    | O O O  | O O O   | O O O |
-| Light             | O O O     | O O O | O O O    | O O O  | O O O   | O O O |
-| Nondetection      | O O O     | O O O | O O O    | O O O  | O O O   | O O O |
-| Paralyze          | O O O     | O O O | O O O    | O O O  | O O O   | O O O |
-| Telekinesis       | O O O     | O O O | O O O    | O O O  | O O O   | O O O |
-| Visual Illusion   | O O O     | O O O | O O O    | O O O  | O O O   | O O O |
+| Forms             | Access | Range   | Duration  | Damage  | Targets | AoE             |
+| ----------------- | ------ | ------- | --------- | ------- | ------- | --------------- |
+| Auditory Illusion | O O O  | O O O O | O O O O O | O O O O | O O O O | O O O O O O O O |
+| Armor             | O O O  | O O O O | O O O O O | O O O O | O O O O | O O O O O O O O |
+| Blast             | O O O  | O O O O | O O O O O | O O O O | O O O O | O O O O O O O O |
+| Blindness         | O O O  | O O O O | O O O O O | O O O O | O O O O | O O O O O O O O |
+| Confusion         | O O O  | O O O O | O O O O O | O O O O | O O O O | O O O O O O O O |
+| Deafness          | O O O  | O O O O | O O O O O | O O O O | O O O O | O O O O O O O O |
+| Detect Thought    | O O O  | O O O O | O O O O O | O O O O | O O O O | O O O O O O O O |
+| Detect Resonance  | O O O  | O O O O | O O O O O | O O O O | O O O O | O O O O O O O O |
+| Dispel            | O O O  | O O O O | O O O O O | O O O O | O O O O | O O O O O O O O |
+| Fear              | O O O  | O O O O | O O O O O | O O O O | O O O O | O O O O O O O O |
+| Fog               | O O O  | O O O O | O O O O O | O O O O | O O O O | O O O O O O O O |
+| Glamour           | O O O  | O O O O | O O O O O | O O O O | O O O O | O O O O O O O O |
+| Hypnotize         | O O O  | O O O O | O O O O O | O O O O | O O O O | O O O O O O O O |
+| Impersonation     | O O O  | O O O O | O O O O O | O O O O | O O O O | O O O O O O O O |
+| Invisibility      | O O O  | O O O O | O O O O O | O O O O | O O O O | O O O O O O O O |
+| Light             | O O O  | O O O O | O O O O O | O O O O | O O O O | O O O O O O O O |
+| Nondetection      | O O O  | O O O O | O O O O O | O O O O | O O O O | O O O O O O O O |
+| Paralyze          | O O O  | O O O O | O O O O O | O O O O | O O O O | O O O O O O O O |
+| Telekinesis       | O O O  | O O O O | O O O O O | O O O O | O O O O | O O O O O O O O |
+| Visual Illusion   | O O O  | O O O O | O O O O O | O O O O | O O O O | O O O O O O O O |
 
 .
 
