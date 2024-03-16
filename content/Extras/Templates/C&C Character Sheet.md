@@ -26,14 +26,14 @@ Uncomment if using Heavy (+2) armor
 
 ![[Skill tables#^ed168e]] 
 
+## Forms
+
+![[Skill tables#^56beb1]] 
+
 ## Skills
 
 ![[Skill tables#^7bb332]]
 
-
-## Forms
-
-![[Skill tables#^56beb1]] 
 
 ## Talents
 
