@@ -50,78 +50,16 @@ Uncomment if using Heavy (+2) armor
 
 ## Forms
 
-| Forms             | <svg xmlns="http://www.w3.org/2000/svg" width="1rem" height="1rem" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-lock-keyhole-open"><circle cx="12" cy="16" r="1"/><rect width="18" height="12" x="3" y="10" rx="2"/><path d="M7 10V7a5 5 0 0 1 9.33-2.5"/></svg> | Range   | Duration  | Damage  | Targets | AoE | Silence |
-| ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | --------- | ------- | ------- | --- | ------- |
-| Cost (TP)         | 3                                                                                                                                                                                                                                                                                                                                                              | 2 ea    | 2 ea      | 2 ea    | 2 ea    | 8   | 5       |
-| Auditory Illusion | O                                                                                                                                                                                                                                                                                                                                                              | O O O O | O O O O O | O O O O | O O O O | O   | O       |
-| Armor             | O                                                                                                                                                                                                                                                                                                                                                              | O O O O | O O O O O | O O O O | O O O O | O   | O       |
-| Blast             | O                                                                                                                                                                                                                                                                                                                                                              | O O O O | O O O O O | O O O O | O O O O | O   | O       |
-| Blindness         | O                                                                                                                                                                                                                                                                                                                                                              | O O O O | O O O O O | O O O O | O O O O | O   | O       |
-| Confusion         | O                                                                                                                                                                                                                                                                                                                                                              | O O O O | O O O O O | O O O O | O O O O | O   | O       |
-| Deafness          | O                                                                                                                                                                                                                                                                                                                                                              | O O O O | O O O O O | O O O O | O O O O | O   | O       |
-| Detect Thought    | O                                                                                                                                                                                                                                                                                                                                                              | O O O O | O O O O O | O O O O | O O O O | O   | O       |
-| Detect Resonance  | O                                                                                                                                                                                                                                                                                                                                                              | O O O O | O O O O O | O O O O | O O O O | O   | O       |
-| Dispel            | O                                                                                                                                                                                                                                                                                                                                                              | O O O O | O O O O O | O O O O | O O O O | O   | O       |
-| Fear              | O                                                                                                                                                                                                                                                                                                                                                              | O O O O | O O O O O | O O O O | O O O O | O   | O       |
-| Fog               | O                                                                                                                                                                                                                                                                                                                                                              | O O O O | O O O O O | O O O O | O O O O | O   | O       |
-| Glamour           | O                                                                                                                                                                                                                                                                                                                                                              | O O O O | O O O O O | O O O O | O O O O | O   | O       |
-| Hypnotize         | O                                                                                                                                                                                                                                                                                                                                                              | O O O O | O O O O O | O O O O | O O O O | O   | O       |
-| Impersonation     | O                                                                                                                                                                                                                                                                                                                                                              | O O O O | O O O O O | O O O O | O O O O | O   | O       |
-| Invisibility      | O                                                                                                                                                                                                                                                                                                                                                              | O O O O | O O O O O | O O O O | O O O O | O   | O       |
-| Light             | O                                                                                                                                                                                                                                                                                                                                                              | O O O O | O O O O O | O O O O | O O O O | O   | O       |
-| Nondetection      | O                                                                                                                                                                                                                                                                                                                                                              | O O O O | O O O O O | O O O O | O O O O | O   | O       |
-| Paralyze          | O                                                                                                                                                                                                                                                                                                                                                              | O O O O | O O O O O | O O O O | O O O O | O   | O       |
-| Telekinesis       | O                                                                                                                                                                                                                                                                                                                                                              | O O O O | O O O O O | O O O O | O O O O | O   | O       |
-| Visual Illusion   | O                                                                                                                                                                                                                                                                                                                                                              | O O O O | O O O O O | O O O O | O O O O | O   | O       |
+![[Skill tables#^56beb1]] 
 
-.
-
-.
-
-## Skills
+## Attacks
 
 ![[Skill tables#^ed168e]] 
 
+## Skills
+
 ![[Skill tables#^7bb332]]
 
-
-Cost: 3 TP for access, 1 TP per improvement
-
-| TN                  | 9   | 10  | 11  | 12  | 13  | 14  | 15  | Boon |
-| ------------------- | --- | --- | --- | --- | --- | --- | --- | ---- |
-| Cost (TP)           | 3   | 1   | 1   | 1   | 1   | 1   | 1   | 0    |
-| **Weapon (Melee)**  | X   | O   | O   | O   | O   | O   | O   | -    |
-| **Weapon (Ranged)** | X   | O   | O   | O   | O   | O   | O   | -    |
-| Animal Training     | X   | O   | O   | O   | O   | O   | O   | -    |
-| Brawler             | X   | O   | O   | O   | O   | O   | O   | -    |
-| Clarity             | X   | O   | O   | O   | O   | O   | O   | -    |
-| Climb               | X   | O   | O   | O   | O   | O   | O   | -    |
-| Disguise            | X   | O   | O   | O   | O   | O   | O   | -    |
-| Dodge               | X   | O   | O   | O   | O   | O   | O   | -    |
-| Finesse             | X   | O   | O   | O   | O   | O   | O   | -    |
-| Fortitude           | X   | O   | O   | O   | O   | O   | O   | -    |
-| Herbalism           | X   | O   | O   | O   | O   | O   | O   | -    |
-| Hunt & Gather       | X   | O   | O   | O   | O   | O   | O   | -    |
-| Insight             | X   | O   | O   | O   | O   | O   | O   | -    |
-| Jump                | X   | O   | O   | O   | O   | O   | O   | -    |
-| Knowledge           | X   | O   | O   | O   | O   | O   | O   | -    |
-| Oratory             | X   | O   | O   | O   | O   | O   | O   | -    |
-| Perception          | X   | O   | O   | O   | O   | O   | O   | -    |
-| Performance         | X   | O   | O   | O   | O   | O   | O   | -    |
-| Power               | X   | O   | O   | O   | O   | O   | O   | -    |
-| Profession          | X   | O   | O   | O   | O   | O   | O   | -    |
-| Scout               | X   | O   | O   | O   | O   | O   | O   | -    |
-| Sleight of Hand     | X   | O   | O   | O   | O   | O   | O   | -    |
-| Stealth             | X   | O   | O   | O   | O   | O   | O   | -    |
-| Swimming            | X   | O   | O   | O   | O   | O   | O   | -    |
-| Tinker              | X   | O   | O   | O   | O   | O   | O   | -    |
-| Tracking            | X   | O   | O   | O   | O   | O   | O   | -    |
-
-.
-
-.
-
-.
 
 ## Talents
 
