@@ -5,7 +5,7 @@ up: "[[System/index|System]]"
 ---
 ## Creating a Form
 
-You must "create" or "learn" a form to add it to your list of known forms. The augments you choose determine how many TP are required to learn it.
+You must "create" or "learn" a form to add it to your list of known forms. The augments you choose determine how many TP are required to create it. 
 
 | Cost (TP) | 3       | 2       | 2     | 2      | 2       | 2     |
 | --------- | ------- | ------- | ----- | ------ | ------- | ----- |
@@ -24,7 +24,7 @@ You must "create" or "learn" a form to add it to your list of known forms. The a
 | --------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | TN        | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | 20  |
 | Ease      | 0   | +1  | +2  | +3  | +4  | +5  | +6  | +7  | +8  | +9  | +10 | +11 | +12 |
-| Augments  | -   | -   | -   | 1   | -   | -   | 2   | -   | -   | 3   | -   | -   | 4   |
+| Augments  | -   | -   | -   | 1   | -   | -   | 1   | -   | -   | 1   | -   | -   | 1   |
 
 ## Improving a Skill
 
