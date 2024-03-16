@@ -95,30 +95,30 @@
 | Skill TN              | 9   | 10  | 11 12 13 14 15 16     |
 | --------------------- | --- | --- | --------------------- |
 | Cost                  | -   | 3   | 1 ea                  |
-| Defense               | X   | O   | O   O   O   O   O   O |
-| Brawler               | X   | O   | O   O   O   O   O   O |
-| Power                 | X   | O   | O   O   O   O   O   O |
-| Perception            | X   | O   | O   O   O   O   O   O |
-| Insight               | X   | O   | O   O   O   O   O   O |
-| Clarity               | X   | O   | O   O   O   O   O   O |
 | Animal Training       | X   | O   | O   O   O   O   O   O |
+| Brawler               | X   | O   | O   O   O   O   O   O |
+| Clarity               | X   | O   | O   O   O   O   O   O |
 | Climber               | X   | O   | O   O   O   O   O   O |
-| Scout                 | X   | O   | O   O   O   O   O   O |
+| Defense               | X   | O   | O   O   O   O   O   O |
 | Disguise              | X   | O   | O   O   O   O   O   O |
-| Sleight of Hand       | X   | O   | O   O   O   O   O   O |
-| Hunting and Gathering | X   | O   | O   O   O   O   O   O |
-| Investigate           | X   | O   | O   O   O   O   O   O |
-| Jump                  | X   | O   | O   O   O   O   O   O |
-| Knowledge             | X   | O   | O   O   O   O   O   O |
-| Tinker                | X   | O   | O   O   O   O   O   O |
-| Herbalism             | X   | O   | O   O   O   O   O   O |
-| Oratory               | X   | O   | O   O   O   O   O   O |
-| Performance           | X   | O   | O   O   O   O   O   O |
-| Profession            | X   | O   | O   O   O   O   O   O |
 | Fortitude             | X   | O   | O   O   O   O   O   O |
 | Finesse               | X   | O   | O   O   O   O   O   O |
+| Jump                  | X   | O   | O   O   O   O   O   O |
+| Herbalism             | X   | O   | O   O   O   O   O   O |
+| Hunting and Gathering | X   | O   | O   O   O   O   O   O |
+| Insight               | X   | O   | O   O   O   O   O   O |
+| Investigate           | X   | O   | O   O   O   O   O   O |
+| Knowledge             | X   | O   | O   O   O   O   O   O |
+| Oratory               | X   | O   | O   O   O   O   O   O |
+| Perception            | X   | O   | O   O   O   O   O   O |
+| Performance           | X   | O   | O   O   O   O   O   O |
+| Power                 | X   | O   | O   O   O   O   O   O |
+| Profession            | X   | O   | O   O   O   O   O   O |
+| Scout                 | X   | O   | O   O   O   O   O   O |
+| Sleight of Hand       | X   | O   | O   O   O   O   O   O |
 | Stealth               | X   | O   | O   O   O   O   O   O |
 | Swimming              | X   | O   | O   O   O   O   O   O |
+| Tinker                | X   | O   | O   O   O   O   O   O |
 | Tracking              | X   | O   | O   O   O   O   O   O |
 
 ^7bb332
