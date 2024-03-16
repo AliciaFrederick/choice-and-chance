@@ -4,8 +4,8 @@
 - [x] **Melee Attack** - +1 to attack roll. Includes martial training (unarmed). Every other skill point invested increases damage by 1.
 	- [x] **Mastery** - 1h - riposte/counter. 2h - AoO 
 - [x] **Ranged Attack** - +1 to attack roll 
-	- [ ] **Mastery** - learn ‘Sharshooter’ -  use an action to aim a ranged attack, easing TN by 2.  Every other skill point invested increases damage by 1. 
-	- [ ] Or unblocked sharpshooter attacks ignore AP.
+	- [x] **Mastery** - learn ‘Sharshooter’ -  use an action to aim a ranged attack, easing TN by 2.  Every other skill point invested increases damage by 1. 
+	- [x] Or unblocked sharpshooter attacks ignore AP.
 - [ ] **Defense** - Used to evade mitigate damage whether dodging, blocking or parrying.
 	- [ ] **Mastery** - can attacks from Far range or greater.
 - [ ] **Perception** - Glean information about surrounding area or situation.
@@ -37,19 +37,19 @@
 	- [ ] **Mastery** - can dismantle and re-activate traps and other devices
 - [ ] **Herbalism** - find and use plants for tinctures, potions and salves that can be applied for different uses. 1 alchemist supply makes 1 use.
 	- [ ] **Mastery** - Cooking - can cook herbs in meals, takes 1 hr. Party gets the effect and tincture effect doubled. But must be consumed. Consumes 1 ration per teller.. 
-- [ ] **Oratory** - Persuade or deceive with words
+- [x] **Oratory** - Persuade or deceive with words
 	- [ ] **Mastery** - Ease checks against non-hostile targets by 2.
-- [ ] **Performance** - Entertain, distract, intimidate or charm.
+- [x] **Performance** - Entertain, distract, intimidate or charm.
 	- [ ] **Mastery** - advantage when there is a crowd.
-- [ ] **Profession** - any working skill with any required tools and knowledge.
+- [x] **Profession** - any working skill with any required tools and knowledge.
 	- [ ] **Mastery** - advantage on skill-related checks.
-- [ ] **Fortitude** - Roll to ignore extreme environmental effects or the effects of ingested materials.
+- [x] **Fortitude** - Roll to ignore extreme environmental effects or the effects of ingested materials.
 	- [ ] **Mastery** - If you rolled a 1 during a rest, you rolled a 2..
-- [ ] **Finesse** - physical speed and acumen. 
+- [x] **Finesse** - physical speed and acumen. 
 	- [ ] **Mastery** - Advantage during chases, or double free movement on turn (20’).
-- [ ] **Stealth** - attempt to remain unseen while moving, easier when still or hiding.
+- [x] **Stealth** - attempt to remain unseen while moving, easier when still or hiding.
 	- [ ] **Mastery** - advantage when in a crowd or forest.
-- [ ] **Swimming** - swim twice as fast
+- [x] **Swimming** - swim twice as fast
 	- [ ] **Mastery** - ignore armor swimming penalty
-- [ ] **Tracking** - find clues to pursue a target in the wild.
+- [x] **Tracking** - find clues to pursue a target in the wild.
 	- [ ] **Mastery** - choose a sense (sight, smell, hearing) and gain advantage on checks relying on that sense.

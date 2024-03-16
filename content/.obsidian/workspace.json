@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Skills table.md"
+                "file": "Skills List.md"
               }
             }
           },
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skills table.md",
+                "file": "Skills List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skills table.md",
+                "file": "Skills List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skills table.md"
+                "file": "Skills List.md"
               }
             }
           },
@@ -254,10 +254,10 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "021019eff9e8d66e",
+  "active": "1d54285336bd7cc7",
   "lastOpenFiles": [
-    "Skills List.md",
     "Skills table.md",
+    "Skills List.md",
     "System.md",
     "Extras/Templates/C&C Character Sheet.md",
     "Squirrels.md",
