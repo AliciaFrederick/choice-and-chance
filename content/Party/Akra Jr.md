@@ -64,7 +64,7 @@ type: "Ruk"
 subtype: "Ruk"
 ac: 1
 hp: 10
-speed: close
+speed: 10 ft
 saves:
   - <ability-score>: number
 skillsaves:
@@ -82,18 +82,18 @@ traits:
   - ...
 actions:
   - name: Attack
-    desc: <trait-description>
+    desc: You attack a target.
   - name: Move
-    desc: <trait-description>
+    desc: You move a distance up to your speed.
   - name: Use item
-    desc: <trait-description>
+    desc: For example, cosume a potion.
   - ...
 reactions:
   - name: Dodge
-    desc: You t
+    desc: You take a 5 foot adjacent step; against melee attacks only.
   - name: Block
-    desc: <reaction-description>
+    desc: Requires a shield; can be used on ranged attacks.
   - name: Parry
-    desc: <reaction-description>
+    desc: Requires a melee weapon; against melee attacks only.
   - ...
 ```
