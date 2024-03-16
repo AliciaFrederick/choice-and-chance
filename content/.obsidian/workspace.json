@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0c88af828ec88efb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Squirrels.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +123,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "index.md"
+                "file": "Squirrels.md"
               }
             }
           },
@@ -119,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Squirrels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Squirrels.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Squirrels.md"
               }
             }
           },
@@ -168,13 +182,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 311.5,
-    "collapsed": true
+    "width": 311.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,20 +201,21 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "fd1e68e6ed74a506",
+  "active": "0c88af828ec88efb",
   "lastOpenFiles": [
-    "Party.md",
-    "Session Notes.md",
     "Setting.md",
-    "System.md",
+    "Session Notes.md",
+    "Party.md",
     "System/index.md",
+    "index.md",
+    "System/Time Point Cost Tables.md",
+    "System.md",
+    "Squirrels.md",
     "Setting/index.md",
     "Session Notes/index.md",
     "Party/index.md",
-    "index.md",
     "Session Notes/2024-03-02.md",
     "Extras/Templates/C&C Character Sheet.md",
-    "System/Time Point Cost Tables.md",
     "Extras/Templates/CNC Statblock.md",
     "Extras/Templates/Empty Statblock.md",
     "z-test-folder.md",
@@ -219,7 +232,6 @@
     "Extras/Templates/System Template.md",
     "Extras/Templates/Setting Template.md",
     "Extras/Templates/Session Notes Template.md",
-    "Extras/Templates/Lucide icon SVG.md",
     "Extras/Attachments/map-ka'thand.png",
     "System",
     "Mood Board.canvas",
