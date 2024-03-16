@@ -1,3 +1,7 @@
+| TN    | 9   | 10 11 12 13 14 15     | Boon                                 |
+| ----- | --- | --------------------- | ------------------------------------ |
+| Cost  | 3   | 1                     | -                                    |
+| Power | O   | O   O   O   O   O   O | advantage, or increase Vitality by 4 |
 
 - **Power** - bodily strength - lifting, pushing, bracing, bending.
 	- **Mastery** - advantage, or increase Vitality by 4
