@@ -47,7 +47,7 @@
               "type": "markdown",
               "state": {
                 "file": "System/index.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CNC Statblock.md"
+                "file": "System/index.md"
               }
             }
           },
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CNC Statblock.md",
+                "file": "System/index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CNC Statblock.md",
+                "file": "System/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CNC Statblock.md"
+                "file": "System/index.md"
               }
             }
           },
@@ -236,11 +236,11 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "8e25c428050b916e",
+  "active": "9f9e0613c927c60a",
   "lastOpenFiles": [
+    "CNC Statblock.md",
     "System/index.md",
     "Extras/Templates/Empty Statblock.md",
-    "CNC Statblock.md",
     "Party/Akra Jr.md",
     "Extras/Attachments/fig-zones.png",
     "index.md",

@@ -215,6 +215,11 @@ Form Improvement:
 
 ### Skills
 
+| Ease | 0   | +1  | +2  | +3  | +4  | +5  | +6  |
+| ---- | --- | --- | --- | --- | --- | --- | --- |
+| TN   | 9   | 10  | 11  | 12  | 13  | 14  | 15  |
+| Cost | 3   | 1   | 1   | 1   | 1   | 1   | 1   |
+
 - **Power** - bodily strength - lifting, pushing, bracing, bending.
 	- **Mastery** - advantage, or increase Vitality by 4
 - **Melee Attack** - +1 to attack roll. Includes martial training (unarmed). Every other skill point invested increases damage by 1.
