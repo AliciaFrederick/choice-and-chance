@@ -11,9 +11,12 @@
             "id": "7a1369f871fae69e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "System/C&C Character Sheet 20240316.pdf"
+                "file": "Extras/Templates/C&C Character Sheet.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -125,7 +128,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "System/C&C Character Sheet 20240316.pdf"
+                "file": "Extras/Templates/C&C Character Sheet.md"
               }
             }
           },
@@ -135,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System/C&C Character Sheet 20240316.pdf",
+                "file": "Extras/Templates/C&C Character Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System/C&C Character Sheet 20240316.pdf",
+                "file": "Extras/Templates/C&C Character Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System/C&C Character Sheet 20240316.pdf"
+                "file": "Extras/Templates/C&C Character Sheet.md"
               }
             }
           },
@@ -224,6 +227,7 @@
   },
   "active": "7a1369f871fae69e",
   "lastOpenFiles": [
+    "System/C&C Character Sheet 20240316.pdf",
     "Alicia's Eyes Only/From Brent.md",
     "Setting/Malevolent Forest.md",
     "Alicia's Eyes Only/MyVillage.md",
@@ -241,7 +245,6 @@
     "Skills List.md",
     "System.md",
     "Extras/Templates/C&C Character Sheet.md",
-    "System/C&C Character Sheet 20240316.pdf",
     "Extras/Templates/C&C Character Sheet 20240316.pdf",
     "Vitality tables.md",
     "System/index.md",
@@ -259,7 +262,6 @@
     "Setting.md",
     "Session Notes.md",
     "System/Time Point Cost Tables.md",
-    "Setting/index.md",
     "z-test-folder",
     "Extras/Attachments/fig-zones.png",
     "Extras/Attachments/fig-continuum-of-dissociation.png",
