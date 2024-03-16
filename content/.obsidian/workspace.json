@@ -65,6 +65,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "64ce904d2c869f99",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Extras/Attachments/fig-zones.png"
+              }
+            }
           }
         ]
       }
@@ -239,10 +249,10 @@
   "active": "9f9e0613c927c60a",
   "lastOpenFiles": [
     "Extras/Templates/Empty Statblock.md",
+    "Extras/Attachments/fig-zones.png",
     "System/index.md",
     "CNC Statblock.md",
     "Party/Akra Jr.md",
-    "Extras/Attachments/fig-zones.png",
     "index.md",
     "Party/index.md",
     "Party.md",
@@ -266,7 +276,6 @@
     "Extras/Attachments/map-ka'thand.png",
     "Extras/System - Old/index.md",
     "Extras/System - Old/Choice & Chance.md",
-    "README.md",
     "System",
     "Mood Board.canvas",
     "Extras/System - Old/C&C Character Sheet.pdf",

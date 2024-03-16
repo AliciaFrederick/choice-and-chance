@@ -209,6 +209,11 @@ Form Creation:
 	- Increase Damage by 1 = 2
 	- Increase Targets by 1 = 2
 
+| Cost     | 0       | 2     | 2    | 2   | 2       |
+| -------- | ------- | ----- | ---- | --- | ------- |
+| Distance | touch   | close | near | far | distant |
+| Duration | instant |       |      |     |         |
+
 Form Improvement:
 - Improvement (+1 to TN) = 1 each
 	- Augment (increase damage, duration, distance by one category) = 3 Improvements.
