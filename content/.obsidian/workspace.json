@@ -67,6 +67,19 @@
             }
           },
           {
+            "id": "4ca38bd0e9298a76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z-test-folder.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3cd51fab52f94b5e",
             "type": "leaf",
             "state": {
@@ -80,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,7 +182,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "System/Time Point Cost Tables.md"
+                "file": "z-test-folder.md"
               }
             }
           },
@@ -179,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System/Time Point Cost Tables.md",
+                "file": "z-test-folder.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System/Time Point Cost Tables.md",
+                "file": "z-test-folder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System/Time Point Cost Tables.md"
+                "file": "z-test-folder.md"
               }
             }
           },
@@ -249,23 +262,27 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "6b01efd9d0313a85",
+  "active": "4ca38bd0e9298a76",
   "lastOpenFiles": [
+    "System.md",
+    "Setting.md",
+    "Session Notes.md",
+    "Party.md",
+    "z-test-folder/index.md",
     "System/index.md",
+    "z-test-folder/second-page.md",
+    "z-test-folder.md",
     "System/Time Point Cost Tables.md",
+    "z-test-folder",
+    "Setting/index.md",
     "Extras/Templates/CNC Statblock.md",
     "Extras/Templates/Empty Statblock.md",
     "Extras/Attachments/fig-zones.png",
     "Party/Akra Jr.md",
     "index.md",
     "Party/index.md",
-    "Party.md",
     "Extras/Attachments/fig-continuum-of-dissociation.png",
-    "System.md",
-    "Setting.md",
-    "Session Notes.md",
     "Session Notes/index.md",
-    "Setting/index.md",
     "Party/Cassandra Jr.md",
     "Party/Thorin Jr.md",
     "Extras/Templates/Party Template.md",
@@ -276,9 +293,7 @@
     "Extras/Templates/Lucide icon SVG.md",
     "Session Notes/2024-03-02.md",
     "Party/Triple-A.md",
-    "Setting/Ka’Thand.md",
     "Extras/Attachments/map-ka'thand.png",
-    "Extras/System - Old/index.md",
     "System",
     "Mood Board.canvas",
     "Extras/System - Old/C&C Character Sheet.pdf",
@@ -295,7 +310,6 @@
     "Session Notes",
     "Party",
     "Party",
-    "Extras/Templates",
-    "Extras/Attachments"
+    "Extras/Templates"
   ]
 }
