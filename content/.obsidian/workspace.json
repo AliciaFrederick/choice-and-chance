@@ -8,59 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8e25c428050b916e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Extras/Templates/CNC Statblock.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d08d5f1d7f369d4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Extras/Templates/C&C Character Sheet.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fd1e68e6ed74a506",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "System/Time Point Cost Tables.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d2f10c368536c87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "System/index.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,9 +104,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "System/index.md"
-              }
+              "state": {}
             }
           },
           {
@@ -160,7 +113,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +129,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "System/index.md"
-              }
+              "state": {}
             }
           },
           {
@@ -230,11 +179,11 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "6d2f10c368536c87",
+  "active": "fd1e68e6ed74a506",
   "lastOpenFiles": [
-    "Extras/Templates/C&C Character Sheet.md",
     "System/Time Point Cost Tables.md",
     "System/index.md",
+    "Extras/Templates/C&C Character Sheet.md",
     "Extras/Templates/CNC Statblock.md",
     "Extras/Templates/Empty Statblock.md",
     "index.md",
