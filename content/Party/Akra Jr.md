@@ -61,14 +61,13 @@ TBD
 image: [[token_akra-jr-EFC96C-1x1.png]]
 name: Akra Jr
 type: "Ruk'Kan"
-subtype: "Ruk'Kan"
 ac: 1
 hp: 10
 speed: 10 ft
 skillsaves:
   - skills: 9
   - forms: 8
-damage_vulnerabilities: "fire, ice, and electricity if wearing heavy armor"
+damage_vulnerabilities: "If wearing heavy armor: fire, ice, electricity"
 spells:
   - As a Ruk'kan, you are capable of manifesting Forms.
   - 3: Conjure Flame

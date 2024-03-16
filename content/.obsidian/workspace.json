@@ -51,8 +51,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8e25c428050b916e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CNC Statblock.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Party/Akra Jr.md"
+                "file": "Extras/Templates/Empty Statblock.md"
               }
             }
           },
@@ -152,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Party/Akra Jr.md",
+                "file": "Extras/Templates/Empty Statblock.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Party/Akra Jr.md",
+                "file": "Extras/Templates/Empty Statblock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Party/Akra Jr.md"
+                "file": "Extras/Templates/Empty Statblock.md"
               }
             }
           },
@@ -222,11 +236,12 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "ec1193e5ab82e62a",
+  "active": "f4d03c334f511080",
   "lastOpenFiles": [
-    "System/index.md",
+    "CNC Statblock.md",
     "Party/Akra Jr.md",
     "Extras/Templates/Empty Statblock.md",
+    "System/index.md",
     "Extras/Attachments/fig-zones.png",
     "index.md",
     "Party/index.md",
@@ -252,7 +267,6 @@
     "Extras/System - Old/index.md",
     "Extras/System - Old/Choice & Chance.md",
     "README.md",
-    "Setting/Oanenya.md",
     "System",
     "Mood Board.canvas",
     "Extras/System - Old/C&C Character Sheet.pdf",
