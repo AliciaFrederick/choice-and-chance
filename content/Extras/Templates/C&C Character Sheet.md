@@ -76,35 +76,35 @@ Uncomment if using Heavy (+2) armor
 
 Cost: 3 TP for access, 1 TN per improvement
 
-| Skills              | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | Boon |
-| ------------------- | --- | --- | --- | --- | --- | --- | --- | --- | ---- |
-| Cost (TP)           | 3   | 1   | 1   | 1   | 1   | 1   | 1   | 1   |      |
-| **Weapon (Melee)**  | X   | O   | O   | O   | O   | O   | O   | O   |      |
-| **Weapon (Ranged)** | X   | O   | O   | O   | O   | O   | O   | O   |      |
-| Animal Training     | X   | O   | O   | O   | O   | O   | O   | O   |      |
-| Brawler             | X   | O   | O   | O   | O   | O   | O   | O   |      |
-| Clarity             | X   | O   | O   | O   | O   | O   | O   | O   |      |
-| Climb               | X   | O   | O   | O   | O   | O   | O   | O   |      |
-| Disguise            | X   | O   | O   | O   | O   | O   | O   | O   |      |
-| Dodge               | X   | O   | O   | O   | O   | O   | O   | O   |      |
-| Finesse             | X   | O   | O   | O   | O   | O   | O   | O   |      |
-| Fortitude           | X   | O   | O   | O   | O   | O   | O   | O   |      |
-| Herbalism           | X   | O   | O   | O   | O   | O   | O   | O   |      |
-| Hunt & Gather       | X   | O   | O   | O   | O   | O   | O   | O   |      |
-| Insight             | X   | O   | O   | O   | O   | O   | O   | O   |      |
-| Jump                | X   | O   | O   | O   | O   | O   | O   | O   |      |
-| Knowledge           | X   | O   | O   | O   | O   | O   | O   | O   |      |
-| Oratory             | X   | O   | O   | O   | O   | O   | O   | O   |      |
-| Perception          | X   | O   | O   | O   | O   | O   | O   | O   |      |
-| Performance         | X   | O   | O   | O   | O   | O   | O   | O   |      |
-| Power               | X   | O   | O   | O   | O   | O   | O   | O   |      |
-| Profession          | X   | O   | O   | O   | O   | O   | O   | O   |      |
-| Scout               | X   | O   | O   | O   | O   | O   | O   | O   |      |
-| Sleight of Hand     | X   | O   | O   | O   | O   | O   | O   | O   |      |
-| Stealth             | X   | O   | O   | O   | O   | O   | O   | O   |      |
-| Swimming            | X   | O   | O   | O   | O   | O   | O   | O   |      |
-| Tinker              | X   | O   | O   | O   | O   | O   | O   | O   |      |
-| Tracking            | X   | O   | O   | O   | O   | O   | O   | O   |      |
+| Skills              | 9   | 10  | 11  | 12  | 13  | 14  | 15  | Boon (see [[System/index#Skills\|skills list]]) |
+| ------------------- | --- | --- | --- | --- | --- | --- | --- | ----------------------------------------------- |
+| Cost (TP)           | 3   | 1   | 1   | 1   | 1   | 1   | 1   |                                                 |
+| **Weapon (Melee)**  | X   | O   | O   | O   | O   | O   | O   |                                                 |
+| **Weapon (Ranged)** | X   | O   | O   | O   | O   | O   | O   |                                                 |
+| Animal Training     | X   | O   | O   | O   | O   | O   | O   |                                                 |
+| Brawler             | X   | O   | O   | O   | O   | O   | O   |                                                 |
+| Clarity             | X   | O   | O   | O   | O   | O   | O   |                                                 |
+| Climb               | X   | O   | O   | O   | O   | O   | O   |                                                 |
+| Disguise            | X   | O   | O   | O   | O   | O   | O   |                                                 |
+| Dodge               | X   | O   | O   | O   | O   | O   | O   |                                                 |
+| Finesse             | X   | O   | O   | O   | O   | O   | O   |                                                 |
+| Fortitude           | X   | O   | O   | O   | O   | O   | O   |                                                 |
+| Herbalism           | X   | O   | O   | O   | O   | O   | O   |                                                 |
+| Hunt & Gather       | X   | O   | O   | O   | O   | O   | O   |                                                 |
+| Insight             | X   | O   | O   | O   | O   | O   | O   |                                                 |
+| Jump                | X   | O   | O   | O   | O   | O   | O   |                                                 |
+| Knowledge           | X   | O   | O   | O   | O   | O   | O   |                                                 |
+| Oratory             | X   | O   | O   | O   | O   | O   | O   |                                                 |
+| Perception          | X   | O   | O   | O   | O   | O   | O   |                                                 |
+| Performance         | X   | O   | O   | O   | O   | O   | O   |                                                 |
+| Power               | X   | O   | O   | O   | O   | O   | O   |                                                 |
+| Profession          | X   | O   | O   | O   | O   | O   | O   |                                                 |
+| Scout               | X   | O   | O   | O   | O   | O   | O   |                                                 |
+| Sleight of Hand     | X   | O   | O   | O   | O   | O   | O   |                                                 |
+| Stealth             | X   | O   | O   | O   | O   | O   | O   |                                                 |
+| Swimming            | X   | O   | O   | O   | O   | O   | O   |                                                 |
+| Tinker              | X   | O   | O   | O   | O   | O   | O   |                                                 |
+| Tracking            | X   | O   | O   | O   | O   | O   | O   |                                                 |
 
 .
 
