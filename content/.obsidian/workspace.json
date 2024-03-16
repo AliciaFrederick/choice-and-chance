@@ -32,10 +32,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Setting/index.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "index.md"
+                "file": "Setting/index.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Setting/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Setting/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Setting/index.md"
               }
             }
           },
@@ -201,11 +201,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 311.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,26 +223,26 @@
   },
   "active": "9f9e0613c927c60a",
   "lastOpenFiles": [
-    "Party/index.md",
-    "index.md",
-    "Setting/Oanenya.md",
-    "z-test-folder/index.md",
     "System/index.md",
-    "System/Time Point Cost Tables.md",
-    "z-test-folder.md",
-    "System.md",
-    "Setting.md",
-    "Session Notes.md",
-    "Party.md",
-    "z-test-folder/second-page.md",
-    "z-test-folder",
     "Setting/index.md",
+    "z-test-folder/index.md",
+    "z-test-folder/second-page.md",
+    "index.md",
+    "Party.md",
+    "Session Notes.md",
+    "Setting.md",
+    "System.md",
+    "z-test-folder.md",
+    "Session Notes/index.md",
+    "Party/index.md",
+    "Setting/Oanenya.md",
+    "System/Time Point Cost Tables.md",
+    "z-test-folder",
     "Extras/Templates/CNC Statblock.md",
     "Extras/Templates/Empty Statblock.md",
     "Extras/Attachments/fig-zones.png",
     "Party/Akra Jr.md",
     "Extras/Attachments/fig-continuum-of-dissociation.png",
-    "Session Notes/index.md",
     "Party/Cassandra Jr.md",
     "Party/Thorin Jr.md",
     "Extras/Templates/Party Template.md",

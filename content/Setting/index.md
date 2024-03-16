@@ -2,8 +2,7 @@
 title: Setting
 tags:
   - setting
-aliases: []
-up: "[[index]]"
+up: "[[index|Campaign]]"
 source: https://docs.google.com/document/d/1AFUSyEgLVVTTq5rTqS7DSrYVwWzT3wF4DFqBILeWqtE/edit
 ---
 [[Ka’Thand]] is a fictional world on which anything can happen. Where fantasy, science and other tales of whimsy and woe can be woven and explored with your friends. You can navigate the dangers of exploration and combat; unravel plots of intrigue, discover romance and more. You can tread through treacherous temples, solve complex problems and wander through cities and landscapes of your wildest imagination. The stories told will shape reality itself.
