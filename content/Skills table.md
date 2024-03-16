@@ -1,7 +1,31 @@
-| TN    | 9   | 10 11 12 13 14 15     | Boon                                 |
-| ----- | --- | --------------------- | ------------------------------------ |
-| Cost  | 3   | 1                     | -                                    |
-| Power | O   | O   O   O   O   O   O | advantage, or increase Vitality by 4 |
+| TN           | 9   | Description  | 10 11 12 13 14 15                       | Mastery Boon                         |
+| ------------ | --- | ------------ | --------------------------------------- | ------------------------------------ |
+| Cost         | 3   | -            | 1                                       | -                                    |
+| Power        | O   |              | O   O   O   O   O   O                   | advantage, or increase Vitality by 4 |
+| Melee Attack | O   | +1 to attack | O   O   O   O   O   O<br>damage +1 each | 1h - riposte/counter. 2h - AoO       |
+| -            | O   |              | O   O   O   O   O   O                   | -                                    |
+| -            | O   |              | O   O   O   O   O   O                   | -                                    |
+| -            | O   |              | O   O   O   O   O   O                   | -                                    |
+| -            | O   |              | O   O   O   O   O   O                   | -                                    |
+| -            | O   |              | O   O   O   O   O   O                   | -                                    |
+| -            | O   |              | O   O   O   O   O   O                   | -                                    |
+| -            | O   |              | O   O   O   O   O   O                   | -                                    |
+| -            | O   |              | O   O   O   O   O   O                   | -                                    |
+| -            | O   |              | O   O   O   O   O   O                   | -                                    |
+| -            | O   |              | O   O   O   O   O   O                   | -                                    |
+| -            | O   |              | O   O   O   O   O   O                   | -                                    |
+| -            | O   |              | O   O   O   O   O   O                   | -                                    |
+| -            | O   |              | O   O   O   O   O   O                   | -                                    |
+| -            | O   |              | O   O   O   O   O   O                   | -                                    |
+| -            | O   |              | O   O   O   O   O   O                   | -                                    |
+| -            | O   |              | O   O   O   O   O   O                   | -                                    |
+| -            | O   |              | O   O   O   O   O   O                   | -                                    |
+| -            | O   |              | O   O   O   O   O   O                   | -                                    |
+| -            | O   |              | O   O   O   O   O   O                   | -                                    |
+| -            | O   |              | O   O   O   O   O   O                   | -                                    |
+| -            | O   |              | O   O   O   O   O   O                   | -                                    |
+| -            | O   |              | O   O   O   O   O   O                   | -                                    |
+| -            | O   |              | O   O   O   O   O   O                   | -                                    |
 
 - **Power** - bodily strength - lifting, pushing, bracing, bending.
 	- **Mastery** - advantage, or increase Vitality by 4
