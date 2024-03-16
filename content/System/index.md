@@ -213,12 +213,14 @@ Form Improvement:
 - Improvement (+1 to TN) = 1 each
 	- Augment (increase damage, duration, distance by one category) = 3 Improvements.
 
+Improvement | 
+
 ### Skills
 
-| Ease | 0   | +1  | +2  | +3  | +4  | +5  | +6  |
-| ---- | --- | --- | --- | --- | --- | --- | --- |
-| TN   | 9   | 10  | 11  | 12  | 13  | 14  | 15  |
-| Cost | 3   | 1   | 1   | 1   | 1   | 1   | 1   |
+| Ease | 0   | +1  | +2  | +3  | +4  | +5  | +6 with boon |
+| ---- | --- | --- | --- | --- | --- | --- | ------------ |
+| TN   | 9   | 10  | 11  | 12  | 13  | 14  | 15           |
+| Cost | 3   | 1   | 1   | 1   | 1   | 1   | 1            |
 
 - **Power** - bodily strength - lifting, pushing, bracing, bending.
 	- **Mastery** - advantage, or increase Vitality by 4
