@@ -18,6 +18,8 @@ You must "create" or "learn" a form to add it to your list of known forms. The a
 
 ## Improving a Form
 
+
+
 | Cost (TP) | -   | 1   | 1   | 1   | 1   | 1   | 1   | 1   | 1   | 1   | 1   | 1   | 1   |
 | --------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | TN        | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | 20  |
