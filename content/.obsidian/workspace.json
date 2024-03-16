@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -150,7 +150,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Extras/Templates/C&C Character Sheet.md"
+                "file": "System/index.md"
               }
             }
           },
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extras/Templates/C&C Character Sheet.md",
+                "file": "System/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extras/Templates/C&C Character Sheet.md",
+                "file": "System/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extras/Templates/C&C Character Sheet.md"
+                "file": "System/index.md"
               }
             }
           },
@@ -229,11 +229,11 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "d08d5f1d7f369d4b",
+  "active": "6d2f10c368536c87",
   "lastOpenFiles": [
+    "Extras/Templates/C&C Character Sheet.md",
     "System/Time Point Cost Tables.md",
     "System/index.md",
-    "Extras/Templates/C&C Character Sheet.md",
     "Extras/Templates/CNC Statblock.md",
     "Extras/Templates/Empty Statblock.md",
     "index.md",

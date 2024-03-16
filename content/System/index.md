@@ -35,7 +35,11 @@ Hard Task - TN -2
 Extreme Task - TN -4
 
 
-Target Number
+| Target Number                 | 2   | ... |     | 20  |
+| ----------------------------- | --- | --- | --- | --- |
+| % Success to roll at or under | 1   | ... |     | 100 |
+| % to roll specific number     | 1   | ... |     | 1   |
+
 2
 3
 4
@@ -166,7 +170,7 @@ Vitality is a measure of a character’s physical and mental well-being. It is n
 ### Character Creation & Advancement 
 
 Some **Skills** are active, some are passive. 
-**Forms** are a special skill with their own difficulty and mechanics. See [[System/index#On Magic|On Magic]].
+**Forms** are a special skill with their own difficulty and mechanics. See [[System/index#Forms|Forms]].
 
 #### Time Points
 
