@@ -11,8 +11,13 @@
             "id": "fd1e68e6ed74a506",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "System/index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -88,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5,
-    "collapsed": true
+    "width": 249.5
   },
   "right": {
     "id": "9b92aed1753f5b1e",
@@ -104,7 +108,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "System/index.md"
+              }
             }
           },
           {
@@ -113,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "System/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "System/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "System/index.md"
+              }
             }
           },
           {
@@ -163,8 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5,
-    "collapsed": true
+    "width": 311.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,15 +190,15 @@
   },
   "active": "fd1e68e6ed74a506",
   "lastOpenFiles": [
+    "Setting.md",
+    "index.md",
     "System/Time Point Cost Tables.md",
     "System/index.md",
     "Extras/Templates/C&C Character Sheet.md",
     "Extras/Templates/CNC Statblock.md",
     "Extras/Templates/Empty Statblock.md",
-    "index.md",
     "System.md",
     "z-test-folder.md",
-    "Setting.md",
     "Session Notes.md",
     "Party.md",
     "Party/Thorin Jr.md",

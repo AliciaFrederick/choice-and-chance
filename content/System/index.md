@@ -131,7 +131,7 @@ Players start with 15 points to spend during [[System/index#Characters|character
 
 - **Skills** start at TN 9 and are capped at +6 (TN 15). Each improvement provides a +1. Skills and Forms when mastered will provide a boon or augment. 
 - **Talents** are passive features that alter game mechanics or don’t require rolls per se (see below).
-- **Forms** are spells that can be custom designed, and improved over time. See [[System/index#On Magic|On Magic]]. 
+- **Forms** are spells that can be custom designed, and improved over time. See [[System/index#Forms|Forms]]. 
 
 **Improvements can only be made when Tellers are in a safe or guarded place, like an enclave or a guarded encampment, etc.**
 
