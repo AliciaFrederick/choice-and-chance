@@ -68,6 +68,8 @@ A Teller can move anywhere **Close** to perform an action once per turn.
 
 Any abilities in the game will have these distances in mind, and can be played in a “Theatre of the Mind” style of play. Though this can easily translate to tabletop play depending on preference.
 
+![[fig-zones.png]]
+
 ### Armor
 
 There is Light and Heavy armor, adding 2 and 4 Armor points. AP functions as hit points that can be restored after an encounter, and after a rest is taken. Other effects, items etc. may increase AP as well.
