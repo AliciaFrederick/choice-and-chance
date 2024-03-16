@@ -71,15 +71,11 @@ skillsaves:
   - skills: 9
   - forms: 8
 damage_vulnerabilities: "fire, ice, and electricity if wearing heavy armor"
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: string
-languages: string
-cr: number
 spells:
-  - <description>
-  - <spell level>: <spell-list>
+  - Conjure Flame
+  - 3: Fire
+  - Flame Touch
+  - 7: Fire
 traits:
   - name: <trait-name>
     desc: <trait-description>

@@ -19,6 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9f9e0613c927c60a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System/index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -169,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -189,8 +202,9 @@
   },
   "active": "ec1193e5ab82e62a",
   "lastOpenFiles": [
-    "Extras/Attachments/fig-zones.png",
+    "System/index.md",
     "Party/Akra Jr.md",
+    "Extras/Attachments/fig-zones.png",
     "index.md",
     "Party/index.md",
     "Party.md",
@@ -198,7 +212,6 @@
     "System.md",
     "Setting.md",
     "Session Notes.md",
-    "System/index.md",
     "Session Notes/index.md",
     "Setting/index.md",
     "Party/Cassandra Jr.md",
@@ -227,7 +240,6 @@
     "Extras/Attachments/fig-sea-cove-city.png",
     "Extras/Attachments/fig-forest-stalker.png",
     "Extras/Attachments/fig-mountain-river-valley.png",
-    "Extras/Attachments/fig-sea-cliff-village.png",
     "System/Char Sheet PDF Generator.pdf",
     "System/Char Sheet.pdf",
     "Extras/Char Sheet.pdf",
