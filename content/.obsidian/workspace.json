@@ -11,12 +11,9 @@
             "id": "7a1369f871fae69e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Alicia's Eyes Only/From Brent.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "System/C&C Character Sheet 20240316.pdf"
               }
             }
           }
@@ -128,7 +125,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Alicia's Eyes Only/From Brent.md"
+                "file": "System/C&C Character Sheet 20240316.pdf"
               }
             }
           },
@@ -138,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alicia's Eyes Only/From Brent.md",
+                "file": "System/C&C Character Sheet 20240316.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alicia's Eyes Only/From Brent.md",
+                "file": "System/C&C Character Sheet 20240316.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alicia's Eyes Only/From Brent.md"
+                "file": "System/C&C Character Sheet 20240316.pdf"
               }
             }
           },
@@ -227,8 +224,8 @@
   },
   "active": "7a1369f871fae69e",
   "lastOpenFiles": [
-    "Setting/Malevolent Forest.md",
     "Alicia's Eyes Only/From Brent.md",
+    "Setting/Malevolent Forest.md",
     "Alicia's Eyes Only/MyVillage.md",
     "Private/Untitled",
     "Alicia's Eyes Only/MyAlly.md",
