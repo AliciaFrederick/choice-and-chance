@@ -209,30 +209,13 @@ Form Creation:
 	- Increase Damage by 1 = 2
 	- Increase Targets by 1 = 2
 
-| Cost     | 0       | 2       | 2     | 2      | 2       | 2     |
-| -------- | ------- | ------- | ----- | ------ | ------- | ----- |
-| Distance | touch   | close   | near  | far    | distant | -     |
-| Duration | instant | 1 round | 1 min | 10 min | 1 hr    | 1 day |
-| Damage   | 0       | 1       | 2     | 3      | 4       | 5     |
-| Targets  | 1       | 2       | 3     | 4      | 5       | 6     |
-| AoE      | -       | -       | -     | 8      | -       | -     |
-
 Form Improvement:
 - Improvement (+1 to TN) = 1 each
 	- Augment (increase damage, duration, distance by one category) = 3 Improvements.
 
-| TN       | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | 20  |
-| -------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Cost     | 3   | 1   | 1   | 1   | 1   | 1   | 1   | 1   | 1   | 1   | 1   | 1   | 1   |
-| Ease     | 0   | +1  | +2  | +3  | +4  | +5  | +6  | +7  | +8  | +9  | +10 | +11 | +12 |
-| Augments | -   | -   | -   | 1   | -   | -   | 2   | -   | -   | 3   | -   | -   | 4   |
+![[Time Point Cost Tables]]
 
 ### Skills
-
-| TN   | 9   | 10  | 11  | 12  | 13  | 14  | 15           |
-| ---- | --- | --- | --- | --- | --- | --- | ------------ |
-| Cost | 3   | 1   | 1   | 1   | 1   | 1   | 1            |
-| Ease | 0   | +1  | +2  | +3  | +4  | +5  | +6 with boon |
 
 - **Power** - bodily strength - lifting, pushing, bracing, bending.
 	- **Mastery** - advantage, or increase Vitality by 4
