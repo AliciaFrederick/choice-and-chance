@@ -13,7 +13,7 @@ This is a Tabletop Role Playing Game, or TTRPG. Ka’Thand is the [[Setting/inde
 
 This game is meant to be played end to end, with a story that takes you all the way through a completed adventure with a full arc.
 
-[[System|Choice & Chance]] is the system I’ve devised to help you tell stories. It’s meant to be rules light so you can keep things going. Complexity in design doesn’t always equal fun. 
+[[System/index|Choice & Chance]] is the system I’ve devised to help you tell stories. It’s meant to be rules light so you can keep things going. Complexity in design doesn’t always equal fun. 
 
 The “game master” is heretofore the **Arbiter**. The players are **Tellers**. 
 

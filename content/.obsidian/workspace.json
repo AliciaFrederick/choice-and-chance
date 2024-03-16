@@ -40,6 +40,19 @@
             }
           },
           {
+            "id": "1060010df9a43e8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System/Time Point Cost Tables.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3cd51fab52f94b5e",
             "type": "leaf",
             "state": {
@@ -125,7 +138,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 249.5,
+    "collapsed": true
   },
   "right": {
     "id": "9b92aed1753f5b1e",
@@ -223,6 +237,9 @@
   },
   "active": "9f9e0613c927c60a",
   "lastOpenFiles": [
+    "Extras/Templates/CNC Statblock.md",
+    "System/Time Point Cost Tables.md",
+    "System/index.md",
     "index.md",
     "Extras/Templates/Empty Statblock.md",
     "System.md",
@@ -234,13 +251,10 @@
     "Party/index.md",
     "Session Notes/index.md",
     "Setting/index.md",
-    "System/index.md",
     "z-test-folder/index.md",
     "z-test-folder/second-page.md",
     "Setting/Oanenya.md",
-    "System/Time Point Cost Tables.md",
     "z-test-folder",
-    "Extras/Templates/CNC Statblock.md",
     "Extras/Attachments/fig-zones.png",
     "Party/Akra Jr.md",
     "Extras/Attachments/fig-continuum-of-dissociation.png",

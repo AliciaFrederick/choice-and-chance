@@ -28,7 +28,7 @@ You must spend 3 TP to create a form to gain access to its spell effect. For eve
 
 ## Improving a Skill
 
-| Cost (TP) | 3   | 1   | 1   | 1   | 1   | 1   | 1            |
-| --------- | --- | --- | --- | --- | --- | --- | ------------ |
-| TN        | 9   | 10  | 11  | 12  | 13  | 14  | 15           |
-| Ease      | 0   | +1  | +2  | +3  | +4  | +5  | +6 with boon |
+| Cost (TP) | 3   | 1   | 1   | 1   | 1   | 1   | 1   | -    |
+| --------- | --- | --- | --- | --- | --- | --- | --- | ---- |
+| TN        | 9   | 10  | 11  | 12  | 13  | 14  | 15  | -    |
+| Ease      | 0   | +1  | +2  | +3  | +4  | +5  | +6  | Boon |
