@@ -11,8 +11,13 @@
             "id": "fd1e68e6ed74a506",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "System/index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -103,7 +108,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "System/index.md"
+              }
             }
           },
           {
@@ -112,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "System/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,6 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "System/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "System/index.md"
+              }
             }
           },
           {
@@ -180,16 +191,17 @@
   },
   "active": "fd1e68e6ed74a506",
   "lastOpenFiles": [
+    "Session Notes.md",
+    "Setting.md",
+    "Session Notes/2024-03-02.md",
     "Extras/Templates/C&C Character Sheet.md",
     "System/index.md",
-    "Setting.md",
     "index.md",
     "System/Time Point Cost Tables.md",
     "Extras/Templates/CNC Statblock.md",
     "Extras/Templates/Empty Statblock.md",
     "System.md",
     "z-test-folder.md",
-    "Session Notes.md",
     "Party.md",
     "Party/Thorin Jr.md",
     "Party/index.md",
@@ -208,7 +220,6 @@
     "Extras/Templates/Setting Template.md",
     "Extras/Templates/Session Notes Template.md",
     "Extras/Templates/Lucide icon SVG.md",
-    "Session Notes/2024-03-02.md",
     "Extras/Attachments/map-ka'thand.png",
     "System",
     "Mood Board.canvas",
