@@ -1,9 +1,8 @@
 ---
 title: Party
-aliases: 
-up: "[[index|Campaign]]"
 tags:
   - pc
+up: "[[index|Campaign]]"
 ---
 ### Summary
 

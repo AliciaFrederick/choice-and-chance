@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setting/index.md",
+                "file": "z-test-folder.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -141,7 +141,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Setting/index.md"
+                "file": "z-test-folder.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setting/index.md",
+                "file": "z-test-folder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setting/index.md",
+                "file": "z-test-folder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setting/index.md"
+                "file": "z-test-folder.md"
               }
             }
           },
@@ -223,18 +223,19 @@
   },
   "active": "9f9e0613c927c60a",
   "lastOpenFiles": [
-    "System/index.md",
+    "System.md",
+    "Setting.md",
+    "Session Notes.md",
+    "Party.md",
+    "Party/Thorin Jr.md",
+    "Party/index.md",
+    "Session Notes/index.md",
     "Setting/index.md",
+    "System/index.md",
     "z-test-folder/index.md",
     "z-test-folder/second-page.md",
     "index.md",
-    "Party.md",
-    "Session Notes.md",
-    "Setting.md",
-    "System.md",
     "z-test-folder.md",
-    "Session Notes/index.md",
-    "Party/index.md",
     "Setting/Oanenya.md",
     "System/Time Point Cost Tables.md",
     "z-test-folder",
@@ -244,7 +245,6 @@
     "Party/Akra Jr.md",
     "Extras/Attachments/fig-continuum-of-dissociation.png",
     "Party/Cassandra Jr.md",
-    "Party/Thorin Jr.md",
     "Extras/Templates/Party Template.md",
     "Extras/Templates/System Template.md",
     "Extras/Templates/Setting Template.md",
