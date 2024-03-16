@@ -76,7 +76,7 @@ Uncomment if using Heavy (+2) armor
 
 Cost: 3 TP for access, 1 TN per improvement
 
-| Skills              | 9   | 10  | 11  | 12  | 13  | 14  | 15  | Boon (see [[System/index#Skills\|skills list]]) |
+| Skills              | 9   | 10  | 11  | 12  | 13  | 14  | 15  | Boon |
 | ------------------- | --- | --- | --- | --- | --- | --- | --- | ----------------------------------------------- |
 | Cost (TP)           | 3   | 1   | 1   | 1   | 1   | 1   | 1   | -                                               |
 | **Weapon (Melee)**  | X   | O   | O   | O   | O   | O   | O   | -                                               |

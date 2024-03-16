@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5,
-    "collapsed": true
+    "width": 249.5
   },
   "right": {
     "id": "9b92aed1753f5b1e",
@@ -192,11 +191,11 @@
   },
   "active": "fd1e68e6ed74a506",
   "lastOpenFiles": [
+    "Extras/Templates/C&C Character Sheet.md",
     "System/index.md",
     "Setting.md",
     "index.md",
     "System/Time Point Cost Tables.md",
-    "Extras/Templates/C&C Character Sheet.md",
     "Extras/Templates/CNC Statblock.md",
     "Extras/Templates/Empty Statblock.md",
     "System.md",
