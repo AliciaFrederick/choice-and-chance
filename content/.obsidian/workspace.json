@@ -79,7 +79,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -251,10 +252,10 @@
   },
   "active": "d08d5f1d7f369d4b",
   "lastOpenFiles": [
-    "System/index.md",
-    "Extras/Templates/C&C Character Sheet.md",
-    "Extras/Templates/CNC Statblock.md",
     "System/Time Point Cost Tables.md",
+    "Extras/Templates/C&C Character Sheet.md",
+    "System/index.md",
+    "Extras/Templates/CNC Statblock.md",
     "index.md",
     "Extras/Templates/Empty Statblock.md",
     "System.md",
