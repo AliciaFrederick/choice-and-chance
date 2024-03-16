@@ -1,13 +1,12 @@
 ## Combat
 
-| TN                    | 9   | Learned      | 10 11 12 13 14 15                       | Mastery                                                                                         |
-| --------------------- | --- | ------------ | --------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| Cost                  | 3   | -            | 1                                       | -                                                                                               |
-| Power                 | O   |              | O   O   O   O   O   O                   | advantage, or increase Vitality by 4                                                            |
-| Melee Attack          | O   | +1 to attack | O   O   O   O   O   O<br>damage +1 each | 1h - riposte/counter. 2h - AoO                                                                  |
-| Ranged Attack         | O   | +1 to attack | O   O   O   O   O   O<br>damage +1 each | - When you use an action to aim a ranged attack, ease TN by 2<br>OR<br>- Learn **Sharpshooter** |
-| Defense               | O   |              | O   O   O   O   O   O                   | can attack from Far range or greater                                                            |
-| Brawler               | O   |              | O   O   O   O   O   O                   | must successfully escape twice to get loose                                                     |
+| TN            | 9   | 10 11 12 13 14 15                       | Learned         | Mastery                                                                                         |
+| ------------- | --- | --------------------------------------- | --------------- | ----------------------------------------------------------------------------------------------- |
+| Cost          | 3   | 1                                       | -               | -                                                                                               |
+| Melee Attack  | O   | O   O   O   O   O   O<br>damage +1 each | +1 to attack    | 1h - riposte/counter. 2h - AoO                                                                  |
+| Ranged Attack | O   | O   O   O   O   O   O<br>damage +1 each | +1 to attack    | - When you use an action to aim a ranged attack, ease TN by 2<br>OR<br>- Learn **Sharpshooter** |
+| Defense       | O   | O   O   O   O   O   O                   | Mitigate damage | can attack from Far range or greater                                                            |
+| Brawler       | O   | O   O   O   O   O   O                   |                 | must successfully escape twice to get loose                                                     |
 
 
 ## Exploration
