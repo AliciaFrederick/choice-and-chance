@@ -6,36 +6,36 @@
 - [x] **Ranged Attack** - +1 to attack roll 
 	- [x] **Mastery** - learn ‘Sharshooter’ -  use an action to aim a ranged attack, easing TN by 2.  Every other skill point invested increases damage by 1. 
 	- [x] Or unblocked sharpshooter attacks ignore AP.
-- [ ] **Defense** - Used to evade mitigate damage whether dodging, blocking or parrying.
-	- [ ] **Mastery** - can attacks from Far range or greater.
-- [ ] **Perception** - Glean information about surrounding area or situation.
-	- [ ] **Mastery** - you cannot be surprised while awake.
-- [ ] **Insight** - Glean intention from other’s words or actions.
-	- [ ] **Mastery** - ease TN by 2 if you’ve met the target before.
-- [ ] **Clarity** - +1TN to resist mental form effects.
-	- [ ] **Mastery** - advantage against effects to one of the following: control you, modify memory, scry you
-- [ ] **Animal Training** - Charm or induce an animal companion to perform simple actions, 1 animal at a time.
-	- [ ] **Mastery** - advantage on the check.
-- [ ] **Brawler** - grab and control creatures (if successful, ATK and DEF are pushed by 2 for the grappled creature, must use action to attempt escape.
+- [x] **Defense** - Used to evade mitigate damage whether dodging, blocking or parrying.
+	- [x] **Mastery** - can attack from Far range or greater.
+- [x] **Perception** - Glean information about surrounding area or situation.
+	- [x] **Mastery** - you cannot be surprised while awake.
+- [x] **Insight** - Glean intention from other’s words or actions.
+	- [x] **Mastery** - ease TN by 2 if you’ve met the target before.
+- [x] **Clarity** - +1TN to resist mental form effects.
+	- [x] **Mastery** - advantage against effects to one of the following: control you, modify memory, scry you
+- [x] **Animal Training** - Charm or induce an animal companion to perform simple actions, 1 animal at a time.
+	- [x] **Mastery** - advantage on the check.
+- [x] **Brawler** - grab and control creatures (if successful, ATK and DEF are pushed by 2 for the grappled creature, must use action to attempt escape.
 	- [ ] **Mastery** - must successfully escape twice to get loose.
-- [ ] **Climber** - Climb any reasonable surface with texture or holds.
+- [x] **Climber** - Climb any reasonable surface with texture or holds.
 	- [ ] **Mastery** - Advantage on either urban or wilderness climbing checks.
-- [ ] **Scout** - Detect traps, hidden doors and dangers in an unknown area.
+- [x] **Scout** - Detect traps, hidden doors and dangers in an unknown area.
 	- [ ] **Mastery** - advantage on finding hidden enemies in a searched area.
-- [ ] **Disguise** - Take on alternate identities. Imitating a specific person requires a day to prepare.
+- [x] **Disguise** - Take on alternate identities. Imitating a specific person requires a day to prepare.
 	- [ ] **Mastery** - Advantage on deception checks while wearing an appropriate disguise.
-- [ ] **Sleight of hand** - Stealing small items, cheat or overcome betting games, conceal something that requires hand movement
+- [x] **Sleight of hand** - Stealing small items, cheat or overcome betting games, conceal something that requires hand movement
 	- [ ] **Mastery** - first failed check on unaware targets does not alert them.
-- [ ] **Hunting and Gathering** - ability to acquire food and water in any environment, enough for a group.
+- [x] **Hunting and Gathering** - ability to acquire food and water in any environment, enough for a group.
 	- [ ] **Mastery** - on a failed check you still find enough food/water for 1.
-- [ ] **Investigate** - Uncover hidden and subtle information.
-- [ ] **Jump** - Increase jump distance 3-fold
+- [x] **Investigate** - Uncover hidden and subtle information.
+- [x] **Jump** - Increase jump distance 3-fold
 	- [ ] **Mastery** - ignore fall damage below a Near Distance (40’)
-- [ ] **Knowledge** - Roll to recall details on a topic or area of expertise.
+- [x] **Knowledge** - Roll to recall details on a topic or area of expertise.
 	- [ ] **Mastery** - advantage on the rolls.
-- [ ] **Tinker** - Manipulate non-magical locks, traps or other devices.
+- [x] **Tinker** - Manipulate non-magical locks, traps or other devices.
 	- [ ] **Mastery** - can dismantle and re-activate traps and other devices
-- [ ] **Herbalism** - find and use plants for tinctures, potions and salves that can be applied for different uses. 1 alchemist supply makes 1 use.
+- [x] **Herbalism** - find and use plants for tinctures, potions and salves that can be applied for different uses. 1 alchemist supply makes 1 use.
 	- [ ] **Mastery** - Cooking - can cook herbs in meals, takes 1 hr. Party gets the effect and tincture effect doubled. But must be consumed. Consumes 1 ration per teller.. 
 - [x] **Oratory** - Persuade or deceive with words
 	- [ ] **Mastery** - Ease checks against non-hostile targets by 2.
