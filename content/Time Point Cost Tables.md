@@ -18,7 +18,7 @@ You must "create" or "learn" a form to add it to your list of known forms. The a
 
 ## Improving a Form
 
-
+- [?] Ask Brent about this
 
 | Cost (TP) | -   | 1   | 1   | 1   | 1   | 1   | 1   | 1   | 1   | 1   | 1   | 1   | 1   |
 | --------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
