@@ -128,7 +128,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Extras/Templates/C&C Character Sheet.md"
+                "file": "Setting/Malevolent Forest.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extras/Templates/C&C Character Sheet.md",
+                "file": "Setting/Malevolent Forest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extras/Templates/C&C Character Sheet.md",
+                "file": "Setting/Malevolent Forest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extras/Templates/C&C Character Sheet.md"
+                "file": "Setting/Malevolent Forest.md"
               }
             }
           },
@@ -225,8 +225,9 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "7a1369f871fae69e",
+  "active": "58e5b37fff2ef5ae",
   "lastOpenFiles": [
+    "Extras/Templates/C&C Character Sheet.md",
     "System/C&C Character Sheet 20240316.pdf",
     "Alicia's Eyes Only/From Brent.md",
     "Setting/Malevolent Forest.md",
@@ -244,7 +245,6 @@
     "System/Skill tables.md",
     "Skills List.md",
     "System.md",
-    "Extras/Templates/C&C Character Sheet.md",
     "Extras/Templates/C&C Character Sheet 20240316.pdf",
     "Vitality tables.md",
     "System/index.md",
