@@ -13,14 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Party/Akra Jr.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "af2af9580e5ccf49",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Extras/Attachments/fig-zones.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +120,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "index.md"
+                "file": "Extras/Attachments/fig-zones.png"
               }
             }
           },
@@ -119,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Extras/Attachments/fig-zones.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Extras/Attachments/fig-zones.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Extras/Attachments/fig-zones.png"
               }
             }
           },
@@ -169,7 +180,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -187,12 +198,12 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "ec1193e5ab82e62a",
+  "active": "6b01efd9d0313a85",
   "lastOpenFiles": [
-    "Party/index.md",
-    "index.md",
-    "Party.md",
     "Party/Akra Jr.md",
+    "index.md",
+    "Party/index.md",
+    "Party.md",
     "Extras/Attachments/fig-continuum-of-dissociation.png",
     "System.md",
     "Setting.md",
