@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System/index.md",
+                "file": "index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -141,7 +141,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "System/index.md"
+                "file": "index.md"
               }
             }
           },
@@ -151,8 +151,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System/index.md",
-                "collapseAll": true,
+                "file": "index.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System/index.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System/index.md"
+                "file": "index.md"
               }
             }
           },
@@ -201,12 +201,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 311.5,
-    "collapsed": true
+    "width": 311.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,14 +222,17 @@
   },
   "active": "9f9e0613c927c60a",
   "lastOpenFiles": [
+    "Party/index.md",
+    "index.md",
+    "Setting/Oanenya.md",
+    "z-test-folder/index.md",
+    "System/index.md",
     "System/Time Point Cost Tables.md",
     "z-test-folder.md",
     "System.md",
     "Setting.md",
     "Session Notes.md",
     "Party.md",
-    "z-test-folder/index.md",
-    "System/index.md",
     "z-test-folder/second-page.md",
     "z-test-folder",
     "Setting/index.md",
@@ -238,8 +240,6 @@
     "Extras/Templates/Empty Statblock.md",
     "Extras/Attachments/fig-zones.png",
     "Party/Akra Jr.md",
-    "index.md",
-    "Party/index.md",
     "Extras/Attachments/fig-continuum-of-dissociation.png",
     "Session Notes/index.md",
     "Party/Cassandra Jr.md",
@@ -251,7 +251,6 @@
     "Extras/Templates/C&C Character Sheet.md",
     "Extras/Templates/Lucide icon SVG.md",
     "Session Notes/2024-03-02.md",
-    "Party/Triple-A.md",
     "Extras/Attachments/map-ka'thand.png",
     "System",
     "Mood Board.canvas",

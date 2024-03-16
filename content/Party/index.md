@@ -1,7 +1,7 @@
 ---
 title: Party
 aliases: 
-up: "[[index|Home]]"
+up: "[[index|Campaign]]"
 tags:
   - pc
 ---

@@ -7,7 +7,6 @@ cssclasses:
   - img-max
   - max
 aliases:
-  - Home
   - Campaign
 source: https://aliciafrederick.github.io/choice-and-chance
 ---
