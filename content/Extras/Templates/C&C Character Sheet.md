@@ -50,7 +50,7 @@ Cost: 4 TN each, max of 2.
 - [ ] **Sharp Shooter**: Ignore armor points with ranged weapons. 
 - [ ] **Shield Fighting**: Can turn an ally’s missed defense roll into a success if within touch range.
 - [ ] **Sneak Attack**: When enemy is surprised, triple damage.
-- [x] **War Caster**: Ease 2 on Fortitude checks to maintain concentration. 
+- [ ] **War Caster**: Ease 2 on Fortitude checks to maintain concentration. 
 
 ## Inventory
 
