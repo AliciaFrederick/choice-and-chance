@@ -11,13 +11,8 @@
             "id": "fd1e68e6ed74a506",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Extras/Templates/C&C Character Sheet.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -108,9 +103,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Extras/Templates/C&C Character Sheet.md"
-              }
+              "state": {}
             }
           },
           {
@@ -119,7 +112,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extras/Templates/C&C Character Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +128,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extras/Templates/C&C Character Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Extras/Templates/C&C Character Sheet.md"
-              }
+              "state": {}
             }
           },
           {
