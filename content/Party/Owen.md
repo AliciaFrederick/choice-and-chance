@@ -7,6 +7,6 @@ vitality-max: "10"
 vitality-current: "10"
 ap: "0"
 race: Ruk
-portrait: "[[portrait-akra-jr.png]]"
-token: "[[token_akra-jr-EFC96C-1x1.png]]"
+portrait: "[[portrait-owen.png]]"
+token: "[[token_owen-EFC96C-1x1 1.png]]"
 ---

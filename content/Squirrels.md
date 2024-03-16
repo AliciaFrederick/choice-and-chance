@@ -1,5 +1,5 @@
 ---
-up: "[]"
+up: "[[index|Campaign]]"
 draft: "true"
 ---
 - [ ] Art for the jungle
