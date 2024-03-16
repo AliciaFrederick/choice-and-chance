@@ -1,6 +1,8 @@
 ---
 aliases:
   - forest
+  - Shosahn Rienfiik
+  - Rienfiik
 tags:
   - location/poi
 up: "[[Ka’Thand]]"
