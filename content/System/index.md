@@ -209,10 +209,13 @@ Form Creation:
 	- Increase Damage by 1 = 2
 	- Increase Targets by 1 = 2
 
-| Cost     | 0       | 2     | 2    | 2   | 2       |
-| -------- | ------- | ----- | ---- | --- | ------- |
-| Distance | touch   | close | near | far | distant |
-| Duration | instant |       |      |     |         |
+| Cost     | 0       | 2       | 2     | 2      | 2       | 2     |
+| -------- | ------- | ------- | ----- | ------ | ------- | ----- |
+| Distance | touch   | close   | near  | far    | distant | -     |
+| Duration | instant | 1 round | 1 min | 10 min | 1 hr    | 1 day |
+| Damage   | 0       | 1       | 2     | 3      | 4       | 5     |
+| Targets  | 1       | 2       | 3     | 4      | 5       | 6     |
+| AoE      | -       | -       | -     | 8      | -       | -     |
 
 Form Improvement:
 - Improvement (+1 to TN) = 1 each
