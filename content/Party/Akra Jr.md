@@ -77,23 +77,23 @@ spells:
   - Flame Touch
   - 7: Fire
 traits:
-  - name: <trait-name>
-    desc: <trait-description>
+  - name: Sneak Attack
+    desc: When target is surprised, triple damage
   - ...
 actions:
-  - name: <trait-name>
+  - name: Attack
     desc: <trait-description>
-  - ...
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
-  - name: <trait-name>
+  - name: Move
+    desc: <trait-description>
+  - name: Use item
     desc: <trait-description>
   - ...
 reactions:
-  - name: <reaction-name>
+  - name: Dodge
+    desc: You t
+  - name: Block
+    desc: <reaction-description>
+  - name: Parry
     desc: <reaction-description>
   - ...
 ```
