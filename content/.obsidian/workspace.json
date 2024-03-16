@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,7 +170,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CNC Statblock.md"
+                "file": "Time Point Cost Tables.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CNC Statblock.md",
+                "file": "Time Point Cost Tables.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CNC Statblock.md",
+                "file": "Time Point Cost Tables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CNC Statblock.md"
+                "file": "Time Point Cost Tables.md"
               }
             }
           },
@@ -250,10 +250,10 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "8e25c428050b916e",
+  "active": "8990b120549816e6",
   "lastOpenFiles": [
-    "Extras/Templates/Empty Statblock.md",
     "CNC Statblock.md",
+    "Extras/Templates/Empty Statblock.md",
     "System/index.md",
     "Time Point Cost Tables.md",
     "Extras/Attachments/fig-zones.png",
