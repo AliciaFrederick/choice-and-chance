@@ -18,7 +18,7 @@ spells:
   - 11 pts: Detect Thought - near, 1 min, dmg 0
   - 20 pts: Greater Detect Thought - far, 10 min, AoE
   - 6 pts: Double Image - touch, 1 min, 2 duplicates
-  - 12-15 pts: Invisibility - touch, 10 min, 
+  - 15 (12) pts: Invisibility - touch, 10 min, 3 targets (ends if you attack while invisible)
 traits:
   - name: Sneak Attack
     desc: When target is surprised, triple damage
