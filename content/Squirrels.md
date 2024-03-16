@@ -4,8 +4,9 @@ draft: "true"
 ---
 ## What I'm trying to do
 
-- [ ] Print char sheet
-	- [ ] Update with new skills and Mastery boons
+- [x] Print char sheet
+	- [x] Update with new skills and Mastery boons
+- [ ] Fill out char sheet for [[Akra Jr]] 
 
 ## Distractions
 

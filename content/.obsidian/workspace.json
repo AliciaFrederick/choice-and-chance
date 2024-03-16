@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Squirrels.md",
+                "file": "Party/From Brent.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Squirrels.md"
+                "file": "Party/From Brent.md"
               }
             }
           },
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Squirrels.md",
+                "file": "Party/From Brent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Squirrels.md",
+                "file": "Party/From Brent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Squirrels.md"
+                "file": "Party/From Brent.md"
               }
             }
           },
@@ -192,8 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5,
-    "collapsed": true
+    "width": 311.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,7 +209,13 @@
   },
   "active": "7a1369f871fae69e",
   "lastOpenFiles": [
+    "MyVillage.md",
+    "Party/From Brent.md",
+    "Mom2.md",
+    "Mom1.md",
+    "MyAlly.md",
     "Party/Akra Jr.md",
+    "Squirrels.md",
     "Skill tables.md",
     "System/Vitality tables.md",
     "System/Skills List.md",
@@ -221,7 +226,6 @@
     "System/C&C Character Sheet 20240316.pdf",
     "Extras/Templates/C&C Character Sheet 20240316.pdf",
     "Vitality tables.md",
-    "Squirrels.md",
     "System/index.md",
     "index.md",
     "Party.md",
@@ -239,11 +243,6 @@
     "System/Time Point Cost Tables.md",
     "Setting/index.md",
     "Session Notes/index.md",
-    "Session Notes/2024-03-02.md",
-    "Extras/Templates/CNC Statblock.md",
-    "Extras/Templates/Empty Statblock.md",
-    "z-test-folder.md",
-    "z-test-folder/index.md",
     "z-test-folder",
     "Extras/Attachments/fig-zones.png",
     "Extras/Attachments/fig-continuum-of-dissociation.png",
