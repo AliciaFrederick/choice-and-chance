@@ -12,13 +12,13 @@ skillsaves:
 damage_vulnerabilities: "If wearing heavy armor: fire, ice, electricity"
 spells:
   - As a Ruk'kan, you are capable of manifesting Forms. Examples below.
-  - 3 pts: Conjure Flame - touch, instant, 
-  - 6 pts: Double Image
-  - 7 pts: Flame Touch
-  - 9 pts: Flame Lance
-  - 11 pts: Detect Thought
-  - 12-15 pts: Invisibility
-  - 20 pts: Greater Detect Thought
+  - 3 pts: Conjure Flame - touch, instant, dmg 0
+  - 7 pts: Flame Touch - touch, instant, dmg 2
+  - 9 pts: Flame Lance - near, instant, dmg 1
+  - 11 pts: Detect Thought - near, 1 min, dmg 0
+  - 20 pts: Greater Detect Thought - far, 10 min, AoE
+  - 6 pts: Double Image - touch, 1 min, 2 duplicates
+  - 12-15 pts: Invisibility - touch, 10 min, 
 traits:
   - name: Sneak Attack
     desc: When target is surprised, triple damage
