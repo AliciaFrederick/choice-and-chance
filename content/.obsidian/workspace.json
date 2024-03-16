@@ -48,6 +48,25 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "687e9eaf12b18634",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d54285336bd7cc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skills List.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -237,9 +256,10 @@
   },
   "active": "021019eff9e8d66e",
   "lastOpenFiles": [
-    "Extras/Templates/C&C Character Sheet.md",
+    "Skills List.md",
     "Skills table.md",
     "System.md",
+    "Extras/Templates/C&C Character Sheet.md",
     "Squirrels.md",
     "System/index.md",
     "index.md",
@@ -271,7 +291,6 @@
     "Extras/Attachments/fig-continuum-of-dissociation.png",
     "Extras/Templates/Party Template.md",
     "Extras/Templates/System Template.md",
-    "Extras/Templates/Setting Template.md",
     "Extras/Attachments/map-ka'thand.png",
     "System",
     "Mood Board.canvas",
