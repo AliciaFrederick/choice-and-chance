@@ -1,5 +1,5 @@
 ---
-up: "[[Setting/index|Setting]]"
+up: "[[+ Setting|Setting]]"
 tags:
   - location
 aliases:

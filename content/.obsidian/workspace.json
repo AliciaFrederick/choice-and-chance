@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Party.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -109,7 +109,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "index.md"
+                "file": "Party.md"
               }
             }
           },
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Party.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Party.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Party.md"
               }
             }
           },
@@ -209,9 +209,12 @@
   },
   "active": "9974e8e3c1997350",
   "lastOpenFiles": [
-    "System/+ System.md",
+    "Session Notes.md",
+    "Setting.md",
     "System.md",
+    "Setting/+ Setting.md",
     "index.md",
+    "System/+ System.md",
     "Extras/Character Sheet/C&C Character Sheet - Google Sheets.pdf",
     "Extras/Character Sheet/C&C Character Sheet 20240316.pdf",
     "System/Skill tables.md",
@@ -244,8 +247,6 @@
     "Extras/Attachments/portrait-owen.png",
     "Extras/Attachments/portrait-cassandra-jr.png",
     "Extras/Attachments/portrait-akra-jr.png",
-    "Setting.md",
-    "Session Notes.md",
     "z-test-folder",
     "Extras/Attachments/fig-zones.png",
     "Extras/Attachments/fig-continuum-of-dissociation.png",

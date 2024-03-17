@@ -6,7 +6,7 @@ draft: "true"
 
 ## Overview
 
-This is a Tabletop Role Playing Game, or TTRPG. Ka’Thand is the [[Setting/index|world]] I’ve created for you to play in, explore and shape. A place of your wildest imagination, Ka’Thand has its own happenings and creatures and goings ons. But just like you, the world is ever changing, evolving, and growing. Every story told in this world is unique, just as every conversation you have is one of a kind. This place is just a stepping stone for you to take your creativity, as Arbiter or Teller, and run with it - with a few rules to keep the game fair and fun.
+This is a Tabletop Role Playing Game, or TTRPG. Ka’Thand is the [[+ Setting|world]] I’ve created for you to play in, explore and shape. A place of your wildest imagination, Ka’Thand has its own happenings and creatures and goings ons. But just like you, the world is ever changing, evolving, and growing. Every story told in this world is unique, just as every conversation you have is one of a kind. This place is just a stepping stone for you to take your creativity, as Arbiter or Teller, and run with it - with a few rules to keep the game fair and fun.
 
 This game is meant to be played end to end, with a story that takes you all the way through a completed adventure with a full arc.
 

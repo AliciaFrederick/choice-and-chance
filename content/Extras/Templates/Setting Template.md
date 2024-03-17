@@ -2,6 +2,6 @@
 aliases: 
 tags:
   - setting
-up: "[[Setting/index|Setting]]"
+up: "[[+ Setting|Setting]]"
 ---
 Lorem ipsum dolor sit ...
