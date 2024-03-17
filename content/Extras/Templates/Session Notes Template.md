@@ -1,7 +1,7 @@
 ---
 tags:
   - session-notes
-up: "[[Session Notes/index|Session Notes]]"
+up: "[[+ Session Notes|Session Notes]]"
 exerpt: lorem ipsum
 ---
 

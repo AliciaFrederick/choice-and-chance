@@ -1,10 +1,11 @@
 ---
+title: Party
+tags:
+  - pc
 up: "[[index|Campaign]]"
-draft: "true"
+aliases:
+  - Party
 ---
-%% TODO: Not redirecting to index %%
-
-### Summary
 
 | Alicia                                               | Joe                                               | Amy                                                       |
 | ---------------------------------------------------- | ------------------------------------------------- | --------------------------------------------------------- |
@@ -12,4 +13,3 @@ draft: "true"
 | [[Akra Jr]]                                          | [[Owen]]                                          | [[Cassandra Jr]]                                          |
 
 ^6718af
-
