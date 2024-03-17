@@ -1,22 +1,6 @@
 {
-  "players": [
-    {
-      "note": "Akra Jr",
-      "path": "Party/Akra Jr.md",
-      "name": "Akra Jr",
-      "ac": "1",
-      "hp": 10,
-      "player": true
-    }
-  ],
-  "parties": [
-    {
-      "name": "Triple A",
-      "players": [
-        "Akra Jr"
-      ]
-    }
-  ],
+  "players": [],
+  "parties": [],
   "defaultParty": null,
   "statuses": [
     {
