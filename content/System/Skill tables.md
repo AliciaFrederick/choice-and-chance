@@ -37,20 +37,20 @@
 
 ### With descriptions
 
-| Attack TN     | 9   | 10                | 11 12 13 14 15 16                       | Mastery                                                                                |
-| ------------- | --- | ----------------- | --------------------------------------- | -------------------------------------------------------------------------------------- |
-| Cost          | -   | 3                 | 1 ea                                    | -                                                                                      |
-| Melee Attack  | X   | O<br>+1 to attack | O   O   O   O   O   O<br>damage +1 each | 1h - riposte/counter. 2h - AoO                                                         |
-| Ranged Attack | X   | O<br>+1 to attack | O   O   O   O   O   O<br>damage +1 each | When you use an action to aim a ranged attack, ease TN by 2; OR Learn **Sharpshooter** |
+| Attack TN     | 9   | 10                | 11 12 13 14 15 16                       | Trained      | Improved                  | Mastery                                                                                |
+| ------------- | --- | ----------------- | --------------------------------------- | ------------ | ------------------------- | -------------------------------------------------------------------------------------- |
+| Cost          | -   | 3                 | 1 each                                  | -            | -                         | -                                                                                      |
+| Melee Attack  | X   | O<br>+1 to attack | O   O   O   O   O   O<br>damage +1 each | +1 to attack | +1 damage per improvement | 1h - riposte/counter. 2h - AoO                                                         |
+| Ranged Attack | X   | O<br>+1 to attack | O   O   O   O   O   O<br>damage +1 each | +1 to attack |                           | When you use an action to aim a ranged attack, ease TN by 2; OR Learn **Sharpshooter** |
 
 ### Simple
 
-| Attack TN     | 8   | 9            | 10 11 12 13 14 15     |
-| ------------- | --- | ------------ | --------------------- |
-| Description   | -   | +1 to attack | damage +1 each        |
-| Cost (TP)     | -   | 3            | 1 ea                  |
-| Melee Attack  | X   | O            | O   O   O   O   O   O |
-| Ranged Attack | X   | O            | O   O   O   O   O   O |
+| Attack TN     | 8         | 9            | 10 11 12 13 14 15     |
+| ------------- | --------- | ------------ | --------------------- |
+| Cost (TP)     | -         | 3            | 1 each                |
+| Description   | Untrained | +1 to attack | damage +1 each        |
+| Melee Attack  | X         | O            | O   O   O   O   O   O |
+| Ranged Attack | X         | O            | O   O   O   O   O   O |
 
 ^ed168e
 
