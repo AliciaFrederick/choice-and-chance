@@ -1,7 +1,7 @@
 ---
 tags:
   - pc
-up: "[[+ System|System]]"
+up: "[[+ Choice & Chance|System]]"
 xp-available: "15"
 vitality-max: "10"
 vitality-current: "10"

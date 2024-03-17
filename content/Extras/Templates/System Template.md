@@ -1,5 +1,5 @@
 ---
 tags:
   - system
-up: "[[+ System|System]]"
+up: "[[+ Choice & Chance|System]]"
 ---

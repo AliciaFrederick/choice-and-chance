@@ -7,13 +7,14 @@ source: https://docs.google.com/document/d/1AFUSyEgLVVTTq5rTqS7DSrYVwWzT3wF4DFqB
 ---
 # Choice & Chance
 
+
 ## Overview
 
 This is a Tabletop Role Playing Game, or TTRPG. Ka’Thand is the [[+ Setting|world]] I’ve created for you to play in, explore and shape. A place of your wildest imagination, Ka’Thand has its own happenings and creatures and goings ons. But just like you, the world is ever changing, evolving, and growing. Every story told in this world is unique, just as every conversation you have is one of a kind. This place is just a stepping stone for you to take your creativity, as Arbiter or Teller, and run with it - with a few rules to keep the game fair and fun.
 
 This game is meant to be played end to end, with a story that takes you all the way through a completed adventure with a full arc.
 
-[[+ System|Choice & Chance]] is the system I’ve devised to help you tell stories. It’s meant to be rules light so you can keep things going. Complexity in design doesn’t always equal fun. 
+[[+ Choice & Chance|Choice & Chance]] is the system I’ve devised to help you tell stories. It’s meant to be rules light so you can keep things going. Complexity in design doesn’t always equal fun. 
 
 The “game master” is heretofore the **Arbiter**. The players are **Tellers**. 
 
@@ -111,7 +112,7 @@ Vitality is a measure of a character’s physical and mental well-being. It is n
 ### Character Creation & Advancement 
 
 Some **Skills** are active, some are passive. 
-**Forms** are a special skill with their own difficulty and mechanics. See [[+ System#Forms|Forms]].
+**Forms** are a special skill with their own difficulty and mechanics. See [[+ Choice & Chance#Forms|Forms]].
 
 #### Time Points
 
@@ -129,11 +130,11 @@ Tellers are awarded Time Points (TP) by the Arbiter. All points earned counts to
 - “Winning” a combat, which could mean surviving.
 - Smart or creative actions
 
-Players start with 15 points to spend during [[+ System#Characters|character]] creation. Subsequent points can be spent to advance their characters. 
+Players start with 15 points to spend during [[+ Choice & Chance#Characters|character]] creation. Subsequent points can be spent to advance their characters. 
 
 - **Skills** start at TN 9 and are capped at +6 (TN 15). Each improvement provides a +1. Skills and Forms when mastered will provide a boon or augment. 
 - **Talents** are passive features that alter game mechanics or don’t require rolls per se (see below).
-- **Forms** are spells that can be custom designed, and improved over time. See [[+ System#Forms|Forms]]. 
+- **Forms** are spells that can be custom designed, and improved over time. See [[+ Choice & Chance#Forms|Forms]]. 
 
 **Improvements can only be made when Tellers are in a safe or guarded place, like an enclave or a guarded encampment, etc.**
 
@@ -247,7 +248,7 @@ This is a game mechanic. If you know a Spell Effect being cast, you can make a c
 
 #### Spell Parameters
 
-- Distance - follows [[+ System#Zones|zone]] categories, maximum is Distant, cost 2 per zone.
+- Distance - follows [[+ Choice & Chance#Zones|zone]] categories, maximum is Distant, cost 2 per zone.
 - Damage - 2 per damage.
 - Duration - forms with duration must be concentrated on, and other forms cannot be cast
 	- Increasing duration costs 2 points per increase, and are categorized as follows: instant, 1 round, 1 minute, 10 minutes, 1 hour, 1 day.
