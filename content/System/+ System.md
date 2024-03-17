@@ -1,6 +1,9 @@
 ---
+title: System
+tags:
+  - system
 up: "[[index|Campaign]]"
-draft: "true"
+source: https://docs.google.com/document/d/1AFUSyEgLVVTTq5rTqS7DSrYVwWzT3wF4DFqBILeWqtE/edit
 ---
 # Choice & Chance
 

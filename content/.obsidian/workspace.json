@@ -11,9 +11,12 @@
             "id": "9974e8e3c1997350",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Extras/Character Sheet/C&C Character Sheet - Google Sheets.pdf"
+                "file": "index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -106,7 +109,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Extras/Character Sheet/C&C Character Sheet - Google Sheets.pdf"
+                "file": "index.md"
               }
             }
           },
@@ -116,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extras/Character Sheet/C&C Character Sheet - Google Sheets.pdf",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extras/Character Sheet/C&C Character Sheet - Google Sheets.pdf",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extras/Character Sheet/C&C Character Sheet - Google Sheets.pdf"
+                "file": "index.md"
               }
             }
           },
@@ -206,11 +209,12 @@
   },
   "active": "9974e8e3c1997350",
   "lastOpenFiles": [
+    "System/+ System.md",
+    "System.md",
+    "index.md",
+    "Extras/Character Sheet/C&C Character Sheet - Google Sheets.pdf",
     "Extras/Character Sheet/C&C Character Sheet 20240316.pdf",
     "System/Skill tables.md",
-    "System.md",
-    "Extras/Character Sheet/C&C Character Sheet - Google Sheets.pdf",
-    "System/index.md",
     "System/Time Point Cost Tables.md",
     "System/Skills List.md",
     "Extras/Character Sheet/C&C Character Sheet.md",
@@ -230,7 +234,6 @@
     "Skills List.md",
     "Extras/Templates/C&C Character Sheet 20240316.pdf",
     "Vitality tables.md",
-    "index.md",
     "Party.md",
     "Party/Owen.md",
     "Extras/Attachments/token_owen-EFC96C-1x1.png",

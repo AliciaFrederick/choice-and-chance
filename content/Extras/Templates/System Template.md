@@ -1,5 +1,5 @@
 ---
 tags:
   - system
-up: "[[System/index|System]]"
+up: "[[+ System|System]]"
 ---
