@@ -9,24 +9,24 @@ You must spend 3 TP to gain access to a form's spell effect.
 - When you do so, you may also unlock augments for 2 TP each (normally 3 TP each, see [[Time Point Cost Tables#Improving a Form that's already unlocked|Improving a Form]]). 
 - Once unlocked, the form's TN is 8. 
 
-| Cost (TP) | 3       | 2       | 2     | 2      | 2       | 2     |
-| --------- | ------- | ------- | ----- | ------ | ------- | ----- |
-| Distance  | touch   | close   | near  | far    | distant | -     |
-| Duration  | instant | 1 round | 1 min | 10 min | 1 hr    | 1 day |
-| Damage    | 0       | 1       | 2     | 3      | 4?      | 5?    |
-| Targets   | 1       | 2       | 3     | 4      | 5?      | 6?    |
-| AoE       | -       | -       | -     | -      | 8       | -     |
-| Silence   | -       | -       | -     | 5      | -       | -     |
+| Cost (TP) | 3       | 2       | 2     | 2      | 2       | 2     | 8     | 5   |
+| --------- | ------- | ------- | ----- | ------ | ------- | ----- | ----- | --- |
+| Distance  | touch   | close   | near  | far    | distant | -     | -     | -   |
+| Duration  | instant | 1 round | 1 min | 10 min | 1 hr    | 1 day | -     | -   |
+| Damage    | 0       | 1       | 2     | 3      | 4?      | 5?    | -     | -   |
+| Targets   | 1       | 2       | 3     | 4      | 5?      | 6?    | -     | -   |
+| AoE       | -       | -       | -     | -      | -       | -     | Close | -   |
+| Silence   | -       | -       | -     | -      | -       | -     | -     | NC  |
 
 ## Improving a Form that's already unlocked
 
 - [?] Ask Brent about this
 
-| Improvements | -   | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  |
-| ------------ | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| TN           | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | 20  |
-| TNB          | 0   | +1  | +2  | +3  | +4  | +5  | +6  | +7  | +8  | +9  | +10 | +11 | +12 |
-| Augments     | N   | -   | -   | 1st | -   | -   | 2nd | -   | -   | 3rd | -   | -   | 4th |
+| TP Spent | -   | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  |
+| -------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| TN       | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | 20  |
+| TNB      | 0   | +1  | +2  | +3  | +4  | +5  | +6  | +7  | +8  | +9  | +10 | +11 | +12 |
+| Augments | N   | -   | -   | +1  | -   | -   | +2  | -   | -   | +3  | -   | -   | 4th |
 
 ## Improving a Skill
 
