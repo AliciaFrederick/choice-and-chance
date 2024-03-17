@@ -254,29 +254,29 @@ This is a game mechanic. If you know a Spell Effect being cast, you can make a c
 
 #### Spell Effects
 
-- Armor - Increase AP by 1 point for every 2 TP invested? (Mage armor. 2 points per 1AP gained.)
-- Blast: Fire - 1 residual damage start of next round
-- Blast: Ice - push next roll by 1
-- Blast: Earth - push next roll by 1
-- Blast: Lightning - foes within touch distance of the caster must save or take damage
-- Blindness
-- Confusion
-- Deafness
-- Detect Resonance (magic)
-- Detect Thought
-- Dispel 
-- Fear
-- Fog
-- Glamour - charm
-- Hypnotize - make docile
-- Illusion - Auditory
-- Illusion - Visual 
-- Impersonation
-- Invisibility
-- Light
-- Nondetection 
-- Paralyze
-- Telekinesis
+Armor - Increase AP by 1 point for every 2 TP invested? (Mage armor. 2 points per 1AP gained.)
+Blast: Fire - 1 residual damage start of next round
+Blast: Ice - push next roll by 1
+Blast: Earth - push next roll by 1
+Blast: Lightning - foes within touch distance of the caster must save or take damage
+Blindness
+Confusion
+Deafness
+Detect Resonance (magic)
+Detect Thought
+Dispel 
+Fear
+Fog
+Glamour - charm
+Hypnotize - make docile
+Illusion - Auditory
+Illusion - Visual 
+Impersonation
+Invisibility
+Light
+Nondetection 
+Paralyze
+Telekinesis
 
 #### Form Examples
 
