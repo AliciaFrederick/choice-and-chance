@@ -4,48 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b328511aad74ab70",
+        "id": "7f4425880277a7b6",
         "type": "tabs",
         "children": [
           {
-            "id": "7a1369f871fae69e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "System/Skill tables.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6bc7a8af766dbb61",
+            "id": "9974e8e3c1997350",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Extras/Character Sheet/C&C Character Sheet 20240316.pdf"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "54853320e8cce245",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8ad36de4e0e9f847",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "System.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
+                "file": "Extras/Character Sheet/C&C Character Sheet - Google Sheets.pdf"
               }
             }
           }
@@ -138,7 +106,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "System.md"
+                "file": "Extras/Character Sheet/C&C Character Sheet - Google Sheets.pdf"
               }
             }
           },
@@ -148,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System.md",
+                "file": "Extras/Character Sheet/C&C Character Sheet - Google Sheets.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System.md",
+                "file": "Extras/Character Sheet/C&C Character Sheet - Google Sheets.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System.md"
+                "file": "Extras/Character Sheet/C&C Character Sheet - Google Sheets.pdf"
               }
             }
           },
@@ -236,11 +204,12 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "8ad36de4e0e9f847",
+  "active": "9974e8e3c1997350",
   "lastOpenFiles": [
-    "System/Skill tables.md",
     "Extras/Character Sheet/C&C Character Sheet 20240316.pdf",
+    "System/Skill tables.md",
     "System.md",
+    "Extras/Character Sheet/C&C Character Sheet - Google Sheets.pdf",
     "System/index.md",
     "System/Time Point Cost Tables.md",
     "System/Skills List.md",
@@ -282,7 +251,6 @@
     "Mood Board.canvas",
     "Extras/System - Old/C&C Character Sheet.pdf",
     "Extras/Attachments/fig-forest-ruin.png",
-    "System/Char Sheet PDF Generator.pdf",
-    "System/Char Sheet.pdf"
+    "System/Char Sheet PDF Generator.pdf"
   ]
 }
