@@ -19,7 +19,13 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "54853320e8cce245",
+        "type": "tabs",
+        "children": [
           {
             "id": "8ad36de4e0e9f847",
             "type": "leaf",
@@ -33,8 +39,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
