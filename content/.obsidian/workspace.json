@@ -19,6 +19,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6bc7a8af766dbb61",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Extras/Character Sheet/C&C Character Sheet 20240316.pdf"
+              }
+            }
           }
         ]
       },
@@ -112,8 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5110321044922,
-    "collapsed": true
+    "width": 203.5110321044922
   },
   "right": {
     "id": "9b92aed1753f5b1e",
@@ -129,7 +138,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "System.md"
+                "file": "System/Skill tables.md"
               }
             }
           },
@@ -139,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System.md",
+                "file": "System/Skill tables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System.md",
+                "file": "System/Skill tables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System.md"
+                "file": "System/Skill tables.md"
               }
             }
           },
@@ -227,8 +236,9 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "8ad36de4e0e9f847",
+  "active": "7a1369f871fae69e",
   "lastOpenFiles": [
+    "Extras/Character Sheet/C&C Character Sheet 20240316.pdf",
     "System/Skill tables.md",
     "System.md",
     "System/index.md",
@@ -237,7 +247,6 @@
     "Extras/Character Sheet/C&C Character Sheet.md",
     "Extras/Character Sheet",
     "Setting/Malevolent Forest.md",
-    "Extras/Character Sheet/C&C Character Sheet 20240316.pdf",
     "Alicia's Eyes Only/From Brent.md",
     "Alicia's Eyes Only/MyVillage.md",
     "Private/Untitled",
