@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Party/+ Party.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "7a12565eed7b1ad3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Party/+ Party.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,13 +203,13 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "7a12565eed7b1ad3",
+  "active": "9974e8e3c1997350",
   "lastOpenFiles": [
     "index.md",
+    "Party/+ Party.md",
     "System/+ Choice & Chance.md",
     "Setting/+ Setting.md",
     "Session Notes/+ Session Notes.md",
-    "Party/+ Party.md",
     "Extras/Attachments/portrait-alicia.png",
     "Extras/Attachments/portrait-amy.png",
     "Extras/Attachments/portrait-joe.png",
