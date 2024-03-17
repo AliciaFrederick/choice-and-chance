@@ -155,7 +155,7 @@ Form Improvement:
 - Improvement (+1 to TN) = 1 each
 	- Augment (increase damage, duration, distance by one category) = 3 Improvements.
 
-![[Time Point Cost Tables]]
+[[Time Point Cost Tables]]
 
 ### Skills
 
@@ -254,26 +254,29 @@ This is a game mechanic. If you know a Spell Effect being cast, you can make a c
 
 #### Spell Effects
 
-- Deafness
-- Blindness
-- Light
-- Glamour - charm
-- Fear
-- Hypnotize - make docile
 - Auditory Illusion
-- Visual Illusion
-- Nondetection 
+- Armor - Mage armor. 2 points per 1AP gained.
+- Blast: Fire
+- Blast: Ice
+- Blast: Earth
+- Blast: Lightning
+- Blindness
+- Confusion
+- Deafness
 - Detect Resonance (magic)
 - Detect Thought
-- Paralyze
-- Invisibility
-- Confusion
-- Fog
-- Telekinesis
-- Blast: type
-- Impersonation
 - Dispel 
-- Armor - mage armor. 2 points per 1AP gained.
+- Fear
+- Fog
+- Glamour - charm
+- Hypnotize - make docile
+- Impersonation
+- Invisibility
+- Light
+- Nondetection 
+- Paralyze
+- Telekinesis
+- Visual Illusion
 
 #### Form Examples
 

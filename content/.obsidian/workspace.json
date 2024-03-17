@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System/Time Point Cost Tables.md",
-                "mode": "preview",
+                "file": "System.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "System/Time Point Cost Tables.md"
+                "file": "System.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System/Time Point Cost Tables.md",
+                "file": "System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System/Time Point Cost Tables.md",
+                "file": "System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System/Time Point Cost Tables.md"
+                "file": "System.md"
               }
             }
           },
@@ -222,7 +222,9 @@
   },
   "active": "8ad36de4e0e9f847",
   "lastOpenFiles": [
+    "System/index.md",
     "System/Skill tables.md",
+    "System/Time Point Cost Tables.md",
     "System/Skills List.md",
     "Extras/Character Sheet/C&C Character Sheet.md",
     "Extras/Character Sheet",
@@ -243,7 +245,6 @@
     "System.md",
     "Extras/Templates/C&C Character Sheet 20240316.pdf",
     "Vitality tables.md",
-    "System/index.md",
     "index.md",
     "Party.md",
     "Party/Owen.md",
@@ -257,7 +258,6 @@
     "Extras/Attachments/portrait-akra-jr.png",
     "Setting.md",
     "Session Notes.md",
-    "System/Time Point Cost Tables.md",
     "z-test-folder",
     "Extras/Attachments/fig-zones.png",
     "Extras/Attachments/fig-continuum-of-dissociation.png",
