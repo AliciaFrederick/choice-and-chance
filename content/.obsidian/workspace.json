@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System/+ Choice & Chance.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a529b4654efd285",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Party.md",
+                "file": "index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -122,7 +109,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "System/+ Choice & Chance.md"
+                "file": "index.md"
               }
             }
           },
@@ -132,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System/+ Choice & Chance.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System/+ Choice & Chance.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System/+ Choice & Chance.md"
+                "file": "index.md"
               }
             }
           },
@@ -217,15 +204,16 @@
   },
   "active": "9974e8e3c1997350",
   "lastOpenFiles": [
-    "index.md",
+    "Session Notes/+ Session Notes.md",
+    "Party/+ Party.md",
     "Party.md",
     "Session Notes.md",
-    "Party/+ Party.md",
-    "Session Notes/+ Session Notes.md",
     "Setting/+ Setting.md",
-    "Setting.md",
-    "System.md",
     "System/+ Choice & Chance.md",
+    "System.md",
+    "Squirrels.md",
+    "Setting.md",
+    "index.md",
     "Extras/Character Sheet/C&C Character Sheet - Google Sheets.pdf",
     "Extras/Character Sheet/C&C Character Sheet 20240316.pdf",
     "System/Skill tables.md",
@@ -242,7 +230,6 @@
     "Alicia's Eyes Only/Mom1.md",
     "Alicia's Eyes Only",
     "Party/Akra Jr.md",
-    "Squirrels.md",
     "Skill tables.md",
     "System/Vitality tables.md",
     "Skills List.md",
