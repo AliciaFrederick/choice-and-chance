@@ -45,10 +45,10 @@
 
 ### Simple
 
-| Attack TN     | 9   | 10           | 11 12 13 14 15 16     |
+| Attack TN     | 8   | 9            | 10 11 12 13 14 15     |
 | ------------- | --- | ------------ | --------------------- |
-| Cost          | -   | 3            | 1 ea                  |
 | Description   | -   | +1 to attack | damage +1 each        |
+| Cost (TP)     | -   | 3            | 1 ea                  |
 | Melee Attack  | X   | O            | O   O   O   O   O   O |
 | Ranged Attack | X   | O            | O   O   O   O   O   O |
 
