@@ -16,15 +16,15 @@ You must spend 3 TP to create a form to gain access to its spell effect. For eve
 | AoE       | -       | -       | -     | -      | 8       | -     |
 | Silence   | -       | -       | -     | 5      | -       | -     |
 
-## Improving a Form
+## Improving a Form that's already unlocked
 
 - [?] Ask Brent about this
 
 | Cost (TP) | -   | 1   | 1   | 1   | 1   | 1   | 1   | 1   | 1   | 1   | 1   | 1   | 1   |
 | --------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| TN        | 8   | 9   | 10  | 8   | 9   | 10  | 8   | 9   | 10  | 8   | 9   | 10  | 8  |
-| Ease      | 0   | +1  | +2  | 0   | +1  | +2  | 0   | +1  | +2  | 0   | +1  | +2  | 0 |
-| Augments  | -   | -   | -   | 1   | -   | -   | 1   | -   | -   | 1   | -   | -   | 1   |
+| TN        | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | 20  |
+| Ease      | 0   | +1  | +2  | +3  | +4  | +5  | +6  | +7  | +8  | +9  | +10 | +11 | +12 |
+| Augments  | -   | -   | -   | 1st | -   | -   | 2nd | -   | -   | 3rd | -   | -   | 4th |
 
 ## Improving a Skill
 
