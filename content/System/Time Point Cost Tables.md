@@ -3,9 +3,9 @@ tags:
   - system
 up: "[[System/index|System]]"
 ---
-## Creating a Form
+## Unlocking a Form
 
-You must spend 3 TP to create a form to gain access to its spell effect. For every augment you add to the spell, you must spend an additional 2 TP. Once created, the spell's TN is 8. During gameplay, you can reduce augments on-the-fly to ease (increase) the TN. 
+You must spend 3 TP to gain access to a spell effect. When you do so, you mayFor every augment you add to the spell, you must spend an additional 2 TP. Once created, the spell's TN is 8. During gameplay, you can reduce augments on-the-fly to ease (increase) the TN. 
 
 | Cost (TP) | 3       | 2       | 2     | 2      | 2       | 2     |
 | --------- | ------- | ------- | ----- | ------ | ------- | ----- |
@@ -20,11 +20,11 @@ You must spend 3 TP to create a form to gain access to its spell effect. For eve
 
 - [?] Ask Brent about this
 
-| Cost (TP) | -   | 1   | 1   | 1   | 1   | 1   | 1   | 1   | 1   | 1   | 1   | 1   | 1   |
-| --------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| TN        | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | 20  |
-| TNB       | 0   | +1  | +2  | +3  | +4  | +5  | +6  | +7  | +8  | +9  | +10 | +11 | +12 |
-| Augments  | N   | -   | -   | 1st | -   | -   | 2nd | -   | -   | 3rd | -   | -   | 4th |
+| Improvements | -   | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  |
+| ------------ | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| TN           | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | 20  |
+| TNB          | 0   | +1  | +2  | +3  | +4  | +5  | +6  | +7  | +8  | +9  | +10 | +11 | +12 |
+| Augments     | N   | -   | -   | 1st | -   | -   | 2nd | -   | -   | 3rd | -   | -   | 4th |
 
 ## Improving a Skill
 
