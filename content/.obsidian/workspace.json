@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "System/Skill tables.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -33,7 +33,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +124,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "System/Skill tables.md"
+                "file": "System.md"
               }
             }
           },
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System/Skill tables.md",
+                "file": "System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System/Skill tables.md",
+                "file": "System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System/Skill tables.md"
+                "file": "System.md"
               }
             }
           },
@@ -221,11 +222,11 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "7a1369f871fae69e",
+  "active": "8ad36de4e0e9f847",
   "lastOpenFiles": [
+    "System/Skill tables.md",
     "System.md",
     "System/index.md",
-    "System/Skill tables.md",
     "System/Time Point Cost Tables.md",
     "System/Skills List.md",
     "Extras/Character Sheet/C&C Character Sheet.md",
