@@ -43,7 +43,7 @@
               "type": "markdown",
               "state": {
                 "file": "System.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "System/Skill tables.md"
+                "file": "System.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System/Skill tables.md",
+                "file": "System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System/Skill tables.md",
+                "file": "System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System/Skill tables.md"
+                "file": "System.md"
               }
             }
           },
@@ -236,10 +236,10 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "7a1369f871fae69e",
+  "active": "8ad36de4e0e9f847",
   "lastOpenFiles": [
-    "Extras/Character Sheet/C&C Character Sheet 20240316.pdf",
     "System/Skill tables.md",
+    "Extras/Character Sheet/C&C Character Sheet 20240316.pdf",
     "System.md",
     "System/index.md",
     "System/Time Point Cost Tables.md",
