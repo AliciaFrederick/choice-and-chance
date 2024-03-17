@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alicia's Eyes Only/From Brent.md",
+                "file": "Party/+ Party.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Alicia's Eyes Only/From Brent.md"
+                "file": "Party/+ Party.md"
               }
             }
           },
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alicia's Eyes Only/From Brent.md",
+                "file": "Party/+ Party.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alicia's Eyes Only/From Brent.md",
+                "file": "Party/+ Party.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alicia's Eyes Only/From Brent.md"
+                "file": "Party/+ Party.md"
               }
             }
           },
@@ -205,6 +205,7 @@
   "active": "9974e8e3c1997350",
   "lastOpenFiles": [
     "index.md",
+    "Alicia's Eyes Only/From Brent.md",
     "Session Notes/+ Session Notes.md",
     "Party/+ Party.md",
     "Party.md",
@@ -222,7 +223,6 @@
     "Extras/Character Sheet/C&C Character Sheet.md",
     "Extras/Character Sheet",
     "Setting/Malevolent Forest.md",
-    "Alicia's Eyes Only/From Brent.md",
     "Alicia's Eyes Only/MyVillage.md",
     "Private/Untitled",
     "Alicia's Eyes Only/MyAlly.md",
