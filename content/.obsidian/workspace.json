@@ -11,9 +11,12 @@
             "id": "9974e8e3c1997350",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Extras/Attachments/token_owen-EFC96C-1x1.png"
+                "file": "Party/+ Party.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -106,7 +109,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Extras/Attachments/token_owen-EFC96C-1x1.png"
+                "file": "Party/+ Party.md"
               }
             }
           },
@@ -116,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extras/Attachments/token_owen-EFC96C-1x1.png",
+                "file": "Party/+ Party.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extras/Attachments/token_owen-EFC96C-1x1.png",
+                "file": "Party/+ Party.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extras/Attachments/token_owen-EFC96C-1x1.png"
+                "file": "Party/+ Party.md"
               }
             }
           },
@@ -165,7 +168,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d563833afe778f11",
@@ -201,8 +205,12 @@
   },
   "active": "9974e8e3c1997350",
   "lastOpenFiles": [
-    "Extras/Attachments/token_amy-EFC96C-1x1.png",
+    "Extras/Attachments/portrait-alicia.png",
+    "Extras/Attachments/portrait-amy.png",
+    "Extras/Attachments/portrait-joe.png",
     "Extras/Attachments/token_alicia-EFC96C-1x1.png",
+    "Extras/Attachments/token_amy-EFC96C-1x1.png",
+    "Extras/Attachments/token_joe-EFC96C-1x1.png",
     "Party/+ Party.md",
     "index.md",
     "Alicia's Eyes Only/From Brent.md",
@@ -234,10 +242,6 @@
     "Skills List.md",
     "Extras/Templates/C&C Character Sheet 20240316.pdf",
     "Vitality tables.md",
-    "Extras/Attachments/token_owen-EFC96C-1x1.png",
-    "Extras/Attachments/portrait-owen.png",
-    "Extras/Attachments/portrait-cassandra-jr.png",
-    "Extras/Attachments/portrait-akra-jr.png",
     "z-test-folder",
     "Extras/Attachments/fig-zones.png",
     "Extras/Attachments/fig-continuum-of-dissociation.png",

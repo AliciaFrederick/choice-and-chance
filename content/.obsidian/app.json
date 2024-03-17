@@ -2,5 +2,6 @@
   "alwaysUpdateLinks": true,
   "strictLineBreaks": true,
   "showLineNumber": true,
-  "attachmentFolderPath": "Extras/Attachments"
+  "attachmentFolderPath": "Extras/Attachments",
+  "readableLineLength": false
 }
