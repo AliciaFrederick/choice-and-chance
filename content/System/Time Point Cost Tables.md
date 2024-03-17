@@ -5,7 +5,9 @@ up: "[[System/index|System]]"
 ---
 ## Unlocking a Form
 
-You must spend 3 TP to gain access to a spell effect. When you do so, you mayFor every augment you add to the spell, you must spend an additional 2 TP. Once created, the spell's TN is 8. During gameplay, you can reduce augments on-the-fly to ease (increase) the TN. 
+You must spend 3 TP to gain access to a form's spell effect. 
+- When you do so, you may also unlock augments for 2 TP each (normally 3 TP each, see [[Time Point Cost Tables#Improving a Form that's already unlocked|Improving a Form]]). 
+- Once unlocked, the form's TN is 8. 
 
 | Cost (TP) | 3       | 2       | 2     | 2      | 2       | 2     |
 | --------- | ------- | ------- | ----- | ------ | ------- | ----- |
