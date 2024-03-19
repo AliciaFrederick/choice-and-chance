@@ -1,3 +1,6 @@
+---
+draft: "true"
+---
 
 ```statblock
 image: [[token_akra-jr-EFC96C-1x1.png]]

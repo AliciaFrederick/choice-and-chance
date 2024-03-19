@@ -9,7 +9,7 @@ ap: "0"
 race: Ruk
 portrait: 
 token: 
-banner: 
+draft: "true"
 ---
 %% 
 INSTRUCTIONS

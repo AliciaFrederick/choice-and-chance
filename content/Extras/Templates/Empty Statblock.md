@@ -1,3 +1,6 @@
+---
+draft: "true"
+---
 
 ```statblock
 image: [[Wikilink To Image]]

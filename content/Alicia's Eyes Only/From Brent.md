@@ -1,7 +1,7 @@
 ---
 draft: "true"
 ---
-## What [[Akra Jr]] Knows
+## What [[Alicia's Character]] Knows
 
 You're from [[MyVillage]] (you can name it, as long as it fits roughly in the style of the game. Ko'lesa, Jal Isan, Prayam, Aotenpa - i just made those up, but something like that. A small, nomadic village on the southern edge of the Shosahn Rienfiik. Shosahn (show-sawn) means forest. Rienfiik (ree-en-feek) is it's name.
 

@@ -3,6 +3,7 @@ tags:
   - session-notes
 up: "[[+ Session Notes|Session Notes]]"
 exerpt: lorem ipsum
+draft: "true"
 ---
 
 ## Notes

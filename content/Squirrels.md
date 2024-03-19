@@ -6,7 +6,7 @@ draft: "true"
 
 - [x] Print char sheet
 	- [x] Update with new skills and Mastery boons
-- [ ] Fill out char sheet for [[Akra Jr]] 
+- [ ] Fill out char sheet for [[Alicia's Character]] 
 
 ## Distractions
 

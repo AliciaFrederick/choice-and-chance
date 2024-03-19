@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System/+ Choice & Chance.md",
+                "file": "Extras/Character Sheet/C&C Character Sheet.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -122,7 +122,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "System/+ Choice & Chance.md"
+                "file": "Extras/Character Sheet/C&C Character Sheet.md"
               }
             }
           },
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System/+ Choice & Chance.md",
+                "file": "Extras/Character Sheet/C&C Character Sheet.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System/+ Choice & Chance.md",
+                "file": "Extras/Character Sheet/C&C Character Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System/+ Choice & Chance.md"
+                "file": "Extras/Character Sheet/C&C Character Sheet.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "d563833afe778f11",
@@ -215,8 +215,23 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "3066bd5ef6a0b099",
+  "active": "9974e8e3c1997350",
   "lastOpenFiles": [
+    "Extras/Character Sheet/C&C Character Sheet - Google Sheets.pdf",
+    "Extras/Character Sheet/C&C Character Sheet.md",
+    "Extras/Character Sheet/C&C Character Sheet 20240316.pdf",
+    "Extras/Templates/Session Notes Template.md",
+    "Extras/Templates/Setting Template.md",
+    "Extras/Templates/System Template.md",
+    "Extras/Templates/Party Template.md",
+    "Extras/Templates/Empty Statblock.md",
+    "Extras/Templates/CNC Statblock.md",
+    "Party/+ Party.md",
+    "Party/Alicia's Character.md",
+    "Party/Amy's Character.md",
+    "Party/Owen.md",
+    "System/+ System.md",
+    "System/+ Choice & Chance.md",
     "Session Notes/2024-03-02.md",
     "Setting/+ Setting.md",
     "Setting/Vii Vaal.md",
@@ -229,28 +244,12 @@
     "Setting/Oanenya.md",
     "Setting/Malevolent Forest.md",
     "Setting/Laeot.md",
-    "Setting/Khuan Gat Range.md",
-    "Setting/Kan.md",
-    "Setting/Ka'Thand.md",
-    "Setting/Jrey'kan.md",
-    "Setting/Dimen & Abeghin.md",
-    "System/Form tables.md",
-    "System/+ System.md",
-    "System/Skill tables.md",
-    "System/+ Choice & Chance.md",
-    "index.md",
-    "System/Time Point Cost Tables.md",
-    "System/Vitality tables.md",
-    "System/Skills List.md",
-    "Squirrels.md",
     "Extras/Attachments/portrait-alicia.png",
     "Extras/Attachments/portrait-amy.png",
     "Extras/Attachments/portrait-joe.png",
     "Extras/Attachments/token_alicia-EFC96C-1x1.png",
     "Extras/Attachments/token_amy-EFC96C-1x1.png",
     "Extras/Attachments/token_joe-EFC96C-1x1.png",
-    "Extras/Character Sheet/C&C Character Sheet - Google Sheets.pdf",
-    "Extras/Character Sheet/C&C Character Sheet 20240316.pdf",
     "Extras/Character Sheet",
     "Private/Untitled",
     "Alicia's Eyes Only",

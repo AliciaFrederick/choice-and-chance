@@ -7,6 +7,6 @@ aliases:
 ---
 ### Triple-A
 
-- [[Akra Jr]]
+- [[Alicia's Character]]
 - [[Owen]]
-- [[Cassandra Jr]]
+- [[Amy's Character]]

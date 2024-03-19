@@ -9,8 +9,9 @@ ap: "0"
 race: Ruk
 portrait: 
 cssclasses: 
+draft: "true"
 ---
-%% This page is used to generate the [[C&C Character Sheet.pdf]]. Print with 2 pages per sheet, Landscape, Scale 113, Flip on short side. %% 
+%% This page is used to generate the [[C&C Character Sheet.pdf]]. Print with 2 pages per sheet, Landscape, Minimal margins, Flip on short side. %% 
 
 ## Combat
 
