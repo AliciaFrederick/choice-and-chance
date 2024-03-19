@@ -11,7 +11,11 @@ portrait:
 cssclasses: 
 draft: "true"
 ---
-%% This page is used to generate the [[C&C Character Sheet.pdf]]. Print with 2 pages per sheet, Landscape, Minimal margins, Flip on short side. %% 
+%% 
+This page is used to generate the [[C&C Character Sheet.pdf]]. 
+- Print with 2 pages per sheet, Landscape, Minimal margins, Flip on short side. 
+- See also the [Google Sheets](https://docs.google.com/spreadsheets/d/1249cot0_SUj8oAM5Zv3s_CZqLZDt7QXW629ROYk01m8/edit#gid=0) version
+%% 
 
 ## Combat
 
