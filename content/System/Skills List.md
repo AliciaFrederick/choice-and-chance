@@ -1,3 +1,6 @@
+---
+draft: "true"
+---
 
 - [x] **Power** - bodily strength - lifting, pushing, bracing, bending.
 	- [x] **Mastery** - advantage, or increase Vitality by 4

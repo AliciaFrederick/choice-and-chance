@@ -17,7 +17,7 @@ This is the 2024 reboot of our 2019 campaign in Brent's world of Ka'Thand. This 
 - [[+ Party|Party]] - Contains pages for each of the player characters. 
 - [[+ Session Notes|Session Notes]] - Contains the record from each session. 
 - [[+ Setting|Setting]] - Contains details about [[Ka’Thand]] and the larger world of [[Oanenya]]. 
-- [[+ Choice & Chance|System]] - Contains the mechanical rules of Choice & Chance. 
+- [[+ Choice & Chance|System]] - Contains notes on the mechanical rules of Choice & Chance. 
 - [Demiplane Invite Link](https://app.demiplane.com/share/VRI272P?utm_source=demiplane&utm_medium=share&utm_campaign=238537) - Takes you to the campaign page on Demiplane
 %%- [[C&C Character Sheet.pdf]]%% 
 
