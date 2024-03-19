@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/2024-03-02.md",
+                "file": "System/Form tables.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -122,7 +122,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Session Notes/2024-03-02.md"
+                "file": "System/Form tables.md"
               }
             }
           },
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2024-03-02.md",
+                "file": "System/Form tables.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/2024-03-02.md",
+                "file": "System/Form tables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2024-03-02.md"
+                "file": "System/Form tables.md"
               }
             }
           },
@@ -217,6 +217,9 @@
   },
   "active": "9974e8e3c1997350",
   "lastOpenFiles": [
+    "System/+ System.md",
+    "Setting/+ Setting.md",
+    "Session Notes/2024-03-02.md",
     "Alicia's Eyes Only/From Brent.md",
     "Alicia's Eyes Only/MyVillage.md",
     "Alicia's Eyes Only/MyAlly.md",
@@ -236,10 +239,7 @@
     "Party/Alicia's Character.md",
     "Party/Amy's Character.md",
     "Party/Owen.md",
-    "System/+ System.md",
     "System/+ Choice & Chance.md",
-    "Session Notes/2024-03-02.md",
-    "Setting/+ Setting.md",
     "Setting/Vii Vaal.md",
     "Setting/Tulucaon Range.md",
     "Setting/Ruk'kan.md",
