@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System/Time Point Cost Tables.md",
+                "file": "System/+ System.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "System/Time Point Cost Tables.md"
+                "file": "System/+ System.md"
               }
             }
           },
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System/Time Point Cost Tables.md",
+                "file": "System/+ System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System/Time Point Cost Tables.md",
+                "file": "System/+ System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System/Time Point Cost Tables.md"
+                "file": "System/+ System.md"
               }
             }
           },
@@ -168,8 +168,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "d563833afe778f11",
@@ -204,15 +203,16 @@
   },
   "active": "9974e8e3c1997350",
   "lastOpenFiles": [
-    "System/Vitality tables.md",
-    "System/Time Point Cost Tables.md",
     "System/Skill tables.md",
-    "System/Skills List.md",
-    "index.md",
     "System/+ Choice & Chance.md",
+    "System/+ System.md",
+    "Setting/+ Setting.md",
+    "index.md",
+    "System/Time Point Cost Tables.md",
+    "System/Vitality tables.md",
+    "System/Skills List.md",
     "Squirrels.md",
     "Party/+ Party.md",
-    "Setting/+ Setting.md",
     "Session Notes/+ Session Notes.md",
     "Extras/Attachments/portrait-alicia.png",
     "Extras/Attachments/portrait-amy.png",
