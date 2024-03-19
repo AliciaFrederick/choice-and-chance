@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setting/Oanenya.md",
+                "file": "Setting/Ruk.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -122,7 +122,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Setting/Oanenya.md"
+                "file": "Setting/Ruk.md"
               }
             }
           },
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setting/Oanenya.md",
+                "file": "Setting/Ruk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setting/Oanenya.md",
+                "file": "Setting/Ruk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setting/Oanenya.md"
+                "file": "Setting/Ruk.md"
               }
             }
           },
@@ -217,18 +217,21 @@
   },
   "active": "9974e8e3c1997350",
   "lastOpenFiles": [
-    "Setting/+ Setting.md",
+    "Setting/Quajreyas.md",
+    "Setting/Ohntac'kan.md",
+    "Setting/Ohntac.md",
     "Setting/Oanenya.md",
-    "Setting/Ka’Thand.md",
     "Setting/Malevolent Forest.md",
     "Setting/Laeot.md",
     "Setting/Khuan Gat Range.md",
     "Setting/Kan.md",
+    "Setting/Ka'Thand.md",
+    "Setting/Jrey'kan.md",
+    "Setting/Dimen & Abeghin.md",
+    "Setting/+ Setting.md",
     "System/Form tables.md",
     "System/+ System.md",
     "System/Skill tables.md",
-    "Setting/Jrey'kan.md",
-    "Setting/Dimen & Abeghin.md",
     "Setting/Vii Vaal.md",
     "System/+ Choice & Chance.md",
     "index.md",
@@ -246,9 +249,6 @@
     "Extras/Attachments/token_joe-EFC96C-1x1.png",
     "Alicia's Eyes Only/From Brent.md",
     "Party.md",
-    "Session Notes.md",
-    "System.md",
-    "Setting.md",
     "Extras/Character Sheet/C&C Character Sheet - Google Sheets.pdf",
     "Extras/Character Sheet/C&C Character Sheet 20240316.pdf",
     "Extras/Character Sheet",

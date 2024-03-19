@@ -5,7 +5,7 @@ aliases:
   - Rienfiik
 tags:
   - location/poi
-up: "[[Ka’Thand]]"
+up: "[[Ka'Thand]]"
 ---
 ![[fig-forest-twilight.png]] 
 
