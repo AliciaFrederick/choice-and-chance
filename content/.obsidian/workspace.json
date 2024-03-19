@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System/+ System.md",
+                "file": "Setting/Kan.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15496ccdb6565f2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System/Form tables.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +123,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "System/+ System.md"
+                "file": "System/Form tables.md"
               }
             }
           },
@@ -119,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System/+ System.md",
+                "file": "System/Form tables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System/+ System.md",
+                "file": "System/Form tables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System/+ System.md"
+                "file": "System/Form tables.md"
               }
             }
           },
@@ -201,12 +215,18 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "9974e8e3c1997350",
+  "active": "15496ccdb6565f2c",
   "lastOpenFiles": [
-    "System/Skill tables.md",
-    "System/+ Choice & Chance.md",
     "System/+ System.md",
+    "System/Skill tables.md",
+    "System/Form tables.md",
+    "Setting/Kan.md",
+    "Setting/Ka’Thand.md",
+    "Setting/Jrey'kan.md",
+    "Setting/Dimen & Abeghin.md",
     "Setting/+ Setting.md",
+    "Setting/Vii Vaal.md",
+    "System/+ Choice & Chance.md",
     "index.md",
     "System/Time Point Cost Tables.md",
     "System/Vitality tables.md",
@@ -233,14 +253,8 @@
     "Alicia's Eyes Only/MyVillage.md",
     "Private/Untitled",
     "Alicia's Eyes Only/MyAlly.md",
-    "Alicia's Eyes Only/Mom2.md",
-    "Alicia's Eyes Only/Mom1.md",
     "Alicia's Eyes Only",
-    "Party/Akra Jr.md",
-    "Skill tables.md",
-    "Skills List.md",
     "Extras/Templates/C&C Character Sheet 20240316.pdf",
-    "Vitality tables.md",
     "z-test-folder",
     "Extras/Attachments/fig-zones.png",
     "Extras/Attachments/fig-continuum-of-dissociation.png",
