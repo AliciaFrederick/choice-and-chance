@@ -33,7 +33,8 @@ You must spend 3 TP to gain access to a form's spell effect.
 ## Improving a Skill
 
 You must spend 3 TP to become trained in a skill.
-- Once trained, 
+- Once trained, The TN goes up by 1 for each TP spent improving the skill.
+- After 6 improvements, you have mastered the skill and gain an additional benefit.
 
 | Cost (TP) | 3   | 1   | 1   | 1   | 1   | 1   | 1   | -    |
 | --------- | --- | --- | --- | --- | --- | --- | --- | ---- |
