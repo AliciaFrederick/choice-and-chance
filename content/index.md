@@ -20,9 +20,9 @@ This is the 2024 reboot of our 2019 campaign in Brent's world of Ka'Thand. This 
 
 External links:
 
-- [Demiplane Invite Link](https://app.demiplane.com/share/VRI272P?utm_source=demiplane&utm_medium=share&utm_campaign=238537) - Takes you to the campaign page on Demiplane
 - [Always Changing Player Document](https://docs.google.com/document/d/1AFUSyEgLVVTTq5rTqS7DSrYVwWzT3wF4DFqBILeWqtE/edit#heading=h.fvhadisoat29) - Brent's document for us
 - [C&C Character Sheet](https://docs.google.com/spreadsheets/d/1249cot0_SUj8oAM5Zv3s_CZqLZDt7QXW629ROYk01m8/edit#gid=0) - Alicia's spreadsheet for tracking, in case anyone else finds it useful
+%% - [Demiplane Invite Link](https://app.demiplane.com/share/VRI272P?utm_source=demiplane&utm_medium=share&utm_campaign=238537) - Takes you to the campaign page on Demiplane %%
 
 # Campaign 
 

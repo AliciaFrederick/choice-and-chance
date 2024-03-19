@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Alicia's Eyes Only/From Brent.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -122,7 +122,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "index.md"
+                "file": "Alicia's Eyes Only/From Brent.md"
               }
             }
           },
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Alicia's Eyes Only/From Brent.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Alicia's Eyes Only/From Brent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Alicia's Eyes Only/From Brent.md"
               }
             }
           },
@@ -217,8 +217,13 @@
   },
   "active": "9974e8e3c1997350",
   "lastOpenFiles": [
-    "Extras/Character Sheet/C&C Character Sheet.md",
+    "Alicia's Eyes Only/MyVillage.md",
+    "Alicia's Eyes Only/MyAlly.md",
+    "Alicia's Eyes Only/Mom2.md",
+    "Alicia's Eyes Only/Mom1.md",
+    "Alicia's Eyes Only/From Brent.md",
     "index.md",
+    "Extras/Character Sheet/C&C Character Sheet.md",
     "Extras/Character Sheet/C&C Character Sheet - Google Sheets.pdf",
     "Extras/Character Sheet/C&C Character Sheet 20240316.pdf",
     "Extras/Templates/Session Notes Template.md",
@@ -240,11 +245,6 @@
     "Setting/Ruk'kan.md",
     "Setting/Ruk.md",
     "Setting/Quajreyas.md",
-    "Setting/Ohntac'kan.md",
-    "Setting/Ohntac.md",
-    "Setting/Oanenya.md",
-    "Setting/Malevolent Forest.md",
-    "Setting/Laeot.md",
     "Extras/Attachments/portrait-alicia.png",
     "Extras/Attachments/portrait-amy.png",
     "Extras/Attachments/portrait-joe.png",
